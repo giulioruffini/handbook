@@ -16,3 +16,8 @@ theorem → proof → interpretation → limitation, machinery to the Appendix, 
 workflow, and precisely scoped formalization claims. Its §13 is a reusable review prompt.
 
 Working copies may exist inside project trees for local visibility; **this repo is canonical**.
+Any agent with web access can fetch the style directly:
+
+```
+https://raw.githubusercontent.com/giulioruffini/handbook/main/writing/HOW_TO_WRITE_A_GOOD_PAPER.md
+```
