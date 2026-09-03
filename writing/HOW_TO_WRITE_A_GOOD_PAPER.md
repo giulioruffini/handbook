@@ -5,7 +5,9 @@ work. This is the **normative house style for all future BCOM/KT papers**. Agent
 Codex, Kaiti) follow it when drafting or revising any manuscript; the human-readable rendering is
 `how_to_write_a_good_paper.html` beside this file. Prose-level rules (register, banned words,
 self-grading) are separate and live in `~/.claude/skills/landau/references/landau-style.md`; this
-document governs argument architecture and revision discipline.
+document governs argument architecture and revision discipline. **Canonical home:**
+https://github.com/giulioruffini/handbook (`writing/`); this copy is for local agent visibility
+and mirrors it.
 
 ---
 
