@@ -174,10 +174,11 @@ do not imply otherwise.
 **Formalization principle:** distinguish "the mathematical dependency is machine checked" from
 "the prose proof is replayed line-by-line in Lean."
 
-*(Operationally at BCOM: every stated result carries a `% ktait:` annotation naming its KTAIT
+*(Operationally: every stated result carries a `% ktait:` annotation naming its KTAIT
 declaration or `none -- <reason>`; `check_sync.sh` in the KTAIT repo enforces this, plus name
 resolution, statement drift, and the released gate. Run `check_sync.sh --released` before any
-paper goes public.)*
+paper goes public. The full practice — KTAIT, WP0195, the seven-check guard, formalization style —
+is in `../formalization/LEAN_PRACTICE.md`.)*
 
 ## 10. Controlling repetition without losing meaning
 
