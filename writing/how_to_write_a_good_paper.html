@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Write a Good Paper — K & Kaiti House Style</title>
+<style>
+  :root{
+    --bg:#f7f7f5;
+    --paper:#ffffff;
+    --text:#1f2328;
+    --muted:#5b6470;
+    --line:#d8dde3;
+    --accent:#243b53;
+    --soft:#eef2f6;
+    --good:#eff6ef;
+    --warn:#fff6e6;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.58;
+  }
+  .page{
+    max-width:1050px;
+    margin:40px auto;
+    background:var(--paper);
+    box-shadow:0 1px 10px rgba(0,0,0,.06);
+    border:1px solid var(--line);
+  }
+  header{
+    padding:48px 56px 32px;
+    border-bottom:1px solid var(--line);
+  }
+  header h1{
+    margin:0 0 8px;
+    font-size:38px;
+    line-height:1.15;
+    letter-spacing:-.02em;
+  }
+  header .sub{
+    color:var(--muted);
+    font-size:17px;
+    max-width:820px;
+  }
+  main{padding:34px 56px 58px}
+  h2{
+    margin-top:42px;
+    padding-top:12px;
+    border-top:1px solid var(--line);
+    font-size:25px;
+    letter-spacing:-.01em;
+  }
+  h3{margin-top:28px;font-size:19px}
+  h4{margin-top:22px;font-size:16px}
+  p{margin:12px 0}
+  ul,ol{padding-left:24px}
+  li{margin:6px 0}
+  code{
+    background:var(--soft);
+    padding:.1em .3em;
+    border-radius:4px;
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:.94em;
+  }
+  .toc{
+    background:var(--soft);
+    border:1px solid var(--line);
+    padding:20px 24px;
+    margin:0 0 28px;
+  }
+  .toc a{color:var(--accent);text-decoration:none}
+  .rule{
+    background:var(--good);
+    border-left:4px solid #5c7f5c;
+    padding:14px 18px;
+    margin:18px 0;
+  }
+  .warning{
+    background:var(--warn);
+    border-left:4px solid #b9862c;
+    padding:14px 18px;
+    margin:18px 0;
+  }
+  .quote{
+    font-size:20px;
+    line-height:1.45;
+    font-weight:600;
+    color:var(--accent);
+    margin:24px 0;
+  }
+  table{
+    width:100%;
+    border-collapse:collapse;
+    margin:18px 0 26px;
+    font-size:14.5px;
+  }
+  th,td{
+    border:1px solid var(--line);
+    padding:10px 12px;
+    vertical-align:top;
+  }
+  th{
+    background:var(--soft);
+    text-align:left;
+  }
+  .small{font-size:13px;color:var(--muted)}
+  .checklist li{margin:8px 0}
+  .prompt{
+    background:#111827;
+    color:#f3f4f6;
+    border-radius:6px;
+    padding:18px 20px;
+    white-space:pre-wrap;
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:13.5px;
+    line-height:1.55;
+  }
+  footer{
+    border-top:1px solid var(--line);
+    color:var(--muted);
+    padding:18px 56px 28px;
+    font-size:13px;
+  }
+  @media (max-width:720px){
+    .page{margin:0;border:none}
+    header,main,footer{padding-left:24px;padding-right:24px}
+    header h1{font-size:31px}
+  }
+</style>
+</head>
+<body>
+<div class="page">
+<header>
+  <h1>How to Write a Good Paper</h1>
+  <div class="sub">
+    A reusable house style for rigorous theoretical and interdisciplinary papers, distilled from the iterative revision of WP0007 and related work.
+    The emphasis is on argument architecture, clarity, scientific context, theorem exposition, proof placement, and submission discipline.
+  </div>
+</header>
+
+<main>
+<div class="toc">
+  <strong>Contents</strong>
+  <ol>
+    <li><a href="#principle">The governing principle</a></li>
+    <li><a href="#architecture">Architecture before prose</a></li>
+    <li><a href="#intro">Writing the Introduction</a></li>
+    <li><a href="#results">Results and theorem exposition</a></li>
+    <li><a href="#proofs">Proof placement: main text vs Appendix</a></li>
+    <li><a href="#context">Context, examples, and prior work</a></li>
+    <li><a href="#discussion">Writing the Discussion</a></li>
+    <li><a href="#notation">Notation, definitions, and quantifiers</a></li>
+    <li><a href="#formal">Lean / formal verification claims</a></li>
+    <li><a href="#redundancy">Controlling repetition without losing meaning</a></li>
+    <li><a href="#workflow">Revision workflow</a></li>
+    <li><a href="#checklist">Submission checklist</a></li>
+    <li><a href="#prompt">Reusable review prompt</a></li>
+  </ol>
+</div>
+
+<section id="principle">
+<h2>1. The governing principle</h2>
+<div class="quote">
+  A paper is not a container for correct results. It is a guided reconstruction of why the results matter, how they fit together, and what they do—and do not—establish.
+</div>
+
+<p>The central editorial mistake in technical writing is to confuse <em>having the right ingredients</em> with <em>having the right argument</em>. A manuscript may contain correct theorems, relevant literature, useful examples, and careful caveats and still read badly if the reader cannot see the dependency structure.</p>
+
+<div class="rule">
+<strong>House rule:</strong> preserve the intellectual story first. Cut duplication, not meaning. Move machinery, not interpretation, to the Appendix.
+</div>
+
+<p>For theorem-driven interdisciplinary work, the target is a paper that a specialist finds rigorous and a scientifically literate non-specialist can still follow at the level of the argument.</p>
+</section>
+
+<section id="architecture">
+<h2>2. Architecture before prose</h2>
+
+<p>Do not begin a serious revision by polishing sentences. First reconstruct the paper as a sequence of intellectual moves. For each section, write one sentence answering:</p>
+
+<ul>
+  <li><strong>What question is this section answering?</strong></li>
+  <li><strong>Why does that question arise here?</strong></li>
+  <li><strong>What changes in the reader's understanding after this section?</strong></li>
+  <li><strong>Why must the next section follow?</strong></li>
+</ul>
+
+<p>If two sections answer the same question, either merge them or distinguish their roles. If a section cannot be summarized by a unique function, it is usually where narrative drift or repetition has entered.</p>
+
+<h3>A useful canonical arc</h3>
+<table>
+<tr><th>Stage</th><th>Function</th><th>Typical content</th></tr>
+<tr><td>1. Problem</td><td>Establish the conceptual gap</td><td>Why the obvious formulation is insufficient; what is actually unknown</td></tr>
+<tr><td>2. Formal setup</td><td>Define only what is needed</td><td>Observer, model class, objective, assumptions, notation</td></tr>
+<tr><td>3. Core negative/positive results</td><td>Answer the central technical questions</td><td>Theorems, propositions, corollaries</td></tr>
+<tr><td>4. Interpretation</td><td>Translate mathematics into scientific meaning</td><td>What the result says, does not say, and why it matters</td></tr>
+<tr><td>5. Constructive/favorable cases</td><td>Explain how science can nevertheless succeed</td><td>Symmetry, constraints, examples, restricted classes, empirical search</td></tr>
+<tr><td>6. Discussion</td><td>Reopen the broader intellectual landscape</td><td>Related frameworks, limitations, ontology, implications</td></tr>
+</table>
+
+<div class="warning">
+Do not let the Introduction reproduce this entire arc in miniature. Preview the argument once; let the paper itself deliver it.
+</div>
+</section>
+
+<section id="intro">
+<h2>3. Writing the Introduction</h2>
+
+<p>A strong Introduction should make one clean pass through the problem. It should not repeatedly announce the same results in different language.</p>
+
+<h3>Recommended structure</h3>
+<ol>
+  <li><strong>Start with the conceptual problem.</strong> State the scientific or mathematical tension in ordinary language.</li>
+  <li><strong>Identify the crucial distinction.</strong> For WP0007 this was generation vs construction: knowing how a system evolves is not the same as knowing how to construct its useful macroscopic description.</li>
+  <li><strong>Pose the paper's questions.</strong> Prefer a small number of explicit questions over several paragraphs of diffuse motivation.</li>
+  <li><strong>Give one compact results paragraph.</strong> State what is proved, with the hierarchy of claims correct.</li>
+  <li><strong>Introduce the positive scientific notion.</strong> Explain what success would look like, not only what is impossible.</li>
+  <li><strong>Give only the background machinery needed to read the paper.</strong></li>
+  <li><strong>Position against prior work compactly.</strong> Detailed comparisons belong later.</li>
+  <li><strong>End with a short roadmap.</strong></li>
+</ol>
+
+<h3>What to avoid</h3>
+<ul>
+  <li>Problem statement → Q1/Q2/Q3 → theorem preview → barrier taxonomy → post-figure recap. That is four passes over the same material.</li>
+  <li>Defining the same object informally, formally, and historically before the reader has used it.</li>
+  <li>A miniature Discussion in the Introduction.</li>
+  <li>Technical caveats that matter only after the theorem has been understood.</li>
+</ul>
+
+<div class="rule">
+<strong>Good test:</strong> every paragraph in the Introduction should have a distinct job. If two adjacent paragraphs can be summarized by the same sentence, combine or cut.
+</div>
+</section>
+
+<section id="results">
+<h2>4. Results and theorem exposition</h2>
+
+<p>For a theorem-driven paper, the most effective local pattern is:</p>
+
+<div class="quote">Question → theorem → proof or proof sketch → interpretation → limitation.</div>
+
+<h3>4.1 State the question before the theorem</h3>
+<p>The reader should know why a theorem is coming. A bare theorem dropped into the text forces the reader to reverse-engineer its purpose.</p>
+
+<h3>4.2 Make the quantifiers readable</h3>
+<p>Prefer formulations that expose the operational content. For example, “find a shortening whenever one exists” is clearer than “discover every shortening.” The latter can accidentally sound like enumeration of all possible descriptions rather than a guarantee over instances.</p>
+
+<h3>4.3 Interpret every central theorem</h3>
+<p>After the proof, explain in plain language:</p>
+<ul>
+  <li>what the theorem establishes;</li>
+  <li>why that conclusion matters scientifically;</li>
+  <li>what assumptions are doing the work;</li>
+  <li>what it <em>does not</em> establish.</li>
+</ul>
+
+<p>This is especially important in interdisciplinary papers. A reader may understand the formal statement and still misread its scientific scope.</p>
+
+<h3>4.4 Preserve the hierarchy of claims</h3>
+<p>Do not lead with a technically weaker but more fashionable consequence. If “no guaranteed shortening” is stronger and more intuitive than “no guaranteed optimum,” foreground the former and present optimality as the further result it is.</p>
+
+<h3>4.5 Distinguish theorem from interpretation</h3>
+<p>Do not smuggle the scientific conclusion into the definition. Prove the clean mathematical result first; then state the regulatory, physical, cognitive, or epistemological interpretation as interpretation or corollary.</p>
+</section>
+
+<section id="proofs">
+<h2>5. Proof placement: main text vs Appendix</h2>
+
+<p>The main text should preserve the <em>reasoning</em> required to understand the result. The Appendix should absorb technical machinery that is necessary for rigor but not for the conceptual flow.</p>
+
+<h3>Keep the full proof in the main text when</h3>
+<ul>
+  <li>the proof contains the central conceptual idea of the paper;</li>
+  <li>the construction itself is scientifically informative;</li>
+  <li>the proof is short enough that moving it would make the theorem feel unmotivated or magical;</li>
+  <li>later arguments depend on understanding the proof mechanism, not merely the result.</li>
+</ul>
+
+<h3>Move the detailed proof to the Appendix when</h3>
+<ul>
+  <li>the main-text reader already understands the reduction;</li>
+  <li>most of the proof tracks coding constants, technical cases, or auxiliary translations;</li>
+  <li>the same machinery is already developed in an Appendix lemma/construction;</li>
+  <li>a short proof sketch can communicate the decisive idea accurately.</li>
+</ul>
+
+<h3>The Proposition 1 pattern</h3>
+<p>WP0007 gave a useful template. The proposition remained in the main text, with a concise sketch explaining the two reductions. The full proof moved next to the repeat-\(x\) machinery in the Appendix, where the fixed-overhead program↔compressor translations are actually constructed. This avoided explaining the same machinery twice.</p>
+
+<div class="rule">
+<strong>Principle:</strong> main text = argument and proof idea; Appendix = coding constants, diagonal mechanics, auxiliary reductions, and constructions already supported by technical lemmas.
+</div>
+
+<p>Do not move all proofs reflexively. A paper with theorem statements and “proof in Appendix” after every result often becomes harder, not easier, to read.</p>
+</section>
+
+<section id="context">
+<h2>6. Context, examples, and prior work</h2>
+
+<p>Context is not decoration. In a theoretical scientific paper it often carries the bridge from formal result to scientific relevance.</p>
+
+<h3>Keep context when it does one of these jobs</h3>
+<ul>
+  <li>shows how a formal barrier manifests in real scientific practice;</li>
+  <li>explains favorable cases where additional structure helps;</li>
+  <li>distinguishes the present claim from a nearby literature;</li>
+  <li>gives a concrete example that prevents an overly strong interpretation;</li>
+  <li>shows how microscopic information can still be useful through symmetry, conservation, scale separation, collective variables, etc.</li>
+</ul>
+
+<h3>Do not cut a section merely because it is “not a theorem section”</h3>
+<p>The Anderson discussion, examples such as fluids/Ising/RG/Hodgkin–Huxley, and constrained cumulative search can be essential to the paper's positive scientific story. The right question is not “does this prove something new?” but “does this advance the reader's understanding?”</p>
+
+<h3>Use examples economically</h3>
+<p>One example can establish intuition; three examples should establish a pattern. If five examples all make the same point, choose the most complementary set.</p>
+</section>
+
+<section id="discussion">
+<h2>7. Writing the Discussion</h2>
+
+<p>The Discussion should <strong>revisit</strong> the story, not <strong>repeat</strong> the paper.</p>
+
+<h3>Its job is to change level</h3>
+<p>The Results establish what follows under explicit assumptions. The Discussion asks what that means in the wider conceptual landscape.</p>
+
+<p>A good Discussion can:</p>
+<ul>
+  <li>separate distinct senses of “emergence” or “undecidability” that the main argument might otherwise conflate;</li>
+  <li>compare the present construction problem to existing literatures;</li>
+  <li>explain what happens under restricted model classes, objectives, or observers;</li>
+  <li>clarify the epistemological vs ontological scope of the conclusions;</li>
+  <li>identify how real science bypasses universal impossibility through structure and accumulated knowledge.</li>
+</ul>
+
+<div class="warning">
+Do not compress the Discussion simply because some concepts appeared earlier. Repetition is bad only when the intellectual function is the same. Revisiting a theorem at a new explanatory level is not redundant.
+</div>
+
+<h3>Discussion test</h3>
+<p>For every paragraph, ask: “What new level of interpretation does this add beyond the theorem and its immediate reading?” If the answer is “none,” shorten or remove it.</p>
+</section>
+
+<section id="notation">
+<h2>8. Notation, definitions, and quantifiers</h2>
+
+<h3>8.1 Define before use</h3>
+<p>Every technical symbol or term should be defined immediately before or at first use. If an informal term such as “regret” appears before its formal definition, give a plain-language gloss: e.g. “additive error—or regret—relative to the shortest description.”</p>
+
+<h3>8.2 Maintain a notation table</h3>
+<p>For notation-heavy papers, put a complete table in the Appendix. This is not a substitute for local definitions; it is a recovery aid.</p>
+
+<h3>8.3 Separate assumptions from conclusions</h3>
+<p>Make clear whether a restriction is:</p>
+<ul>
+  <li>part of the theorem;</li>
+  <li>a modeling convention;</li>
+  <li>an observer choice;</li>
+  <li>a physical assumption;</li>
+  <li>an interpretation.</li>
+</ul>
+
+<h3>8.4 Qualify universality carefully</h3>
+<p>Use formulations such as “blocked in general,” “no universal constructor,” or “under the stated model class” when that is what is proved. Avoid turning a universal impossibility result into the stronger claim that useful construction is impossible in particular systems.</p>
+</section>
+
+<section id="formal">
+<h2>9. Lean / formal verification claims</h2>
+
+<p>Formal verification language must be narrower than casual prose. Never use “all proofs are Lean checked” unless literally every relevant manuscript proof and auxiliary assumption has been mechanized at the same level.</p>
+
+<h3>Preferred formulations</h3>
+<ul>
+  <li>“The core reductions are machine-checked in Lean 4.”</li>
+  <li>“The barrier results and their supporting reductions are formalized in Lean 4.”</li>
+  <li>“Proposition X has a Lean-checked counterpart under explicit translation/overhead hypotheses.”</li>
+</ul>
+
+<h3>State the boundary explicitly</h3>
+<p>If the manuscript's concrete coding construction is paper-level while Lean proves the corresponding abstract reduction, say so. If classical AIT facts are imported as named assumptions/interfaces rather than reproved, say so. If an auxiliary statement is not formalized, do not imply otherwise.</p>
+
+<div class="rule">
+<strong>Formalization principle:</strong> distinguish “the mathematical dependency is machine checked” from “the prose proof is replayed line-by-line in Lean.”
+</div>
+</section>
+
+<section id="redundancy">
+<h2>10. Controlling repetition without losing meaning</h2>
+
+<p>There are two kinds of repetition:</p>
+
+<table>
+<tr><th>Bad repetition</th><th>Useful recurrence</th></tr>
+<tr><td>The same barrier listed in the Introduction, theorem preview, figure caption, post-figure recap, and Discussion with no change in function.</td><td>A theorem stated formally, interpreted scientifically, and later revisited philosophically.</td></tr>
+<tr><td>Re-defining the same object several times before it is used.</td><td>Reminding the reader of one key definition after many pages when needed for a new argument.</td></tr>
+<tr><td>Repeating technical machinery in both main text and Appendix.</td><td>Main-text proof sketch plus full Appendix derivation.</td></tr>
+</table>
+
+<h3>A practical deletion test</h3>
+<p>Before cutting a passage, classify what it contains:</p>
+<ul>
+  <li><strong>New fact?</strong> Keep.</li>
+  <li><strong>New qualification?</strong> Usually keep.</li>
+  <li><strong>New example with a distinct role?</strong> Keep.</li>
+  <li><strong>New interpretive level?</strong> Keep.</li>
+  <li><strong>Same claim, same function, different wording?</strong> Cut or merge.</li>
+</ul>
+
+<p>This is the correct way to shorten a mature paper. Do not optimize word count directly; optimize duplication.</p>
+</section>
+
+<section id="workflow">
+<h2>11. Revision workflow</h2>
+
+<h3>Pass 1 — Architecture</h3>
+<ul>
+  <li>Write the one-sentence purpose of every section.</li>
+  <li>Check the dependency chain.</li>
+  <li>Identify sections that preview later sections too fully.</li>
+  <li>Protect the core scientific storyline before editing.</li>
+</ul>
+
+<h3>Pass 2 — Paragraph flow</h3>
+<ul>
+  <li>Assign one job to every paragraph.</li>
+  <li>Check the first sentence: does it follow from the previous paragraph?</li>
+  <li>Check the last sentence: does it motivate what comes next?</li>
+  <li>Remove paragraphs whose job duplicates another paragraph.</li>
+</ul>
+
+<h3>Pass 3 — Theorem exposition</h3>
+<ul>
+  <li>Question before theorem.</li>
+  <li>Quantifiers checked.</li>
+  <li>Proof placement checked.</li>
+  <li>Interpretation and “does not say” paragraph present.</li>
+</ul>
+
+<h3>Pass 4 — Fidelity pass</h3>
+<p>Compare against the pre-revision manuscript. For every deletion ask whether it removed a useful distinction, qualification, example, or reader aid. Restore conceptual payload even if it costs words.</p>
+
+<h3>Pass 5 — Length reduction</h3>
+<p>Only after the architecture is stable:</p>
+<ul>
+  <li>move long technical proofs to the Appendix;</li>
+  <li>collapse repeated literature positioning;</li>
+  <li>reduce examples that make identical points;</li>
+  <li>shorten conclusions that merely restate the abstract/Discussion;</li>
+  <li>trim setup that has become obvious from later definitions.</li>
+</ul>
+
+<h3>Pass 6 — Formal and LaTeX integrity</h3>
+<ul>
+  <li>all notation defined;</li>
+  <li>all references resolve;</li>
+  <li>bibliography keys exist;</li>
+  <li>theorem/corollary hierarchy is correct;</li>
+  <li>formalization claims match what is actually checked;</li>
+  <li>PDF visually inspected.</li>
+</ul>
+
+<h3>Pass 7 — Redline</h3>
+<p>Generate a redline against the original substantive draft, not merely against the immediately previous revision. This makes it possible to verify that clarity was gained without silently losing good content.</p>
+
+<h3>When to stop</h3>
+<div class="rule">
+Stop global editing when further shortening would begin to remove explanation, scientific context, or interpretive structure rather than duplication. After that point, reopen the architecture only in response to a specific reader confusion.
+</div>
+</section>
+
+<section id="checklist">
+<h2>12. Submission checklist</h2>
+
+<ul class="checklist">
+  <li>☐ Can the paper's central problem be stated in two sentences without notation?</li>
+  <li>☐ Does the Introduction make only one pass through the main argument?</li>
+  <li>☐ Does every main section have a unique intellectual job?</li>
+  <li>☐ Are definitions introduced before or at first use?</li>
+  <li>☐ Are theorem quantifiers exactly what is intended?</li>
+  <li>☐ Is the hierarchy theorem → corollary → interpretation logically correct?</li>
+  <li>☐ Does every central theorem have a plain-language interpretation?</li>
+  <li>☐ Does each interpretation say what the theorem does <em>not</em> imply?</li>
+  <li>☐ Are long technical proofs in the Appendix when a short main-text sketch suffices?</li>
+  <li>☐ Is machinery explained only once?</li>
+  <li>☐ Are scientific examples complementary rather than repetitive?</li>
+  <li>☐ Does the Discussion change explanatory level rather than retell the Results?</li>
+  <li>☐ Are literature comparisons detailed where they matter and compact elsewhere?</li>
+  <li>☐ Are formal-verification claims scoped precisely?</li>
+  <li>☐ Has a fidelity pass been made against the earlier strong version?</li>
+  <li>☐ Has a redline been visually inspected?</li>
+  <li>☐ Has the PDF been compiled and checked for unresolved references and layout defects?</li>
+  <li>☐ Can one remove anything else without deleting meaning? If not, stop.</li>
+</ul>
+</section>
+
+<section id="prompt">
+<h2>13. Reusable review prompt</h2>
+<p>For future papers, the following can be given to an editor or AI collaborator:</p>
+
+<div class="prompt">Revise this manuscript as a rigorous scientific editor, not merely a copy editor.
+
+First reconstruct the paper's argument architecture section by section and paragraph by paragraph. Do not edit until the architecture is clear.
+
+Protect the intellectual storyline, scientific context, interpretation, and carefully developed Discussion. Do not reduce the paper to bare results.
+
+Check:
+1. overall argument flow and section dependencies;
+2. whether the Introduction makes one clean pass through the problem rather than previewing the paper repeatedly;
+3. paragraph-to-paragraph transitions;
+4. theorem hierarchy and quantifiers;
+5. definitions before use;
+6. theorem → proof → interpretation → limitation structure;
+7. whether long technical proofs should become short main-text sketches with full Appendix proofs;
+8. duplication of technical machinery between main text and Appendix;
+9. repetition versus legitimate revisiting at a new explanatory level;
+10. whether examples are complementary;
+11. whether prior-work comparisons are in the right place;
+12. whether formal-verification claims match exactly what is machine checked;
+13. LaTeX, citations, labels, references, and notation integrity.
+
+After revising, perform a fidelity pass against the original strong version. For every deletion, ask whether a useful distinction, qualification, example, or reader aid was lost. Restore conceptual payload where needed.
+
+Prefer shortening by removing duplicated function, not by removing meaning.
+
+Finally provide:
+- a clean revised manuscript;
+- a redline against the original;
+- a concise architecture/editorial memo;
+- a list of any remaining referee vulnerabilities.
+
+Stop global editing when further compression would start removing clarity, context, or interpretation rather than redundancy.</div>
+</section>
+
+<section>
+<h2>14. The short version</h2>
+<div class="quote">
+  Architecture first. One job per paragraph. One pass through the Introduction. Theorem → proof → interpretation → limitation. Move machinery, not meaning, to the Appendix. Let the Discussion change level. Define before use. Quantify exactly. Verify formalization claims narrowly. Redline against the original. Stop before clarity becomes compression damage.
+</div>
+</section>
+
+</main>
+
+<footer>
+  <div><strong>How to Write a Good Paper — K & Kaiti House Style</strong></div>
+  <div>Version 1.0 · distilled from the WP0007 revision process and related theorem-driven manuscript work.</div>
+</footer>
+</div>
+</body>
+</html>
