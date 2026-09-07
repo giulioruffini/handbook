@@ -1,16 +1,23 @@
-# Giulio's Handbook
+# Giulio's Personal Handbook
 
 Personal working practice, distilled from real projects and kept where every machine, agent, and
 collaborator can reach it. Institutional policy lives in `bcom-handbook`; this repo is the
 personal layer: how I actually write, revise, and ship.
 
+The local folder is `~/Claude/giulio-personal-handbook/` (renamed from `~/Claude/handbook/`
+on 2026-09-07). The GitHub repository remains `giulioruffini/handbook`.
+
 | Area | Contents |
 |---|---|
+| [`dos-and-donts.md`](dos-and-donts.md) | K's corrections to agent behavior, the incidents behind them, and the practice to follow next time. Read before substantive work and update when K identifies an unwanted action. |
 | [`writing/`](writing/) | **How to Write a Good Paper** — the K & Kaiti house style for theorem-driven manuscripts (markdown for agents, HTML for humans). Normative for my papers since 2026-09-03; distilled from the WP0007 revision campaign. |
 | [`versioning.md`](versioning.md) | **Working-Paper Versioning** — binds the three version counters (manuscript `vX.Y` in git, Calliope cuts, Zenodo DOIs): git mints manuscript versions, chat-side drafts carry `draft-YYYYMMDD-<author>` labels, cut notes open with the manuscript label, citations use DOIs, and each paper's `todo.md` names its current candidate. |
 | [`formalization/`](formalization/) | **Lean Formalization Practice** — how machine-checking is woven into the papers: the KTAIT repo and WP0195 inventory, sorry-free standing rule, `\ktait{}` citations and `% ktait:` claim-coverage annotations, the seven-check sync guard, and the exact scoping of "machine-checked" claims. |
 
 ## For agents
+
+Read and maintain [dos-and-donts.md](dos-and-donts.md) as directed by
+[AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md). K's current instructions take precedence.
 
 Claude Code, Codex, Kaiti: when drafting or revising a manuscript with me, follow
 `writing/HOW_TO_WRITE_A_GOOD_PAPER.md` — architecture before prose, one-pass Introduction,
