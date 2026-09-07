@@ -5,6 +5,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
+  K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
+  require separate permission.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
@@ -49,6 +52,23 @@ model as meaningless residual information.
 K found “Every instance is finite; the obstruction is uniformity over unbounded families” cryptic.
 The revision names finite records and explains that the limit concerns one algorithm providing
 the guarantees for every finite record, however long. Brevity must preserve the explanation.
+
+### 2026-09-07 — WP0007 regularities and model length
+
+K clarified that scientific discovery concerns usable regularities: a large, clunky model can
+contain a component that supports generalization and prediction. Exploiting those regularities
+can enable compression without the whole stored model already delivering a net saving on the
+available data. Failure of a chosen compression method does not establish whether regularities
+have been captured. Keep regularity acquisition, realized compression gains, and predictive
+transfer distinct. Review Definition 2's net-savings requirement and the scope of claims about
+scientific discovery when manuscript revision resumes; the definition has not yet been changed.
+
+### 2026-09-07 — Discussion and note maintenance
+
+During the regularity discussion, K objected to possible manuscript edits and then clarified
+that handbook and TODO updates were welcome. No manuscript edits had been made. Preserve this
+distinction: continue maintaining collaboration notes while keeping scientific discussion
+separate from requests to revise the paper.
 
 ## Maintenance
 
