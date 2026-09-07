@@ -63,6 +63,12 @@ have been captured. Keep regularity acquisition, realized compression gains, and
 transfer distinct. Review Definition 2's net-savings requirement and the scope of claims about
 scientific discovery when manuscript revision resumes; the definition has not yet been changed.
 
+K then emphasized that a long predictor's compressive capability should still encounter the
+paper's barriers. Develop the predictive-coding connection and check the corresponding reduction;
+do not treat inefficient implementation as an escape from the intended obstruction. The transfer
+has not yet been proved for the proposed predictive setting. The WP0007 handoff dated 2026-09-07
+records the agreed direction and the assumptions still to establish.
+
 ### 2026-09-07 — Discussion and note maintenance
 
 During the regularity discussion, K objected to possible manuscript edits and then clarified
