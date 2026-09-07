@@ -6,3 +6,4 @@
 - [x] install the personal-handbook pointer in the global Claude and Codex instructions
 - [x] record K's distinction between usable regularities and an already short model
 - [x] record that discussion permits handbook and TODO maintenance but does not request manuscript edits
+- [x] record K's correction on premature jargon and repeated conceptual updates

@@ -87,6 +87,16 @@ and effective action; shortest code length is not the objective. WP0007 v0.31.9 
 clarification and the earlier regularity discussion. The compression-certified transfer remains
 scoped to its stated guarantees; a broader predictor-discovery theorem still requires a reduction.
 
+### 2026-09-07 — Premature jargon and repeated conceptual updates
+
+K found that recent WP0007 revisions again used technical terms before explaining them and gave
+new qualifications too much prominence. Klaus identified repeated previews and repeated accounts
+of amortization and telehomeostasis. Give each point an explanatory home; repeat it only when its
+role changes. Keep the Abstract and Introduction readable without later definitions. Explain what
+a technical restriction prevents beside the restriction. A clean build and a regex style check do
+not substitute for reading the argument. WP0007 v0.31.10 applies this correction with redlines and
+a fidelity review preserving the scientific distinctions, examples, proofs, and valued figures.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
