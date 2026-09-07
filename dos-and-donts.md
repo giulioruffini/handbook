@@ -50,6 +50,16 @@ K found “Every instance is finite; the obstruction is uniformity over unbounde
 The revision names finite records and explains that the limit concerns one algorithm providing
 the guarantees for every finite record, however long. Brevity must preserve the explanation.
 
+### 2026-09-07 — WP0007 regularities and model length
+
+K clarified that scientific discovery concerns usable regularities: a large, clunky model can
+contain a component that supports generalization and prediction. Exploiting those regularities
+can enable compression without the whole stored model already delivering a net saving on the
+available data. Failure of a chosen compression method does not establish whether regularities
+have been captured. Keep regularity acquisition, realized compression gains, and predictive
+transfer distinct. The next paper revision should review Definition 2's net-savings requirement
+and the scope of claims about scientific discovery; that definition has not yet been changed.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
