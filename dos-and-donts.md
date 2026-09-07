@@ -76,6 +76,17 @@ that handbook and TODO updates were welcome. No manuscript edits had been made. 
 distinction: continue maintaining collaboration notes while keeping scientific discussion
 separate from requests to revise the paper.
 
+### 2026-09-07 — Imperfect cores and useful implementation costs
+
+K clarified that a model's functional core is a shortest implementation of the same behavior,
+including its imperfections. It need not be the best predictor or compressor among all models.
+A larger equivalent implementation can be faster, for example by storing results that would
+otherwise be recomputed. Do not classify all excess description length as useless code.
+For telehomeostatic agents, models serve persistence through prediction, timely computation,
+and effective action; shortest code length is not the objective. WP0007 v0.31.9 implements this
+clarification and the earlier regularity discussion. The compression-certified transfer remains
+scoped to its stated guarantees; a broader predictor-discovery theorem still requires a reduction.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
