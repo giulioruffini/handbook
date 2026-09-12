@@ -118,6 +118,33 @@ physically supported by admissible representations, then ask what diversity rema
 or near-minimal programs computing the same behavior. Give the finite-program bounds their role
 in that question; place brain simulation as an application and keep examples subordinate.
 
+K then found it unclear whether a proposed abstract was for WP0215 or its mathematical companion.
+Label the target paper before presenting replacement prose, especially while splitting work across
+papers. K approved a separate WP for the mathematics, with WP0215 citing its results.
+
+K then said to stop asking permission for Calliope operations. His authorization to reserve,
+create, and revise these papers covers their routine Calliope metadata, source uploads, versions,
+and ingestion. Continue those operations without repeated confirmation.
+He repeated the correction when reference downloads triggered more sandbox prompts. Batch necessary
+reads, use existing authorized capabilities, and stop optional downloads once the available primary
+sources suffice; do not interrupt the scientific work for redundant acquisition.
+
+
+K found v0.4.6's abstract too technical for WP0215's interdisciplinary audience and said I had
+altered his wording too much. Preserve his argument and use plain descriptions of the bounds;
+keep the formulas in the mathematical companion or appendix. Distinguish description distance
+from execution structure, state the unresolved experiential correspondence, and explain driven
+and approximate closure through models and residuals. Retain memory, agency, symmetries, and
+attractors as concrete candidates rather than implying that no language for structure exists.
+K also supplied Özkural's 2014 paper with the proposed brain-simulation question as its title.
+Read and acknowledge substantive antecedents, not only title collisions.
+
+K then corrected the novelty account for omitting his 2007, 2009, 2016, and 2017 papers.
+Trace the project's own lineage alongside related work, attributing only verified claims to each.
+Distinguish Özkural's AGI 2012 publication from its 2014 arXiv posting; do not imply that KT's
+algorithmic-information approach originated there. Acknowledge qualifications in a cited
+author's argument before criticizing the inference.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
