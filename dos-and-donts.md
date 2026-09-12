@@ -111,6 +111,13 @@ KT's premise and the passage from physical dynamics to computational description
 admissibility: a transformation identifies retained computational states and transitions, while a
 coarse-graining omits physical distinctions. Keep this bridge explicit in both abstract and introduction.
 
+K subsequently clarified the organizing questions: assuming KT's Experience–mathematics stance,
+which structures can be defined along the dynamics–program–algorithm–function ladder, and when
+do two systems share a structural equivalence class? Focus on operational program structures
+physically supported by admissible representations, then ask what diversity remains among minimal
+or near-minimal programs computing the same behavior. Give the finite-program bounds their role
+in that question; place brain simulation as an application and keep examples subordinate.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
