@@ -105,6 +105,12 @@ He preferred v0.4.0's abstract structure. The new coarse-graining work studies w
 are admissible within that argument. Preserve the abstract's established hierarchy when adding
 supporting results; review its emphasis and intellectual arc as well as the accuracy of each claim.
 
+K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
+and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
+KT's premise and the passage from physical dynamics to computational descriptions before discussing
+admissibility: a transformation identifies retained computational states and transitions, while a
+coarse-graining omits physical distinctions. Keep this bridge explicit in both abstract and introduction.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
