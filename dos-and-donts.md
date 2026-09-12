@@ -97,6 +97,14 @@ a technical restriction prevents beside the restriction. A clean build and a reg
 not substitute for reading the argument. WP0007 v0.31.10 applies this correction with redlines and
 a fidelity review preserving the scientific distinctions, examples, proofs, and valued figures.
 
+### 2026-09-12 — WP0215 abstract lost the paper's organizing question
+
+K corrected my favorable review of v0.4.2: its abstract promoted dynamical closure and the spring
+example ahead of the paper's argument about computation, structure, and experiential preservation.
+He preferred v0.4.0's abstract structure. The new coarse-graining work studies which transformations
+are admissible within that argument. Preserve the abstract's established hierarchy when adding
+supporting results; review its emphasis and intellectual arc as well as the accuracy of each claim.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
