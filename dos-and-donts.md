@@ -155,6 +155,11 @@ Use “computing the same total function,” define totality in the main text, a
 for similar wording. Plain language means direct sentences and explained technical terms, not
 long circumlocutions replacing standard terms.
 
+K then requested the WP0228 storyline before editing and asked that it remain visible in the
+abstract, introduction, discussion, and conclusion. State the argument first; shorten repeated
+claims after assigning each section its role. Preserve worked examples, proof steps, and
+qualifications, and measure the reduction only after checking that the argument survives.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
