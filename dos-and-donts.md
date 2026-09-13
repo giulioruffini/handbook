@@ -166,6 +166,14 @@ program study as a regular paper: it reviews known relations between equivalent 
 especially minimal ones, while structural questions remain unresolved. Do not turn a companion
 paper's research agenda into the host paper's storyline.
 
+K then requested a selective rollback: restore the motivating question headings, Experience
+in the opening question, and the abstract's direct statement that description bounds do not
+select a shared mechanism. Keep the explanatory additions, implementation-cost examples, and
+a concrete closing research question. Replace repeated companion-paper announcements and
+“partly understood” with specific results and limits, and preserve Structured Experience in
+the reportability distinction. A style preference for declarative headings does not override
+K's chosen question-led structure. This calls for local changes, not another general rewrite.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
