@@ -160,6 +160,12 @@ abstract, introduction, discussion, and conclusion. State the argument first; sh
 claims after assigning each section its role. Preserve worked examples, proof steps, and
 qualifications, and measure the reduction only after checking that the argument survives.
 
+K corrected the WP0215 v0.4.11 revision for giving WP0228 too much prominence and replacing
+his preferred two-question abstract. Preserve that abstract's organization. Cite the parallel
+program study as a regular paper: it reviews known relations between equivalent programs,
+especially minimal ones, while structural questions remain unresolved. Do not turn a companion
+paper's research agenda into the host paper's storyline.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
