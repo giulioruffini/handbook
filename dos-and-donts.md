@@ -145,6 +145,16 @@ Distinguish Özkural's AGI 2012 publication from its 2014 arXiv posting; do not 
 algorithmic-information approach originated there. Acknowledge qualifications in a cited
 author's argument before criticizing the inference.
 
+K clarified on September 13 that the 2022 open-ended-interaction objection remains valid.
+Retract only the use of function-level invariants to distinguish implementations already known
+to compute the same function. Separate establishing functional equivalence from its consequences;
+behavioral agreement poses an evidential challenge to IIT, not a logical refutation.
+
+K also flagged “implementing a function that returns a result on every input” as contrived.
+Use “computing the same total function,” define totality in the main text, and check both papers
+for similar wording. Plain language means direct sentences and explained technical terms, not
+long circumlocutions replacing standard terms.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
