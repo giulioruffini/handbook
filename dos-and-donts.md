@@ -184,6 +184,11 @@ conditions in specific model classes, and the remaining problem in the abstract,
 result interpretations, and Conclusion. State which objects are supplied and which relations are
 derived. Use short explanations rather than compressed labels.
 
+K then found the presentation's scientific conclusion missing despite its agenda and editorial
+placement slides. End research syntheses by stating what is established, what the present work
+contributes, what remains unresolved, and the next concrete mathematical or empirical test.
+A list of future topics or paper roles does not provide that conclusion.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
