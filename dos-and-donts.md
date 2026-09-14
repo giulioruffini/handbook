@@ -174,6 +174,16 @@ a concrete closing research question. Replace repeated companion-paper announcem
 the reportability distinction. A style preference for declarative headings does not override
 K's chosen question-led structure. This calls for local changes, not another general rewrite.
 
+### 2026-09-14 — WP0229 conclusion blurred the solved and open problems
+
+K read the conclusion as suggesting that the general structural problem was solved and asked
+for a correctness and clarity check. The wording “requires either” presented the reviewed routes
+as an exhaustive criterion, while the intervention result already assumed a proposed component
+matching. Practice: distinguish the classical predictive construction, sufficient structural
+conditions in specific model classes, and the remaining problem in the abstract, Introduction,
+result interpretations, and Conclusion. State which objects are supplied and which relations are
+derived. Use short explanations rather than compressed labels.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.

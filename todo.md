@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record the WP0229 distinction between solved predictive structure, conditional structural results, and the open problem
 - [x] rename the local handbook folder and update the Claude workspace index
 - [x] record the WP0007 revision lessons in dos-and-donts.md
 - [x] add handbook CLAUDE.md and AGENTS.md instructions to read and maintain the preference record
