@@ -189,6 +189,11 @@ placement slides. End research syntheses by stating what is established, what th
 contributes, what remains unresolved, and the next concrete mathematical or empirical test.
 A list of future topics or paper roles does not provide that conclusion.
 
+K requested that the conclusion also be visibly labeled in the contents, section heading, and
+closing frames. Use the requested BCOM paper and slide templates from the start. When condensing
+WP0215, preserve its opening account of computation, transformations, coarse-graining, and closure;
+the synthesis needs that foundation before presenting the structural comparison results.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
