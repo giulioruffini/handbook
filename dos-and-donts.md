@@ -194,6 +194,15 @@ closing frames. Use the requested BCOM paper and slide templates from the start.
 WP0215, preserve its opening account of computation, transformations, coarse-graining, and closure;
 the synthesis needs that foundation before presenting the structural comparison results.
 
+### 2026-09-14 — Neural-manifold invariants were lost from the synthesis
+
+K identified the underrepresentation of his structured-dynamics, compositional-symmetry, and
+Entropy special-issue program in the computation papers. The recent synthesis emphasized cores
+and full structural equivalence while omitting measurable geometric and topological signatures
+of reduced neural dynamics. Practice: preserve this positive research direction and its verified
+lineage. Distinguish useful partial invariants from a complete classifier, and state the maps and
+physical or empirical conditions under which a descriptor is preserved and supports interpretation.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
