@@ -203,6 +203,12 @@ of reduced neural dynamics. Practice: preserve this positive research direction 
 lineage. Distinguish useful partial invariants from a complete classifier, and state the maps and
 physical or empirical conditions under which a descriptor is preserved and supports interpretation.
 
+K then found WP0231's revised abstract unsatisfactory and requested revisions to all the related
+abstracts. The synthesis had become a list of technical topics, with its experiential motivation
+at the end. Practice: read each abstract as a standalone argument, beginning with its scientific
+problem and connecting the results to that problem. Preserve each paper's distinct role and
+WP0215's established two-question structure; explain terms rather than accumulating labels.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
