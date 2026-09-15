@@ -295,6 +295,10 @@ identity and verify the envelope against current corpus records; retain Giulio
 as the human guarantor. Do not substitute a legacy envelope or infer a new one
 from the runtime model name.
 
+K then explicitly requested MCP. Use the connected Calliope MCP tools for author
+metadata, envelope verification, source uploads, and ingestion; avoid browser
+sign-in when the MCP connection already supports the operation.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
