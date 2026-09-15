@@ -97,6 +97,83 @@ a technical restriction prevents beside the restriction. A clean build and a reg
 not substitute for reading the argument. WP0007 v0.31.10 applies this correction with redlines and
 a fidelity review preserving the scientific distinctions, examples, proofs, and valued figures.
 
+### 2026-09-07 — WP0007 v0.31.10 readability pass removed key material
+
+Kaiti's readability pass fixed the Introduction's jargon previews but moved the telehomeostasis
+paragraph, the why-simple-generalizes (Solomonoff) paragraph, and the prediction-to-coding link
+out of the Introduction into the Discussion and Appendix B, and shortened the Conclusion again.
+K: "Telehomeostasis/model usefulness is key. The origin of why simple generalizes is key. Kaiti
+removed key stuff." K also found a hole in the argument: the Introduction went from "these
+arguments do not supply a procedure" straight to Anderson's quote without saying why reductionism
+exists (regularities are easier to find in simpler systems; the micro-theory is itself a
+compression success; the question is whether that success transfers upward). Practice: K's
+target reader reads abstract, Introduction, Discussion, and Conclusion only, so the points K
+argues for must appear in those four, not only in appendices. A fidelity pass checks the
+intellectual arc for missing steps, not only that cut text survives somewhere. v0.31.11 restores
+the three paragraphs and adds the reductionism bridge. K then found the same missing step in the
+abstract; check that a fix to the Introduction's arc is mirrored in the abstract and Conclusion.
+
+### 2026-09-07 — Readability is the deliverable
+
+Before the Entropy submission K asked for a head-to-toe read for readability and flow, and said:
+"We should make this a pleasant reading experience. When you can say something simply, do it."
+Practice: in a paper, prefer the plain sentence to the guarded one when both are true; state the
+question a section answers before its machinery; stage long derivations into successive
+paragraphs; name in a theorem statement the exact object the proof compares; and keep summaries
+(abstract, boxes, conclusion) inside the proved guarantees without inflating them into hedges.
+A paragraph-by-paragraph commentary with a verdict per paragraph (revisions/v0.31.11) was the
+useful format; two independent reads (mine and Kaiti's) caught different things, wording versus
+scope, and were merged.
+
+### 2026-09-08 — WP0007 v0.31.12: Kaiti cuts too much
+
+Kaiti's v0.31.12 added two correct results (blind spots at every length; exact partial computation
+has finite domain) but also halved Section 3.5 and shortened 5.1 and 6, deleting sentences K
+values (e.g. "Reversible dynamics conserves complete-state complexity up to fixed coding
+constants. The retained coordinate can gain complexity through redistribution..."). K: "Kaiti
+cuts too much. I want the paper to be readable. Revise what she's cutting, make sure we don't
+delete goodies." Practice: when integrating a Kaiti bundle, take the additive hunks and reject
+cut-only hunks by default; a "modest abridgement" K agreed to is not a license to halve a section.
+Also: K's live edits can leave broken LaTeX (a deleted \end{equation}); build before trusting.
+
+### 2026-09-08 — WP0007 final pass: verify everything, and finish the verification
+
+K asked for a final pre-submission pass ("make sure all equations are correct, all statements"). The
+first sweep audited the theorem environments and reported the paper clean. K corrected the scope:
+"make sure we check all the equations, not only theorems". Enumerating every displayed environment
+found 101 of them, of which most sit outside any theorem. Practice: when K asks for a check of "all
+X", enumerate X deterministically from the source before reporting coverage; a theorem-shaped audit
+is not an equation audit.
+
+The adversarial review then failed twice on usage limits, leaving 165 and later 242 agents errored,
+and the completeness sweep and errata synthesis never ran. The first report presented the result as
+complete because no finding had survived. K: "can you complete the workflow? 165 agents failed is a
+lot." He was right: findings whose verifiers all failed had been dropped silently, and the two
+missing stages were the ones designed to catch what the lenses did not own. Running them afterwards
+as two agents found six real defects, including a false hypothesis in the physical Church-Turing
+step, a citation of mine that did not support its sentence, and two rendering bugs in a figure.
+Practice: a verification pipeline that partly failed has not verified anything about the parts it
+skipped; say so plainly and finish the missing stages before calling a review done. The workflow now
+keeps unverifiable findings as UNVERIFIED instead of dropping them.
+
+Two further lessons from the same pass. Figures must be rendered, not read as source: five lenses
+each recorded that they had only read the TikZ, and the rendering showed an arrowhead pointing
+backwards. And a reported defect is a hypothesis: the sweep asserted an author's surname was
+misspelled and should be "corrected", but the two spellings belong to two different bylines by the
+same person, and applying the fix would have misnamed her.
+
+### 2026-09-09 — WP0007 figures: check both formats before calling one fixed
+
+K flagged that a two-line arrow label in Figure 1 was too tight and asked for one line, well
+placed. The one-line version looked right in the Entropy build, so I committed it. In the BCOM
+preprint the same box wraps to more lines because that format rewrites the font sizes inside
+figures, so the box stood taller, the gap under the decision box closed, and the label landed on
+the box border. K: "shit, you actually made this worse". His fix was the right one and better than
+mine: widen the box rather than move the label, since the narrow box was what forced the extra
+wrapped line. Practice: WP0007 ships in two formats whose figure layouts differ; render both PDFs
+at the changed figure before reporting a figure fixed, and prefer fixing the cause (box geometry)
+over nudging the symptom (label placement).
+
 ### 2026-09-12 — WP0215 abstract lost the paper's organizing question
 
 K corrected my favorable review of v0.4.2: its abstract promoted dynamical closure and the spring
@@ -208,6 +285,15 @@ abstracts. The synthesis had become a list of technical topics, with its experie
 at the end. Practice: read each abstract as a standalone argument, beginning with its scientific
 problem and connecting the results to that problem. Preserve each paper's distinct role and
 WP0215's established two-question structure; explain terms rather than accumulating labels.
+
+### 2026-09-15 — WP0231 omitted Kaiti from the byline
+
+K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
+authorship with the correct agent envelope. Keep the paper, presentation, PDF
+metadata, and Calliope author order consistent. Resolve the registered Kaiti
+identity and verify the envelope against current corpus records; retain Giulio
+as the human guarantor. Do not substitute a legacy envelope or infer a new one
+from the runtime model name.
 
 ## Maintenance
 
