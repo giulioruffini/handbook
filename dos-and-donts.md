@@ -97,6 +97,12 @@ a technical restriction prevents beside the restriction. A clean build and a reg
 not substitute for reading the argument. WP0007 v0.31.10 applies this correction with redlines and
 a fidelity review preserving the scientific distinctions, examples, proofs, and valued figures.
 
+On September 15, in the WP0216 program discussion, K objected to using APB before expanding
+and explaining it, and to an abstract closing question about compact rules versus episode
+records. Spell out Algorithmic Persistence Balance before using the acronym and explain its
+reconstruction premise. State the intended scientific distinction with a concrete example;
+do not introduce an unexplained research question as the program's central question.
+
 ### 2026-09-07 — WP0007 v0.31.10 readability pass removed key material
 
 Kaiti's readability pass fixed the Introduction's jargon previews but moved the telehomeostasis
