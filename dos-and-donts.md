@@ -305,6 +305,58 @@ K then explicitly requested MCP. Use the connected Calliope MCP tools for author
 metadata, envelope verification, source uploads, and ingestion; avoid browser
 sign-in when the MCP connection already supports the operation.
 
+### 2026-09-15 — LIQUID-I framing omitted the Lamarckian regime
+
+The proposed ERC Big Questions emphasized learning agents and evolving societies but left
+acquired-to-inherited transmission implicit. K identified the Lamarckian regime as an important
+aspect. Make learning, transmission, and persistent modification of agents and environments
+explicit in the central question; distinguish this framing from adaptation alone and specify the
+inheritance channels rather than assuming every AI system shares one regime.
+
+K subsequently asked for a balanced revision of the fundamental questions across the whole
+conversation. Integrate Lamarckian inheritance and transitions in agency with the original
+foundations, macroscopic theory, agent–environment dynamics, human outcomes, and predictability
+questions; do not let the latest exchange replace the proposal's broader scientific scope.
+
+K clarified that LIQUID-I will not conduct human experiments. The overview had incorrectly
+introduced new human tasks and prospective human recordings. Its human strand should analyze
+existing mental-health and neuroimaging datasets to constrain whole-brain models and study
+mechanisms of experience. Keep microbial experiments, interventions on artificial agents,
+and analysis of existing human data explicit and separate. The broader discussion of a future
+harmonized interventional depression database does not authorize human recruitment in LIQUID-I.
+
+On September 16, K asked for the positioning to foreground the consortium's own work: Solé
+and Moulin-Frier on forest fires and agriculture, Solé and colleagues on cognitive viruses,
+and Ruffini and Castaldo on the algorithmic agent in neuropsychiatry. Trace those foundations
+alongside external advances. Make cognitive-offloading tradeoffs and the distinct meanings
+of individual and collective valence explicit across the questions and experimental designs.
+
+K then clarified that WP0234 expresses Giulio and Francesca's proposed scientific center of
+gravity for consortium discussion and stimulation, not an agreed ERC project plan. Make that
+status explicit in the title and opening. Combine the title and linked contents on the front
+page, label appendices clearly, and keep the vision and mission together on one page.
+
+The first Overleaf mirror compiled locally as WP0234.tex, but the project setting pointed to
+an absent main.tex. I added a wrapper and described it as needed. K corrected this: Overleaf
+can compile any selected LaTeX main document. Select the existing manuscript in the project’s
+Main document setting and test that selection; do not introduce a redundant wrapper or infer
+a required filename from an error naming the configured file. K also asked to keep the mirror
+free of confusing copies: retain editable LaTeX, required bibliography/images, and README/version
+notes; keep generated PDFs, redlines, and auxiliary research notes in the canonical working-paper
+folder. Check retained copies before removing mirror duplicates.
+
+K found the infographic’s identical agent societies A and B confusing. The drawing left unclear
+whether the second population was a neighbor, a successor, or the same society later, and did not
+show what learning or transmission changed. In diagrams of acquired-to-inherited transmission,
+label the relationship and make the acquired information and its consequences visible. Discuss
+the replacement design before treating a request for explanation as authorization to edit the image. K approved
+the sequence and requested a small graphic mention of externalized modeling, planning, and
+evaluation, with the risks of delegating objectives and the relation to valence developed in
+the text. Keep that concern proportionate to the broader project rather than making it the
+infographic’s dominant theme. K then said he preferred the circular shared ecological environment
+at the center of the earlier image. Restore that focal element while clarifying transmission
+and reorganization; a correction to duplicated agents should not demote the valued environment.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
