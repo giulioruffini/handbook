@@ -357,6 +357,14 @@ infographic’s dominant theme. K then said he preferred the circular shared eco
 at the center of the earlier image. Restore that focal element while clarifying transmission
 and reorganization; a correction to duplicated agents should not demote the valued environment.
 
+### 2026-09-16 — WP0232 remains focused on digital life and programming
+
+After K shared a plasmid preprint, I proposed emphasizing biological transitions in the short
+working paper. K clarified that his interest is digital life and programming. Keep WP0232
+centered on executable programs, instruction semantics, replication, interactions, and evolution,
+with the connection to Pattern, Persist! grounded in those mechanisms. Related biological papers
+are background; a request about one does not change the paper's agreed focus.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
