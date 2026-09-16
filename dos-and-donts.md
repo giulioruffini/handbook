@@ -365,6 +365,14 @@ centered on executable programs, instruction semantics, replication, interaction
 with the connection to Pattern, Persist! grounded in those mechanisms. Related biological papers
 are background; a request about one does not change the paper's agreed focus.
 
+### 2026-09-16 — WP0203 correction history and presentation
+
+K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
+requested a fresh reading before submission. Keep acknowledgment of the earlier error
+proportionate to its scientific role; let the abstract and conclusion state the current
+results. Preserve the mathematical qualifications and technical correction argument.
+Discuss the proposed reframing before changing the manuscript.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
