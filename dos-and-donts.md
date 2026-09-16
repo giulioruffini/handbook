@@ -373,6 +373,19 @@ proportionate to its scientific role; let the abstract and conclusion state the 
 results. Preserve the mathematical qualifications and technical correction argument.
 Discuss the proposed reframing before changing the manuscript.
 
+K then corrected the proposed framing: WP0203 stems from algorithmic-information conservation,
+not from the failed corollary. He requested a readable revision centered on the ART setup and
+why the chosen output is made simple, an early diagram, a motivated explanation of grounding,
+and definitions before every technical term, symbol, and acronym. Introduce each theorem's
+question and interpret its result; move the symbol table to an appendix. Valid probability
+statements can appear in the main text with proofs in the appendix. Keep the ART correction
+plan separate and ready for the editor's response, without making its history the paper's story.
+
+K rejected the new introductory schematic and asked for the original ART diagram or a close
+adaptation from the working-drafts or Overleaf source. Reuse the established diagram, explain
+its notation in the caption, and retain the separate balance figure. Inspect both formats
+before presenting a diagram revision.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
