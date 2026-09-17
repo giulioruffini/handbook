@@ -412,6 +412,11 @@ output trajectory, selected-variable trajectory, disturbance sequence, or full s
 Check the adjacent formula before replacing a noun; a blanket output-trajectory substitution
 can change the intended claim. Report proposed changes while the paper remains under discussion.
 
+K explicitly put manuscript edits on hold while the grounding and conditional-information
+interpretations are discussed. Maintain a pending change list without applying it. He also
+required an Interpretation with worked examples after every theorem, beginning with the
+information-balance theorem (Entropy Theorem 2); verify theorem identities across formats.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
