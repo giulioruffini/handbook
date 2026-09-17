@@ -386,6 +386,14 @@ adaptation from the working-drafts or Overleaf source. Reuse the established dia
 its notation in the caption, and retain the separate balance figure. Inspect both formats
 before presenting a diagram revision.
 
+On September 17, K objected that the grounding explanation made the single ART output
+channel sound like two observed channels. Explain any additional world projection as a
+modeling choice; when it is the output itself, grounding holds to fixed coding overhead.
+Distinguish this from reconstructing the matched-null output using the regulated episode's
+records. K requested regulator instead of controller, consistent terminology for the output
+channel and its finite record, and numbering for every displayed equation. Review the
+conceptual distinction before changing the grounding definition.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
