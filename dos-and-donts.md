@@ -401,6 +401,11 @@ regulator. Do not present the narrow output-to-world-projection definition of gr
 though it alone repairs the inference. Keep this conceptual review separate from manuscript
 revision until the argument is understood.
 
+K then asked what the completion record Q and the second conditional-information term
+actually mean. Define Q's component records and their relation to the one observed output;
+explain conditional information as the description cost saved when those records are supplied.
+Use one worked example before returning to the general theorem or grounding terminology.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
