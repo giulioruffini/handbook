@@ -406,6 +406,12 @@ actually mean. Define Q's component records and their relation to the one observ
 explain conditional information as the description cost saved when those records are supplied.
 Use one worked example before returning to the general theorem or grounding terminology.
 
+K then identified an unnamed “trajectory” immediately after the reguland was introduced
+and requested a full reread for similar confusion. Name the object at every transition:
+output trajectory, selected-variable trajectory, disturbance sequence, or full system state.
+Check the adjacent formula before replacing a noun; a blanket output-trajectory substitution
+can change the intended claim. Report proposed changes while the paper remains under discussion.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
