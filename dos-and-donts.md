@@ -394,6 +394,13 @@ records. K requested regulator instead of controller, consistent terminology for
 channel and its finite record, and numbering for every displayed equation. Review the
 conceptual distinction before changing the grounding definition.
 
+K then said the ART-to-GART explanation had become incomprehensible and reiterated that
+information conservation is the organizing argument. Explain the single-output information
+balance first, then the extra restriction needed to infer information already present in the
+regulator. Do not present the narrow output-to-world-projection definition of grounding as
+though it alone repairs the inference. Keep this conceptual review separate from manuscript
+revision until the argument is understood.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
