@@ -204,6 +204,9 @@ the presentation as a dedicated WP of kind `slides`, with its editable source, P
 and consistent authorship, rather than leaving it only as a local presentation project.
 K subsequently accepted Beamer for this deck. Keep the native Beamer source and compiled PDF
 in the dedicated WP, with the selected figures and question sequence preserved.
+K then identified the missing “What is computation?” question, explicitly naming Wolpert and
+his WP. Keep that definition question visible, with Wolpert–Korbel, WP0049, and WP0054,
+rather than treating a physical-implementation slide as sufficient coverage.
 
 K subsequently clarified the organizing questions: assuming KT's Experience–mathematics stance,
 which structures can be defined along the dynamics–program–algorithm–function ladder, and when
