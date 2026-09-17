@@ -442,6 +442,12 @@ that guarantee from the sufficiency of a chosen smaller record and from physical
 Use an actual retained-input example when discussing a complementary record equal to the
 null output; do not suggest that a counterfactual answer can be appended by definition.
 
+K then identified a structural gap in the six-point paper outline: removing the grounding
+step leaves the conservation balance and initial-information inference intact. Practice:
+complete that single-output argument before introducing transfer to a separately selected
+world variable. Treat grounding as an optional extension there, not a required link in the
+main argument; clearer definitions alone do not repair misplaced conceptual emphasis.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
