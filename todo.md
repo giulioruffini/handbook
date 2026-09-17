@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's direction to analyze AI training and self-modeling through KT morality and ME/OF/PE
 - [x] record the WP0231 byline correction and verified Calliope envelope practice
 - [x] record the WP0229 scope lesson and the need for scientific conclusions in research presentations
 - [x] rename the local handbook folder and update the Claude workspace index

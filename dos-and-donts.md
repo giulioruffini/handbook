@@ -386,6 +386,17 @@ adaptation from the working-drafts or Overleaf source. Reuse the established dia
 its notation in the caption, and retain the separate balance figure. Inspect both formats
 before presenting a diagram revision.
 
+### 2026-09-17 — AI training and morality require the KT framework
+
+In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
+through behavioral analogies and left KT's experience–valence account peripheral. K directed me
+to the morality papers and clarified the concern: training and prompts may deform the Objective
+Function or Modeling Engine, including self-modeling. Practice: consult WP0009 and WP0053 and
+reason explicitly through ME/OF/PE and inter-agent objective couplings. Treat AI consciousness
+as a possibility within KT, distinguish that theoretical premise from empirical findings, and
+separate changes to self-models, valuation, and permitted reports. Do not treat prompt effects
+as necessarily superficial or assume that every behavioral change identifies an OF change.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
