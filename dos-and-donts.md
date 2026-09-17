@@ -416,6 +416,9 @@ K explicitly put manuscript edits on hold while the grounding and conditional-in
 interpretations are discussed. Maintain a pending change list without applying it. He also
 required an Interpretation with worked examples after every theorem, beginning with the
 information-balance theorem (Entropy Theorem 2); verify theorem identities across formats.
+K liked the comparison table and distinguished rapid output cancellation from smart world
+interventions using fewer actions. Preserve both examples and distinguish action count,
+action information, and compact useful knowledge when interpreting the bounds.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
