@@ -194,6 +194,12 @@ KT's premise and the passage from physical dynamics to computational description
 admissibility: a transformation identifies retained computational states and transitions, while a
 coarse-graining omits physical distinctions. Keep this bridge explicit in both abstract and introduction.
 
+On September 17, K corrected the BCOM foundations deck for omitting the favorite visuals on
+WP0231 slides 9–10 and beginning with AIT before KT’s ontological premise. Begin this research
+introduction with Experience as foundational, mathematics as its structural aspect, the agent
+model, and the resulting focus on Structured Experience. Use both specified visuals and let
+the mathematical questions follow from that motivation.
+
 K subsequently clarified the organizing questions: assuming KT's Experience–mathematics stance,
 which structures can be defined along the dynamics–program–algorithm–function ladder, and when
 do two systems share a structural equivalence class? Focus on operational program structures
