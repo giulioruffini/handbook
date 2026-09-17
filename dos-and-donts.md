@@ -199,6 +199,9 @@ WP0231 slides 9–10 and beginning with AIT before KT’s ontological premise. B
 introduction with Experience as foundational, mathematics as its structural aspect, the agent
 model, and the resulting focus on Structured Experience. Use both specified visuals and let
 the mathematical questions follow from that motivation.
+K then clarified that these slides need their own working-paper record in Calliope. Register
+the presentation as a dedicated WP of kind `slides`, with its editable source, PDF, notes,
+and consistent authorship, rather than leaving it only as a local presentation project.
 
 K subsequently clarified the organizing questions: assuming KT's Experience–mathematics stance,
 which structures can be defined along the dynamics–program–algorithm–function ladder, and when
