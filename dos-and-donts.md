@@ -371,6 +371,17 @@ infographic’s dominant theme. K then said he preferred the circular shared eco
 at the center of the earlier image. Restore that focal element while clarifying transmission
 and reorganization; a correction to duplicated agents should not demote the valued environment.
 
+2026-09-16, Calliope/Teknos handover. Asked how Teknos would be transferred to Ricardo at
+Neuroelectrics, I built the answer on the July Render/Cloudflare proposal in
+`ne-ai-teknos/SOLUTION.md`, rewrote the install guide toward it, and drafted the handover note
+around a cloud target. K corrected: Teknos will be built internally at NE, on a local server.
+The package's earlier `DEPLOYMENT.md` intake had already decided private/on-prem (2026-07-20);
+the later Render document was a proposal, not the decision. Practice: when two documents in a
+package disagree, the one recording a decision with a date outranks the one recording a
+proposal, whatever their file order or recency; check which is which before building a plan on
+either, and ask K when the package itself calls one "superseded". Hosting decisions for NE are
+K's and IT's, never inferred from convenience.
+
 ### 2026-09-16 — WP0232 remains focused on digital life and programming
 
 After K shared a plasmid preprint, I proposed emphasizing biological transitions in the short
@@ -448,6 +459,18 @@ complete that single-output argument before introducing transfer to a separately
 world variable. Treat grounding as an optional extension there, not a required link in the
 main argument; clearer definitions alone do not repair misplaced conceptual emphasis.
 
+K then asked whether the conservation law (the two-way determination of complete states
+under a deterministic reversible law) really plays no role, after I had said twice that
+reversibility "enters no proof". I had checked only which displays the proofs cite. The
+reconstruction condition is the backward half of that law applied to the world (the regulated
+episode's record determines the initial world), and computability of the null output is the
+forward half; retaining inputs is Bennett's injective embedding, a form of logical
+reversibility. The Lean hypotheses of `closure_by_construction` are these two halves. Without
+them the residual is still a description cost but need not be located in any record, so the
+title's list is not exhaustive. Practice: before saying a premise plays no role, trace where
+each theorem's hypotheses are discharged, not only what the proof text cites; distinguish
+"not used by this identity" from "not used by the paper".
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
@@ -466,3 +489,11 @@ Record the date, project, action, correction, and resulting practice in a short 
 existing entry when feedback concerns the same incident. Distinguish K's explicit preferences
 from unresolved suggestions; do not invent prohibitions or turn a local correction into a
 universal scientific claim. Apply the lesson in subsequent work.
+
+### 2026-09-16 — Starlab ledger: meeting date is not the close date
+
+I filed each monthly management meeting with the month-close date as the meeting date (July
+close → "meeting 2026-07-31"). K corrected this: the meeting on the July 2026 close was held
+on 16 September 2026. Practice: the close date comes from the workbook cover; the meeting date
+comes only from minutes or from K, and is marked "not recorded" otherwise. Keep the two
+labeled separately in the record.
