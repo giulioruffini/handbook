@@ -420,6 +420,14 @@ K liked the comparison table and distinguished rapid output cancellation from sm
 interventions using fewer actions. Preserve both examples and distinguish action count,
 action information, and compact useful knowledge when interpreting the bounds.
 
+K then authorized the scenario-table addition while asking to discuss Section 3.1 further.
+He found the undefined “realization,” the delayed statement that reconstruction is automatic,
+and the interleaving of computational and physical accounts confusing. Explain what the
+retained-input computational model guarantees before stating its record condition; distinguish
+that guarantee from the sufficiency of a chosen smaller record and from physical applicability.
+Use an actual retained-input example when discussing a complementary record equal to the
+null output; do not suggest that a counterfactual answer can be appended by definition.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
