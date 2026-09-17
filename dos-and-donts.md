@@ -459,17 +459,22 @@ complete that single-output argument before introducing transfer to a separately
 world variable. Treat grounding as an optional extension there, not a required link in the
 main argument; clearer definitions alone do not repair misplaced conceptual emphasis.
 
-K then asked whether the conservation law (the two-way determination of complete states
-under a deterministic reversible law) really plays no role, after I had said twice that
-reversibility "enters no proof". I had checked only which displays the proofs cite. The
-reconstruction condition is the backward half of that law applied to the world (the regulated
-episode's record determines the initial world), and computability of the null output is the
-forward half; retaining inputs is Bennett's injective embedding, a form of logical
-reversibility. The Lean hypotheses of `closure_by_construction` are these two halves. Without
-them the residual is still a description cost but need not be located in any record, so the
-title's list is not exhaustive. Practice: before saying a premise plays no role, trace where
-each theorem's hypotheses are discharged, not only what the proof text cites; distinguish
-"not used by this identity" from "not used by the paper".
+K then asked whether the conservation law (two-way determination of complete states under
+computable deterministic reversible dynamics) really plays no role after the review had
+said reversibility "enters no proof". Trace how the reconstruction hypothesis is supplied,
+not only which equations a proof cites. Reversible complete-state recovery and the fixed
+null protocol provide a route; retained world descriptions provide the current construction.
+General reversibility recovers the initial state from the complete joint final state, not
+necessarily from the world-side record alone: information can move into regulator memory.
+The Lean closure lemma assumes its recoverability and computability hypotheses rather than
+deriving them from dynamics. Input retention preserves input/output distinctions; it does
+not by itself make every intermediate transition reversible. Keep these scopes explicit
+while preserving conservation as the organizing scientific argument.
+
+K prefers keeping GART with the expansion Global Algorithmic Regulator Theorem. The proposed
+revision assigns that name to the main balance and retains grounding as a later measurement
+extension. He requested a shorter paper: consolidate repeated constructions and derivations,
+while preserving the distinct examples, theorem interpretations, and qualifications.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
