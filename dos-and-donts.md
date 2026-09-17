@@ -202,6 +202,8 @@ the mathematical questions follow from that motivation.
 K then clarified that these slides need their own working-paper record in Calliope. Register
 the presentation as a dedicated WP of kind `slides`, with its editable source, PDF, notes,
 and consistent authorship, rather than leaving it only as a local presentation project.
+K subsequently accepted Beamer for this deck. Keep the native Beamer source and compiled PDF
+in the dedicated WP, with the selected figures and question sequence preserved.
 
 K subsequently clarified the organizing questions: assuming KT's Experience–mathematics stance,
 which structures can be defined along the dynamics–program–algorithm–function ladder, and when
