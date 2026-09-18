@@ -487,6 +487,11 @@ K then recalled the existing whole-system symbol Omega and proposed S_W, S_R, an
 for the component and joint states. Reuse that system notation with explicit time indices.
 He is continuing annotations in the Entropy source; preserve and incorporate those comments
 before regenerating the journal copy from the canonical manuscript.
+K then found Sections 4.1–4.3 long and difficult to follow after GART, and asked what each
+adds. Identify each subsection's distinct consequence before revising: initial-information
+inference, allocation among episode records, and sustained regulation with a fixed regulator.
+Make the first inference immediate; shorten repeated rearrangements and move limiting machinery
+out of the main argument while preserving the bounded-memory interpretation and examples.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
