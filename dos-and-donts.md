@@ -501,6 +501,15 @@ The comment-by-comment report existed, but the delivery linked only the PDFs. Li
 explicitly when delivering an annotated-manuscript revision, say whether replies are inline or
 separate, and identify suggestions that were qualified on mathematical grounds.
 
+K then requested a sharp, short paper and identified a missing positive example of regulation
+through a lossless compressive model. I initially asked the model to generate the entire
+disturbance history. K clarified that the model is already available and can be implicit in a
+thermostat: it predicts that the chosen action brings the next measurement closer to the target.
+Start from that reusable action–outcome relation; do not require full disturbance prediction
+or introduce model acquisition into this example. Explain how the model supports compression
+while distinguishing smaller temperature deviations from a reduction in Kolmogorov complexity.
+Use the example to consolidate the paper, rather than adding another extended section.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly

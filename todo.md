@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's WP0203 thermostat clarification: an available implicit model predicts the effect of action, without requiring the whole disturbance history
 - [x] record K's WP0203 reconstruction corrections and the need to link explicit responses to manuscript comments
 - [x] record K's direction to analyze AI training and self-modeling through KT morality and ME/OF/PE
 - [x] record the WP0231 byline correction and verified Calliope envelope practice
