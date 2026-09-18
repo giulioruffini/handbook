@@ -559,6 +559,11 @@ productive employee's employer cost per hour and total company cost per paid-pro
 Use these definitions, verify period and aggregation, and do not interpret efficiency as a
 generic delivery score or infer FTEs from an assumed working month.
 
+Later that day, K pointed out that the reporting specification also needed Excel
+templates for David and Aureli to submit their updates. Practice: accompany a
+recurring data request with usable input templates, field definitions and basic
+checks. Reuse existing exports so the templates do not create duplicate entry work.
+
 ### 2026-09-18 — Brain-plot is explicit-only
 
 K asked to stop loading brain-plot by default. Set its Codex skill policy
