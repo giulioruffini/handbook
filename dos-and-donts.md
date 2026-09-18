@@ -558,3 +558,9 @@ T1/T2 revenue per project hour divided by 100 euros/hour. Preserve separate meas
 productive employee's employer cost per hour and total company cost per paid-project hour.
 Use these definitions, verify period and aggregation, and do not interpret efficiency as a
 generic delivery score or infer FTEs from an assumed working month.
+
+### 2026-09-18 — Brain-plot is explicit-only
+
+K asked to stop loading brain-plot by default. Set its Codex skill policy
+`allow_implicit_invocation: false`; keep it available through an explicit
+`$brain-plot` request. Preserve this setting in later skill updates.
