@@ -483,6 +483,10 @@ joint state, reading the initial world program and data, and running the specifi
 Separate fixed rules in C from episode data in W; explain that complete records can determine
 both outputs without making the outputs alone interchangeable or the extra records short.
 Keep these as pending manuscript clarifications while the passage is being discussed.
+K then recalled the existing whole-system symbol Omega and proposed S_W, S_R, and S_Omega
+for the component and joint states. Reuse that system notation with explicit time indices.
+He is continuing annotations in the Entropy source; preserve and incorporate those comments
+before regenerating the journal copy from the canonical manuscript.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
