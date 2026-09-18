@@ -492,6 +492,9 @@ adds. Identify each subsection's distinct consequence before revising: initial-i
 inference, allocation among episode records, and sustained regulation with a fixed regulator.
 Make the first inference immediate; shorten repeated rearrangements and move limiting machinery
 out of the main argument while preserving the bounded-memory interpretation and examples.
+After the dependency review, K requested one short Discussion paragraph on what requires
+conservation, then a review of all completed Entropy comments and a recap before edits.
+Keep this qualification proportionate; preserve direct author edits as well as tagged comments.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
