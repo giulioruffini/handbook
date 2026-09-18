@@ -496,6 +496,11 @@ After the dependency review, K requested one short Discussion paragraph on what 
 conservation, then a review of all completed Entropy comments and a recap before edits.
 Keep this qualification proportionate; preserve direct author edits as well as tagged comments.
 
+After v21 was delivered, K asked where he could see the responses to his LaTeX comments.
+The comment-by-comment report existed, but the delivery linked only the PDFs. Link that report
+explicitly when delivering an annotated-manuscript revision, say whether replies are inline or
+separate, and identify suggestions that were qualified on mathematical grounds.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
