@@ -502,3 +502,12 @@ close → "meeting 2026-07-31"). K corrected this: the meeting on the July 2026 
 on 16 September 2026. Practice: the close date comes from the workbook cover; the meeting date
 comes only from minutes or from K, and is marked "not recorded" otherwise. Keep the two
 labeled separately in the record.
+
+On September 18, K clarified the Starlab metrics omitted from the dashboard review:
+productive FTEs exclude administration, finance, and IT; external rate uses those employees'
+paid T1/T2 project hours over available hours. T1 is public project work, T2 private consultancy,
+and T3 product sales. T1/T2 revenue follows project advancement. Efficiency is recognized
+T1/T2 revenue per project hour divided by 100 euros/hour. Preserve separate measures for each
+productive employee's employer cost per hour and total company cost per paid-project hour.
+Use these definitions, verify period and aggregation, and do not interpret efficiency as a
+generic delivery score or infer FTEs from an assumed working month.
