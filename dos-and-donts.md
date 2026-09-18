@@ -476,6 +476,14 @@ revision assigns that name to the main balance and retains grounding as a later 
 extension. He requested a shorter paper: consolidate repeated constructions and derivations,
 while preserving the distinct examples, theorem interpretations, and qualifications.
 
+On September 18, K found the reconstruction subsection opaque: “decoder,” “unscored world
+coordinates,” clock variables, and the switch from S to s were unexplained, while the warning
+against appending the null output seemed unmotivated. Explain recovery as reversing the complete
+joint state, reading the initial world program and data, and running the specified null episode.
+Separate fixed rules in C from episode data in W; explain that complete records can determine
+both outputs without making the outputs alone interchangeable or the extra records short.
+Keep these as pending manuscript clarifications while the passage is being discussed.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
