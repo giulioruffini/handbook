@@ -509,6 +509,12 @@ Start from that reusable action–outcome relation; do not require full disturba
 or introduce model acquisition into this example. Explain how the model supports compression
 while distinguishing smaller temperature deviations from a reduction in Kolmogorov complexity.
 Use the example to consolidate the paper, rather than adding another extended section.
+K then corrected my exact-precision contraction argument: temperature resolution or tolerance
+is fixed, so smaller swings can be recorded with fewer digits. Start from the same absolute
+quantization grid in both conditions and explain the shorter lossless code for the quantized
+record. Do not silently replace that setting with arbitrarily precise real-valued states.
+Keep explicit code savings distinct from universal claims about Kolmogorov gaps, without
+allowing that qualification to obscure the stated compression mechanism.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
