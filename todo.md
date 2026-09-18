@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] record K's WP0203 thermostat clarification: an available implicit model reduces deviations, and fixed absolute resolution makes smaller swings encodable with fewer digits
+- [x] record K's WP0203 model clarification: retain a lossless model-and-parameters description while simplifying the output; fixed-resolution coding is supporting intuition
 - [x] record K's WP0203 reconstruction corrections and the need to link explicit responses to manuscript comments
 - [x] record K's direction to analyze AI training and self-modeling through KT morality and ME/OF/PE
 - [x] record the WP0231 byline correction and verified Calliope envelope practice

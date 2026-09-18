@@ -515,6 +515,13 @@ quantization grid in both conditions and explain the shorter lossless code for t
 record. Do not silently replace that setting with arbitrarily precise real-valued states.
 Keep explicit code savings distinct from universal claims about Kolmogorov gaps, without
 allowing that qualification to obscure the stated compression mechanism.
+K then clarified that range reduction is not the central insight: a generative model and a
+few parameters can preserve the world's output losslessly, and the regulator can exploit that
+available representation to make the controlled output constant. Center that model-based
+mechanism and retain the compressed description in the information account. Treat fixed-resolution
+range coding as supporting intuition. Distinguish this ideal generative example from the weaker
+action–outcome knowledge sufficient for an ordinary thermostat, without replacing either with
+a discussion of model acquisition or erasure.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
