@@ -528,6 +528,14 @@ diagrams without main-text callouts and the Lean correspondence table without a 
 Audit every visual for a caption, label, and prose reference outside the visual itself.
 Explain the relevant panel or column and inspect placement in both publication formats.
 
+K then made grounding a subsection and questioned what the self-regulation corollary adds.
+For such a review, distinguish a new mathematical restriction from an existing inequality
+applied to a renamed subsystem. Explain when its bound is informative and whether calling
+shared information a self-model establishes representation or use. Match the prominence to
+that contribution, and preserve K's live structural edits while discussing the revision.
+K specified one or two lines for self-regulation and asked for smooth prose. Fold that
+application into a connected discussion; do not replace the removed machinery with fragments.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
