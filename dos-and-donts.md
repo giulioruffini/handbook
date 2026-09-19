@@ -551,8 +551,8 @@ comes only from minutes or from K, and is marked "not recorded" otherwise. Keep 
 labeled separately in the record.
 
 On September 18, K clarified the Starlab metrics omitted from the dashboard review:
-productive FTEs exclude administration, finance, and IT; external rate uses those employees'
-paid T1/T2 project hours over available hours. T1 is public project work, T2 private consultancy,
+productive FTEs exclude administration, finance, and IT; the initial external-rate discussion
+used those employees' paid T1/T2 project hours over available hours. T1 is public project work, T2 private consultancy,
 and T3 product sales. T1/T2 revenue follows project advancement. Efficiency is recognized
 T1/T2 revenue per project hour divided by 100 euros/hour. Preserve separate measures for each
 productive employee's employer cost per hour and total company cost per paid-project hour.
@@ -582,6 +582,11 @@ K then clarified that David already holds employee hours by project or T1/T2
 category and each project's monthly advancement. Request those existing records
 from David; do not ask Aureli to recreate them. Confirm productive-role scope and
 pipeline stage rules with the relevant owners instead of inferring ownership.
+K then clarified that the existing external-rate denominator is unknown: it may
+cover all company hours or only the productive team. Treat productive-team
+available hours as a recommendation pending confirmation, not a verified company
+definition. Ask for both the employee population and the calendar/recorded-hours
+convention before comparing historical rates or applying their targets.
 
 ### 2026-09-18 — Brain-plot is explicit-only
 
