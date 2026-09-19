@@ -400,8 +400,9 @@ Discuss the proposed reframing before changing the manuscript.
 
 On September 19, K again found the abstract too harsh toward ART: it led with what
 the probabilistic inference failed to establish. State ART's achieved bound for
-specified explanations first, then the limitation on aggregate inference. Keep the
-counterexample's technical treatment in the body and appendix.
+specified explanations first, then the limitation on aggregate inference. K subsequently
+added a brief clamp example to that limitation while retaining this order. Preserve that
+balance; keep the counterexample's full technical treatment in the body and appendix.
 
 K then corrected the proposed framing: WP0203 stems from algorithmic-information conservation,
 not from the failed corollary. He requested a readable revision centered on the ART setup and
