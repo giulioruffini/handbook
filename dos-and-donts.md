@@ -535,6 +535,16 @@ shared information a self-model establishes representation or use. Match the pro
 that contribution, and preserve K's live structural edits while discussing the revision.
 K specified one or two lines for self-regulation and asked for smooth prose. Fold that
 application into a connected discussion; do not replace the removed machinery with fragments.
+K approved implementation but cautioned against overdoing the 4.3–4.4 merger. Preserve the
+single-episode and sustained-regulation arguments, with an explicit transition between them;
+combining headings is not permission to discard the examples or limiting qualifications.
+K then found that the Discussion interleaved interpretation, related work, and limits without
+an argument connecting them. Group those functions and place new result-shaped claims beside
+their derivation. When comparing regulator theorems, explain which assumptions exclude a
+mechanism or which terms allow it; distinguish successful suppression from a misleading sensor.
+Keep the Conclusions focused on what is established and the next scientific problem, without
+turning shared information into a functional model claim or making reversibility necessary
+for inequalities that do not assume it.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
