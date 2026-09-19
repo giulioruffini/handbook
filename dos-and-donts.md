@@ -554,6 +554,16 @@ K then asked for a definite position on the universal model-necessity claim and 
 policy, possibly constant; GART bounds shared information and description length under a
 residual restriction. Distinguish a short action–outcome rule, evidence learned from success,
 and a functional model; do not turn any one of these into the others without an argument.
+K then objected that repeated qualifications obscured GART's positive conclusion: a large
+gap with a small residual forces substantial initial information shared with the world.
+Lead with that conclusion, distinguish the amount of shared content from its representation,
+and explain short intervention knowledge as a small-information case. K requested a Discussion
+table comparing regulation criteria, assumptions, and world-model content, and restoration of
+the early motivation for scoring task-relevant outputs by compression. Preserve that motivation
+when shortening; a fixed target, tolerance, and output rule give the comparison its task meaning.
+K also corrected different outcome-measure wording in the ART and GART table rows. Both
+compare the complexity of the selected finite output with its matched null; use identical
+wording and locate their differences in the hypotheses and inference.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
