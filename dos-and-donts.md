@@ -578,6 +578,10 @@ Do not turn a possible data catalog into a mandatory monthly reporting package.
 K chose to first ask David and Aureli how they collect their information, then agree
 the repository handbook and submission workflow. Inspect their existing outputs
 before fixing formats or building another reporting interface.
+K then clarified that David already holds employee hours by project or T1/T2
+category and each project's monthly advancement. Request those existing records
+from David; do not ask Aureli to recreate them. Confirm productive-role scope and
+pipeline stage rules with the relevant owners instead of inferring ownership.
 
 ### 2026-09-18 — Brain-plot is explicit-only
 
