@@ -545,6 +545,10 @@ mechanism or which terms allow it; distinguish successful suppression from a mis
 Keep the Conclusions focused on what is established and the next scientific problem, without
 turning shared information into a functional model claim or making reversibility necessary
 for inequalities that do not assume it.
+K then asked for a deeper comparison grounded in ART's own discussion and the original proofs.
+His claim concerns little initial MAI, not necessarily the absence of every useful short model.
+Check the exact exception-handling assumptions and distinguish a model of a signal class from
+initial knowledge of its realized parameters; controller memory can acquire those during regulation.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
