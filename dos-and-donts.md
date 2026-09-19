@@ -576,6 +576,15 @@ as a possibility within KT, distinguish that theoretical premise from empirical 
 separate changes to self-models, valuation, and permitted reports. Do not treat prompt effects
 as necessarily superficial or assume that every behavioral change identifies an OF change.
 
+### 2026-09-19 — WP0203: no Lean claim in the abstract
+
+I proposed an abstract ending "Core results are machine-checked in Lean 4", after having called
+its absence from v22 acceptable the day before. K questioned it. The check establishes
+consequences of named AIT hypotheses, a boundary an abstract cannot carry; WP0007's submitted
+abstract has no such sentence. Practice: formalization claims go in the Introduction or the
+provenance sections with their qualifier, never in the abstract; and do not reverse a judgment
+between two reads without saying why.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
