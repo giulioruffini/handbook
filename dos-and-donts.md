@@ -412,6 +412,13 @@ question and interpret its result; move the symbol table to an appendix. Valid p
 statements can appear in the main text with proofs in the appendix. Keep the ART correction
 plan separate and ready for the editor's response, without making its history the paper's story.
 
+On September 19, K found v25's probabilistic appendix hard to read and clarified that he
+wanted an ART-like posterior statement conditioned on a small residual. I had given the
+separate independent-sampling result too much prominence. Lead with the requested conditional
+inference, distinguish the gap threshold from a deficit below the gap, and keep the evidence
+normalization explicit. State the deterministic cutoff before an exponential bound that follows
+from it; put more general coding allowances after the readable theorem.
+
 K rejected the new introductory schematic and asked for the original ART diagram or a close
 adaptation from the working-drafts or Overleaf source. Reuse the established diagram, explain
 its notation in the caption, and retain the separate balance figure. Inspect both formats
