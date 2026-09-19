@@ -587,6 +587,12 @@ cover all company hours or only the productive team. Treat productive-team
 available hours as a recommendation pending confirmation, not a verified company
 definition. Ask for both the employee population and the calendar/recorded-hours
 convention before comparing historical rates or applying their targets.
+K confirmed that July's efficiency 1.31 is July T1/T2 revenue divided by July
+project hours and EUR 100/hour. Treat that period definition as settled despite
+the slide labels; reconstructed hours are still approximate because the KPI is
+rounded. K is still identifying the source workbook/report behind F014-C's
+entered ratios. Do not infer that a source file is known or the external-rate
+denominator is resolved.
 
 ### 2026-09-18 — Brain-plot is explicit-only
 
