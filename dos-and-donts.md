@@ -574,6 +574,11 @@ optimization claim and a policy representation from evidence of a planning mecha
 K then asked to remove the Lean 4 statement from the abstract. Keep WP0203's formalization
 details in the data-and-code statement and formalization appendix, without advertising them
 in the abstract.
+K then found the conservation framing weak and allowed a longer abstract to preserve the
+regulator-theorem lineage and the argument. State conservation's role affirmatively: computable
+reversibility preserves recovery of the initial world, so complete regulated records recover
+the null output and locate the residual. Keep the algebraic scope distinction where it is
+needed, without repeated “one sufficient route” phrasing that demotes the organizing premise.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
