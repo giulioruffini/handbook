@@ -564,6 +564,21 @@ templates for David and Aureli to submit their updates. Practice: accompany a
 recurring data request with usable input templates, field definitions and basic
 checks. Reuse existing exports so the templates do not create duplicate entry work.
 
+On September 19, K found the Starlab repository poorly organized. Raw inputs were
+spread across the root and month folders, while reporting deliverables were nested
+inside dashboard code. Practice: give sources, maintained records, reporting
+materials, reference docs and generated output clear homes; update references and
+verify the build when moving files. Preserve originals and keep local residue ignored.
+
+K then found Aureli's template too complex and asked what was needed beyond the
+existing Reporting and CashFlow workbooks. Practice: distinguish the minimum inputs
+for agreed CEO metrics from optional future analyses. Start with existing finance,
+time and payroll/capacity exports; request only missing fields and role changes.
+Do not turn a possible data catalog into a mandatory monthly reporting package.
+K chose to first ask David and Aureli how they collect their information, then agree
+the repository handbook and submission workflow. Inspect their existing outputs
+before fixing formats or building another reporting interface.
+
 ### 2026-09-18 — Brain-plot is explicit-only
 
 K asked to stop loading brain-plot by default. Set its Codex skill policy
