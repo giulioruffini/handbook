@@ -549,6 +549,11 @@ K then asked for a deeper comparison grounded in ART's own discussion and the or
 His claim concerns little initial MAI, not necessarily the absence of every useful short model.
 Check the exact exception-handling assumptions and distinguish a model of a signal class from
 initial knowledge of its realized parameters; controller memory can acquire those during regulation.
+K then asked for a definite position on the universal model-necessity claim and the remote
+“turn on” example. State what the proof forces: Conant–Ashby supplies a deterministic optimal
+policy, possibly constant; GART bounds shared information and description length under a
+residual restriction. Distinguish a short action–outcome rule, evidence learned from success,
+and a functional model; do not turn any one of these into the others without an argument.
 
 ### 2026-09-17 — AI training and morality require the KT framework
 
