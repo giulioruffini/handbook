@@ -523,6 +523,11 @@ range coding as supporting intuition. Distinguish this ideal generative example 
 action–outcome knowledge sufficient for an ordinary thermostat, without replacing either with
 a discussion of model acquisition or erasure.
 
+On September 19, K requested explicit figure and table references after v22 left both
+diagrams without main-text callouts and the Lean correspondence table without a caption.
+Audit every visual for a caption, label, and prose reference outside the visual itself.
+Explain the relevant panel or column and inspect placement in both publication formats.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
