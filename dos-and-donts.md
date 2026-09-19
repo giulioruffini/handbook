@@ -398,6 +398,11 @@ proportionate to its scientific role; let the abstract and conclusion state the 
 results. Preserve the mathematical qualifications and technical correction argument.
 Discuss the proposed reframing before changing the manuscript.
 
+On September 19, K again found the abstract too harsh toward ART: it led with what
+the probabilistic inference failed to establish. State ART's achieved bound for
+specified explanations first, then the limitation on aggregate inference. Keep the
+counterexample's technical treatment in the body and appendix.
+
 K then corrected the proposed framing: WP0203 stems from algorithmic-information conservation,
 not from the failed corollary. He requested a readable revision centered on the ART setup and
 why the chosen output is made simple, an early diagram, a motivated explanation of grounding,
