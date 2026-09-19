@@ -565,6 +565,16 @@ K also corrected different outcome-measure wording in the ART and GART table row
 compare the complexity of the selected finite output with its matched null; use identical
 wording and locate their differences in the hypotheses and inference.
 
+K then identified the lost agency motivation in WP0203's opening and abstract: algorithmic
+agents, ME/OF/PE, and the connection to active inference explain why the regulation inference
+matters. Restore that context compactly and carry it through the abstract and Conclusions.
+Define the gap and state the quantitative result in the abstract before describing reconstruction.
+Preserve the positive world-information inference while distinguishing a coding score from an
+optimization claim and a policy representation from evidence of a planning mechanism.
+K then asked to remove the Lean 4 statement from the abstract. Keep WP0203's formalization
+details in the data-and-code statement and formalization appendix, without advertising them
+in the abstract.
+
 ### 2026-09-17 — AI training and morality require the KT framework
 
 In discussing whether RL could produce psychopathic AI behavior, I framed the question mainly
@@ -584,6 +594,14 @@ consequences of named AIT hypotheses, a boundary an abstract cannot carry; WP000
 abstract has no such sentence. Practice: formalization claims go in the Introduction or the
 provenance sections with their qualifier, never in the abstract; and do not reverse a judgment
 between two reads without saying why.
+
+### 2026-09-19 — WP0203: an unchecked "candidate proposition"
+
+I recorded a reduction-to-zero-regulation identity as a "three chain-rule lines" candidate
+without deriving it. Kaiti's disposition showed a missing bracket and a counterexample; the
+conceptual point survived only in a weaker two-stage form. Practice: before writing "candidate
+proposition", derive it and test it on the XOR example; a proposal file is not exempt from the
+standard applied to the manuscript.
 
 ## Maintenance
 
