@@ -567,6 +567,10 @@ and explain short intervention knowledge as a small-information case. K requeste
 table comparing regulation criteria, assumptions, and world-model content, and restoration of
 the early motivation for scoring task-relevant outputs by compression. Preserve that motivation
 when shortening; a fixed target, tolerance, and output rule give the comparison its task meaning.
+K clarified the visual abstract's wording: use information "initially shared between the
+regulator and the world," and make explicit that the initial term admits preloaded data.
+Distinguish that finite storage case from information acquired during regulation and from
+indefinite accumulation of fresh incompressible data.
 K also corrected different outcome-measure wording in the ART and GART table rows. Both
 compare the complexity of the selected finite output with its matched null; use identical
 wording and locate their differences in the hypotheses and inference.
