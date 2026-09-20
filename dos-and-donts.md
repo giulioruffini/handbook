@@ -653,6 +653,11 @@ edition the journal copy. Cut the Calliope version before uploading, refresh tit
 from the same release, and leave `run_pipeline` (which fires the Zenodo deposit for a public
 paper) to K's explicit authorization.
 
+In the same session, `cut_paper_version` on the public WP0203 record fired the Zenodo deposit by
+itself (10.5281/zenodo.22857526) before any `run_pipeline`: on a public paper the cut's auto-runner
+runs the whole chain, deposit included. Practice: treat a version cut, an upload, and a pipeline run
+on a public paper as a Zenodo deposit and ask K first; stage the files locally and report instead.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
