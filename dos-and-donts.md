@@ -700,3 +700,11 @@ denominator is resolved.
 K asked to stop loading brain-plot by default. Set its Codex skill policy
 `allow_implicit_invocation: false`; keep it available through an explicit
 `$brain-plot` request. Preserve this setting in later skill updates.
+
+### 2026-09-20 — A prepared package is not a submission
+
+K corrected another session's claim that WP0203 v28 had been submitted to Entropy;
+the manuscript was still being revised. The mistaken status had reached the TODO.
+Keep package preparation, validation, and actual submission distinct. Record a
+submission only from K's confirmation or direct evidence, and correct project
+records when a reported status is withdrawn.
