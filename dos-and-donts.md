@@ -669,6 +669,14 @@ commit that contains them and verify with `git cat-file -e <pin>:<path>` before 
 machine-checked; a sync check is only as strong as the tree it reads. Before submission, run the
 pin check on the exact tag being submitted.
 
+### 2026-09-20 — Punctuation before displayed equations
+
+After the WP0203 v32 prose pass, K said he does not like a colon before an equation and prefers a
+comma when possible. Practice: lead into a display with a comma, or with nothing when the sentence
+runs straight on, and let the sentence finish after the display; reserve the colon for a list of
+cases or a display that names an object rather than completing a clause. Recorded in the style book
+(`landau-style.md`, "Displayed equations") and applied to WP0203 as v32.1.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
