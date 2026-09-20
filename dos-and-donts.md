@@ -424,6 +424,10 @@ after the generative example, mechanism table, and sustained-regulation discussi
 Use “probabilistic ART” for the corollary, with no new acronym. Move its statement
 into the main text and retain the proof and probability conventions in the appendix;
 do not insert a second summary theorem or interrupt the deterministic examples.
+K then requested corresponding revisions of the abstract, Introduction, and Conclusions.
+When a result is promoted or repaired, update those summaries together; preserve ART's
+achieved contribution before stating its aggregate limitation and the new conclusion
+conditioned on the residual.
 
 K rejected the new introductory schematic and asked for the original ART diagram or a close
 adaptation from the working-drafts or Overleaf source. Reuse the established diagram, explain
