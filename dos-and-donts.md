@@ -429,6 +429,13 @@ When a result is promoted or repaired, update those summaries together; preserve
 achieved contribution before stating its aggregate limitation and the new conclusion
 conditioned on the residual.
 
+K then rejected my claim that the regulator did not hold a usable, reusable model.
+The model in the generative example is repeatedly used in regulation and also
+compresses the uncontrolled data. Use the algorithmic sense of model developed in
+his 2016 paper and WP0007, including a shared program and meaningful parameters;
+do not impose an extra model criterion through wording. A brief citation is enough
+here; leave the detailed distinctions to those papers.
+
 K rejected the new introductory schematic and asked for the original ART diagram or a close
 adaptation from the working-drafts or Overleaf source. Reuse the established diagram, explain
 its notation in the caption, and retain the separate balance figure. Inspect both formats
