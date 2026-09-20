@@ -419,6 +419,12 @@ inference, distinguish the gap threshold from a deficit below the gap, and keep 
 normalization explicit. State the deterministic cutoff before an exponential bound that follows
 from it; put more general coding allowances after the readable theorem.
 
+On September 20, K accepted “The probabilistic reading” at the end of Section 4,
+after the generative example, mechanism table, and sustained-regulation discussion.
+Use “probabilistic ART” for the corollary, with no new acronym. Move its statement
+into the main text and retain the proof and probability conventions in the appendix;
+do not insert a second summary theorem or interrupt the deterministic examples.
+
 K rejected the new introductory schematic and asked for the original ART diagram or a close
 adaptation from the working-drafts or Overleaf source. Reuse the established diagram, explain
 its notation in the caption, and retain the separate balance figure. Inspect both formats
