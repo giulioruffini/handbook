@@ -658,6 +658,17 @@ itself (10.5281/zenodo.22857526) before any `run_pipeline`: on a public paper th
 runs the whole chain, deposit included. Practice: treat a version cut, an upload, and a pipeline run
 on a public paper as a Zenodo deposit and ask K first; stage the files locally and report instead.
 
+### 2026-09-20 — WP0203: a green sync check did not validate the Lean pin
+
+I registered WP0203 v31 and v31.1 in KTAIT and reported `check_sync.sh` IN SYNC, while the
+provenance pin d00a991 in v30–v31.1 predated `ARTExactForm.lean`, so eight declarations cited in
+Appendix F did not exist at the pinned tree. The check resolved names against HEAD, not the pin. K
+had another session (claude-16) check the Lean side; it produced v31.2 (pin 8c602ff) and added
+`scripts/check_pins.py` as check 8. Practice: when a paper cites new declarations, move the pin to a
+commit that contains them and verify with `git cat-file -e <pin>:<path>` before calling the release
+machine-checked; a sync check is only as strong as the tree it reads. Before submission, run the
+pin check on the exact tag being submitted.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
