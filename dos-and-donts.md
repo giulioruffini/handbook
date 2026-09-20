@@ -642,6 +642,17 @@ conceptual point survived only in a weaker two-stage form. Practice: before writ
 proposition", derive it and test it on the XOR example; a proposal file is not exempt from the
 standard applied to the manuscript.
 
+### 2026-09-20 — WP0203: Calliope holds the BCOM edition, not the neutral preprint
+
+While v31 was being prepared, K found that the Calliope record for WP0203 carried the
+neutral-class `wp0203_preprint` files and said the preprint "should be" in BCOM format before
+going into Calliope. Practice: the file pushed to Calliope as a paper's root source is the BCOM
+edition (`v<N>/bcom/wp0203_bcom.tex` and `.pdf`, the preprint of record), with
+`primary_source_path` pinned to it; the neutral source stays the editing input and the Entropy
+edition the journal copy. Cut the Calliope version before uploading, refresh title and abstract
+from the same release, and leave `run_pipeline` (which fires the Zenodo deposit for a public
+paper) to K's explicit authorization.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
@@ -715,3 +726,17 @@ the manuscript was still being revised. The mistaken status had reached the TODO
 Keep package preparation, validation, and actual submission distinct. Record a
 submission only from K's confirmation or direct evidence, and correct project
 records when a reported status is withdrawn.
+
+### 2026-09-20 — Comparison tables count every result; "MAI" is retired
+
+Updating Table 2 of WP0203, I merged the paper's deterministic theorem
+(Theorem 1) and its probabilistic corollary (Corollary 3) into one GART row and
+wrote "MAI" throughout. K: the paper has two GART results, one deterministic and
+one probabilistic, and "MAI" is obsolete. Before editing a results table, list
+the paper's numbered results and give each its own row; write "shared
+information" or $I_K(W{:}R\mid C)$ in prose, never the abbreviation. The same
+session's Appendix A opener ("restates ..., marks where ..., and adds what ...";
+"Three points are made explicit rather than changed"; a semicolon inventory of
+sections) was rejected as mannered. Write orientation paragraphs as connected
+prose that says what the original proved, what changed, and what is new, in that
+order.
