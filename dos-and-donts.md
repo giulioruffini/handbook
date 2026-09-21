@@ -677,6 +677,15 @@ runs straight on, and let the sentence finish after the display; reserve the col
 cases or a display that names an object rather than completing a clause. Recorded in the style book
 (`landau-style.md`, "Displayed equations") and applied to WP0203 as v32.1.
 
+### 2026-09-21 — WP0203: no unformalized paper-level derivations
+
+After two candidate revisions each added a paper-level derivation to the horizon remark (one with
+a conditioning error, corrected in the next), K said he does not want any more errors in paper
+derivations that are not formalized. Practice: when a revision adds a derivation with AIT content,
+formalize it in KTAIT before it ships, cite the declarations with `\ktait{}`, move the Lean pin to
+the commit that defines them, and register the version; `% ktait: none` is for definitions and
+limiting arguments, not for derivations that Lean can carry.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
