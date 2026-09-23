@@ -686,6 +686,19 @@ formalize it in KTAIT before it ships, cite the declarations with `\ktait{}`, mo
 the commit that defines them, and register the version; `% ktait: none` is for definitions and
 limiting arguments, not for derivations that Lean can carry.
 
+### 2026-09-23 — TN0484: explain in the user's own equations, and count each element once
+
+Discussing Kaiti's note that the QIF adds a "detector penalty" 1/ω_c² on top of access, my first
+three answers said "no second penalty" with new symbols (H_v, K(ω), "fixed excursion") and K said
+he was "very confused" and could not follow, then asked what Q, d, ν, quiescent and inflection
+even were. What worked: writing the argument in his Eq. 7.9 variables (τ v̇ = ... + I + F̂), the
+order of operations (membrane integrates, v² squares, rate reads a slow signal), a table by regime,
+and a plot with the membrane placed in front of both models. Practice: when the claim is that a
+factor is counted twice, first name the physical element and where it sits in the user's own
+equations, then show the ratio, then give the numbers; do not introduce a new symbol before its
+physical meaning is stated; and never call a bounded change of coefficient a "penalty" or a roll-off
+a "detector property" without saying which time constant produces it.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
