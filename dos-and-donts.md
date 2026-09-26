@@ -104,6 +104,10 @@ strong emergence, undecidability, and model acquisition, so it supplies context 
 K then objected to the extensively rewritten abstract and said not to worry so much about
 length. Preserve the submitted abstract's wording and sequence, making only the changes needed
 for correctness; an earlier word-count target does not justify broad rewriting.
+K also corrected a passive-observer contrast and a theorem reference inserted before the
+result was introduced. A projection specifies retained distinctions, not whether the observer
+acts; put the common proof-mechanism discussion after the results. Explain separately where
+unboundedness lies in the observed-system family and in the observer's available memory.
 
 On September 15, in the WP0216 program discussion, K objected to using APB before expanding
 and explaining it, and to an abstract closing question about compact rules versus episode
