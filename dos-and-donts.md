@@ -101,6 +101,9 @@ On September 26, K requested a full redlined candidate after the revision guide 
 the examples and concept table contribute. Keep new insertions economical; state each example's
 purpose before its bit accounting. Organize the table by the questions behind weak emergence,
 strong emergence, undecidability, and model acquisition, so it supplies context for the paper.
+K then objected to the extensively rewritten abstract and said not to worry so much about
+length. Preserve the submitted abstract's wording and sequence, making only the changes needed
+for correctness; an earlier word-count target does not justify broad rewriting.
 
 On September 15, in the WP0216 program discussion, K objected to using APB before expanding
 and explaining it, and to an abstract closing question about compact rules versus episode
