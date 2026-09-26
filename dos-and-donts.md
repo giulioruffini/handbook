@@ -97,6 +97,11 @@ a technical restriction prevents beside the restriction. A clean build and a reg
 not substitute for reading the argument. WP0007 v0.31.10 applies this correction with redlines and
 a fidelity review preserving the scientific distinctions, examples, proofs, and valued figures.
 
+On September 26, K requested a full redlined candidate after the revision guide and asked what
+the examples and concept table contribute. Keep new insertions economical; state each example's
+purpose before its bit accounting. Organize the table by the questions behind weak emergence,
+strong emergence, undecidability, and model acquisition, so it supplies context for the paper.
+
 On September 15, in the WP0216 program discussion, K objected to using APB before expanding
 and explaining it, and to an abstract closing question about compact rules versus episode
 records. Spell out Algorithmic Persistence Balance before using the acronym and explain its
