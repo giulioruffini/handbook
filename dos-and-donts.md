@@ -112,6 +112,11 @@ K then found Section 5.3 still unreadable: it named a glider and added a registe
 defining the experiment. Establish the state space, update rule, observation map, horizon,
 and initial conditions first; explain a named pattern only after its system exists on the
 page. Give the reader enough setup to reconstruct the example before presenting bit counts.
+K then asked for a simpler account with the agent's objective stated explicitly and one
+successful case alongside a failure. Start with the task the model serves; distinguish useful
+prediction from the compression certificate. Prefer an analytic toy and a small complete ledger
+when these explain the point; implementation byte counts and simulations should serve that
+explanation rather than determine it.
 K also endorsed Klaus’s finding that the candidate had weakened the self-model clause and
 removed the intelligibility/compression gloss. Restore valued claims and qualify them locally;
 a reviewer’s request for distinctions does not authorize replacing the paper’s motivation.
