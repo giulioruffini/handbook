@@ -108,6 +108,13 @@ K also corrected a passive-observer contrast and a theorem reference inserted be
 result was introduced. A projection specifies retained distinctions, not whether the observer
 acts; put the common proof-mechanism discussion after the results. Explain separately where
 unboundedness lies in the observed-system family and in the observer's available memory.
+K then found Section 5.3 still unreadable: it named a glider and added a register before
+defining the experiment. Establish the state space, update rule, observation map, horizon,
+and initial conditions first; explain a named pattern only after its system exists on the
+page. Give the reader enough setup to reconstruct the example before presenting bit counts.
+K also endorsed Klaus’s finding that the candidate had weakened the self-model clause and
+removed the intelligibility/compression gloss. Restore valued claims and qualify them locally;
+a reviewer’s request for distinctions does not authorize replacing the paper’s motivation.
 
 On September 15, in the WP0216 program discussion, K objected to using APB before expanding
 and explaining it, and to an abstract closing question about compact rules versus episode
