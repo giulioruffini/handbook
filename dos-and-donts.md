@@ -121,6 +121,12 @@ On September 26, K requested a full redlined candidate after the revision guide 
 the examples and concept table contribute. Keep new insertions economical; state each example's
 purpose before its bit accounting. Organize the table by the questions behind weak emergence,
 strong emergence, undecidability, and model acquisition, so it supplies context for the paper.
+On September 27, K rejected the table phrase “closest to the answering question below” and
+asked for a clearer structure. State the compared questions directly, and organize the
+accounts by derivation, model structure, causal influence, and observer acquisition.
+A compressed macromodel can itself support universal computation; acquisition need not
+remove undecidability or a requirement for simulation. Specify the property and the
+unbounded computation involved rather than treating these accounts as exclusive system types.
 K then objected to the extensively rewritten abstract and said not to worry so much about
 length. Preserve the submitted abstract's wording and sequence, making only the changes needed
 for correctness; an earlier word-count target does not justify broad rewriting.
