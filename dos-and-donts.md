@@ -80,6 +80,11 @@ do not treat inefficient implementation as an escape from the intended obstructi
 has not yet been proved for the proposed predictive setting. The WP0007 handoff dated 2026-09-07
 records the agreed direction and the assumptions still to establish.
 
+On September 27, K asked the Introduction to explain why the paper focuses on compression:
+a model that captures regularity supports compression through reuse, while a compressed
+record alone need not expose a reusable parametrization. State both directions in the
+motivation and connect the latter to the certificate’s fixed coordinate roles and reuse.
+
 ### 2026-09-07 — Discussion and note maintenance
 
 During the regularity discussion, K objected to possible manuscript edits and then clarified
@@ -128,6 +133,19 @@ successful case alongside a failure. Start with the task the model serves; disti
 prediction from the compression certificate. Prefer an analytic toy and a small complete ledger
 when these explain the point; implementation byte counts and simulations should serve that
 explanation rather than determine it.
+On September 27, K chose to retain the glider visual and add the CA visual, with short,
+objective-first explanations in Section 5.3 and both complete coding accounts in the appendix.
+Do not frame these complementary examples as replacements for one another; preserve the
+question each answers and distinguish a failed model search from the general discovery barrier.
+K then objected that the shortened examples named Life and numbered rules before introducing
+cellular automata. State the local update mechanism and explain Wolfram's numbering before
+using a rule number; cite Gardner, Wolfram, and Israeli--Goldenfeld where their examples first
+enter. Moving coding details to an appendix must not remove the main text's conceptual setup.
+For code access, K prefers a dedicated public repository for each paper. Apply the
+[BCOM companion policy](../BCOM-handbook/paper-companion-repos.md), adopted September 27:
+its naming, licenses, release binding, and registration are standing decisions. A journal
+supplementary ZIP is a fallback, not a second code home. Repository publication and minting
+a release DOI are distinct actions; record which has actually occurred.
 K also endorsed Klaus’s finding that the candidate had weakened the self-model clause and
 removed the intelligibility/compression gloss. Restore valued claims and qualify them locally;
 a reviewer’s request for distinctions does not authorize replacing the paper’s motivation.
