@@ -127,6 +127,13 @@ accounts by derivation, model structure, causal influence, and observer acquisit
 A compressed macromodel can itself support universal computation; acquisition need not
 remove undecidability or a requirement for simulation. Specify the property and the
 unbounded computation involved rather than treating these accounts as exclusive system types.
+K then found the last column ambiguous: it mixed source definitions, our comparisons, and
+negative qualifications. Keep the table to each account's defining question, and explain our
+comparisons in prose. State the positive connections: compression is shared with effective
+complexity, acquisition can deliver causal macromodels, and a macroscopic theory can make
+prediction cheaper by replacing microscopic simulation with direct calculation or a smaller
+simulation. Give the diagonalization passage an explicit conclusion about uniform guarantees,
+then distinguish it from claims about necessary simulation or logical non-entailment.
 K then objected to the extensively rewritten abstract and said not to worry so much about
 length. Preserve the submitted abstract's wording and sequence, making only the changes needed
 for correctness; an earlier word-count target does not justify broad rewriting.
