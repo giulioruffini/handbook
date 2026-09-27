@@ -134,6 +134,10 @@ complexity, acquisition can deliver causal macromodels, and a macroscopic theory
 prediction cheaper by replacing microscopic simulation with direct calculation or a smaller
 simulation. Give the diagonalization passage an explicit conclusion about uniform guarantees,
 then distinguish it from claims about necessary simulation or logical non-entailment.
+K clarified that the intended unification is Lawvere's theorem as the common abstract basis
+of the diagonal arguments. State that connection first, then identify what each argument
+diagonalizes and which guarantee it excludes; retain the counting result as a separate case.
+Do not replace the unifying claim with only a list of differences between the results.
 K then objected to the extensively rewritten abstract and said not to worry so much about
 length. Preserve the submitted abstract's wording and sequence, making only the changes needed
 for correctness; an earlier word-count target does not justify broad rewriting.
