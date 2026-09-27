@@ -45,6 +45,10 @@ statement before choosing the example. The discovery and optimality theorems giv
 the complete experiment, including its initial state. An illustrative failure to acquire a
 macromodel need not prove the record incompressible. State what the attempted method fails to
 find, and distinguish that finite outcome from the theorem's lack of a uniform guarantee.
+I then presented compression by the known microscopic simulator as an additional caveat.
+K corrected this too: microscopic compression is the starting point of the worked contrast.
+Assess the acquisition of a useful macroscopic description relative to that incumbent;
+do not keep resetting the discussion to whether simulation already provides a description.
 
 ### 2026-09-07 — WP0007 scientific discovery and generation
 
