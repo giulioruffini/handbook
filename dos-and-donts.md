@@ -64,6 +64,10 @@ K found “Every instance is finite; the obstruction is uniformity over unbounde
 The revision names finite records and explains that the limit concerns one algorithm providing
 the guarantees for every finite record, however long. Brevity must preserve the explanation.
 
+On September 27, K found the added abstract clause about a code for past data awkward and
+questioned its value there. Remove that clause while retaining the explanation in the
+Introduction; an important distinction need not interrupt the abstract's established opening.
+
 ### 2026-09-07 — WP0007 regularities and model length
 
 K clarified that scientific discovery concerns usable regularities: a large, clunky model can
