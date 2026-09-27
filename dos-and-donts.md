@@ -38,6 +38,13 @@ The fair-coin-model objection missed K's point about Theorem 1: knowing the micr
 guarantee a substantial lossless compression of the retained record after coarse-graining.
 Distinguish a short description of a probability model from a lossless description of a realized
 record; a statement about the former does not settle a theorem about the latter.
+On September 27, I kept directing the worked-example discussion back to proven incompressibility
+and the shift register. K corrected this: that example already serves the first theorem; the
+other barriers concern finding a compressor and approaching optimality. Read the relevant
+statement before choosing the example. The discovery and optimality theorems give the observer
+the complete experiment, including its initial state. An illustrative failure to acquire a
+macromodel need not prove the record incompressible. State what the attempted method fails to
+find, and distinguish that finite outcome from the theorem's lack of a uniform guarantee.
 
 ### 2026-09-07 — WP0007 scientific discovery and generation
 
