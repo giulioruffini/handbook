@@ -175,6 +175,10 @@ K's follow-up removed a third-party mirror URL from an otherwise complete journa
 and reattached a two-sentence comparison left isolated by consolidation. Keep retrieval
 mirrors in source notes; use publication metadata in the bibliography, and check paragraph
 continuity after moving material.
+K then approved numbering Section 8's three parts and clarifying its transitions, while
+explicitly protecting the existing Section 8.1. Preserve that subsection byte for byte,
+including its table and philosophical and diagonal arguments; renumbering and edits to
+surrounding passages do not authorize a new prose pass on the protected text.
 K then caught an unqualified “true in the standard natural numbers yet unprovable” sentence:
 it silently assumed classical semantics while discussing the dispute over truth itself. State
 that philosophical choice before the example, and label the classical reading explicitly.
