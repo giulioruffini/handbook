@@ -264,6 +264,11 @@ the check must concern Section 8 itself. A preserved theorem or an explanation e
 not enough: map removed passages to their remaining homes within the section and check every
 appendix destination. Restore explanatory links when a bare cross-reference obscures them;
 the implementation-size tradeoff and conservation-to-projection connection needed this repair.
+The subsequent whole-paper audit also treated explicit explanatory emphases as preserved by
+implication. K relayed Klaus's missing-sentence list: the fixed-question comparison with Chalmers,
+variable-relative irreducibility, and compression as measurable reuse. Distinguish exact retention,
+paraphrase, and implication in fidelity reports; do not call implicit coverage equivalent without
+flagging the change. Restore valued emphases economically, with the required scope qualifications.
 
 ### 2026-09-08 — WP0007 final pass: verify everything, and finish the verification
 
