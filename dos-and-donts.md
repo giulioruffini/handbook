@@ -171,6 +171,10 @@ Lead with the established implication, then explain the additional description-l
 K asked that Li and Bauer remain in the main text as evidence for the unifying comparison,
 without a new Entropy footnote, and that preemptive qualifications be removed. Keep the
 supporting routes visible and state their scope without answering hypothetical objections.
+K's follow-up removed a third-party mirror URL from an otherwise complete journal citation
+and reattached a two-sentence comparison left isolated by consolidation. Keep retrieval
+mirrors in source notes; use publication metadata in the bibliography, and check paragraph
+continuity after moving material.
 K then caught an unqualified “true in the standard natural numbers yet unprovable” sentence:
 it silently assumed classical semantics while discussing the dispute over truth itself. State
 that philosophical choice before the example, and label the classical reading explicitly.
