@@ -160,6 +160,10 @@ what the cited extension supplies, then identify the separate encoding estimate;
 a literature-wide absence of reductions from the sources checked. Preserve the distinction
 between no uniform constructor and no derivation for an individual instance when explaining
 classical and constructive readings.
+K subsequently supplied the exact-K/halting reductions, verified against Chaitin, Arslanov,
+and Calude (1995) and Forster et al. (2022), Section 11. Distinguishing Berry proofs from
+fixed-point presentations must not suggest unrelated sources of uncomputability: distinguish
+Turing equivalence, quantitative encoding bounds, and a direct categorical formulation.
 K then caught an unqualified “true in the standard natural numbers yet unprovable” sentence:
 it silently assumed classical semantics while discussing the dispute over truth itself. State
 that philosophical choice before the example, and label the classical reading explicitly.
