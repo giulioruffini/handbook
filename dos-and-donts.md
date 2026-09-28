@@ -143,6 +143,19 @@ definition. Separate finite diagonal obstructions (including Wolpert's basic inf
 from computability barriers over unbounded families. Use an author's defined term when
 attributing a criterion: Bedau defines a weakly emergent macrostate, allowing properties and
 patterns of behavior within that term; our own discussion may still speak of behavior.
+K then found that the Chalmers comparison stated only what undecidability does not imply.
+State the positive connection first: truths may exceed the deductive reach of a specified
+description. Explain which premises, proof rules, and notion of consequence are involved,
+and separate this philosophical interpretation from a theorem or an attributed author position.
+K also corrected an unsupported identification of the Berry-type proofs with Lawvere's theorem.
+Shared diagonal structure is not a supplied formal reduction. Check which cases a cited source
+actually treats; Yanofsky lists Berry among future directions. Say a reduction is absent here,
+not that the problem remains globally open, unless the latter has been established.
+K then supplied Li (2019), which treats a Berry construction in Lawvere’s framework.
+Check later literature before inferring a present gap from an older paper’s future directions,
+and distinguish a published formulation from a verified reduction of our own results.
+K’s philosophy reference was J. D. Hamkins, not Stephen Hawking; verify an uncertain author
+name from the subject and bibliography before pursuing a guessed identification.
 K then objected to the extensively rewritten abstract and said not to worry so much about
 length. Preserve the submitted abstract's wording and sequence, making only the changes needed
 for correctness; an earlier word-count target does not justify broad rewriting.
