@@ -154,6 +154,17 @@ not that the problem remains globally open, unless the latter has been establish
 K then supplied Li (2019), which treats a Berry construction in Lawvere’s framework.
 Check later literature before inferring a present gap from an older paper’s future directions,
 and distinguish a published formulation from a verified reduction of our own results.
+K's subsequent literature check distinguished generalized fixed-point results from Lawvere's
+original theorem and diagonal structure from quantitative description-length bounds. State
+what the cited extension supplies, then identify the separate encoding estimate; do not infer
+a literature-wide absence of reductions from the sources checked. Preserve the distinction
+between no uniform constructor and no derivation for an individual instance when explaining
+classical and constructive readings.
+K then caught an unqualified “true in the standard natural numbers yet unprovable” sentence:
+it silently assumed classical semantics while discussing the dispute over truth itself. State
+that philosophical choice before the example, and label the classical reading explicitly.
+Explain a proof interpretation as a meaning of truth, not merely a limit on access to a truth
+already assumed; distinguish constructive proof from provability in one fixed formal system.
 K’s philosophy reference was J. D. Hamkins, not Stephen Hawking; verify an uncertain author
 name from the subject and bibliography before pursuing a guessed identification.
 K then objected to the extensively rewritten abstract and said not to worry so much about
