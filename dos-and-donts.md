@@ -164,6 +164,10 @@ K subsequently supplied the exact-K/halting reductions, verified against Chaitin
 and Calude (1995) and Forster et al. (2022), Section 11. Distinguishing Berry proofs from
 fixed-point presentations must not suggest unrelated sources of uncomputability: distinguish
 Turing equivalence, quantitative encoding bounds, and a direct categorical formulation.
+K then emphasized the valid implication from Lawvere's diagonal principle through halting
+undecidability to the uncomputability of exact K. A derivation by reduction is a derivation;
+do not require a direct categorical presentation before acknowledging this connection.
+Lead with the established implication, then explain the additional description-length estimates.
 K then caught an unqualified “true in the standard natural numbers yet unprovable” sentence:
 it silently assumed classical semantics while discussing the dispute over truth itself. State
 that philosophical choice before the example, and label the classical reading explicitly.
