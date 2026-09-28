@@ -259,6 +259,12 @@ delete goodies." Practice: when integrating a Kaiti bundle, take the additive hu
 cut-only hunks by default; a "modest abridgement" K agreed to is not a license to halve a section.
 Also: K's live edits can leave broken LaTeX (a deleted \end{equation}); build before trusting.
 
+On September 28, K asked whether streamlining Section 8 had lost content and clarified that
+the check must concern Section 8 itself. A preserved theorem or an explanation elsewhere is
+not enough: map removed passages to their remaining homes within the section and check every
+appendix destination. Restore explanatory links when a bare cross-reference obscures them;
+the implementation-size tradeoff and conservation-to-projection connection needed this repair.
+
 ### 2026-09-08 — WP0007 final pass: verify everything, and finish the verification
 
 K asked for a final pre-submission pass ("make sure all equations are correct, all statements"). The
