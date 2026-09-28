@@ -138,6 +138,11 @@ K clarified that the intended unification is Lawvere's theorem as the common abs
 of the diagonal arguments. State that connection first, then identify what each argument
 diagonalizes and which guarantee it excludes; retain the counting result as a separate case.
 Do not replace the unifying claim with only a list of differences between the results.
+On September 28, K asked where unboundedness enters and corrected our attribution of Bedau's
+definition. Separate finite diagonal obstructions (including Wolpert's basic inference limits)
+from computability barriers over unbounded families. Use an author's defined term when
+attributing a criterion: Bedau defines a weakly emergent macrostate, allowing properties and
+patterns of behavior within that term; our own discussion may still speak of behavior.
 K then objected to the extensively rewritten abstract and said not to worry so much about
 length. Preserve the submitted abstract's wording and sequence, making only the changes needed
 for correctness; an earlier word-count target does not justify broad rewriting.
