@@ -165,6 +165,11 @@ it silently assumed classical semantics while discussing the dispute over truth 
 that philosophical choice before the example, and label the classical reading explicitly.
 Explain a proof interpretation as a meaning of truth, not merely a limit on access to a truth
 already assumed; distinguish constructive proof from provability in one fixed formal system.
+K subsequently required the Chalmers comparison to separate truth in an intended structure from
+consequence of specified axioms. In classical first-order logic, consequence across all models
+and provability coincide; Gödelian incompleteness does not separate them. Keep the WP0007
+connection on microscopic determination versus uniform model construction, without treating
+failure of a uniform procedure as absence of constructions in particular cases.
 K’s philosophy reference was J. D. Hamkins, not Stephen Hawking; verify an uncertain author
 name from the subject and bibliography before pursuing a guessed identification.
 K then objected to the extensively rewritten abstract and said not to worry so much about
