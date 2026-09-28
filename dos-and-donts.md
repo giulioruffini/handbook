@@ -195,6 +195,15 @@ records. Spell out Algorithmic Persistence Balance before using the acronym and 
 reconstruction premise. State the intended scientific distinction with a concrete example;
 do not introduce an unexplained research question as the program's central question.
 
+On September 28, K could not follow the rewritten Chalmers passage in Section 8.1, which spoke
+of "interpretive commitments", "the deductive base", and "the chosen notion of existence"
+without first saying what question they answer. K's own plain statement: Chalmers asks whether
+higher-level facts follow from lower-level facts, and the answer turns on the classical versus
+constructive reading of "follow". Lead a philosophical comparison with that one-sentence
+question and the fork it opens; put the technical distinctions after it. Check the labels: the
+view that truth exists without proof or construction is classical (realist), and intuitionism is
+a form of constructivism, not its opposite.
+
 ### 2026-09-07 — WP0007 v0.31.10 readability pass removed key material
 
 Kaiti's readability pass fixed the Introduction's jargon previews but moved the telehomeostasis
@@ -878,3 +887,16 @@ session's Appendix A opener ("restates ..., marks where ..., and adds what ...";
 sections) was rejected as mannered. Write orientation paragraphs as connected
 prose that says what the original proved, what changed, and what is new, in that
 order.
+
+### 2026-09-24 — GALVANI deck restyle went overboard
+
+K asked to adjust the colors and font of the GALVANI 2026 talk deck to match the Galvani
+template, "don't go crazy, just adjust the colors and font". The first pass replaced the whole
+palette with the template's saturated theme colors: full-yellow title and closing slides, pink and
+yellow card fills, red and mustard type. K found it unreadable and cringeworthy and asked to go
+back to the prior deck with minor tweaks. Practice: when matching a brand palette, keep the
+existing structure, neutral type colors, backgrounds and pale tints; move only the accent hues,
+at the darkness the original roles already had, so contrast is unchanged; treat a template's
+vivid accents as fills for small elements, never as page backgrounds or type; change one thing
+per role and stop. A "minor tweak" request means the result should be hard to tell apart from
+the original at a glance.
