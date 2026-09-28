@@ -168,6 +168,9 @@ K then emphasized the valid implication from Lawvere's diagonal principle throug
 undecidability to the uncomputability of exact K. A derivation by reduction is a derivation;
 do not require a direct categorical presentation before acknowledging this connection.
 Lead with the established implication, then explain the additional description-length estimates.
+K asked that Li and Bauer remain in the main text as evidence for the unifying comparison,
+without a new Entropy footnote, and that preemptive qualifications be removed. Keep the
+supporting routes visible and state their scope without answering hypothetical objections.
 K then caught an unqualified “true in the standard natural numbers yet unprovable” sentence:
 it silently assumed classical semantics while discussing the dispute over truth itself. State
 that philosophical choice before the example, and label the classical reading explicitly.
