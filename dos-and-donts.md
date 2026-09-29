@@ -64,6 +64,14 @@ inference raises the probability of that state without new evidence. Show the po
 odds calculation before discussing safeguards. A future preference can also propagate
 back through joint inference; temporal labeling alone does not prevent that influence.
 
+K then asked for the motivation and equations connecting FE, VFE, EFE, and
+homeostatic priors. My repeated distinction between VFE and EFE left the
+reactive-control construction underexplained. Show how one VFE can drive
+belief updating and physical action through different variables, then explain
+what changes when scoring prospective policies with EFE. Use a continuous
+worked example to connect the goal prior, prediction errors, and control;
+do not equate VFE exclusively with modeling or EFE with the planner itself.
+
 ### 2026-09-07 — WP0007 figures and revision scope
 
 The revision replaced the original observer-chain Figure 2 and colored barrier Figure 4, removed
