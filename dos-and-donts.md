@@ -59,6 +59,10 @@ K clarified that AIF encodes desired states as priors. My distinction between be
 and preferences made goal priors sound external to the generative model. Confirm their
 inclusion in the model first; distinguish their roles without denying that inclusion.
 Assess any distortion of current-state inference from the particular construction.
+K then pressed the hydration example: a desired-state prior used in current-state
+inference raises the probability of that state without new evidence. Show the posterior
+odds calculation before discussing safeguards. A future preference can also propagate
+back through joint inference; temporal labeling alone does not prevent that influence.
 
 ### 2026-09-07 — WP0007 figures and revision scope
 
