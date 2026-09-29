@@ -42,6 +42,11 @@ I then made the distinction between posterior inference and policy selection sou
 like a boundary of FE's validity. K questioned that framing. FE can also recover the
 optimal policy when formulated for the intended control model with an exact auxiliary
 posterior; assess the specified construction rather than FE-based action in general.
+My subsequent reference to an "exact auxiliary posterior" left its role unexplained,
+leading K to ask whether Moreno's FE setup was incorrect. Name the distinct problems:
+the original policy-dependent model and the fixed-prior control-as-inference target.
+Moreno explicitly acknowledges that substitution in Section 2.2; the exact variational
+identity for the original model supplies no computational shortcut by itself.
 
 ### 2026-09-07 — WP0007 figures and revision scope
 
