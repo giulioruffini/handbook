@@ -47,6 +47,10 @@ leading K to ask whether Moreno's FE setup was incorrect. Name the distinct prob
 the original policy-dependent model and the fixed-prior control-as-inference target.
 Moreno explicitly acknowledges that substitution in Section 2.2; the exact variational
 identity for the original model supplies no computational shortcut by itself.
+K then asked what the surrogate's failure contributes unless its choice is natural or
+canonical. Establish the method's literature basis and distinguish known results from
+the paper's added comparison; differing objectives alone do not justify a broad FE/AIF
+critique without showing that the compared method is meant to optimize the stated goal.
 
 ### 2026-09-07 — WP0007 figures and revision scope
 
