@@ -22,6 +22,15 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Recorded incidents
 
+### 2026-09-29 — HMM objective choice and surrogate optimization
+
+K questioned the reading note's opening comparison of success probability with expected
+log-success: different objective functions are legitimate choices, so their disagreement
+alone supplies no criticism. State the premise first: a method is being assessed as a
+surrogate for an already specified objective. Distinguish choosing another objective from
+failing to optimize the intended one; superiority is relative to the chosen criterion.
+Keep this clarification under discussion before revising the note or referee report.
+
 ### 2026-09-07 — WP0007 figures and revision scope
 
 The revision replaced the original observer-chain Figure 2 and colored barrier Figure 4, removed
