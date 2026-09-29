@@ -51,6 +51,10 @@ K then asked what the surrogate's failure contributes unless its choice is natur
 canonical. Establish the method's literature basis and distinguish known results from
 the paper's added comparison; differing objectives alone do not justify a broad FE/AIF
 critique without showing that the compared method is meant to optimize the stated goal.
+K then asked for the actual AIF policy-selection procedure; I had compared formulations
+before explaining the procedure. Describe prediction under candidate plans, preferences
+and information gain in G, policy weights, action selection, and belief updating. Keep
+this expected-FE procedure distinct from Moreno's fixed success-posterior projection.
 
 ### 2026-09-07 — WP0007 figures and revision scope
 
