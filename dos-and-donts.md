@@ -55,6 +55,10 @@ K then asked for the actual AIF policy-selection procedure; I had compared formu
 before explaining the procedure. Describe prediction under candidate plans, preferences
 and information gain in G, policy weights, action selection, and belief updating. Keep
 this expected-FE procedure distinct from Moreno's fixed success-posterior projection.
+K clarified that AIF encodes desired states as priors. My distinction between beliefs
+and preferences made goal priors sound external to the generative model. Confirm their
+inclusion in the model first; distinguish their roles without denying that inclusion.
+Assess any distortion of current-state inference from the particular construction.
 
 ### 2026-09-07 — WP0007 figures and revision scope
 
