@@ -31,6 +31,18 @@ surrogate for an already specified objective. Distinguish choosing another objec
 failing to optimize the intended one; superiority is relative to the chosen criterion.
 Keep this clarification under discussion before revising the note or referee report.
 
+K then found the terminal Bellman explanation confusing and requested a correction.
+Explain that beta measures success on the remaining time interval: its terminal value
+is one because no future targets remain, not because the full episode has succeeded.
+K also emphasized WP0028's posterior-approximation objective and AIF's usual pragmatic
+and epistemic combination. Distinguish posterior inference from policy selection, name
+the variable being optimized, and identify which evidence terms remain constant. Do not
+equate action entropy with information gain or suggest that AIF has no OF.
+I then made the distinction between posterior inference and policy selection sound
+like a boundary of FE's validity. K questioned that framing. FE can also recover the
+optimal policy when formulated for the intended control model with an exact auxiliary
+posterior; assess the specified construction rather than FE-based action in general.
+
 ### 2026-09-07 — WP0007 figures and revision scope
 
 The revision replaced the original observer-chain Figure 2 and colored barrier Figure 4, removed
