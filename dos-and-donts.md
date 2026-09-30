@@ -32,6 +32,16 @@ the distinction between the observer's pattern model, the physical organization
 it tracks, and any model implemented by the observed agent. A retention map does
 not compensate for removing this premise from the reader's main route.
 
+K then rejected the proposed skeleton and asked for a careful reading of v17.4's
+ideas and logical flow before further shortening. My reorganization had moved
+agency ahead of regulation, weakening the explanation for introducing agency.
+Reconstruct the manuscript's argument before proposing a structure: observer-side
+patterns and persistence, regulatory support and graded agency, information
+balances, collective organization, and experiments. Explain how each step motivates
+the next; preserve mathematical qualifications without letting them replace the
+positive scientific argument. Defer length targets while that argument is under
+discussion.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
