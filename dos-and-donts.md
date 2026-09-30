@@ -22,6 +22,15 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Recorded incidents
 
+### 2026-09-30 — WP0240 study coverage and device aliases
+
+K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
+trial was present under Woodham's author name, but the source index did not name the device.
+A fresh audit found omitted home, personalized-tDCS, targeting, and 2026 pooled studies.
+Index device and trial aliases alongside author-year citations. Cross-check the trial lists
+in recent syntheses against primary reports, distinguish companion reports from independent
+cohorts, and treat source-accuracy review and coverage review as separate tasks.
+
 ### 2026-09-29 — HMM objective choice and surrogate optimization
 
 K questioned the reading note's opening comparison of success probability with expected
