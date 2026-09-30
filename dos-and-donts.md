@@ -31,6 +31,11 @@ Index device and trial aliases alongside author-year citations. Cross-check the 
 in recent syntheses against primary reports, distinguish companion reports from independent
 cohorts, and treat source-accuracy review and coverage review as separate tasks.
 
+K then pointed out that the preprint PDF was still stale after the research notes were pushed.
+When updating a preprint, incorporate the evidence into the manuscript and bibliography, rebuild
+the named PDF, and verify the version in that artifact before reporting the repository current.
+Keep audit-only notes and a completed manuscript revision distinct in status reports.
+
 ### 2026-09-29 — HMM objective choice and surrogate optimization
 
 K questioned the reading note's opening comparison of success probability with expected
