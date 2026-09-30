@@ -96,6 +96,14 @@ what changes when scoring prospective policies with EFE. Use a continuous
 worked example to connect the goal prior, prediction errors, and control;
 do not equate VFE exclusively with modeling or EFE with the planner itself.
 
+K approved the six referee comments and requested a reachability reference, the
+direction of the surrogate's risk bias, and promotion of the safe-range correction
+into the maximum-occupancy comment. Anchor an established-result objection to a
+specific source and put a false technical motivation with the section it motivates.
+Distinguish expected-log risk aversion from optimism under success conditioning.
+Recompute the expected objective when changing a stopping convention; discarding
+fatal-step rewards does not automatically make the surviving action scores equal.
+
 ### 2026-09-07 — WP0007 figures and revision scope
 
 The revision replaced the original observer-chain Figure 2 and colored barrier Figure 4, removed
