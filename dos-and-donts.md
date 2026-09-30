@@ -104,6 +104,16 @@ Distinguish expected-log risk aversion from optimism under success conditioning.
 Recompute the expected objective when changing a stopping convention; discarding
 fatal-step rewards does not automatically make the surviving action scores equal.
 
+K clarified that the report's opening should identify surrogate fidelity for a
+specified goal as the mathematical contribution, with homeostasis as the motivating
+application. Do not frame that result as a distinctive principle of telehomeostasis.
+K also questioned removal of the KT paragraph, then requested the published KT
+reference at the beginning. Keep the general algorithmic-agent setting as context
+for the distinction between modeling, the intended objective, and policy selection.
+Scope the demonstrated failure to Moreno's surrogate; the framework does not itself
+guarantee optimal control. Distinguish scientific relevance from a mandatory citation
+request, and do not treat relevant self-citation as automatically inappropriate.
+
 ### 2026-09-07 — WP0007 figures and revision scope
 
 The revision replaced the original observer-chain Figure 2 and colored barrier Figure 4, removed
