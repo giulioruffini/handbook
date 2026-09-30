@@ -22,6 +22,16 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Recorded incidents
 
+### 2026-09-30 — WP0216 observer-centric premise
+
+K found that the proposed WP0216 abstract mentioned observational scale without
+stating the premise that a pattern is a model in an observer, as developed with
+WP0007. Keep that premise explicit in the abstract and opening argument; explain
+the observer's model construction before persistence and causal support. Preserve
+the distinction between the observer's pattern model, the physical organization
+it tracks, and any model implemented by the observed agent. A retention map does
+not compensate for removing this premise from the reader's main route.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
@@ -1010,3 +1020,56 @@ at the darkness the original roles already had, so contrast is unchanged; treat 
 vivid accents as fills for small elements, never as page backgrounds or type; change one thing
 per role and stop. A "minor tweak" request means the result should be hard to tell apart from
 the original at a glance.
+
+### 2026-09-28 — Companion repository citation
+
+I reported the missing Zenodo DOI for the WP0007 companion repository as a blocker before the
+Entropy upload. K corrected this: a GitHub repository does not need a DOI; the manuscript cites
+the repository URL with a pinned commit, and that is the citation. Do not add DOI minting for
+code repositories to submission checklists. A DOI belongs to the paper deposit, not to the repo.
+
+### 2026-09-29 — Wolpert and the diagonal family
+
+K asked why the Discussion does not say that Wolpert's inference limits also rest on the diagonal
+argument, and noted that we keep going back and forth. The oscillation came from using "diagonal
+argument" and "instance of Lawvere's theorem" as if they were one claim. They are two: Wolpert's
+proofs are diagonal (he calls them higher-order versions of the liar paradox and Cantor's
+diagonalization), but weak inference has not been cast as the exact representation Lawvere's
+hypothesis requires, so no reduction to the theorem is on record. State membership in the
+diagonal family positively and once; reserve "instance of Lawvere's theorem" for cases with a
+published casting (Yanofsky for Cantor, halting, Gödel, Tarski; Li's Berry construction).
+Do not reopen the question without a new source.
+
+### 2026-09-29 — Folder reorganization without an instruction
+
+K asked what two top-level folders were doing in `~/Claude` and, on hearing a proposal for a
+`companions/` folder, said a clearer name would be `github-paper-companions` and that KTAIT is
+also WP0195's companion. I read this as authorization to move both the WP0007 companion clone
+and the KTAIT repository and began preparing the move. K corrected this: nothing was to be
+moved, and KT-LEAN stays where it is. A remark about a name, or an observation about what a
+folder is, is not an instruction to act on the filesystem. Answer the question asked; propose
+the move as one line; move only on an explicit "do it".
+
+### 2026-09-30 — WP0239 claims corrected before the first commit
+
+Kaiti's review, relayed by K, corrected four claims in the proposed KT-versus-AIF paper.
+A linear information bonus is not an upper bound on the value of information: the Pinsker
+bound is through a square root, and a 60%-correct binary signal has decision value 0.1
+against 0.0201 nats of mutual information. Check a bound's functional form before drawing
+a surrogate conclusion from it. A proper-subclass claim needs defined agent classes and
+permitted representations; squared loss and success probability are encodable as
+preferences, so state the inclusion as an interpretation and name what cannot be encoded.
+Criticize the specified coupling of a preference into state estimation, not active
+inference as such. A resource-bounded reading is a hypothesis that needs an explicit
+computational cost model; mutual information is not automatically cheaper than decision
+value. Do not infer "truism" from "not falsifiable": conditional statements have content.
+
+### 2026-09-30 — Harvested documents untracked by a generic repository rule
+
+K asked me to harvest open documents on the Flow FL-100 approval. I downloaded the FDA
+approval order, SSED, labeling, and the trial protocol and SAP into the WP0240 repository,
+then untracked them because the references README said publisher PDFs are ignored. K found
+the PDFs missing from the repository. "Harvest" means the collected documents go into the
+repository; a rule written for copyrighted publisher PDFs does not cover public regulatory,
+registry, or manufacturer documents. Track them, and if a repository rule seems to forbid it,
+say so in one line and ask rather than undoing the deliverable.
