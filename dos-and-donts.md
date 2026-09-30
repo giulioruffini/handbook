@@ -113,6 +113,9 @@ for the distinction between modeling, the intended objective, and policy selecti
 Scope the demonstrated failure to Moreno's surrogate; the framework does not itself
 guarantee optimal control. Distinguish scientific relevance from a mandatory citation
 request, and do not treat relevant self-citation as automatically inappropriate.
+K then asked for subtler attribution: introduce the general agent setting in the
+opening and cite the published KT paper as an example, without naming KT in the
+main sentence. Keep the conceptual distinction prominent and the attribution light.
 
 ### 2026-09-07 — WP0007 figures and revision scope
 
