@@ -976,6 +976,13 @@ For Raul's single-neuron TI draft, K requested brief conceptual feedback, especi
 increasing channel conductance improves demodulation or resonance, with an off-resonance
 comparison. Keep cellular resonance distinct from circuit resonance and avoid expanding
 this request into a comprehensive review or an unrequested manuscript revision.
+K then corrected my continued use of the original somatic QIF time scale: his
+proposal is to shorten the effective carrier-access scale by 10–100×, motivated
+by fast nanostructures. Assess that revised model, including any changes to its
+operating point and resonance; do not reintroduce the original time scale as an
+objection to the proposal. Treat the shorter scale as a modeling hypothesis.
+Raul's feedback should center K's conductance comparison and the Palop/Iaccarino
+connection rather than additional criticisms found during the review.
 
 ## Maintenance
 
