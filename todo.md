@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] record K's TI research priorities, proposed 10–100× shorter effective QIF time scale, and requested focus of feedback for Raul
+- [x] record K's TI research priorities, faster effective QIF proposal, and request for both his suggested points and additional paper-specific feedback for Raul
 - [x] make brain-plot explicit-only and record K's preference against default loading
 - [x] record K's WP0203 model clarification: retain a lossless model-and-parameters description while simplifying the output; fixed-resolution coding is supporting intuition
 - [x] record K's WP0203 reconstruction corrections and the need to link explicit responses to manuscript comments

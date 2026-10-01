@@ -983,6 +983,10 @@ operating point and resonance; do not reintroduce the original time scale as an
 objection to the proposal. Treat the shorter scale as a modeling hypothesis.
 Raul's feedback should center K's conductance comparison and the Palop/Iaccarino
 connection rather than additional criticisms found during the review.
+After receiving the letter, K explicitly requested further comments on Raul's paper.
+Expand the review when asked: add concrete, prioritized findings tied to claims,
+figures, or methods, with proportionate fixes. Brief conceptual feedback should
+still contribute paper-specific analysis rather than only restating K's suggestions.
 
 ## Maintenance
 
