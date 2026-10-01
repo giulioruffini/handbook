@@ -53,6 +53,10 @@ K then proposed describing patterns as reusable descriptions discovered by an
 observer and persistence as their successful continued reuse. Preserve the
 empirical success requirement and connect it to physically realized regulation;
 repeating an observer's model without continued fit is not persistence evidence.
+K then emphasized that one physical system can support different patterns, such
+as a human organism and its cells. Explain how the observer's choice of focal
+region and coarse-graining selects the identity whose persistence and regulatory
+support are being assessed.
 
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
