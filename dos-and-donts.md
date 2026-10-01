@@ -967,6 +967,16 @@ equations, then show the ratio, then give the numbers; do not introduce a new sy
 physical meaning is stated; and never call a bounded change of coefficient a "penalty" or a roll-off
 a "detector property" without saying which time constant produces it.
 
+On October 1, I made a proposed detector-discrimination experiment the next step after
+K's conversation with Nir Grossman. K corrected the research state: explain the candidate
+access route through fast nanostructures; determine which single-neuron demodulation
+mechanisms a population transfer functional represents; retain resonance and amplification;
+count membrane filtering once. Treat that experiment as my suggestion, not an agreed plan.
+For Raul's single-neuron TI draft, K requested brief conceptual feedback, especially whether
+increasing channel conductance improves demodulation or resonance, with an off-resonance
+comparison. Keep cellular resonance distinct from circuit resonance and avoid expanding
+this request into a comprehensive review or an unrequested manuscript revision.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
