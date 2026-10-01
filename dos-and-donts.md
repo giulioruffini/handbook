@@ -49,6 +49,10 @@ the focal identity, variables, and criterion are observer-relative. Distinguish
 physical realization from internalization within a chosen boundary. Recognizing
 or modeling a regulator does not itself perform regulation or establish that
 the observed system implements the observer's model.
+K then proposed describing patterns as reusable descriptions discovered by an
+observer and persistence as their successful continued reuse. Preserve the
+empirical success requirement and connect it to physically realized regulation;
+repeating an observer's model without continued fit is not persistence evidence.
 
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
