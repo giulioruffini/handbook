@@ -42,6 +42,14 @@ the next; preserve mathematical qualifications without letting them replace the
 positive scientific argument. Defer length targets while that argument is under
 discussion.
 
+On October 1, K asked whether the observer-centric account places regulation in
+the observer's mind or in the observed system. State the bridge explicitly:
+regulation is attributed to physically realized system--environment dynamics;
+the focal identity, variables, and criterion are observer-relative. Distinguish
+physical realization from internalization within a chosen boundary. Recognizing
+or modeling a regulator does not itself perform regulation or establish that
+the observed system implements the observer's model.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
