@@ -1001,6 +1001,12 @@ paper. Keep this reference distinct from Semenov's field-induced charging study;
 do not substitute a related source for the intended one. Cite Raul's WP0242 draft
 with its actual manuscript status when connecting cellular tuning to WP0185.
 
+K then rejected making a new periaxonal-circuit model the next task. Search existing
+work for short time constants and for Grossman's use of Cohen's mechanism, then
+assess a shorter effective membrane time constant in QIF. Keep this reduced-model
+analysis separate from a new double-cable implementation; do not assign that larger
+modeling project to K as a prerequisite for testing his hypothesis.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
