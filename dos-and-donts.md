@@ -1007,6 +1007,13 @@ assess a shorter effective membrane time constant in QIF. Keep this reduced-mode
 analysis separate from a new double-cable implementation; do not assign that larger
 modeling project to K as a prerequisite for testing his hypothesis.
 
+K then pointed out that a fast effective membrane puts NMM2 in its established
+slow-synapse limit, with a static population transfer curve and dynamic synapses.
+Lead with that reduction rather than treating parameter recalibration as a new
+conceptual obstacle. Distinguish being fast relative to synapses from being fast
+enough to track the carrier, and distinguish surviving synaptic network resonance
+from the membrane-dependent modes eliminated by the reduction.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
