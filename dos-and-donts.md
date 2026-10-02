@@ -994,6 +994,13 @@ WP0242 and moved the review repository to its own working_drafts folder. Practic
 give a distinct collaborator manuscript its own WP record when requested, keep its
 feedback there, and make the connection to Giulio's separate WP0185/TN0484 explicit.
 
+K then recalled the second paper from the Grossman discussion and clarified that
+the nanostructure was beneath myelin. The earlier TI mechanisms note identifies
+Cohen et al. (2020), on the periaxonal nanocircuit, alongside Luff's neuron-mixer
+paper. Keep this reference distinct from Semenov's field-induced charging study;
+do not substitute a related source for the intended one. Cite Raul's WP0242 draft
+with its actual manuscript status when connecting cellular tuning to WP0185.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
