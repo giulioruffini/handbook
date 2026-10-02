@@ -22,6 +22,17 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Recorded incidents
 
+### 2026-10-02 — NE technical notes are created in the TN app, not numbered by hand
+
+I numbered a new NE technical note TN0496 from a Drive title search and was about to copy it
+into the Technical Notes shared drive by hand. K: the proper way to create TNs is the
+Neuroelectrics TN app (AppSheet, TNApp), which assigns the number and creates the Drive folder
+(the registry's Folder_Id column). Practice: never pick a TN number from a search or deposit a
+TN folder by hand; ask K to create the record in the app, then renumber if needed and copy the
+build into the folder the app created. Say plainly when a tool such as an authenticated web
+app cannot be used from the session. K also asked whether the white paper's delay was a round
+trip: distinguish arrival, processing, and forward latency explicitly before quoting a loop figure.
+
 ### 2026-09-30 — WP0216 observer-centric premise
 
 K found that the proposed WP0216 abstract mentioned observational scale without
@@ -538,6 +549,16 @@ a concrete closing research question. Replace repeated companion-paper announcem
 “partly understood” with specific results and limits, and preserve Structured Experience in
 the reportability distinction. A style preference for declarative headings does not override
 K's chosen question-led structure. This calls for local changes, not another general rewrite.
+
+On October 2, K refined the WP0215 v0.5 plan: organize the revision around invariance
+under physically admissible transformations and equivalences, rather than locating
+phenomenology at one level. Realization branches and algorithmic equivalence is not unique.
+Use the ladder as a pedagogical family of comparisons; ask for a coarsest admissible
+feature-preserving equivalence without assuming a unique one exists. Failed descent shows
+that a description is insufficient under the feature hypothesis, not which omitted relation
+is constitutive. Preserve the symmetry between behavioral agreement and substrate difference,
+label the composition-independence preference as a theoretical position, treat positive and
+negative AI reports through the same evidence requirements, and consolidate rather than append.
 
 ### 2026-09-14 — WP0229 conclusion blurred the solved and open problems
 
@@ -1167,3 +1188,16 @@ the PDFs missing from the repository. "Harvest" means the collected documents go
 repository; a rule written for copyrighted publisher PDFs does not cover public regulatory,
 registry, or manufacturer documents. Track them, and if a repository rule seems to forbid it,
 say so in one line and ask rather than undoing the deliverable.
+
+### 2026-10-01 — Calliope Dock app sign-in: built on an unobserved failure point
+
+K reported that the Safari Dock web app would not let him into Calliope while Chrome
+worked. Laptop forensics (cookie jars, histories, WebKit tracking records) showed the
+flow reaching Google and never returning, and I attributed that to the OAuth callback
+landing on the API host, outside the web app's scope. On "fix it" I shipped a
+portal-hosted callback with new settings. K's screenshot then showed Google's own
+block page: the OAuth client is internal to the bcom.one Workspace and the Dock app's
+Google session was his gmail account. Practice: when the failing step is unobserved,
+ask for the screen or the error text before building; a cheap fix for the likeliest
+hypothesis is not a reason to skip the one observation that decides between them.
+State explicitly which hypothesis the fix assumes and what evidence would refute it.
