@@ -988,6 +988,12 @@ Expand the review when asked: add concrete, prioritized findings tied to claims,
 figures, or methods, with proportionate fixes. Brief conceptual feedback should
 still contribute paper-specific analysis rather than only restating K's suggestions.
 
+On October 2, K corrected the filing: Raul's manuscript and Giulio's comments belong
+in a separate Calliope WP, not inside TN0484's private review folder. Registered
+WP0242 and moved the review repository to its own working_drafts folder. Practice:
+give a distinct collaborator manuscript its own WP record when requested, keep its
+feedback there, and make the connection to Giulio's separate WP0185/TN0484 explicit.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
