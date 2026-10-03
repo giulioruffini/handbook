@@ -31,6 +31,9 @@ role in the argument, dependencies, and examples or ideas to retain; explain why
 step follows. Keep the abstract aligned with that progression and make the destination of
 valuable material explicit if it moves to an appendix or companion paper. Use this shared
 inspection document to establish the scientific flow before optimizing length.
+The practice is packaged as the `paper-storyline` skill
+(`~/.claude/skills/paper-storyline/`, October 3): abstract in one source file, section map in
+LaTeX, PDF under `build/storyline/`, decisions for K listed, nothing cut before approval.
 
 ## Recorded incidents
 
