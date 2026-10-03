@@ -96,6 +96,15 @@ The accepted PLR proposal's 14,000–16,000-word promise is a target, not a lice
 to cut; where content does not fit, report the conflict rather than resolve it by
 cutting.
 
+K then corrected my interpretation of Francesca's abstract annotations. Her
+unclear "Under fixed..." sentence needs a better connection from conservation
+to the balance, rather than removal. Introduce the Algorithmic Persistence
+Balance as this paper's contribution before expecting readers to know it.
+Her "good!" refers specifically to the biological-life sentence. K summarized
+the feedback as approval of the opening and closing, with the middle harder to follow. Tie each
+annotation to its stated passage and preserve the underlying idea while
+improving the explanation.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
