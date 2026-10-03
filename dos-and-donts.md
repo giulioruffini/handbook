@@ -110,6 +110,14 @@ the physical question and its scientific stakes first: recognizable organization
 through continual change connects persistence to robustness, individuality, and
 agency. Follow it immediately with the observer-centered pattern definition.
 
+K then clarified that relativity theory is physically grounded in books, neural
+organization, and digital records, much as an apple is grounded in its physical
+substrate. Observer-relative identification must not imply that the organization
+exists only in the observer's mind. Explain the substrate's constraints on
+successful descriptions and the possibility of recognition by other suitably
+informed observers. Preserve the role of coarse-graining and interpretation;
+physical grounding does not select a unique pattern or confer agency by itself.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
