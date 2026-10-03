@@ -105,6 +105,11 @@ the feedback as approval of the opening and closing, with the middle harder to f
 annotation to its stated passage and preserve the underlying idea while
 improving the explanation.
 
+K then asked for a context sentence before the abstract's definitions. Establish
+the physical question and its scientific stakes first: recognizable organization
+through continual change connects persistence to robustness, individuality, and
+agency. Follow it immediately with the observer-centered pattern definition.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
