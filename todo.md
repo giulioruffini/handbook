@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record abstract-plus-storyline planning as the default for WPs and TNs, link it from the writing guide, and add WP0215/TN0484 follow-ups — 2026-10-03
 - [x] record K's TI research priorities, faster effective QIF proposal, and requirement to keep Raul's manuscript and feedback in their own Calliope WP
 - [x] make brain-plot explicit-only and record K's preference against default loading
 - [x] record K's WP0203 model clarification: retain a lossless model-and-parameters description while simplifying the output; fixed-resolution coding is supporting intuition

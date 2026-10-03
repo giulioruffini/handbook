@@ -1,6 +1,6 @@
 # Dos and don'ts
 
-This records K's corrections to the way we collaborate. Read it before substantive work.
+This records K's preferences and corrections to the way we collaborate. Read it before substantive work.
 K's current instructions take precedence; keep scientific corrections tied to their stated scope.
 
 ## Working rules
@@ -19,6 +19,18 @@ K's current instructions take precedence; keep scientific corrections tied to th
   interpretation before polishing the wording. Explain a disagreement with reasons.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
+
+## Abstract and storyline planning
+
+On October 3, 2026, K endorsed WP0216's abstract-plus-storyline document as the default
+planning approach for all working papers and technical notes, explicitly including WP0215
+and TN0484 / WP0185. Before substantial drafting or revision, prepare a concise abstract
+and a section-by-section argument map in editable LaTeX with a compiled PDF. For an existing
+paper, read the latest manuscript carefully first. Map each section's scientific content,
+role in the argument, dependencies, and examples or ideas to retain; explain why the next
+step follows. Keep the abstract aligned with that progression and make the destination of
+valuable material explicit if it moves to an appendix or companion paper. Use this shared
+inspection document to establish the scientific flow before optimizing length.
 
 ## Recorded incidents
 

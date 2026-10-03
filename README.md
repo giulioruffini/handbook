@@ -18,6 +18,8 @@ on 2026-09-07). The GitHub repository remains `giulioruffini/handbook`.
 
 Read and maintain [dos-and-donts.md](dos-and-donts.md) as directed by
 [AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md). K's current instructions take precedence.
+The [abstract and storyline practice](dos-and-donts.md#abstract-and-storyline-planning)
+applies across working papers and technical notes.
 
 Claude Code, Codex, Kaiti: when drafting or revising a manuscript with me, follow
 `writing/HOW_TO_WRITE_A_GOOD_PAPER.md` — architecture before prose, one-pass Introduction,

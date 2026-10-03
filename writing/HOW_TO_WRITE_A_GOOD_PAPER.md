@@ -29,6 +29,10 @@ and a scientifically literate non-specialist can still follow at the level of th
 
 ## 2. Architecture before prose
 
+The [abstract and storyline practice](../dos-and-donts.md#abstract-and-storyline-planning)
+is the default planning step for working papers and technical notes. Use WP0216's paired
+abstract and argument map as the example; the preference record gives the maintained procedure.
+
 Do not begin a serious revision by polishing sentences. First reconstruct the paper as a sequence
 of intellectual moves. For each section, write one sentence answering:
 
