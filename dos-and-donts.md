@@ -1084,6 +1084,15 @@ conceptual obstacle. Distinguish being fast relative to synapses from being fast
 enough to track the carrier, and distinguish surviving synaptic network resonance
 from the membrane-dependent modes eliminated by the reduction.
 
+On October 3, I continued to foreground whether QIF reproduces specific channel
+kinetics. K clarified that the paper concerns weak-field TI, where cellular
+nonlinearities should be represented by an effective quadratic mixing response;
+suprathreshold TI is outside its explanatory scope. Lead with that effective
+description and use QIF as a concrete realization. Do not turn microscopic
+identification or an HH comparison into a prerequisite. Retain the mathematical
+conditions: a smooth response and a nonzero second-order term; low amplitude
+alone does not remove memory or fix the coefficient's frequency dependence.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
