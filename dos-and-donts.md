@@ -81,6 +81,18 @@ as a human organism and its cells. Explain how the observer's choice of focal
 region and coarse-graining selects the identity whose persistence and regulatory
 support are being assessed.
 
+On October 3, K agreed with my assessment of the October 1 argument map and the
+proposed plan changes, with two corrections. I had cited Dirk De Ridder's remark
+that he struggled with "telehomeostasis" as evidence for renaming or retitling; K
+said to ignore it. Leave outside correspondents' casual remarks out of plan and
+terminology decisions unless K brings them in. On length, K wants a succinct and
+clear paper, but content takes precedence: cuts must be content-preserving
+(repetition, merged duplicates, relocated derivations). Removing an explanation,
+example, qualification, or result needs K's agreement for that specific removal.
+The accepted PLR proposal's 14,000–16,000-word promise is a target, not a license
+to cut; where content does not fit, report the conflict rather than resolve it by
+cutting.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
