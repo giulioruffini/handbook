@@ -217,6 +217,13 @@ not substitute for the requested persistence-through-turnover point. K also aske
 convey how a compressive model ingests a bit stream without losing its algorithmic
 information. Explain rule, parameters, and lossless residual with a concrete example;
 distinguish shorter representation from erased information and count model updates.
+K clarified that K3's emphasis is the balance's model channel: substantial structured
+observational input can be accommodated through a compact model update, with little
+additional description cost when the unexplained residual is also small. Lead with this
+role of learning in bounded persistence; generic lossless recoding alone misses his point.
+Keep raw input length distinct from algorithmic novelty and count the model plus residual.
+For K6, K requested one statement per philosopher, each stating the relevant connection;
+compress the historical passage to that scale rather than expanding its genealogy.
 
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
