@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's WP0196 direction for persistent form through material turnover and K3's lossless-model explanation — 2026-10-04
 - [x] record K's authorization to continue independent WP0216 revisions while WP0218 proceeds, and the four-paper family — 2026-10-04
 - [x] record WP0218 abstract repairs, delegated placement, Klaus's BCOM transfer, and the WP0007/WP0203/WP0216/WP0218 family — 2026-10-04
 - [x] record WP0216 K3 readability corrections and K's K1–K6 preferences, including their deferral until the WP0218 strategy is settled — 2026-10-04
