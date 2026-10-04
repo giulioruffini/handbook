@@ -35,6 +35,13 @@ The practice is packaged as the `paper-storyline` skill
 (`~/.claude/skills/paper-storyline/`, October 3): abstract in one source file, section map in
 LaTeX, PDF under `build/storyline/`, decisions for K listed, nothing cut before approval.
 
+On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
+information,” state what the localization coordinates measure before naming the
+profile, and state the consequence of bounded storage rather than paraphrasing
+the bound. Practice: explain the result in words and preserve its conditioning
+and allowances. K delegated the section-placement choice to Kaiti; record the
+chosen placement and its reason without reopening the decision.
+
 ## Paper folder layout and versions
 
 On October 4, 2026, K approved the extended `PAPER_FOLDER_LAYOUT.md` (BCOM WPs and Blogs) as
@@ -58,6 +65,10 @@ with the exact version or commit, a bounded task, expected evidence, and any edi
 restrictions. Use Klaus for useful independent checks or separable work, continue
 the remaining work meanwhile, and distinguish an offered handoff from work he has
 actually accepted or completed.
+
+For WP0218 that day, K assigned Klaus the BCOM-format transfer and related
+production work. Separate that assignment from the scientific drafting; keep
+the folder migration at the agreed version cut and coordinate concurrent edits.
 
 ### 2026-10-04 — Open access goes through repositories, never through article fees
 

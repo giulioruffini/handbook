@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record WP0218 abstract repairs, delegated section placement, and Klaus's BCOM transfer assignment — 2026-10-04
 - [x] record WP0216 K3 readability corrections and K's K1–K6 preferences, including their deferral until the WP0218 strategy is settled — 2026-10-04
 - [x] record abstract-plus-storyline planning as the default for WPs and TNs, link it from the writing guide, and add WP0215/TN0484 follow-ups — 2026-10-03
 - [x] record K's TI research priorities, faster effective QIF proposal, and requirement to keep Raul's manuscript and feedback in their own Calliope WP
