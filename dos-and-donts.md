@@ -57,6 +57,18 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-04 — Do not edit files unless told; the session in charge owns the folder
+
+As Klaus, the helper on WP0218, K asked me to revise the language of the abstract and
+Highlights. I overwrote the single-source abstract Kaiti had just revised, patched her storyline
+driver, README, and todo, and a commit of mine swept her uncommitted README and todo edits
+along. K: in general, do not edit files unless told; Kaiti is in charge. Practice: in a helper
+session, "revise" means propose the text in the reply or in my own dated notes folder; the
+session in charge installs it. Never write to another session's live sources, planning files,
+README, or todo, and never `git add` a path that session has in flight; check `git status` for
+its uncommitted work before every commit. Reviews and support notes go under
+`notes/<date>_klaus/` only.
+
 ### 2026-10-04 — Offer concrete work for Klaus
 
 During the TN0484 repair, K asked that I routinely identify work Klaus can do and
@@ -177,6 +189,12 @@ argument. K reaffirmed the companion-paper strategy: strengthen WP0218 as a stan
 mathematical reference so WP0216 can concentrate on its conceptual synthesis. Establish
 which results the public companion actually contains before relocating material or citing it.
 
+K then made the family explicit: WP0007, WP0203, WP0216, and WP0218 belong
+together. Show all four when describing the program and align their shared
+observer/model vocabulary, while preserving each paper's question and scope.
+Do not present WP0218 solely as technical support for WP0216 or omit WP0007
+from the companion map.
+
 K's subsequent K1–K6 reading reaffirmed physical grounding for theories as well as material
 objects and rejected “passive” as loaded and unclear in the proton/cat comparison. Describe
 tested capacities positively rather than surrounding the minimal case with defensive prose.
@@ -185,6 +203,12 @@ claim and philosophical context, recover the sharper earlier wording and the Ari
 William James connections, then check their sources. K asked to defer these edits until
 the WP0218 strategy is settled; retain the feedback without treating it as an immediate
 instruction to revise those passages.
+
+Once WP0218 work was underway separately, K authorized continuing WP0216's independent
+conceptual revisions and requested new homework for himself and Klaus. Proceed with
+those revisions while reserving dependent mathematical changes for the reviewed companion.
+K identified WP0007, WP0203, WP0216, and WP0218 as a paper family: keep each contribution
+and its imports explicit, with each paper readable independently.
 
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
