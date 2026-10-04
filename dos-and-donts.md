@@ -37,6 +37,17 @@ LaTeX, PDF under `build/storyline/`, decisions for K listed, nothing cut before 
 
 ## Recorded incidents
 
+### 2026-10-04 — Open access goes through repositories, never through article fees
+
+I suggested that SYNERGIA could pay the PLR article charge. K: the standing policy is to
+release every paper publicly through Zenodo, arXiv, or bioRxiv and never to pay open-access
+fees; this satisfies the Commission. Practice: for a Horizon Europe paper, plan the green
+route only: deposit the accepted manuscript (or published version) in Zenodo at publication,
+immediately, under CC BY, with the grant number in the metadata, and put the rights-retention
+sentence in the submission so a publisher embargo cannot block it. Hybrid-journal charges
+are not eligible costs anyway. Never propose an APC.
+
+
 ### 2026-10-02 — NE technical notes are created in the TN app, not numbered by hand
 
 I numbered a new NE technical note TN0496 from a Drive title search and was about to copy it
@@ -117,6 +128,12 @@ exists only in the observer's mind. Explain the substrate's constraints on
 successful descriptions and the possibility of recognition by other suitably
 informed observers. Preserve the role of coarse-graining and interpretation;
 physical grounding does not select a unique pattern or confer agency by itself.
+
+On October 4, K asked for passages requiring his attention to be marked in a
+different color in the next paper copy. Provide a separate review PDF with
+colored passages, labeled review prompts, and a brief legend; retain a clean
+manuscript. Mark scientific decisions for K, and record routine corrections in
+the change record so that color remains a useful reading guide.
 
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
