@@ -224,6 +224,9 @@ role of learning in bounded persistence; generic lossless recoding alone misses 
 Keep raw input length distinct from algorithmic novelty and count the model plus residual.
 For K6, K requested one statement per philosopher, each stating the relevant connection;
 compress the historical passage to that scale rather than expanding its genealogy.
+K then asked for those statements to connect to the paper: begin with a pattern's
+continuity under changes at the chosen grain, use the flame as the concrete example,
+and connect that continuity to Aristotle before the observer-side recognition accounts.
 
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
