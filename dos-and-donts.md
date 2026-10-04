@@ -626,6 +626,13 @@ is constitutive. Preserve the symmetry between behavioral agreement and substrat
 label the composition-independence preference as a theoretical position, treat positive and
 negative AI reports through the same evidence requirements, and consolidate rather than append.
 
+On October 4, K confirmed sole journal authorship and BCOM as the main institution, with
+Neuroelectrics and Starlab as additional affiliations. I initially used Neuroelectrics for
+the correspondence address despite listing BCOM first. K reiterated BCOM and his BCOM email.
+Use BCOM for both primary affiliation and correspondence in this submission, with
+giulio.ruffini@bcom.one and the verified BCOM postal address; company affiliations and
+shareholdings belong in the appropriate additional-affiliation and disclosure fields.
+
 ### 2026-09-14 — WP0229 conclusion blurred the solved and open problems
 
 K read the conclusion as suggesting that the general structural problem was solved and asked
