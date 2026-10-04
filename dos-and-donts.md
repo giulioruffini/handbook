@@ -210,6 +210,14 @@ those revisions while reserving dependent mathematical changes for the reviewed 
 K identified WP0007, WP0203, WP0216, and WP0218 as a paper family: keep each contribution
 and its imports explicit, with each paper readable independently.
 
+K then found that the Aristotle paragraph missed the intended continuity of form while
+material constituents change, and directed me to WP0196. Recover that argument before
+polishing the historical connection; an accurate example about an organ's function does
+not substitute for the requested persistence-through-turnover point. K also asked K3 to
+convey how a compressive model ingests a bit stream without losing its algorithmic
+information. Explain rule, parameters, and lossless residual with a concrete example;
+distinguish shorter representation from erased information and count model updates.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
@@ -1358,3 +1366,19 @@ Google session was his gmail account. Practice: when the failing step is unobser
 ask for the screen or the error text before building; a cheap fix for the likeliest
 hypothesis is not a reason to skip the one observation that decides between them.
 State explicitly which hypothesis the fix assumes and what evidence would refute it.
+
+### 2026-10-04 — WP0216 figures: "revise the figures" is not a license to replace artwork
+
+K asked to revise the WP0216 figures, "especially TikZ, for readability, overlaps."
+I measured all six, then redrew Figures 1 and 3 in TikZ and installed both, and drafted
+a TikZ remake of Figure 2 as a proposal. K: "Figures 1 and 2 stay as they are, they are
+artwork... my concern was more about the other ones after." Figure 1 was restored and
+the remakes dropped the same afternoon. The rule already stood at the top of this file
+(preserve figures K values; present a replacement separately unless K requested it);
+the error was reading a request about readability as a request for replacement.
+Practice: artwork figures (Figures 1 and 2 of WP0216, and any figure whose design
+source is not in the repository) are K's; measure and report their type size, never
+reinstall them. "Revise the figures" covers figures with editable sources in
+`figures_src/`; for those, fix the source in place. When the scope of "the figures"
+is unclear, ask which ones before redrawing anything, since redrawing costs more than
+the question.
