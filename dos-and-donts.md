@@ -135,6 +135,24 @@ colored passages, labeled review prompts, and a brief legend; retain a clean
 manuscript. Mark scientific decisions for K, and record routine corrections in
 the change record so that color remains a useful reading guide.
 
+K then found the K3 sentence "Bounded identity alone does not bound a growing model or
+memory" confusing, and Section 6.3 too dependent on appendix references. Explain the
+difference between a stable organizational rule and information accumulated in models or
+memory with a concrete example before introducing the budgets. State the reconstruction
+assumption and consequence locally; keep technical references optional for following the
+argument. K reaffirmed the companion-paper strategy: strengthen WP0218 as a standalone
+mathematical reference so WP0216 can concentrate on its conceptual synthesis. Establish
+which results the public companion actually contains before relocating material or citing it.
+
+K's subsequent K1–K6 reading reaffirmed physical grounding for theories as well as material
+objects and rejected “passive” as loaded and unclear in the proton/cat comparison. Describe
+tested capacities positively rather than surrounding the minimal case with defensive prose.
+Make environmental constraints explicit in collective alignment. Before revising the life
+claim and philosophical context, recover the sharper earlier wording and the Aristotle and
+William James connections, then check their sources. K asked to defer these edits until
+the WP0218 strategy is settled; retain the feedback without treating it as an immediate
+instruction to revise those passages.
+
 ### 2026-09-30 — WP0240 study coverage and device aliases
 
 K asked whether the Flow study and other relevant evidence were missing. The pivotal Flow
