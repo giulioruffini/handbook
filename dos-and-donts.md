@@ -35,7 +35,29 @@ The practice is packaged as the `paper-storyline` skill
 (`~/.claude/skills/paper-storyline/`, October 3): abstract in one source file, section map in
 LaTeX, PDF under `build/storyline/`, decisions for K listed, nothing cut before approval.
 
+## Paper folder layout and versions
+
+On October 4, 2026, K approved the extended `PAPER_FOLDER_LAYOUT.md` (BCOM WPs and Blogs) as
+the one layout and process for every WP and TN: one live `manuscript/`, outputs of the current
+version only in `manuscript/build/` under names derived from the version, every cut archived
+under a dated folder, planning and review passes in fixed places, one umbrella repository per
+area. Migrate an in-flight paper only at its next version boundary, in one commit, never while
+another session or Kaiti has the folder open; heritage folders only when touched. Run
+`scripts/check_layout.py` before and after. The review shelf (`aifollow/review.json`) and the
+Calliope push read a conformant folder without per-paper rules. K also asked for one version
+numbering across papers (WP0215 at v0.5.4, WP0216 at v18, WP0203 at v34.5 differ); the rule is
+in the layout document, rule 4.
+
 ## Recorded incidents
+
+### 2026-10-04 — Offer concrete work for Klaus
+
+During the TN0484 repair, K asked that I routinely identify work Klaus can do and
+ask K to pass it to him, in this and future sessions. Give K a concise copy-paste
+with the exact version or commit, a bounded task, expected evidence, and any edit
+restrictions. Use Klaus for useful independent checks or separable work, continue
+the remaining work meanwhile, and distinguish an offered handoff from work he has
+actually accepted or completed.
 
 ### 2026-10-04 — Open access goes through repositories, never through article fees
 
