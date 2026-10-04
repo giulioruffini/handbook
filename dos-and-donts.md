@@ -1200,6 +1200,11 @@ identification or an HH comparison into a prerequisite. Retain the mathematical
 conditions: a smooth response and a nonzero second-order term; low amplitude
 alone does not remove memory or fix the coefficient's frequency dependence.
 
+On October 4, K relayed Klaus's correction of a 9.61-percentage-point maximum
+reported as 9.7. Round computed estimates to the stated precision (9.6 here);
+use upward rounding only for an explicitly labeled bound. Check displayed values
+against the preserved numerical summary before compiling.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
