@@ -179,6 +179,10 @@ different color in the next paper copy. Provide a separate review PDF with
 colored passages, labeled review prompts, and a brief legend; retain a clean
 manuscript. Mark scientific decisions for K, and record routine corrections in
 the change record so that color remains a useful reading guide.
+K's own marks travel the other way: a shelf PDF he annotates in Preview lands in the paper's
+`notes/<date>_K/` as `<name> annotated.pdf` plus a markdown of the annotations (page, passage,
+his text), with a todo line "act on K's annotations of <date>". Read that note before touching the
+manuscript, and answer each annotation in the change record.
 
 K then found the K3 sentence "Bounded identity alone does not bound a growing model or
 memory" confusing, and Section 6.3 too dependent on appendix references. Explain the
@@ -1397,3 +1401,16 @@ reinstall them. "Revise the figures" covers figures with editable sources in
 `figures_src/`; for those, fix the source in place. When the scope of "the figures"
 is unclear, ask which ones before redrawing anything, since redrawing costs more than
 the question.
+
+### 2026-10-04 — WP0216 figures: K numbers figures as the manuscript does, not as the files are named
+
+Follow-up to the entry above. K's "Figures 1 and 2 stay as they are, they are artwork" meant
+the manuscript's Figures 1 and 2 (pattern persistence and the Algorithmic Agent, files
+Figure_2 and Figure_3); "the other ones after" meant manuscript Figures 3–5 (role-relative
+regulation, global/local conservation, landscape; files Figure_4, Figure_1, Figure_5). I
+read the numbers off the file names, restored the wrong figure, and left the agent figure
+replaced; K: "I think you have swapped Fig 2 with the new one... I want the original one."
+Practice: before touching any figure, print the label-to-number map from the latest
+build's .aux (`grep newlabel{fig: *.aux`) and refer to figures by the manuscript number
+with the label in parentheses. File names in `manuscript/figures/` are historical and do
+not track the order of appearance.
