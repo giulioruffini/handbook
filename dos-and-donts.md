@@ -226,6 +226,13 @@ observational input can be accommodated through a compact model update, with lit
 additional description cost when the unexplained residual is also small. Lead with this
 role of learning in bounded persistence; generic lossless recoding alone misses his point.
 Keep raw input length distinct from algorithmic novelty and count the model plus residual.
+For WP0218, K then asked to center the general account on how a pattern remains stable
+under information exchange with the world. Compressive models explain compact accommodation
+of shared input structure; bounded capacity limits retention of fresh incompressible
+distinctions. Make that positive role visible in the abstract and argument, with acquisition
+charged to later records and predictive success distinguished from compact reconstruction.
+Conservation and localization support this stability question; they do not replace it as
+the paper's organizing problem. WP0216 owns the persistence and agency interpretation.
 For K6, K requested one statement per philosopher, each stating the relevant connection;
 compress the historical passage to that scale rather than expanding its genealogy.
 K then asked for those statements to connect to the paper: begin with a pattern's
