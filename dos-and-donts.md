@@ -70,7 +70,11 @@ beside a numerical budget diagram.
 K then approved the figure but found the example unmotivated. State the
 question it answers before introducing its mechanics: local copying and
 discarding can change where a distinction is recoverable while the joint
-description remains conserved up to the stated coding allowance.
+description remains conserved up to the stated coding allowance. K further
+asked for the conservation principle and three-term split before the gate.
+State the general balance before its instance, define its terms locally,
+and distinguish the exact algebraic identity from conservation up to coding
+overhead.
 
 ## Paper folder layout and versions
 
