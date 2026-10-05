@@ -1447,3 +1447,19 @@ before the next display, and names what each new symbol and qualifier means. A r
 arrives after the next equation, or that only says what the result does not claim, is a
 partial verdict. When delegating an audit, state this test explicitly and spot-check the OK
 verdicts myself before reporting counts.
+
+### 2026-10-05 — WP0216: audit the copy K reads, and "defined above" is not "explained"
+
+Two errors in one audit. (1) I audited the draft12 build I had recompiled myself; K reads
+"WP0216 reading copy for K.pdf" on the review shelf (~/Claude/desk/review/, built from
+manuscript/build/v*/WP0216_v*_preprint_reading.pdf), which was draft13 with different
+equation numbers, so my "Eq. (20)" and his were different equations. (2) K's Eq. (20) was
+the APB; ν_{P,N} is defined 25 lines above it in a paragraph that introduces a dozen
+symbols, the reviewer wrote "all introduced", and K asked "what is nu?". K: "EXPLAIN every
+equation in the paper after you provide it or before."
+Practice: an equation audit is run on the file on the review shelf, cited by that file's
+numbers, never on a build of my own. The standard for every display is an explanatory
+sentence immediately before or after it that says in words what it asserts and restates
+what each symbol in it stands for, even when the symbol was defined earlier. A symbol
+defined in a dense definitions paragraph a page above counts as not explained at the
+display. This replaces the 2026-10-05 "cold read" entry's weaker test.
