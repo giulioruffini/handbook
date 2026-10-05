@@ -1421,3 +1421,17 @@ Practice: before touching any figure, print the label-to-number map from the lat
 build's .aux (`grep newlabel{fig: *.aux`) and refer to figures by the manuscript number
 with the label in parentheses. File names in `manuscript/figures/` are historical and do
 not track the order of appearance.
+
+### 2026-10-05 — WP0216 equation audit: "a reading exists nearby" is not "the equation is explained"
+
+I delivered a 104-display interpretation audit of WP0216 v18.0-draft12 with 80 OK verdicts.
+K: "Eqn 20 left me cold, for example. Check it." Eq. (20), the complete-state conservation
+law, had been passed because a joint sentence three lines down reads (20) and (21) together;
+next to the display itself there was one introducing clause with three unexplained terms
+("sufficiently complete", "signed offset", conditioning on C, F, T) and an unglossed O(1).
+Practice: the test for an equation is a cold read by someone who has not seen the companion
+paper. The sentence that says what the equation asserts, in words, stands directly beside it,
+before the next display, and names what each new symbol and qualifier means. A reading that
+arrives after the next equation, or that only says what the result does not claim, is a
+partial verdict. When delegating an audit, state this test explicitly and spot-check the OK
+verdicts myself before reporting counts.
