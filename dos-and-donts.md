@@ -77,6 +77,8 @@ with the exact version or commit, a bounded task, expected evidence, and any edi
 restrictions. Use Klaus for useful independent checks or separable work, continue
 the remaining work meanwhile, and distinguish an offered handoff from work he has
 actually accepted or completed.
+On October 5, the long task in an asynchronous question was truncated, and K
+asked what to give Klaus. Put the complete copy-paste handoff in a plain reply.
 
 For WP0218 that day, K assigned Klaus the BCOM-format transfer and related
 production work. Separate that assignment from the scientific drafting; keep
@@ -1264,6 +1266,13 @@ On October 4, K relayed Klaus's correction of a 9.61-percentage-point maximum
 reported as 9.7. Round computed estimates to the stated precision (9.6 here);
 use upward rounding only for an explicitly labeled bound. Check displayed values
 against the preserved numerical summary before compiling.
+
+On October 5, K asked for a small fluency improvement and clearer weak-perturbation
+scope, then relayed Klaus's finding that the QIF raster's nominally forced case
+develops off-beat gamma. Classify the stimulated response from its dynamics, not
+only the field-free Hopf location. Label finite-amplitude examples separately
+from weak-input tests, explain what phase folding suppresses, and keep dense
+spike layers light enough for the PDF to display promptly.
 
 ## Maintenance
 
