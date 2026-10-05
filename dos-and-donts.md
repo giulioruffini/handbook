@@ -1343,13 +1343,19 @@ absolute fields, and distinguish a cellular firing threshold from a population H
 Treat the equal-RMS carrier control's predicted outcome as untested until it is run.
 
 Later that day, K rejected the blanket statement that biological access remained
-unresolved: the paper proposes fast axonal compartments and periaxonal circuitry
+unresolved: the paper uses fast axonal compartments and periaxonal circuitry
 as a candidate explanation, while TI-field coupling and human-field calibration
 remain to be measured. K also found this logic missing from the Introduction and
 Cohen's reference absent from the time-constant table. Organize the opening around
 field-to-membrane access, nonlinear detection, and amplification, with the relevant
 mechanisms and sources at each stage. Carry that argument into the abstract and
 Conclusion; distinguish measured axonal decay from an assumed effective TI time.
+K then relayed Klaus's correction that “we propose” misattributed axonal TI
+mechanisms to this paper. Credit the existing single-neuron work; our contribution
+is the effective population representation linking access, mixing, and gain.
+Keep anatomical claims tied to their evidence: nodal rectification in a model,
+axonal excitation and block, and AIS sodium-channel density are distinct results.
+The last of these does not establish the AIS as a TI detector.
 
 ## Maintenance
 

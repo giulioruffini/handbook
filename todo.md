@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] record K's TI access/detection/amplification structure and positive candidate-access framing — 2026-10-05
+- [x] record K's TI access/detection/amplification structure, positive access hypothesis, and attribution of existing axonal mechanisms — 2026-10-05
 - [x] record K's K3 emphasis on compact model updates and K6's concise philosopher/flame connection — 2026-10-04
 - [x] record K's WP0196 direction for persistent form through material turnover and K3's lossless-model explanation — 2026-10-04
 - [x] record K's authorization to continue independent WP0216 revisions while WP0218 proceeds, and the four-paper family — 2026-10-04
