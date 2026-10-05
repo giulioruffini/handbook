@@ -233,6 +233,18 @@ distinctions. Make that positive role visible in the abstract and argument, with
 charged to later records and predictive success distinguished from compact reconstruction.
 Conservation and localization support this stability question; they do not replace it as
 the paper's organizing problem. WP0216 owns the persistence and agency interpretation.
+On October 5, K found draft13's APB and boundary explanations still cryptic and asked
+for a figure like the manuscript's Figure 4, shared with WP0218, and a local verbal
+explanation of every equation. Give the interface its purpose before defining thinness;
+distinguish its short conditional description from physical thickness or bandwidth.
+Explain reuse of model structure, counted updates, and the residual through a concrete
+example. When I described reset as a separate branch, K stressed that every bit remains
+inside the Pattern/World accounting. Under complete reversible dynamics, represent reset
+as local loss with distinguishability retained in the joint physical state, potentially
+in environmental microstates and correlations. Keep usable external records distinct
+from untracked microscopic degrees of freedom; do not depict erasure as an information
+sink or use heat as a synonym for every untracked bit stream. Limited-record recovery
+still requires its stated reconstruction hypothesis.
 For K6, K requested one statement per philosopher, each stating the relevant connection;
 compress the historical passage to that scale rather than expanding its genealogy.
 K then asked for those statements to connect to the paper: begin with a pattern's
