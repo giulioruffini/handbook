@@ -1338,6 +1338,15 @@ comparison; distinguish weak perturbations relative to stability margin from sma
 absolute fields, and distinguish a cellular firing threshold from a population Hopf.
 Treat the equal-RMS carrier control's predicted outcome as untested until it is run.
 
+Later that day, K rejected the blanket statement that biological access remained
+unresolved: the paper proposes fast axonal compartments and periaxonal circuitry
+as a candidate explanation, while TI-field coupling and human-field calibration
+remain to be measured. K also found this logic missing from the Introduction and
+Cohen's reference absent from the time-constant table. Organize the opening around
+field-to-membrane access, nonlinear detection, and amplification, with the relevant
+mechanisms and sources at each stage. Carry that argument into the abstract and
+Conclusion; distinguish measured axonal decay from an assumed effective TI time.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
