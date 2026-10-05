@@ -1286,6 +1286,12 @@ develops off-beat gamma. Classify the stimulated response from its dynamics, not
 only the field-free Hopf location. Label finite-amplitude examples separately
 from weak-input tests, explain what phase folding suppresses, and keep dense
 spike layers light enough for the PDF to display promptly.
+K then emphasized that near-threshold behavior is part of the TI argument and
+connects to Raul's work. My recommendation to replace the larger-amplitude example
+was too narrow. Retain its threshold-crossing evidence alongside a lower-amplitude
+comparison; distinguish weak perturbations relative to stability margin from small
+absolute fields, and distinguish a cellular firing threshold from a population Hopf.
+Treat the equal-RMS carrier control's predicted outcome as untested until it is run.
 
 ## Maintenance
 
