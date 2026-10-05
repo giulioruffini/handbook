@@ -1366,6 +1366,11 @@ the TN and supplement from the same source at an authorized Calliope cut. Stop
 exporting per-edit versioned PDF sets and redlines. Keep one current redline against
 the last version K read, and do not advance that baseline merely because an edit
 was completed. Older snapshots may remain archived.
+For the subsequent whole-paper pass, K specified shortening by de-duplication and
+relocation, with any proposed removal of an explanation, example, qualification,
+or result listed for approval and retained meanwhile. Report per-section word
+counts and keep the reading baseline (draft8 for this pass) distinct from the
+immediate editing baseline.
 
 ## Maintenance
 
