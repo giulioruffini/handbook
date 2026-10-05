@@ -52,6 +52,14 @@ For WP0218, remove display boxes while preserving each equation and explanation.
 Check notation across the full manuscript, figures, captions, and storyline;
 retaining old material does not exempt it from the current presentation rules.
 
+Later that day, K could not follow WP0218's introductory XOR copy: the text
+did not explain what the two registers represented, where the original zeros
+remained recoverable, or why the map was reversible. Define the operation,
+show its inverse, and explain the joint and local budgets beside the example.
+Distinguish a reset of a redundant copy from loss of recoverability in the
+selected records; state any incompressibility and coding-context assumptions
+beside a numerical budget diagram.
+
 ## Paper folder layout and versions
 
 On October 4, 2026, K approved the extended `PAPER_FOLDER_LAYOUT.md` (BCOM WPs and Blogs) as
