@@ -30,7 +30,10 @@ K's policy (2026-10-05): when a session creates something useful that would be l
 laptop died, create a private GitHub repository for it and push, without waiting to be
 asked. The first instance was the peer-message skill (github.com/giulioruffini/peer-message).
 Keep the repository private unless K says otherwise, and keep pushing at natural
-checkpoints; a remote with stale history is no backup.
+checkpoints; a remote with stale history is no backup. For anything large (hundreds of
+megabytes, media-heavy folders such as slide decks) always ask before creating or pushing;
+K declined the GALVANI 2026 slide repository (810 MB) on 2026-10-05. Confidential material,
+such as notes on a manuscript under review, also waits for an explicit yes.
 
 ## Abstract and storyline planning
 
