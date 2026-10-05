@@ -1356,6 +1356,13 @@ is the effective population representation linking access, mixing, and gain.
 Keep anatomical claims tied to their evidence: nodal rectification in a model,
 axonal excitation and block, and AIS sodium-channel density are distinct results.
 The last of these does not establish the AIS as a TI detector.
+K then required one abstract text for TN and JNE; the separate TN rewrite had not
+been requested. Store the text once and vary only the journal's run-in headings.
+Explain every table where it appears. For TN0484, work on the JNE article; generate
+the TN and supplement from the same source at an authorized Calliope cut. Stop
+exporting per-edit versioned PDF sets and redlines. Keep one current redline against
+the last version K read, and do not advance that baseline merely because an edit
+was completed. Older snapshots may remain archived.
 
 ## Maintenance
 
