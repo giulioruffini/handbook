@@ -135,6 +135,21 @@ the distinction between the observer's pattern model, the physical organization
 it tracks, and any model implemented by the observed agent. A retention map does
 not compensate for removing this premise from the reader's main route.
 
+On October 5, K found the token/pattern distinction unclear. Explain that the
+observer models both a particular instance and the organization shared across
+instances; a token can itself be tracked as a persistent pattern. A model of
+models can capture shared structure or relations among component patterns.
+Distinguish generalization across instances from composition and physical grain.
+K then clarified the predator–prey case: the loop persists through token turnover,
+as a flame does; its constituents need not share an objective. OF and meta-OF
+are always as-if functional descriptions. I initially accepted “the token's OF
+is never its own persistence” too quickly. The operative local OF can favor token
+survival while its proxies support a recurring pattern. An as-if meta-OF for the
+loop requires evidence from its sustaining/restoring responses to perturbations,
+not persistence alone; K accepted this qualification. Do not describe apoptosis
+as necessarily changing the pattern served by the proxies, or equate an unshared
+constituent objective with absence of an as-if collective OF.
+
 K then rejected the proposed skeleton and asked for a careful reading of v17.4's
 ideas and logical flow before further shortening. My reorganization had moved
 agency ahead of regulation, weakening the explanation for introducing agency.
@@ -200,6 +215,10 @@ different color in the next paper copy. Provide a separate review PDF with
 colored passages, labeled review prompts, and a brief legend; retain a clean
 manuscript. Mark scientific decisions for K, and record routine corrections in
 the change record so that color remains a useful reading guide.
+On October 5, K could not see the K1–K6 questions beside the highlights. Draft16
+stored their text in highlight metadata without explicit popups. Show each
+question visibly beside its passage and attach a PDF comment with a popup;
+verify its full text and rendered placement, while retaining the clean edition.
 K's own marks travel the other way: a shelf PDF he annotates in Preview lands in the paper's
 `notes/<date>_K/` as `<name> annotated.pdf` plus a markdown of the annotations (page, passage,
 his text), with a todo line "act on K's annotations of <date>". Read that note before touching the
