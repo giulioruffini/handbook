@@ -177,6 +177,15 @@ not persistence alone; K accepted this qualification. Do not describe apoptosis
 as necessarily changing the pattern served by the proxies, or equate an unshared
 constituent objective with absence of an as-if collective OF.
 
+Later that day, K's draft18 annotations found "proxy" undefined in the objective
+discussion and the collective measures insufficiently motivated. Define the
+proxy's relation to the as-if objective and the pattern whose persistence it
+supports before using it. Introduce each structural measure through the problem
+it answers and a concrete comparison before its formula. Preserve the reciprocal
+dependence between constituent patterns and the collective that sustains them.
+When reading annotated PDFs, use annotation authorship to distinguish K's replies
+from Kaiti's embedded questions; a harvested file can contain both.
+
 K then rejected the proposed skeleton and asked for a careful reading of v17.4's
 ideas and logical flow before further shortening. My reorganization had moved
 agency ahead of regulation, weakening the explanation for introducing agency.
