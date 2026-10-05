@@ -46,6 +46,12 @@ the bound. Practice: explain the result in words and preserve its conditioning
 and allowances. K delegated the section-placement choice to Kaiti; record the
 chosen placement and its reason without reopening the decision.
 
+On October 5, K relayed Klaus's finding that the WP0218 revision still contained
+ten inherited boxed displays and reused symbols for different records and scales.
+For WP0218, remove display boxes while preserving each equation and explanation.
+Check notation across the full manuscript, figures, captions, and storyline;
+retaining old material does not exempt it from the current presentation rules.
+
 ## Paper folder layout and versions
 
 On October 4, 2026, K approved the extended `PAPER_FOLDER_LAYOUT.md` (BCOM WPs and Blogs) as
