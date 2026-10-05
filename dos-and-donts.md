@@ -258,6 +258,14 @@ into the same world. Use the same action-arrow style; distinguish admissible rec
 from untracked destinations by their boundaries and labels. Charge reconstruction
 allowance only for necessary advice not already supplied by the selected records;
 discarding a redundant copy does not itself create a deficit.
+On October 5, K found that the collective section had lost its force during revision.
+Klaus's historical comparison identified the weakened claim that a collective can persist
+without a shared objective, along with grain distinctions, the cycle example, and the
+redundancy/XOR contrast. Preserve the positive argument and its examples when retracting
+an unsupported theorem; keep the corrected theorem's scope beside its statement rather
+than letting qualifications replace the argument. Reduce one-use notation by placing
+technical setup with the derivation. Distinguish a sufficient core's absolute size from
+its normalized fraction when discussing duplication.
 For K6, K requested one statement per philosopher, each stating the relevant connection;
 compress the historical passage to that scale rather than expanding its genealogy.
 K then asked for those statements to connect to the paper: begin with a pattern's
