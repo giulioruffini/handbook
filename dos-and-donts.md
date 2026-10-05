@@ -79,6 +79,14 @@ State the general balance before its instance, define its terms locally,
 and distinguish the exact algebraic identity from conservation up to coding
 overhead.
 
+In WP0218 draft 9, K found “Reversibility is unnecessary” confusing because
+the APB was meant to express information conservation. Present complete-state
+conservation before the selected-record balance, then explain the generalization:
+reversible dynamics preserves recovery from the complete later state; the APB
+needs recovery of the selected input from the records being counted. Reversibility
+alone does not make a smaller selected record sufficient. Keep this connection
+explicit instead of presenting the weaker hypothesis as a detached negation.
+
 ## Paper folder layout and versions
 
 On October 4, 2026, K approved the extended `PAPER_FOLDER_LAYOUT.md` (BCOM WPs and Blogs) as
