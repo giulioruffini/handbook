@@ -24,6 +24,14 @@ K's current instructions take precedence; keep scientific corrections tied to th
   means and what follows. (2026-10-05: GitHub support's answer on the Pages certificate was
   read as a pre-ticket screen and K was told to file the ticket he had already filed.)
 
+## Private GitHub backup of useful work
+
+K's policy (2026-10-05): when a session creates something useful that would be lost if the
+laptop died, create a private GitHub repository for it and push, without waiting to be
+asked. The first instance was the peer-message skill (github.com/giulioruffini/peer-message).
+Keep the repository private unless K says otherwise, and keep pushing at natural
+checkpoints; a remote with stale history is no backup.
+
 ## Abstract and storyline planning
 
 On October 3, 2026, K endorsed WP0216's abstract-plus-storyline document as the default
