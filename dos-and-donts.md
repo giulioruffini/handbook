@@ -86,6 +86,11 @@ reversible dynamics preserves recovery from the complete later state; the APB
 needs recovery of the selected input from the records being counted. Reversibility
 alone does not make a smaller selected record sufficient. Keep this connection
 explicit instead of presenting the weaker hypothesis as a detached negation.
+K then found that the prose said “conservation first” while its lemma and
+localization balance still followed the APB by ten pages. Make the manuscript
+order match the argument: establish the conservation statement before using
+it to motivate the selected-record balance; separate optional transport
+constructions from that main sequence.
 
 ## Paper folder layout and versions
 
