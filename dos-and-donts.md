@@ -1159,6 +1159,12 @@ had another session (claude-16) check the Lean side; it produced v31.2 (pin 8c60
 commit that contains them and verify with `git cat-file -e <pin>:<path>` before calling the release
 machine-checked; a sync check is only as strong as the tree it reads. Before submission, run the
 pin check on the exact tag being submitted.
+On October 5, K relayed Klaus's correction that WP0218's proposed orbit-label
+appendix already had counterparts in `OrbitLabel` and `NoetherFlow`; I had called
+for new counterparts without finding them. Search both the modules and WP0195's
+inventory, then check the paper's pin before calling a result missing. Compare the
+actual statement: quotient-label conservation supplies neither an effective code
+nor a physical energy law, whatever the declaration's historical name suggests.
 
 ### 2026-09-20 — Punctuation before displayed equations
 
