@@ -19,6 +19,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   interpretation before polishing the wording. Explain a disagreement with reasons.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
+- When K pastes a reply from a support desk, journal, or service, treat it as the outcome of
+  a step K already took. Do not instruct K to take that step again; say what the reply
+  means and what follows. (2026-10-05: GitHub support's answer on the Pages certificate was
+  read as a pre-ticket screen and K was told to file the ticket he had already filed.)
 
 ## Abstract and storyline planning
 
@@ -56,6 +60,15 @@ numbering across papers (WP0215 at v0.5.4, WP0216 at v18, WP0203 at v34.5 differ
 in the layout document, rule 4.
 
 ## Recorded incidents
+
+### 2026-10-05 — Session-to-session messaging lives in its own folder, not in aifollow
+
+Asked whether Claude Code and Codex sessions could message each other, I planned the glue
+inside aifollow because it already hooks both CLIs. K: the method must let sessions talk
+regardless of which CLI runs them, and it must not live in aifollow; sessions run in plain
+terminals such as Ghostty. Practice: tooling that sessions depend on gets its own folder and
+skill (`~/Claude/peer-message/`, linked into both skill directories); aifollow only observes.
+Address peers by session name, never by role or by CLI.
 
 ### 2026-10-04 — Do not edit files unless told; the session in charge owns the folder
 
@@ -1499,3 +1512,13 @@ sentence immediately before or after it that says in words what it asserts and r
 what each symbol in it stands for, even when the symbol was defined earlier. A symbol
 defined in a dense definitions paragraph a page above counts as not explained at the
 display. This replaces the 2026-10-05 "cold read" entry's weaker test.
+
+### 2026-10-05 — Files binned in Drive
+
+Sessions on October 1 and 3 binned two obsolete Drive files after replacing them (a first
+counts sheet, a duplicate upload of the manual); the shared manual itself was also found in
+the bin, with no session record of who binned it. K found several files in the bin, restored
+them all, and asked what had been trashed. Practice: never bin a Drive file from a session.
+Rename an obsolete file with a visible prefix ("OLD, safe to delete") and tell K, or leave it.
+When a replacement is uploaded, keep one copy and one link; a re-upload creates a second id
+that outlives the mail that linked the first.
