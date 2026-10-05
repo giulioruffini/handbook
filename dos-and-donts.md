@@ -252,6 +252,12 @@ in environmental microstates and correlations. Keep usable external records dist
 from untracked microscopic degrees of freedom; do not depict erasure as an information
 sink or use heat as a synonym for every untracked bit stream. Limited-record recovery
 still requires its stated reconstruction hypothesis.
+My first WP0218 figure nevertheless used a separate gray reset arrow. K's correction,
+relayed by Klaus, was that resets and erasures are actions through the same interface
+into the same world. Use the same action-arrow style; distinguish admissible records
+from untracked destinations by their boundaries and labels. Charge reconstruction
+allowance only for necessary advice not already supplied by the selected records;
+discarding a redundant copy does not itself create a deficit.
 For K6, K requested one statement per philosopher, each stating the relevant connection;
 compress the historical passage to that scale rather than expanding its genealogy.
 K then asked for those statements to connect to the paper: begin with a pattern's
