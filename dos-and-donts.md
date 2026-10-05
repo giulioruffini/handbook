@@ -67,6 +67,10 @@ show its inverse, and explain the joint and local budgets beside the example.
 Distinguish a reset of a redundant copy from loss of recoverability in the
 selected records; state any incompressibility and coding-context assumptions
 beside a numerical budget diagram.
+K then approved the figure but found the example unmotivated. State the
+question it answers before introducing its mechanics: local copying and
+discarding can change where a distinction is recoverable while the joint
+description remains conserved up to the stated coding allowance.
 
 ## Paper folder layout and versions
 
