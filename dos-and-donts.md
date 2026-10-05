@@ -233,6 +233,13 @@ distinctions. Make that positive role visible in the abstract and argument, with
 charged to later records and predictive success distinguished from compact reconstruction.
 Conservation and localization support this stability question; they do not replace it as
 the paper's organizing problem. WP0216 owns the persistence and agency interpretation.
+On October 5, K reaffirmed that WP0218 is the APB paper and WP0216 credits and
+applies it. My figure handoff and the family plan still reflected an older split
+that assigned WP0218 only generic reconstruction and capacity. Treat the named
+APB, its mathematical development, and capacity consequences as WP0218's account;
+WP0216 supplies the broader conceptual applications. Align the abstract, main
+text, supplement, and plans with this assignment without rewriting historical
+provenance or implying that the pending public deposit already contains it.
 On October 5, K found draft13's APB and boundary explanations still cryptic and asked
 for a figure like the manuscript's Figure 4, shared with WP0218, and a local verbal
 explanation of every equation. Give the interface its purpose before defining thinness;
