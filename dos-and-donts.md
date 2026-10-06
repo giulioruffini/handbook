@@ -1482,6 +1482,12 @@ the TN and supplement from the same source at an authorized Calliope cut. Stop
 exporting per-edit versioned PDF sets and redlines. Keep one current redline against
 the last version K read, and do not advance that baseline merely because an edit
 was completed. Older snapshots may remain archived.
+On October 6, K found the notation table absent from the JNE copy he reads: it
+existed only in an appendix excluded by that build. Keep the shared notation
+table in the article's first appendix, verify its presence in the actual reading
+PDF, and distinguish article references from supplement references. A source-level
+notation pass is incomplete until equations, figure labels, units, and that table
+agree in both rendered editions.
 For the subsequent whole-paper pass, K specified shortening by de-duplication and
 relocation, with any proposed removal of an explanation, example, qualification,
 or result listed for approval and retained meanwhile. Report per-section word
