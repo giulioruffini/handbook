@@ -1506,6 +1506,15 @@ or result listed for approval and retained meanwhile. Report per-section word
 counts and keep the reading baseline (draft8 for this pass) distinct from the
 immediate editing baseline.
 
+In the October 6 annotated TN0484 review, K found the envelope argument buried,
+the QIF section's message obscured, and the experimental comparisons inconclusive
+in their wording. Give envelope modulation and the mean shift separate subsections;
+group each model's results; put proposed tests in Discussion. Lead a simulation
+section with the result it establishes, move numerical diagnostics to Methods, and
+end literature comparisons with their consequence for the paper. Read the actual
+annotated PDF for placement, and distinguish a generated DC drive from its
+downstream physiological response when stating the focality restriction.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
