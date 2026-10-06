@@ -131,6 +131,14 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-06 — Summarized a meeting transcript after reading only parts of it
+
+K sent the BOLD meeting notes and transcript (62 min). I read the Gemini summary and two transcript
+stretches, then reported the meeting as read; the brain-mapping item came from the summary only, and
+the saturation caveat, version confusion, long-range E→I wiring, and the seminar/Archeon discussion
+were missing. K asked whether I had read the whole transcript. Practice: read a transcript in full
+before summarizing it; if I skim, say which parts I read.
+
 ### 2026-10-06 — "My paper on whole-brain BOLD modeling" meant Alex's paper, and Calliope was not consulted first
 
 K asked me to find his whole-brain BOLD paper, tidy the repo, and build a storyline for a meeting with
