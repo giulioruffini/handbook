@@ -107,6 +107,16 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-06 — "My paper on whole-brain BOLD modeling" meant Alex's paper, and Calliope was not consulted first
+
+K asked me to find his whole-brain BOLD paper, tidy the repo, and build a storyline for a meeting with
+Francesca and Francisco. I chose TN0486 / WP0184 (Giulio-led) from the tracker without checking the
+calendar or Calliope, and did the full work on it. K: the plan is to revise the final form of Alex's paper
+(TN0439 / WP0206), per the three-paper strategy doc he had shared; Calliope should be the record; Francisco
+is on that paper. Practice: when a request names a meeting, read the calendar invite first (here "BOLD Paper /
+Francisco") and the strategy or plan document the project already has; when two papers fit the description,
+ask in one line before doing substantive work. Check Calliope before the tracker, and report any gap between them.
+
 ### 2026-10-06 — A WP built from a meeting is authored by its participants
 
 I drafted WP0244 (the cyto7 clinical program, from the 6 October meeting with García-Cabezas)
