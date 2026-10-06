@@ -61,6 +61,10 @@ this drift before declaring the paper ready.
 The scoped TN0484 abstract then reached 321 words; K relayed Klaus's 297-word replacement
 for the 300-word budget. Check the final abstract against the journal limit after adding
 scope qualifications, and retain those qualifications when compressing the shared text.
+For the subsequent TI focality discussion, K found the chat equations hard to read
+and the status of a and b unclear. He requested a short LaTeX PDF: write a(x) and
+b(x) explicitly, separate the applied field from detector outputs, and compare
+the DC and modulation maps before drawing conclusions about focality.
 
 On October 6, K questioned TN0486's “both square-law routes depart” and asked whether
 the models' FCs had been compared with each other. Name the actual readouts: SL power
@@ -223,6 +227,11 @@ the remaining work meanwhile, and distinguish an offered handoff from work he ha
 actually accepted or completed.
 On October 5, the long task in an asynchronous question was truncated, and K
 asked what to give Klaus. Put the complete copy-paste handoff in a plain reply.
+On October 6, K asked me to send the TI focality check myself through peer-message
+and supplied a helper name. When K authorizes direct coordination, use that skill
+instead of asking him to relay the task. Verify the live session name; the supplied
+`klaus-282-TI-helper` did not resolve, while the established TI helper was
+`klaus-484-TI-helper`.
 
 For WP0218 that day, K assigned Klaus the BCOM-format transfer and related
 production work. Separate that assignment from the scientific drafting; keep
