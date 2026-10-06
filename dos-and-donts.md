@@ -1733,3 +1733,11 @@ was live. K: "we totally screwed up ... you did not alert me." Practice: when a 
 paper, folder, or model that is not this session's paper, stop before any tool call that
 touches it, say which session owns it (check `send.py --list`), and offer to hand it over.
 Run it here only if K says so. Never commit to another paper's main checkout from a helper.
+
+## Email drafts: Gmail only, never Apple Mail
+
+On October 6, 2026, the Gmail connector could not attach a 1.9 MB PDF (attachments must be passed
+inline as base64), so I built the draft in Apple Mail via AppleScript instead. K: "I DON'T WANT
+APPLE MAIL! I want gmail as usual." Practice: create drafts with the Gmail connector only. When an
+attachment is too large for the connector, create the Gmail draft without it, stage the files in
+one folder under ~/Downloads, and tell K to drag them in. Never open or script Apple Mail.
