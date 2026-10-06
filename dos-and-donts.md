@@ -137,7 +137,7 @@ in the layout document, rule 4.
 
 ### 2026-10-06 — Collective agents need not share an objective (WP0216 §7)
 
-Designing "formations" of agents for aifollow, I wrote that every member adopts the
+Designing "collectives" of agents for aifollow (first called formations; K renamed them collectives, the KT term), I wrote that every member adopts the
 user's goal as its own. K annotated the slide: no, token objectives need not share an OF;
 different roles have different OFs, and the art is to architect them like an ecosystem.
 WP0216 §7 says so: a collective persists without a shared constituent objective; its
