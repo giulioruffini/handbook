@@ -129,6 +129,12 @@ K then corrected two further points the same day: Borja was invited but not pres
 attendance from who speaks in the transcript, not from the invitation list), and the owners I had
 proposed for people not in the meeting (Francesca, Jakub, Francisco) should not appear until K
 assigns them. The same byline rule applies to WP0227, which came from the 7 September meeting.
+K added that Miguel proposed some of the projects and K several (I had credited Miguel with the
+whole list), and set the byline format for these documents: "Editor: Giulio Ruffini; meeting
+participants: ...". Such WPs collect a meeting's output and are not intended for a journal; the
+rule is now SOP §4 (BCOM WPs and Blogs/SOP.md). Practice: attribute each idea to the person who
+raised it in the transcript, including K.
+
 
 
 ### 2026-10-06 — Reused funding wording must fit the paper's stage
