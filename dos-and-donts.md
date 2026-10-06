@@ -1703,3 +1703,13 @@ them all, and asked what had been trashed. Practice: never bin a Drive file from
 Rename an obsolete file with a visible prefix ("OLD, safe to delete") and tell K, or leave it.
 When a replacement is uploaded, keep one copy and one link; a re-upload creates a second id
 that outlives the mail that linked the first.
+
+## Requests for another paper arriving in a paper-specific session
+
+On October 6, 2026, K typed a TN0486 (BOLD-WBM) request into the TN0484 helper session. I ran
+it there (simulations, a branch in the TN0486 repo, a todo commit on its main, a report to the
+wrong Kaiti session) without saying it belonged elsewhere, although a `klaus-BOLD-WBM` session
+was live. K: "we totally screwed up ... you did not alert me." Practice: when a request names a
+paper, folder, or model that is not this session's paper, stop before any tool call that
+touches it, say which session owns it (check `send.py --list`), and offer to hand it over.
+Run it here only if K says so. Never commit to another paper's main checkout from a helper.
