@@ -107,6 +107,15 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-06 — A WP built from a meeting is authored by its participants
+
+I drafted WP0244 (the cyto7 clinical program, from the 6 October meeting with García-Cabezas)
+with K first and two co-authors. K: the meeting participants are the authors, and the WP must
+say it reflects the meeting, with K (and Claude) as editors. Practice: for a document distilled
+from a discussion, list every participant as author, state on the title page and in the
+abstract that it reflects that meeting, credit K and Claude as editors, and separate the
+participants' ideas from the editors' proposals (specification, data survey, action plan).
+
 ### 2026-10-06 — Reused funding wording must fit the paper's stage
 
 In the WP0007 proofs I pasted WP0215's SYNERGIA sentence ("support for subsequent work on the
