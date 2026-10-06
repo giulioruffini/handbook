@@ -50,6 +50,15 @@ The practice is packaged as the `paper-storyline` skill
 (`~/.claude/skills/paper-storyline/`, October 3): abstract in one source file, section map in
 LaTeX, PDF under `build/storyline/`, decisions for K listed, nothing cut before approval.
 
+On October 6, K found the TN0484 abstract unclear and defensive after a Landau cycle: it
+listed eleven results of equal weight, never said what the paper builds, and stacked caveats
+and rebuttals ("candidate" twice, "membrane attenuation enters once", control sentences framed
+as defenses, a closing negative). Correction: name the object first (here, a mesoscale model
+with three stages in series: access, detection, amplification), give each stage its result and
+its test, and place each qualifier where it bites ("for weak fields", "near a Hopf") instead of
+in front. Review fixes accumulate as hedges; after any review cycle, reread the abstract for
+this drift before declaring the paper ready.
+
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
 profile, and state the consequence of bounded storage rather than paraphrasing
