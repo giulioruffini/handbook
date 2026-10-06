@@ -107,6 +107,26 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-06 — Reused funding wording must fit the paper's stage
+
+In the WP0007 proofs I pasted WP0215's SYNERGIA sentence ("support for subsequent work on the
+manuscript is anticipated"). K asked what subsequent work: WP0007 is accepted and in proofs.
+K chose "This work is part of the research program of the Horizon Europe project SYNERGIA
+(grant agreement No. 101286995), scheduled to start in January 2027." Practice: before reusing a
+confirmed statement from another paper, check that every clause is true of this paper at its
+current stage; for accepted or published papers use the program-relation form, which claims no support.
+
+### 2026-10-05 — Funding line for the KT family papers is SYNERGIA, not GALVANI
+
+The WP0218 review flagged a missing GALVANI (ERC 855109) acknowledgment because the author lists a
+Neuroelectrics affiliation, and I relayed it as required by the standing GALVANI rule. K: the
+funding should be the SYNERGIA statement used in the other family papers (WP0215, WP0216), not
+GALVANI. Practice: for BCOM KT theory papers (WP0007/0203/0215/0216/0218 family) use the SYNERGIA
+statement ("prepared before the scheduled January 2027 start of the Horizon Europe project
+SYNERGIA (grant agreement No. 101286995); support anticipated"); GALVANI is for papers whose work
+was done with NE-funded authors on GALVANI topics (TN0484 and the NE modeling papers). When unsure
+which applies, ask rather than apply the NE-affiliation trigger mechanically.
+
 ### 2026-10-05 — Session-to-session messaging lives in its own folder, not in aifollow
 
 Asked whether Claude Code and Codex sessions could message each other, I planned the glue
