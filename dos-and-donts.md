@@ -135,6 +135,18 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-06 — Collective agents need not share an objective (WP0216 §7)
+
+Designing "formations" of agents for aifollow, I wrote that every member adopts the
+user's goal as its own. K annotated the slide: no, token objectives need not share an OF;
+different roles have different OFs, and the art is to architect them like an ecosystem.
+WP0216 §7 says so: a collective persists without a shared constituent objective; its
+as-if meta-OF is a functional reading of the coupled dynamics, tested by perturbation,
+and no preference ordering is aggregated (Arrow). Practice: when writing about collectives
+or multi-agent designs, read WP0216 §7 (and the WP0162 metapersistence appendix) first;
+design through local objectives and coupling, and state how success is tested by
+intervention.
+
 ### 2026-10-06 — Summarized a meeting transcript after reading only parts of it
 
 K sent the BOLD meeting notes and transcript (62 min). I read the Gemini summary and two transcript
