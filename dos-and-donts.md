@@ -62,6 +62,13 @@ The scoped TN0484 abstract then reached 321 words; K relayed Klaus's 297-word re
 for the 300-word budget. Check the final abstract against the journal limit after adding
 scope qualifications, and retain those qualifications when compressing the shared text.
 
+On October 6, K questioned TN0486's “both square-law routes depart” and asked whether
+the models' FCs had been compared with each other. Name the actual readouts: SL power
+is exactly quadratic, while JR uses a full sigmoid with a leading quadratic mixing term.
+Similar alignment with SC does not establish similar FC between models; require a direct
+comparison before claiming that static FC cannot distinguish them. Replace “locus” with
+an explanation of where mixing occurs, and distinguish a linear readout from linear dynamics.
+
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
 profile, and state the consequence of bounded storage rather than paraphrasing
