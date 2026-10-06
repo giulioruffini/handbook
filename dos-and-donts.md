@@ -140,6 +140,9 @@ calendar or Calliope, and did the full work on it. K: the plan is to revise the 
 is on that paper. Practice: when a request names a meeting, read the calendar invite first (here "BOLD Paper /
 Francisco") and the strategy or plan document the project already has; when two papers fit the description,
 ask in one line before doing substantive work. Check Calliope before the tracker, and report any gap between them.
+Later the same day the meeting transcript showed that the session reviewed TN0486 (Francesca presented it,
+Francisco had read the July version) with TN0439 as context; K's plan to revise Alex's paper stands as well.
+Practice holds either way: read the invite and, when it exists, the agenda or transcript before choosing.
 
 ### 2026-10-06 — A WP built from a meeting is authored by its participants
 
