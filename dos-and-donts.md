@@ -68,6 +68,11 @@ is exactly quadratic, while JR uses a full sigmoid with a leading quadratic mixi
 Similar alignment with SC does not establish similar FC between models; require a direct
 comparison before claiming that static FC cannot distinguish them. Replace “locus” with
 an explanation of where mixing occurs, and distinguish a linear readout from linear dynamics.
+K then clarified that this TN0486 question had been posted accidentally in the TN0484
+TI thread. I recognized the different paper but continued into calculations and a commit
+instead of alerting him to the mismatch. When a request appears to belong to another
+project, explicitly flag the conflict with the active thread before substantive work;
+confirm an ambiguous switch rather than treating recognition as authorization to switch.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
