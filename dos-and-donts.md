@@ -58,6 +58,9 @@ with three stages in series: access, detection, amplification), give each stage 
 its test, and place each qualifier where it bites ("for weak fields", "near a Hopf") instead of
 in front. Review fixes accumulate as hedges; after any review cycle, reread the abstract for
 this drift before declaring the paper ready.
+The scoped TN0484 abstract then reached 321 words; K relayed Klaus's 297-word replacement
+for the 300-word budget. Check the final abstract against the journal limit after adding
+scope qualifications, and retain those qualifications when compressing the shared text.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
