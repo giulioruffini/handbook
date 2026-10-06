@@ -125,6 +125,11 @@ say it reflects the meeting, with K (and Claude) as editors. Practice: for a doc
 from a discussion, list every participant as author, state on the title page and in the
 abstract that it reflects that meeting, credit K and Claude as editors, and separate the
 participants' ideas from the editors' proposals (specification, data survey, action plan).
+K then corrected two further points the same day: Borja was invited but not present (take
+attendance from who speaks in the transcript, not from the invitation list), and the owners I had
+proposed for people not in the meeting (Francesca, Jakub, Francisco) should not appear until K
+assigns them. The same byline rule applies to WP0227, which came from the 7 September meeting.
+
 
 ### 2026-10-06 — Reused funding wording must fit the paper's stage
 
