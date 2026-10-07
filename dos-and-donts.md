@@ -1776,3 +1776,11 @@ inline as base64), so I built the draft in Apple Mail via AppleScript instead. K
 APPLE MAIL! I want gmail as usual." Practice: create drafts with the Gmail connector only. When an
 attachment is too large for the connector, create the Gmail draft without it, stage the files in
 one folder under ~/Downloads, and tell K to drag them in. Never open or script Apple Mail.
+
+## Sharing tools: ask the recipients' platform first
+
+On October 7, 2026, K asked how to share the peer-message skill with Ricardo and Borja. I
+planned a macOS installer (launchd plist, `id -u`) without asking what they run. K: "they
+don't have a Mac... windows." Practice: before packaging a tool for other people, ask or
+check their OS and toolchain, and treat a port to a platform the code has never run on as
+untested until someone runs it there.
