@@ -115,6 +115,9 @@ better than SL without squaring the output. Practice: keep those questions centr
 a nonlinear normal-form reduction from a linearization, and track the physical observable
 through the coordinate change. Do not substitute a narrower control question or add a squared
 readout to the primary comparison. Treat a proposed comparison as discussion until edits are requested.
+K specified the intended construction: run PING, determine its operating point, and derive the
+corresponding SL normal form. Separate that matched mechanistic comparison from independently
+fitting each model for predictive performance; do not replace the derivation with matching frequency alone.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
