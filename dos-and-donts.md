@@ -97,6 +97,11 @@ method determine the model's regime. Distinguish equilibrium linearization from 
 around a sustained oscillation; measure emergent frequency dispersion before requiring
 heterogeneity. State whether validation concerns a new person or a new recording of the
 same person, and treat any proposed change of that target as a decision rather than a fix.
+K still could not understand the subsequent joint summary: it led with C1/C2 controls,
+gain, and validation qualifications before explaining the experiment. Practice: start
+with the physical hypothesis, walk through one simulation, then say what the comparison
+changes, what is measured, and which outcome would support the hypothesis. Explain the
+mechanism experiment and the empirical prediction experiment before their technical controls.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
