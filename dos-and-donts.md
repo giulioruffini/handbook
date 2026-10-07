@@ -102,6 +102,12 @@ gain, and validation qualifications before explaining the experiment. Practice: 
 with the physical hypothesis, walk through one simulation, then say what the comparison
 changes, what is measured, and which outcome would support the hypothesis. Explain the
 mechanism experiment and the empirical prediction experiment before their technical controls.
+K then asked how a PING sigmoid could be made linear while retaining its oscillation.
+The proposed control retains the local sigmoid and rewrites only the explicit long-range
+input dependence; it is an artificial modified circuit, not a fully linear PING model.
+Practice: show the original and modified rate equations, identify the nonlinear feedback
+that remains, and distinguish exact recovery at zero coupling from unverified preservation
+of oscillations at finite coupling. Do not promise that a control preserves dynamics before checking it.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
