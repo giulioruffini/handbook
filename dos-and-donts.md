@@ -86,6 +86,18 @@ observation and the separate Re z baseline when requested. Report retained-band 
 beside FC: Pearson correlation is scale-invariant, so small nonzero power can still give
 defined FC, provided numerical noise does not dominate.
 
+In his annotations to the TN0486 simulation plan later that day, K could not follow the
+mixed model/control table or the compensation paragraph. He asked for explicit planned
+actions and separate models from their linearized versions. Practice: state the proposed
+experiment and physical regime first, name each model and observation, then explain its
+controls; put implementation qualifications after the scientific explanation.
+K also questioned the stable-equilibrium restriction, imposed frequency spread, and
+across-subject validation for personalized models. Do not let an analytic covariance
+method determine the model's regime. Distinguish equilibrium linearization from analysis
+around a sustained oscillation; measure emergent frequency dispersion before requiring
+heterogeneity. State whether validation concerns a new person or a new recording of the
+same person, and treat any proposed change of that target as a decision rather than a fix.
+
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
 profile, and state the consequence of bounded storage rather than paraphrasing
