@@ -108,6 +108,13 @@ input dependence; it is an artificial modified circuit, not a fully linear PING 
 Practice: show the original and modified rate equations, identify the nonlinear feedback
 that remains, and distinguish exact recovery at zero coupling from unverified preservation
 of oscillations at finite coupling. Do not promise that a control preserves dynamics before checking it.
+K then questioned making these synthetic controls the main comparison and proposed PING versus
+Stuart–Landau, using Rosetta's near-Hopf reduction. His questions are where slow fluctuations
+come from beyond the sigmoid contribution studied in Alex's paper, and whether PING fits FC
+better than SL without squaring the output. Practice: keep those questions central; distinguish
+a nonlinear normal-form reduction from a linearization, and track the physical observable
+through the coordinate change. Do not substitute a narrower control question or add a squared
+readout to the primary comparison. Treat a proposed comparison as discussion until edits are requested.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the

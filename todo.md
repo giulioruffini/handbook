@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] record K's simulation-plan corrections: explain experiments and exact sigmoid modifications; distinguish regimes and personalized validation — 2026-10-07
+- [x] record K's PING–SL comparison: trace slow fluctuations through the near-Hopf reduction and compare FC without squaring outputs — 2026-10-07
 - [x] record K's distinction between the fast-SL power-observation linearization and the separate Re z control — 2026-10-07
 - [x] record K's single TI abstract, in-place table explanations, JNE working edition, and fixed review baseline — 2026-10-05
 - [x] record K's TI access/detection/amplification structure, positive access hypothesis, and attribution of existing axonal mechanisms — 2026-10-05
