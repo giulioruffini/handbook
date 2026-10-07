@@ -78,6 +78,14 @@ instead of alerting him to the mismatch. When a request appears to belong to ano
 project, explicitly flag the conflict with the active thread before substantive work;
 confirm an ambiguous switch rather than treating recognition as authorization to switch.
 
+On October 7, K clarified that the fully linear fast-SL control uses Re z. I had excluded
+it by linearizing the power observation |z|² at zero, whose derivative vanishes. These are
+different controls. Practice: distinguish linearizing the dynamics, linearizing a fixed
+observation, and choosing a separate linear observation. Retain both the matched power
+observation and the separate Re z baseline when requested. Report retained-band power
+beside FC: Pearson correlation is scale-invariant, so small nonzero power can still give
+defined FC, provided numerical noise does not dominate.
+
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
 profile, and state the consequence of bounded storage rather than paraphrasing
