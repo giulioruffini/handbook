@@ -121,6 +121,10 @@ fitting each model for predictive performance; do not replace the derivation wit
 On October 8, K clarified that regional differences should come from different mean inputs, with
 the corresponding SL parameters derived per node (relayed by Klaus). Track which populations receive
 those inputs; do not substitute an unrelated frequency distribution for the operating-point mapping.
+K then chose mean-input compensation as primary in both regimes, with uncompensated input a declared
+variant on an equal fitting budget. Start the primary PING and SL comparisons with common intrinsic
+parameters; distinguish measured running frequencies from those parameters. Check the achieved mean
+inputs after freezing compensation, and declare any added drive or frequency heterogeneity explicitly.
 On October 8, K chose excitatory synaptic activity as the BOLD drive, following Mercadal et al.,
 instead of the proposed PING voltage observation (relayed by Klaus). Carry that physical observation,
 its baseline, units, and normalization into the SL comparison. Do not retain the old voltage or
