@@ -147,6 +147,10 @@ neural response from the direct change to the synaptic BOLD drive.
 K specified both NMM1 and NMM2 as full arms of this contrast design, each compared with SC
 (relayed by Klaus). My recommendation to retain NMM2 only as an optional node-level check was
 superseded. Carry both models through the planned conditions rather than silently narrowing one.
+K then asked where Part II, the comparison with empirical data, had gone and requested more detail.
+Keep empirical prediction and model-to-model/SC resemblance explicit when simplifying the mechanism
+plan. Explain the fitted parameters, comparator roles and held-out score; distinguish a predictive
+advantage from evidence for the mechanism, and matched contrasts from independently fitted competitors.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
