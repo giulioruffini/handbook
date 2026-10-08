@@ -1826,6 +1826,15 @@ NE code adds external input rates to the sum. Practice: when porting an observat
 every term of the source definition (here, external inputs) before excluding one, and convert
 units through the model's own efficacy convention rather than dropping what does not match.
 
+### 2026-10-08 — TN0486: "the PING in the TI paper" meant NMM1, not NMM2
+
+K said to use the PING of TN0484. I took the only standalone PING script there (nmm2_ping.py, the
+exact MPR mean field) and built two days of plan around NMM2 without naming the choice to K. K:
+"why are we talking about NMM2? I was planning to do PING NMM1, as in the TI paper". TN0484 also
+contains an NMM1 PING, the superficial P2+PV loop of the LaNMM. Practice: when a model family has
+NMM1 and NMM2 versions, state which one before building on it, and put the model class in the
+first line of the plan K reads, so a wrong pick surfaces in minutes, not days.
+
 ## Requests for another paper arriving in a paper-specific session
 
 On October 6, 2026, K typed a TN0486 (BOLD-WBM) request into the TN0484 helper session. I ran
