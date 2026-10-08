@@ -137,6 +137,13 @@ K also required both the noise-driven fixed-point regime and autonomous oscillat
 correcting a plan that treated weak stochastic input as the default (relayed by Klaus).
 Cover both in the matched PING–SL construction and predictive comparison. In the oscillatory
 regime, use noise-free runs as primary and noise as a sensitivity; retain the tonic synaptic drive.
+During the model-choice review later that day, K redirected the discussion from ranking NMM1
+against NMM2 to contrasts that identify what the sigmoid/MPR nonlinearity adds to BOLD, with SC
+still a benchmark (relayed by Klaus). Separate fixed point with noise, oscillation with noise,
+and oscillation without noise. Keep the derived SL comparison central in the oscillatory cases;
+call it a nonlinear reduction, and treat loss of BOLD after a contrast as a prediction to test.
+K supported removing the slow band from transmitted signals; distinguish the receiving node's
+neural response from the direct change to the synaptic BOLD drive.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
