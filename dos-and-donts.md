@@ -1792,6 +1792,16 @@ Rename an obsolete file with a visible prefix ("OLD, safe to delete") and tell K
 When a replacement is uploaded, keep one copy and one link; a re-upload creates a second id
 that outlives the mail that linked the first.
 
+### 2026-10-08 — TN0486: a derived reduction keeps its physical observables
+
+Planning the BOLD readout, I wrote that the Stuart--Landau model "has no firing rates" and
+proposed Re z as its BOLD input, although the same plan derives that SL from PING. K: if SL is
+a reduction of PING, its z must map back to rates (Rosetta Stone logic). The reconstruction
+x = x* + qz + c.c. + h11|z|^2 + ... gives every PING variable, rates included, as a function of
+z. Practice: when a reduced model is derived from a physical one, read its observables through
+the reconstruction map, never through an ad hoc readout; a generic, independently fitted
+reduced model is the case that lacks them, and should be named as such.
+
 ## Requests for another paper arriving in a paper-specific session
 
 On October 6, 2026, K typed a TN0486 (BOLD-WBM) request into the TN0484 helper session. I ran
