@@ -144,6 +144,9 @@ and oscillation without noise. Keep the derived SL comparison central in the osc
 call it a nonlinear reduction, and treat loss of BOLD after a contrast as a prediction to test.
 K supported removing the slow band from transmitted signals; distinguish the receiving node's
 neural response from the direct change to the synaptic BOLD drive.
+K specified both NMM1 and NMM2 as full arms of this contrast design, each compared with SC
+(relayed by Klaus). My recommendation to retain NMM2 only as an optional node-level check was
+superseded. Carry both models through the planned conditions rather than silently narrowing one.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
