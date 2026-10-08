@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] record K's synaptic BOLD drive, external-input inclusion, and both noise-driven and autonomous PING–SL regimes — 2026-10-08
+- [x] record K's synaptic BOLD drive, mean-input-based SL parameters, and noise-driven/autonomous PING–SL comparison — 2026-10-08
 - [x] record K's PING–SL comparison: trace slow fluctuations through the near-Hopf reduction and compare FC without squaring outputs — 2026-10-07
 - [x] record K's distinction between the fast-SL power-observation linearization and the separate Re z control — 2026-10-07
 - [x] record K's single TI abstract, in-place table explanations, JNE working edition, and fixed review baseline — 2026-10-05

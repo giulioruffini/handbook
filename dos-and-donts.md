@@ -118,6 +118,9 @@ readout to the primary comparison. Treat a proposed comparison as discussion unt
 K specified the intended construction: run PING, determine its operating point, and derive the
 corresponding SL normal form. Separate that matched mechanistic comparison from independently
 fitting each model for predictive performance; do not replace the derivation with matching frequency alone.
+On October 8, K clarified that regional differences should come from different mean inputs, with
+the corresponding SL parameters derived per node (relayed by Klaus). Track which populations receive
+those inputs; do not substitute an unrelated frequency distribution for the operating-point mapping.
 On October 8, K chose excitatory synaptic activity as the BOLD drive, following Mercadal et al.,
 instead of the proposed PING voltage observation (relayed by Klaus). Carry that physical observation,
 its baseline, units, and normalization into the SL comparison. Do not retain the old voltage or
