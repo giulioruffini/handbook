@@ -118,6 +118,10 @@ readout to the primary comparison. Treat a proposed comparison as discussion unt
 K specified the intended construction: run PING, determine its operating point, and derive the
 corresponding SL normal form. Separate that matched mechanistic comparison from independently
 fitting each model for predictive performance; do not replace the derivation with matching frequency alone.
+On October 8, K chose excitatory synaptic activity as the BOLD drive, following Mercadal et al.,
+instead of the proposed PING voltage observation (relayed by Klaus). Carry that physical observation,
+its baseline, units, and normalization into the SL comparison. Do not retain the old voltage or
+linear-hemodynamic proposal as the primary pipeline after this decision.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
