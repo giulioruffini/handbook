@@ -1806,6 +1806,15 @@ z. Practice: when a reduced model is derived from a physical one, read its obser
 the reconstruction map, never through an ad hoc readout; a generic, independently fitted
 reduced model is the case that lacks them, and should be named as such.
 
+### 2026-10-08 — TN0486: external drive is synaptic input
+
+Adapting NE's synaptic BOLD drive to PING, I proposed leaving the common drive eta and the noise out
+of the metabolic sum because "they are currents, not rates". K: all of those come from synapses too.
+In a neural mass, background drive and noise stand for input from unmodeled populations, and the
+NE code adds external input rates to the sum. Practice: when porting an observation model, map
+every term of the source definition (here, external inputs) before excluding one, and convert
+units through the model's own efficacy convention rather than dropping what does not match.
+
 ## Requests for another paper arriving in a paper-specific session
 
 On October 6, 2026, K typed a TN0486 (BOLD-WBM) request into the TN0484 helper session. I ran
