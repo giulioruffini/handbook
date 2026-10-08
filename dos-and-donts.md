@@ -118,6 +118,10 @@ readout to the primary comparison. Treat a proposed comparison as discussion unt
 K specified the intended construction: run PING, determine its operating point, and derive the
 corresponding SL normal form. Separate that matched mechanistic comparison from independently
 fitting each model for predictive performance; do not replace the derivation with matching frequency alone.
+On October 8, K replaced the proposed NMM2 circuit with NMM1 PING: the superficial LaNMM P2–PV loop
+used in TN0484, with the deep-loop inputs removed (relayed by Klaus). Pin the selected circuit and
+recompute its operating point, derivatives and rate map; do not transfer NMM2 coefficients or signs
+because both models are called PING. Keep earlier calculations explicitly labeled as superseded.
 On October 8, K clarified that regional differences should come from different mean inputs, with
 the corresponding SL parameters derived per node (relayed by Klaus). Track which populations receive
 those inputs; do not substitute an unrelated frequency distribution for the operating-point mapping.
