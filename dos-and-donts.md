@@ -122,6 +122,10 @@ On October 8, K chose excitatory synaptic activity as the BOLD drive, following 
 instead of the proposed PING voltage observation (relayed by Klaus). Carry that physical observation,
 its baseline, units, and normalization into the SL comparison. Do not retain the old voltage or
 linear-hemodynamic proposal as the primary pipeline after this decision.
+K also required both the noise-driven fixed-point regime and autonomous oscillatory runs,
+correcting a plan that treated weak stochastic input as the default (relayed by Klaus).
+Cover both in the matched PING–SL construction and predictive comparison. In the oscillatory
+regime, use noise-free runs as primary and noise as a sensitivity; retain the tonic synaptic drive.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
