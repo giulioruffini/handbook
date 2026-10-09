@@ -1591,10 +1591,12 @@ downstream physiological response when stating the focality restriction.
 
 On October 9, K found the added synaptic-filter boxes and repeated red stage
 labels in TN0484's model schematic too cluttered (relayed by giulio-shell).
-He preferred small LPF tags on every synaptic pathway, including returns and
-self-loops, with kernel names and time constants explained in the caption.
-Use compact pathway markers for repeated operations and check their lettering
-at the final printed size; do not make each instance another large diagram block.
+He requested compact markers on every synaptic pathway, including returns and
+self-loops, then clarified that these should use the standard low-pass symbol
+(a flat line that drops), not the letters LPF (relayed by Klaus at 10:28).
+Keep kernel names and time constants in the caption. Use the conventional
+graphical symbol for repeated operations and check it at the final printed size;
+do not make each instance another large diagram block or substitute an acronym.
 
 ## Maintenance
 
