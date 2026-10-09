@@ -1589,6 +1589,13 @@ end literature comparisons with their consequence for the paper. Read the actual
 annotated PDF for placement, and distinguish a generated DC drive from its
 downstream physiological response when stating the focality restriction.
 
+On October 9, K found the added synaptic-filter boxes and repeated red stage
+labels in TN0484's model schematic too cluttered (relayed by giulio-shell).
+He preferred small LPF tags on every synaptic pathway, including returns and
+self-loops, with kernel names and time constants explained in the caption.
+Use compact pathway markers for repeated operations and check their lettering
+at the final printed size; do not make each instance another large diagram block.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
