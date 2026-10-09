@@ -27,6 +27,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   On October 9, 2026, I asked for the SYNERGIA pack's path; K directed me to GitHub.
   Check the shared repository and its current artifacts first, and distinguish an absent
   folder name from unavailable review materials.
+- Separate grant submission, technical sign-off, legal signature, and conflict-of-interest
+  controls. On October 9, 2026, I repeatedly proposed Ana's involvement in closing SYNERGIA
+  GAP without establishing that the submission required it. K pointed out that she had not
+  signed the proposal and challenged the extra approval step. Use existing authorizations;
+  verify the actual requirements and Portal roles (LEAR versus PLSIGN), and label suggested
+  controls as proposals rather than mandatory approvals or submission prerequisites.
 
 ## Private GitHub backup of useful work
 
