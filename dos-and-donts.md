@@ -36,10 +36,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   controls as proposals rather than mandatory approvals or submission prerequisites.
 - For GAP cover letters, state the institutional changes and a brief operational reason.
   On October 9, 2026, K rejected the detailed, self-justifying SYNERGIA letter and asked
-  to remove earlier-message references, personal-level explanations, and the task table
-  already covered by the annexes. Keep the cover letter brief; put task, effort, rate,
-  and budget detail in the annexes and workbook. Distinguish a final build/hash check
-  from a substantive reread when reporting what was verified.
+  to remove earlier-message references and personal-level explanations. My 167-word
+  replacement then went too far: K asked to restore abridged summary tables, while
+  retaining task-by-task and rate detail in the annexes and workbook. Shorten by
+  grouping related changes and keeping the useful totals, rather than deleting the
+  comparison tables. Do not add claims or procedural explanations nobody requested.
+  Distinguish a final build/hash check from a substantive reread when reporting what
+  was verified.
 
 ## Private GitHub backup of useful work
 
