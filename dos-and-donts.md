@@ -34,6 +34,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   involve Ana at this GAP stage. Use existing authorizations;
   verify the actual requirements and Portal roles (LEAR versus PLSIGN), and label suggested
   controls as proposals rather than mandatory approvals or submission prerequisites.
+- For GAP cover letters, state the institutional changes and a brief operational reason.
+  On October 9, 2026, K rejected the detailed, self-justifying SYNERGIA letter and asked
+  to remove earlier-message references, personal-level explanations, and the task table
+  already covered by the annexes. Keep the cover letter brief; put task, effort, rate,
+  and budget detail in the annexes and workbook. Distinguish a final build/hash check
+  from a substantive reread when reporting what was verified.
 
 ## Private GitHub backup of useful work
 
