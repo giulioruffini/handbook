@@ -44,6 +44,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   enough operational explanation to stand alone, without forcing a one-page limit.
   He first requested a shorter Roles section, then explicitly removed that section
   and the named reviewers from the cover letter; keep those details in Annex 1.
+  I then pressed employment as the justification. K clarified that the rationale is
+  NE and BCOM's agreed allocation for efficient scientific coordination and related
+  scientific tasks, while NE retains all Article 7 duties. Use that institutional
+  rationale; do not substitute a personal employment explanation.
   Do not add claims or procedural explanations nobody requested.
   Distinguish a final build/hash check from a substantive reread when reporting what
   was verified.
