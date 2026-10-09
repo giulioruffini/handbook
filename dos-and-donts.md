@@ -30,7 +30,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Separate grant submission, technical sign-off, legal signature, and conflict-of-interest
   controls. On October 9, 2026, I repeatedly proposed Ana's involvement in closing SYNERGIA
   GAP without establishing that the submission required it. K pointed out that she had not
-  signed the proposal and challenged the extra approval step. Use existing authorizations;
+  signed the proposal and challenged the extra approval step; he explicitly asked not to
+  involve Ana at this GAP stage. Use existing authorizations;
   verify the actual requirements and Portal roles (LEAR versus PLSIGN), and label suggested
   controls as proposals rather than mandatory approvals or submission prerequisites.
 
