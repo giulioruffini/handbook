@@ -55,6 +55,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   beyond the September 29 transfer exchange. Establish the complete official comment
   set and check closure against rendered files and current Portal records; a known
   validation warning does not waive an explicit PO request.
+  Later, repeated acknowledgments of delayed peer reports obscured the completed
+  letter; K asked whether a new letter existed and where the work stood. Lead status
+  replies with the current artifact, version, and link, then separate completed
+  document work from outstanding submission checks. Avoid repeating peer acknowledgments.
 
 ## Private GitHub backup of useful work
 
