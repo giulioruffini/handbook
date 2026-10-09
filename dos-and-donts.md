@@ -1602,6 +1602,12 @@ Keep kernel names and time constants in the caption. Use the conventional
 graphical symbol for repeated operations and check it at the final printed size;
 do not make each instance another large diagram block or substitute an acronym.
 
+Later that morning, Klaus clarified that K's earlier “yes, yes” had already
+authorized TN0484's steering and Violante additions; I had left implementation
+pending another go-ahead. Carry confirmed approval forward through a scientific
+wording check. Once its scope is clear, implement the corrections without
+reopening the same permission question.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
