@@ -277,6 +277,12 @@ and "one-pager during Christmas"), so the figure read as an agreed schedule. K s
 in a clear way. Practice: in a meeting WP, label every date, owner and ordering that the meeting
 did not fix as a proposal, in the table, the figure caption and the text, and say which dates
 were agreed.
+The same day K removed a section I had added unasked, "Authorship and governance", which proposed
+author order for the series (Miguel senior on hypothesis papers). K: he did not ask for it;
+senior authorship would mostly be his, since Ricardo works at Neuroelectrics, and it is not the
+moment to raise it. Practice: do not add authorship or governance proposals to a document unless
+K asks for them.
+
 
 
 
