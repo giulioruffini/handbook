@@ -23,6 +23,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   a step K already took. Do not instruct K to take that step again; say what the reply
   means and what follows. (2026-10-05: GitHub support's answer on the Pages certificate was
   read as a pre-ticket screen and K was told to file the ticket he had already filed.)
+- Search the project's GitHub repository before asking K to locate a named review pack.
+  On October 9, 2026, I asked for the SYNERGIA pack's path; K directed me to GitHub.
+  Check the shared repository and its current artifacts first, and distinguish an absent
+  folder name from unavailable review materials.
 
 ## Private GitHub backup of useful work
 
