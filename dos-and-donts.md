@@ -59,6 +59,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   letter; K asked whether a new letter existed and where the work stood. Lead status
   replies with the current artifact, version, and link, then separate completed
   document work from outstanding submission checks. Avoid repeating peer acknowledgments.
+  K then reported that repeated attempts to show the letter were crashing Preview.
+  A successful open command does not establish that the requested document is visible.
+  Stop UI automation when unexpected window changes recur; provide the verified file
+  link instead of continuing to send shortcuts into an unstable application.
 
 ## Private GitHub backup of useful work
 
