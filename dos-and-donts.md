@@ -1607,6 +1607,10 @@ authorized TN0484's steering and Violante additions; I had left implementation
 pending another go-ahead. Carry confirmed approval forward through a scientific
 wording check. Once its scope is clear, implement the corrections without
 reopening the same permission question.
+The later TN0484 release brief authorized Overleaf only, superseding an earlier
+plan covering GitHub and Calliope too. Track authorization separately for each
+destination and notify helpers immediately when the latest instruction narrows
+a handoff; a synchronization approval does not authorize publication elsewhere.
 
 ## Maintenance
 

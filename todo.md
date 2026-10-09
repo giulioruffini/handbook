@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] record that confirmed TN0484 editing approval persists through the scientific wording check — 2026-10-09
+- [x] record TN0484 editing-approval continuity and the separate Overleaf/GitHub/Calliope release permissions — 2026-10-09
 - [x] record K's NMM1 LaNMM P2–PV choice, synaptic BOLD drive, mean-input-based SL parameters, compensation primary in both regimes, and noise-driven/autonomous comparison — 2026-10-08
 - [x] record K's PING–SL comparison: trace slow fluctuations through the near-Hopf reduction and compare FC without squaring outputs — 2026-10-07
 - [x] record K's distinction between the fast-SL power-observation linearization and the separate Re z control — 2026-10-07
