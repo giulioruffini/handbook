@@ -1887,3 +1887,12 @@ planned a macOS installer (launchd plist, `id -u`) without asking what they run.
 don't have a Mac... windows." Practice: before packaging a tool for other people, ask or
 check their OS and toolchain, and treat a port to a platform the code has never run on as
 untested until someone runs it there.
+
+## Read the figure, not a summary of the paper
+
+On October 6 and 9, 2026, two TN0484 literature claims I sent came from a fetch tool's
+summary rather than from the paper itself: Luff 2024's carrier pairs and condition count, and
+"no direct 1:1 vs 1:3 contrast" in Violante 2023, whose Fig. 3b reports one (P = .015). Kaiti
+caught both against the published PDFs. Practice: before a factual claim about a paper enters
+a manuscript or an outgoing email, read the relevant figure, table, or statistics in the PDF
+itself; a summary is a pointer, not a source.
