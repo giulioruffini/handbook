@@ -270,6 +270,14 @@ whole list), and set the byline format for these documents: "Editor: Giulio Ruff
 participants: ...". Such WPs collect a meeting's output and are not intended for a journal; the
 rule is now SOP §4 (BCOM WPs and Blogs/SOP.md). Practice: attribute each idea to the person who
 raised it in the transcript, including K.
+On October 9, K asked whether the WP0244 timeline was made up. It came in Ricardo's file, but
+its dates were the ones I had proposed in v0.1.0 (the meeting fixed only "drafts before Christmas"
+and "one-pager during Christmas"), so the figure read as an agreed schedule. K set priorities
+(aging, depression, agent first; the rest staggered) and asked that the plan be marked preliminary
+in a clear way. Practice: in a meeting WP, label every date, owner and ordering that the meeting
+did not fix as a proposal, in the table, the figure caption and the text, and say which dates
+were agreed.
+
 
 
 
