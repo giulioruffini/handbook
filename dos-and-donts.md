@@ -63,6 +63,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   A successful open command does not establish that the requested document is visible.
   Stop UI automation when unexpected window changes recur; provide the verified file
   link instead of continuing to send shortcuts into an unstable application.
+  K also found that letter v1.5 acknowledged the formal comments but did not answer
+  their technical points. An acknowledgment and a separate audit note do not satisfy
+  a request for a response letter. Include concise answers to the requested points
+  in the letter, and visibly distinguish confirmed responses from unresolved checks.
 
 ## Private GitHub backup of useful work
 
