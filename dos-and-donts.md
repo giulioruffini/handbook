@@ -51,6 +51,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Do not add claims or procedural explanations nobody requested.
   Distinguish a final build/hash check from a substantive reread when reporting what
   was verified.
+  The September 18 official comments supplied after letter v1.4 exposed requests
+  beyond the September 29 transfer exchange. Establish the complete official comment
+  set and check closure against rendered files and current Portal records; a known
+  validation warning does not waive an explicit PO request.
 
 ## Private GitHub backup of useful work
 
