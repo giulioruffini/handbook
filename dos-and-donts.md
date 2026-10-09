@@ -40,7 +40,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   replacement then went too far: K asked to restore abridged summary tables, while
   retaining task-by-task and rate detail in the annexes and workbook. Shorten by
   grouping related changes and keeping the useful totals, rather than deleting the
-  comparison tables. Do not add claims or procedural explanations nobody requested.
+  comparison tables. K also found the one-page table version too short: retain
+  enough operational explanation to stand alone, without forcing a one-page limit.
+  He first requested a shorter Roles section, then explicitly removed that section
+  and the named reviewers from the cover letter; keep those details in Annex 1.
+  Do not add claims or procedural explanations nobody requested.
   Distinguish a final build/hash check from a substantive reread when reporting what
   was verified.
 

@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's SYNERGIA letter preference for summary tables and sufficient operational detail, with the roles section omitted — 2026-10-09
 - [x] record TN0484 editing-approval continuity and the separate Overleaf/GitHub/Calliope release permissions — 2026-10-09
 - [x] record K's NMM1 LaNMM P2–PV choice, synaptic BOLD drive, mean-input-based SL parameters, compensation primary in both regimes, and noise-driven/autonomous comparison — 2026-10-08
 - [x] record K's PING–SL comparison: trace slow fluctuations through the near-Hopf reduction and compare FC without squaring outputs — 2026-10-07
