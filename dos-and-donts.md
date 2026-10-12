@@ -250,6 +250,13 @@ were unexplained. Practice: connect the motivating question to the framework,
 state the kind of result and define its acronym, then carry its assumptions
 through to the consequence. Keep specialized constructions in the body when
 they interrupt the abstract's argument; a shorter inventory is still an inventory.
+K then questioned the purpose of WP0218's recurrence and causality sections and
+the uncited repetition of WP0216's persistence definition. Keep conservation,
+the APB, and models as the main argument; give supporting corollaries and
+constructions a proportionate place, and cite companion definitions at use.
+When proposing consolidation, check where proofs already live: moving formal
+statements intact may relocate the burden without reducing it. An opinion
+request remains discussion until K authorizes the manuscript revision.
 
 ## Paper folder layout and versions
 
