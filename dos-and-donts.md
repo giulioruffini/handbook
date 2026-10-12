@@ -196,6 +196,11 @@ Keep empirical prediction and model-to-model/SC resemblance explicit when simpli
 plan. Explain the fitted parameters, comparator roles and held-out score; distinguish a predictive
 advantage from evidence for the mechanism, and matched contrasts from independently fitted competitors.
 
+On October 12, K closed further TN0486 hemodynamic refinement: the operative property is
+that BOLD is a low-pass observation, and the work should advance to coupled nodes (relayed
+by Klaus). Close the accepted numerical checkpoint and retain approximate linearity within
+its tested amplitudes; do not turn wording qualifications into another solver study.
+
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
 profile, and state the consequence of bounded storage rather than paraphrasing
