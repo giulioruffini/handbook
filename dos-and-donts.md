@@ -243,6 +243,14 @@ order match the argument: establish the conservation statement before using
 it to motivate the selected-record balance; separate optional transport
 constructions from that main sequence.
 
+On October 12, K found the WP0218 draft-11 abstract fragmented and asked for
+one continuous argument. Its opening was disconnected, the APB was named
+without saying it was a proved inequality, and “tokens” and the acronym
+were unexplained. Practice: connect the motivating question to the framework,
+state the kind of result and define its acronym, then carry its assumptions
+through to the consequence. Keep specialized constructions in the body when
+they interrupt the abstract's argument; a shorter inventory is still an inventory.
+
 ## Paper folder layout and versions
 
 On October 4, 2026, K approved the extended `PAPER_FOLDER_LAYOUT.md` (BCOM WPs and Blogs) as
