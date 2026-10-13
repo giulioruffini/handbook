@@ -212,6 +212,13 @@ pilot. Distinguish fixed-point-plus-noise from oscillation-plus-noise, and compa
 full network with its matched contrast; network size alone does not establish a
 nonlinear mechanism. Keep the already released replication block bounded and advance
 the 82-region noisy comparison.
+Later that morning, I capped TN0486 coupling when mean-input compensation
+made the external input negative. K corrected this: a signed effective input
+can represent inhibition or a neuromodulatory bias. Do not impose positivity
+on a net current or effective drive by treating it as a presynaptic firing
+rate. Keep the firing-rate and regime checks, and state separately how the
+signed drive enters BOLD; the sign of a neural effect does not determine
+its vascular or metabolic contribution.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
