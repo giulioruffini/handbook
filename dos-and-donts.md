@@ -2081,3 +2081,9 @@ itself; a summary is a pointer, not a source.
   the April start changed. K's final decision specified project years of
   12 and 6 months. Use the stated budget periods; a calendar-year Gantt does
   not determine the budget columns.
+
+- Use people's names rather than conversational shorthand in documents for others.
+  On October 13, 2026, a memo used “K”; Giulio asked for “Giulio” and equivalent
+  name replacements because he would share it with his lawyer and Ana. Before
+  exporting a shared document, use full names at first mention, define company
+  abbreviations, and remove internal chat shorthand from the text and notes.
