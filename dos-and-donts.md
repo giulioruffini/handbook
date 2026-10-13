@@ -17,6 +17,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
 - Preserve the intended scientific argument. When K corrects an interpretation, revise that
   interpretation before polishing the wording. Explain a disagreement with reasons.
+  On October 13, K challenged chunk averaging for Kokoro (relayed by Klaus):
+  mapping report meaning to mathematical coordinates is the scientific problem.
+  Treat averaging as a comparison baseline, not a routine repair of a context
+  limit; compare semantic fidelity before choosing and freezing the representation.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
 - When K pastes a reply from a support desk, journal, or service, treat it as the outcome of
