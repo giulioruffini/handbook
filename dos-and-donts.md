@@ -1996,6 +1996,12 @@ voltage for the BOLD drive only (Jnl). Keep Jlin/Jnl as code labels and
 avoid a separate readout explanation when describing the linearized model.
 For NMM2 these rate outputs coincide. Do not say the sigmoid is applied
 to an already computed firing rate.
+At 16:37 that day K dropped the hybrid. This supersedes the three-label
+framing: use **full / linearized** in future reports and planned comparisons.
+Preserve frozen hybrid outputs as history; do not commission additional
+hybrid analysis or change the running frozen batch. The derived SL reconstruction is a
+separate retained comparison. Distinguish an incomplete second-order
+approximation to PING from a mathematically undefined diagnostic.
 
 ### 2026-10-08 — TN0486: "the PING in the TI paper" meant NMM1, not NMM2
 
