@@ -273,6 +273,14 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-12 — A measure does not "answer"; the theory provides the framework
+
+In a proposed WP0218 abstract I wrote that Kolmogorov complexity "answers this exactly once the
+records are fixed". K: Kolmogorov complexity does not answer anything; algorithmic information
+theory and Kolmogorov complexity provide the framework for the analysis. Practice: do not give
+measures, quantities, or theories agency ("K answers", "the profile tells us", "MAI says"); say what
+framework is used and what the paper proves within it.
+
 ### 2026-10-06 — Collective agents need not share an objective (WP0216 §7)
 
 Designing "collectives" of agents for aifollow (first called formations; K renamed them collectives, the KT term), I wrote that every member adopts the
@@ -1984,3 +1992,11 @@ summary rather than from the paper itself: Luff 2024's carrier pairs and conditi
 caught both against the published PDFs. Practice: before a factual claim about a paper enters
 a manuscript or an outgoing email, read the relevant figure, table, or statistics in the PDF
 itself; a summary is a pointer, not a source.
+
+- Describe a project from its current code and status docs, not from its README's opening
+  paragraph or a memory line. On October 13, 2026, I called KOKORO a fixed-protocol recorder
+  ("records the answers and exits") from the README header; K corrected me. The shipped app
+  also runs Whisper STT, 1024-dim multilingual embeddings, 108 paralinguistic features
+  (core, tremor, disfluency, eGeMAPS), and six calibrated phenomenological axes comparable
+  across patients. Read `docs/current_status.md`, the git log, and the module tree before
+  characterizing any project, especially in a funding assessment.
