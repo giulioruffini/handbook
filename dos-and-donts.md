@@ -2044,3 +2044,9 @@ itself; a summary is a pointer, not a source.
   cited WP0085 and listed Kokoro's components, model names, feature counts and
   limitations; K said the proposal is read by the funder and should describe the
   current state in general, nuanced terms. Keep the inventory in internal notes.
+
+- Distinguish budget years from calendar labels in a timeline. On October 13,
+  2026, I rephased Kokoro's budget into two nine-month calendar periods after
+  the April start changed. K's final decision specified project years of
+  12 and 6 months. Use the stated budget periods; a calendar-year Gantt does
+  not determine the budget columns.
