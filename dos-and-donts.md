@@ -27,6 +27,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   On October 9, 2026, I asked for the SYNERGIA pack's path; K directed me to GitHub.
   Check the shared repository and its current artifacts first, and distinguish an absent
   folder name from unavailable review materials.
+  The same holds before drafting a bid: on October 13, 2026, I wrote a Norrsken Mind
+  proposal for Kokoro from scratch while Francesca's repository
+  (bcom-bid-norrsken-kokoro) already held the agreed form, amount and partners, so my
+  draft contradicted settled decisions. Search `gh repo list bcom-foundation` for an
+  existing bid before drafting one.
 - Separate grant submission, technical sign-off, legal signature, and conflict-of-interest
   controls. On October 9, 2026, I repeatedly proposed Ana's involvement in closing SYNERGIA
   GAP without establishing that the submission required it. K pointed out that she had not
