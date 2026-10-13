@@ -1989,6 +1989,13 @@ diagnostic observation from the activity used by each arm's dynamics. Audit
 local feedback as well as long-range transmission; changing only the latter
 does not make a nonlinear readout a consistent activity budget. Preserve the
 defined contrast and label it before changing the analysis after seeing results.
+K then requested the terms **full / linearized / hybrid** in summaries:
+linearized includes the first-order rates used by the dynamics (Jlin);
+hybrid applies the original sigmoid to the linear trajectory's population
+voltage for the BOLD drive only (Jnl). Keep Jlin/Jnl as code labels and
+avoid a separate readout explanation when describing the linearized model.
+For NMM2 these rate outputs coincide. Do not say the sigmoid is applied
+to an already computed firing rate.
 
 ### 2026-10-08 — TN0486: "the PING in the TI paper" meant NMM1, not NMM2
 
