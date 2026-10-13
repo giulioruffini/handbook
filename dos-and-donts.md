@@ -21,6 +21,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   mapping report meaning to mathematical coordinates is the scientific problem.
   Treat averaging as a comparison baseline, not a routine repair of a context
   limit; compare semantic fidelity before choosing and freezing the representation.
+  K then explicitly requested replacing E5, rather than patching it. Keep the
+  legacy encoder only as a comparison reference; label replacement candidates
+  as proposals until a choice is agreed and validated.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
 - When K pastes a reply from a support desk, journal, or service, treat it as the outcome of
