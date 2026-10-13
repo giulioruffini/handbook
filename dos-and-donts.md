@@ -1981,6 +1981,15 @@ NE code adds external input rates to the sum. Practice: when porting an observat
 every term of the source definition (here, external inputs) before excluding one, and convert
 units through the model's own efficacy convention rather than dropping what does not match.
 
+On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
+readout counted sigmoid rates that its linearized feedback never transmitted.
+The common-observation contrast was intentional, but describing its terms as
+delivered synaptic activity was not justified. Practice: distinguish a fixed
+diagnostic observation from the activity used by each arm's dynamics. Audit
+local feedback as well as long-range transmission; changing only the latter
+does not make a nonlinear readout a consistent activity budget. Preserve the
+defined contrast and label it before changing the analysis after seeing results.
+
 ### 2026-10-08 — TN0486: "the PING in the TI paper" meant NMM1, not NMM2
 
 K said to use the PING of TN0484. I took the only standalone PING script there (nmm2_ping.py, the
