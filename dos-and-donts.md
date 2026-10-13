@@ -205,6 +205,13 @@ On October 12, K closed further TN0486 hemodynamic refinement: the operative pro
 that BOLD is a low-pass observation, and the work should advance to coupled nodes (relayed
 by Klaus). Close the accepted numerical checkpoint and retain approximate linearity within
 its tested amplitudes; do not turn wording qualifications into another solver study.
+On October 13, K noted that effects in the noisy regime may require large networks,
+after a weak three-node transmission result. Treat small networks as scoped mechanism
+and numerical checks, not as a requirement for a positive effect before the whole-brain
+pilot. Distinguish fixed-point-plus-noise from oscillation-plus-noise, and compare each
+full network with its matched contrast; network size alone does not establish a
+nonlinear mechanism. Keep the already released replication block bounded and advance
+the 82-region noisy comparison.
 
 On October 4, K relayed Klaus's WP0218 abstract repairs: say “mutual algorithmic
 information,” state what the localization coordinates measure before naming the
