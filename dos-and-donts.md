@@ -375,6 +375,15 @@ author order for the series (Miguel senior on hypothesis papers). K: he did not 
 senior authorship would mostly be his, since Ricardo works at Neuroelectrics, and it is not the
 moment to raise it. Practice: do not add authorship or governance proposals to a document unless
 K asks for them.
+On October 12 I applied García-Cabezas's 36 marks on WP0244 after checking only where each
+landed and that his two DOIs resolved. K asked whether I had double-checked them. I had not
+checked the science; a check afterwards found an unsourced claim, a conflict with the cyto7
+atlas (entorhinal typed as allocortex there, mesocortex in the correction) and a term with a
+narrower technical meaning in the cited MS literature ("intracortical"). Practice: before
+applying a collaborator's corrections, check each against the sources and our own documents,
+apply the clean ones, and list the conflicts for K or the collaborator instead of applying
+them silently.
+
 
 
 
