@@ -2029,3 +2029,9 @@ itself; a summary is a pointer, not a source.
   (core, tremor, disfluency, eGeMAPS), and six calibrated phenomenological axes comparable
   across patients. Read `docs/current_status.md`, the git log, and the module tree before
   characterizing any project, especially in a funding assessment.
+
+- Keep a project's build outputs inside the project folder, not in `~/Claude/desk`.
+  On October 13, 2026, the Kokoro–Norrsken proposal PDFs were written to the desk;
+  K asked why and wanted them with the proposal repository. Use a gitignored
+  `build/` folder in the repo (older builds in `build/archive/`), and file shared or
+  submitted PDFs on Drive. The desk is for the review shelf only.
