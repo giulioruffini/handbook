@@ -39,6 +39,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   involve Ana at this GAP stage. Use existing authorizations;
   verify the actual requirements and Portal roles (LEAR versus PLSIGN), and label suggested
   controls as proposals rather than mandatory approvals or submission prerequisites.
+  On October 13, K clarified through Klaus that Kokoro is an independent study
+  offered to patients who happen to participate in other PSSJD trials. My draft
+  had assumed sponsor permission and access to those trials' outcome data.
+  Practice: collect and budget Kokoro's own clinical ratings; do not impose a
+  blanket sponsor-permission or amendment requirement. PSSJD checks concrete
+  participant eligibility restrictions alongside Kokoro's own ethics and consent.
 - For GAP cover letters, state the institutional changes and a brief operational reason.
   On October 9, 2026, K rejected the detailed, self-justifying SYNERGIA letter and asked
   to remove earlier-message references and personal-level explanations. My 167-word
