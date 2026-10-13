@@ -2035,3 +2035,9 @@ itself; a summary is a pointer, not a source.
   K asked why and wanted them with the proposal repository. Use a gitignored
   `build/` folder in the repo (older builds in `build/archive/`), and file shared or
   submitted PDFs on Drive. The desk is for the review shelf only.
+
+- In funder-facing text, do not cite internal BCOM working papers or lay out the
+  internals of a prototype. On October 13, 2026, the Kokoro–Norrsken proposal
+  cited WP0085 and listed Kokoro's components, model names, feature counts and
+  limitations; K said the proposal is read by the funder and should describe the
+  current state in general, nuanced terms. Keep the inventory in internal notes.
