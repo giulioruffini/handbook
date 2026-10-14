@@ -1735,6 +1735,14 @@ plan covering GitHub and Calliope too. Track authorization separately for each
 destination and notify helpers immediately when the latest instruction narrows
 a handoff; a synchronization approval does not authorize publication elsewhere.
 
+On October 14, K found TN0484's positive mean-square map misleading because it
+looked like an always-excitatory DC response. Distinguish the nonnegative field
+geometry, the signed detector source, and the network mean response in the map
+itself, its caption, and the surrounding text. A physiological map requires its
+detector coefficient and operating state; a mean response also requires circuit
+dynamics. Use a common positive normalization when comparing source signs, so
+normalization cannot hide suppression.
+
 ## Maintenance
 
 When K says an action or interpretation was unwanted, update this file during that session.
