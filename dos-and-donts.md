@@ -11,8 +11,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
   On October 15, K rejected the dashed hormone-input arrow in the ANPSY primer.
-  Use a solid arrow there; retain the proposed status in its label, caption and text.
-  Keep this visual correction separate from the scientific status of hormone coupling.
+  He then asked to remove the image's proposed-extension label and replace a gland
+  icon that resembled testicles. Use a solid arrow and an unambiguous hormone-rhythm
+  symbol; keep the proposed status in the caption and text only.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
@@ -24,6 +25,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
   models of brain and mind: its intended product is a clinical system. Preserve
   that product objective while distinguishing model validation from demonstrated
   patient benefit; retain useful scientific clarifications without changing the goal.
+  When K requests examples from his group, include the studies in the text with their
+  evidence limits and funding acknowledgment; bibliography entries alone do not suffice.
   On October 13, K challenged chunk averaging for Kokoro (relayed by Klaus):
   mapping report meaning to mathematical coordinates is the scientific problem.
   Treat averaging as a comparison baseline, not a routine repair of a context
