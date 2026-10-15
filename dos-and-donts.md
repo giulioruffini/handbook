@@ -2029,6 +2029,18 @@ NE code adds external input rates to the sum. Practice: when porting an observat
 every term of the source definition (here, external inputs) before excluding one, and convert
 units through the model's own efficacy convention rather than dropping what does not match.
 
+### 2026-10-15 — TN0486: the SL comparator keeps its own linear readout
+
+Above Hopf, I argued that the first-order SL rate readout gives no slow BOLD by construction,
+called the second-order readout "the BOLD-equivalent observation", and told Kaiti so. K: the SL
+is the linearized version of PING; the paper asks whether the sigmoid nonlinearity matters, so
+the readout must not change; network eigenmodes may produce BOLD; squaring the readout is a
+hack to see whether the full PING picture can be recovered. Practice: in a reduction contrast,
+keep the reduced model's own observables as the primary arm and label any added nonlinearity
+a diagnostic. Before proposing a design change, restate the paper's question, here also the one in
+Alex's TN0439, and check the change against it. When the same point has come back more than once,
+take it to Kaiti instead of reopening it with K.
+
 On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
 readout counted sigmoid rates that its linearized feedback never transmitted.
 The common-observation contrast was intentional, but describing its terms as
