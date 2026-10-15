@@ -14,6 +14,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   He then asked to remove the image's proposed-extension label and replace a gland
   icon that resembled testicles. Use a solid arrow and an unambiguous hormone-rhythm
   symbol; keep the proposed status in the caption and text only.
+  For Ida's one-pager later that day, K approved the text but asked to add the
+  established WBM illustration with greater hormone emphasis, shortening the text
+  to retain one page. Preserve that visual continuity when adapting this material.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
