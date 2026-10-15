@@ -10,6 +10,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   require separate permission.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
+  On October 15, K rejected the dashed hormone-input arrow in the ANPSY primer.
+  Use a solid arrow there; retain the proposed status in its label, caption and text.
+  Keep this visual correction separate from the scientific status of hormone coupling.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
