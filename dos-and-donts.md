@@ -2135,6 +2135,11 @@ itself; a summary is a pointer, not a source.
   cited WP0085 and listed Kokoro's components, model names, feature counts and
   limitations; K said the proposal is read by the funder and should describe the
   current state in general, nuanced terms. Keep the inventory in internal notes.
+  On October 15, K disliked Kokoro v0.4's layout and requested the ANPSY
+  S3.1a-GR1 concept-note format (relayed by Klaus): Heilmeier H1–H8,
+  answer boxes, an at-a-glance panel, Libertinus/Source Sans and the ANPSY
+  palette. Use that named reference for this bid, preserving its scientific
+  content and checking any new summary sentences against the agreed claims.
 
 - Distinguish budget years from calendar labels in a timeline. On October 13,
   2026, I rephased Kokoro's budget into two nine-month calendar periods after
