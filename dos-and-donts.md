@@ -17,6 +17,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
 - Preserve the intended scientific argument. When K corrects an interpretation, revise that
   interpretation before polishing the wording. Explain a disagreement with reasons.
+  On October 15, K rejected reframing ANPSY as primarily a programme to develop
+  models of brain and mind: its intended product is a clinical system. Preserve
+  that product objective while distinguishing model validation from demonstrated
+  patient benefit; retain useful scientific clarifications without changing the goal.
   On October 13, K challenged chunk averaging for Kokoro (relayed by Klaus):
   mapping report meaning to mathematical coordinates is the scientific problem.
   Treat averaging as a comparison baseline, not a routine repair of a context
@@ -304,6 +308,20 @@ numbering across papers (WP0215 at v0.5.4, WP0216 at v18, WP0203 at v34.5 differ
 in the layout document, rule 4.
 
 ## Recorded incidents
+
+### 2026-10-15 — Check the group's own publications before calling evidence missing
+
+For Kaiti's whole-brain-model appendix in ANPSY, I called Gendra et al. "a preprint, no journal version found". I also left GALVANI out of the clinical evidence. K corrected me: Gendra is published (*Network Neuroscience* 10:303–328, 2026), and his group runs the GALVANI tDCS trial, with publications (Lopez-Sola 2025 *J Neural Eng*, Bartolomei 2025 *Epilepsia Open*, NCT06334952). Practice: before writing "not published" or "no clinical evidence" on a topic K's group works on, query CrossRef by author (Ruffini, Lopez-Sola, Salvador) and ClinicalTrials.gov, and read the GALVANI publication list.
+
+### 2026-10-13 — K's recollection is a lead, not evidence
+
+In the NE sale review K said the 2019 NE→Starlab transfers happened while NE still owed Starlab
+€1M. I relayed it to Kaiti as "K states", and the memo kept it as Giulio's account. K objected: he
+had assumed I had documentary evidence, and his memory of old transactions is unreliable; everything
+he knows is in the documents he supplied. Practice: when K recalls a historical fact, check it
+against the documents, say plainly whether they support it, and turn an unsupported recollection
+into a question for the person who holds the records. Never cite K's memory as a source in a
+deliverable.
 
 ### 2026-10-12 — A measure does not "answer"; the theory provides the framework
 
