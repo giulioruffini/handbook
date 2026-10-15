@@ -21,6 +21,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   outreach, explain the models pedagogically and lead with the programs' reciprocal
   scientific value and an invitation to join forces; leave funding for later.
   Adjust layout before cutting explanations the new audience needs.
+  K then found v3 too light and requested appendix-level scientific detail,
+  denser Nature-style prose and references, and a personalized mental-health
+  forecasting-system title. Keep the scientific explanation substantial; the
+  weather metaphor should not headline this note.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.

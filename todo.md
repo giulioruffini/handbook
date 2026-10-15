@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's Ida-note preference for scientific density, journal-style references and a forecasting-system title — 2026-10-15
 - [x] record Giulio's request to replace conversational shorthand with names in documents shared with others — 2026-10-13
 - [x] record K's SYNERGIA letter scope and the need to check the complete official GAP comments against actual submission records — 2026-10-09
 - [x] record TN0484 editing-approval continuity and the separate Overleaf/GitHub/Calliope release permissions — 2026-10-09
