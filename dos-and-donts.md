@@ -2135,11 +2135,9 @@ itself; a summary is a pointer, not a source.
   cited WP0085 and listed Kokoro's components, model names, feature counts and
   limitations; K said the proposal is read by the funder and should describe the
   current state in general, nuanced terms. Keep the inventory in internal notes.
-  On October 15, K disliked Kokoro v0.4's layout and requested the ANPSY
-  S3.1a-GR1 concept-note format (relayed by Klaus): Heilmeier H1–H8,
-  answer boxes, an at-a-glance panel, Libertinus/Source Sans and the ANPSY
-  palette. Use that named reference for this bid, preserving its scientific
-  content and checking any new summary sentences against the agreed claims.
+  For the October 15 Kokoro layout correction, see "Use the format of X"
+  below: Giulio requested ANPSY typography on the unchanged v0.4 text and
+  structure. The earlier relay asking for Heilmeier H1–H8 was withdrawn.
 
 - Distinguish budget years from calendar labels in a timeline. On October 13,
   2026, I rephased Kokoro's budget into two nine-month calendar periods after
@@ -2156,9 +2154,11 @@ itself; a summary is a pointer, not a source.
 ## "Use the format of X" means typography, not structure
 
 2026-10-15, Kokoro Norrsken proposal. Giulio asked for the format of the ANPSY
-concept note. I re-sorted the proposal into ANPSY's Heilmeier H1–H8 structure with
-answer boxes; Kaiti began adopting it. Giulio: he wanted only fonts, colors and
-layout, with the same structure and content. Practice: when asked to adopt another
+concept note. Klaus re-sorted the proposal into ANPSY's Heilmeier H1–H8 structure
+with answer boxes, and Kaiti committed and pushed that adoption before the
+correction arrived. Giulio wanted only fonts, colors and layout, with the same
+structure and content. Kaiti restored v0.4 through a corrective commit.
+Practice: when asked to adopt another
 document's "format", change only typography, palette and page styling unless
 restructuring is named; verify the text is word-identical; ask if the word could
 mean structure.
