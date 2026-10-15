@@ -2158,6 +2158,8 @@ concept note. Klaus re-sorted the proposal into ANPSY's Heilmeier H1–H8 struct
 with answer boxes, and Kaiti committed and pushed that adoption before the
 correction arrived. Giulio wanted only fonts, colors and layout, with the same
 structure and content. Kaiti restored v0.4 through a corrective commit.
+K then approved the colored-box typography candidate as v0.6, retaining
+the numbered v0.4 sections and exact proposal and form wording.
 Practice: when asked to adopt another
 document's "format", change only typography, palette and page styling unless
 restructuring is named; verify the text is word-identical; ask if the word could
