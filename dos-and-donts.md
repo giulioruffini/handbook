@@ -2152,3 +2152,13 @@ itself; a summary is a pointer, not a source.
   name replacements because he would share it with his lawyer and Ana. Before
   exporting a shared document, use full names at first mention, define company
   abbreviations, and remove internal chat shorthand from the text and notes.
+
+## "Use the format of X" means typography, not structure
+
+2026-10-15, Kokoro Norrsken proposal. Giulio asked for the format of the ANPSY
+concept note. I re-sorted the proposal into ANPSY's Heilmeier H1–H8 structure with
+answer boxes; Kaiti began adopting it. Giulio: he wanted only fonts, colors and
+layout, with the same structure and content. Practice: when asked to adopt another
+document's "format", change only typography, palette and page styling unless
+restructuring is named; verify the text is word-identical; ask if the word could
+mean structure.
