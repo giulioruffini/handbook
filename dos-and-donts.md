@@ -2040,6 +2040,11 @@ keep the reduced model's own observables as the primary arm and label any added 
 a diagnostic. Before proposing a design change, restate the paper's question, here also the one in
 Alex's TN0439, and check the change against it. When the same point has come back more than once,
 take it to Kaiti instead of reopening it with K.
+K also put the noise-free self-oscillatory network comparison ahead of the NMM2 noise
+sweep and asked for Julia or Numba. Carry that priority into the TODO and run specification.
+Check the existing compiled implementation before proposing a rewrite; keep timestep loops
+compiled, measure runtime and memory, and stream outputs rather than treating Python
+orchestration as evidence that the numerical kernel is interpreted.
 
 On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
 readout counted sigmoid rates that its linearized feedback never transmitted.
