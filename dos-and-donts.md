@@ -17,6 +17,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   For Ida's one-pager later that day, K approved the text but asked to add the
   established WBM illustration with greater hormone emphasis, shortening the text
   to retain one page. Preserve that visual continuity when adapting this material.
+  He then found v2 too compressed and its funding request too forward. For this
+  outreach, explain the models pedagogically and lead with the programs' reciprocal
+  scientific value and an invitation to join forces; leave funding for later.
+  Adjust layout before cutting explanations the new audience needs.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
