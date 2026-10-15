@@ -311,7 +311,7 @@ in the layout document, rule 4.
 
 ### 2026-10-15 — Check the group's own publications before calling evidence missing
 
-For Kaiti's whole-brain-model appendix in ANPSY, I called Gendra et al. "a preprint, no journal version found". I also left GALVANI out of the clinical evidence. K corrected me: Gendra is published (*Network Neuroscience* 10:303–328, 2026), and his group runs the GALVANI tDCS trial, with publications (Lopez-Sola 2025 *J Neural Eng*, Bartolomei 2025 *Epilepsia Open*, NCT06334952). Practice: before writing "not published" or "no clinical evidence" on a topic K's group works on, query CrossRef by author (Ruffini, Lopez-Sola, Salvador) and ClinicalTrials.gov, and read the GALVANI publication list.
+For Kaiti's whole-brain-model appendix in ANPSY, I called Gendra et al. "a preprint, no journal version found". I also left GALVANI out of the clinical evidence. K corrected me: Gendra is published (*Network Neuroscience* 10:303–328, 2026), and his group runs the GALVANI tDCS trial, with publications (Lopez-Sola 2025 *J Neural Eng*, Bartolomei 2025 *Epilepsia Open*, NCT06334952). Practice: before writing "not published" or "no clinical evidence" on a topic K's group works on, query CrossRef by author (Ruffini, Lopez-Sola, Salvador) and ClinicalTrials.gov, and read the GALVANI publication list. Include medRxiv/bioRxiv: K then pointed to Mercadal 2026 (medRxiv, doi:10.64898/2026.09.22.26363221), which shows the GALVANI RCT tests WBM-optimized montages, so my "no prospective test" was wrong.
 
 ### 2026-10-13 — K's recollection is a lead, not evidence
 
