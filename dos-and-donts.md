@@ -2113,6 +2113,12 @@ Klaus's subsequent critique prompted a staged revision: measure variability with
 coarse ladder before committing to a fine-reference ensemble. A tolerance expressed in
 standard deviations still needs a precision calculation; fixed-cadence storage does not
 shrink merely because integration uses a larger timestep.
+After the Stage B pilot on October 16, K directed overnight progress and favored 0.5 ms
+with several initial conditions despite the late-window uncertainty. Practice: distinguish
+a provisional working step for an exploratory ensemble from a certified numerical accuracy
+claim. Carry progress forward with declared conditions, paired timestep sensitivities and
+resource limits; do not make an unachieved 1% target an indefinite block on exploration or
+silently convert IC variability into evidence that timestep bias is absent.
 Recurrence after the Stage A screen (peer-review correction by Kaiti, not K): I wrote that a
 change of FC between the reference's two windows made per-window FC "not a reproducible target
 for any step", called FC with near-zero Pearson FC–SC correlation "unrelated to SC", called
