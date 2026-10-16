@@ -2237,6 +2237,12 @@ document's "format", change only typography, palette and page styling unless
 restructuring is named; verify the text is word-identical; ask if the word could
 mean structure.
 
+On October 16, Giulio chose the Kokoro goal sentence and experience-first Summary
+opening, asking that reviewers flag factual problems without softening his wording.
+Preserve approved framing; make factual corrections locally. His request for the
+Kokoro logo meant the hand-drawn character, not the portal SVG wordmark. Use the
+approved transparent character asset when adopting this proposal.
+
 ### 2026-10-16 — State the legal basis when proposing a contractual mechanism
 In SYNERGIA CA v0.1 I wrote a pre-financing instalment schedule (coordinator releases 40/20/20/20) without
 citing whether the coordinator may hold back pre-financing. K: "I don't think we have the right to hold on to
