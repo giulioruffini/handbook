@@ -2107,6 +2107,14 @@ Klaus's subsequent critique prompted a staged revision: measure variability with
 coarse ladder before committing to a fine-reference ensemble. A tolerance expressed in
 standard deviations still needs a precision calculation; fixed-cadence storage does not
 shrink merely because integration uses a larger timestep.
+Recurrence after the Stage A screen (peer-review correction by Kaiti, not K): I wrote that a
+change of FC between the reference's two windows made per-window FC "not a reproducible target
+for any step", called FC with near-zero Pearson FC–SC correlation "unrelated to SC", called
+within-record summaries "population descriptors", generalized one periodic-waveform control to
+"no aliasing", and gave negative eigenvalue shifts as positive numbers. Practice: a window that
+the fine pair reproduces is a valid target whatever the next window does; state small correlations
+as numbers with the statistic named; label one-record summaries as within-record; scope each
+control to what it tested; give signs or say "magnitude".
 
 On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
 readout counted sigmoid rates that its linearized feedback never transmitted.
@@ -2222,3 +2230,11 @@ Practice: when asked to adopt another
 document's "format", change only typography, palette and page styling unless
 restructuring is named; verify the text is word-identical; ask if the word could
 mean structure.
+
+### 2026-10-16 — State the legal basis when proposing a contractual mechanism
+In SYNERGIA CA v0.1 I wrote a pre-financing instalment schedule (coordinator releases 40/20/20/20) without
+citing whether the coordinator may hold back pre-financing. K: "I don't think we have the right to hold on to
+pre-financing, do we? Did you check??" It is permitted when the CA sets the schedule (MGA Art. 7(b)(iii)
+"without unjustified delay"; DESCA 2.1 notes §7.2.2), but I had not shown it. Practice: when a draft clause
+moves money or restricts a party's rights, cite the rule that permits it in the draft and in the reply,
+and say what was not checked (here, the Annotated Grant Agreement).
