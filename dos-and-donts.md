@@ -2088,6 +2088,12 @@ bound. His request for one common shift was already implemented by the verified 
 condition. Distinguish its common physical external input from the node-specific reference
 decomposition used to derive SL. The common scalar preserves the reference average input;
 do not describe it as optimized, or introduce an optimization objective without defining it.
+Later on October 16, K objected to repeatedly qualifying this result with “cannot claim zero”:
+for the question being asked, the first-order SL slow output is effectively zero. Practice:
+lead reader-facing summaries with “effectively zero at our numerical resolution,” alongside
+the resolved PING result and the measured amplitudes. Keep “unresolved” and the frozen S/E
+criteria in technical records; do not let a discussion of exact mathematical zero obscure
+the operational result or repeatedly reopen wording K has settled.
 Later that day K emphasized that BOLD rescaling removes absolute amplitude from Pearson FC.
 Practice: lead parameter-grid reports with `S/E_numerical` and FC descriptors, retaining raw
 amplitude as a descriptor rather than an FC-quality criterion. Apply the same scaling to signal
