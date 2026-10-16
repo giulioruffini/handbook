@@ -2048,7 +2048,7 @@ Recurrence on October 16, 04:24: in a synthesis review I again treated the odd-c
 argument as making the SL slow output vanish. I also said a successful quadratic reconstruction
 would show that the dynamics "contribute little", and I inferred from a small BOLD amplitude
 (compared with an unverified "typical" empirical value) that the signal was negligible and could
-not carry FC. Kaiti corrected all three. The parity argument holds only for carrier-confined
+not carry FC. Kaiti corrected all three in peer review (not a correction from K). The parity argument holds only for carrier-confined
 spectra; the coupled SL has network input and a constant compensation source. The second-order
 coefficients carry dynamical curvature, so recovery would not localize the mechanism. FC is scale
 invariant, and no matched-normalization amplitude comparison exists. Practice: state a mechanism
