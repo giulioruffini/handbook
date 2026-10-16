@@ -2073,6 +2073,15 @@ Check the existing compiled implementation before proposing a rewrite; keep time
 compiled, measure runtime and memory, and stream outputs rather than treating Python
 orchestration as evidence that the numerical kernel is interpreted.
 
+On October 16 K accepted resolved PING slow output and an unresolved first-order SL level,
+and adopted `S > 10 E_numerical` for subsequent BOLD reports. Practice: report absolute band
+amplitude and the measured numerical discrepancies per region and window; preserve separate
+timestep, leakage, and sampling qualifications rather than treating the threshold as an error
+bound. His request for one common shift was already implemented by the verified `alpha = 0`
+condition. Distinguish its common physical external input from the node-specific reference
+decomposition used to derive SL. The common scalar preserves the reference average input;
+do not describe it as optimized, or introduce an optimization objective without defining it.
+
 On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
 readout counted sigmoid rates that its linearized feedback never transmitted.
 The common-observation contrast was intentional, but describing its terms as
