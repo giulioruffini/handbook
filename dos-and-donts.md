@@ -2088,6 +2088,12 @@ bound. His request for one common shift was already implemented by the verified 
 condition. Distinguish its common physical external input from the node-specific reference
 decomposition used to derive SL. The common scalar preserves the reference average input;
 do not describe it as optimized, or introduce an optimization objective without defining it.
+Later that day K emphasized that BOLD rescaling removes absolute amplitude from Pearson FC.
+Practice: lead parameter-grid reports with `S/E_numerical` and FC descriptors, retaining raw
+amplitude as a descriptor rather than an FC-quality criterion. Apply the same scaling to signal
+and numerical discrepancy. For mixed slow sources, retain cross-covariances and do not assume
+that separately simulated nonlinear trajectories superpose. Amplitude recovery remains a
+separate question from FC recovery.
 
 On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
 readout counted sigmoid rates that its linearized feedback never transmitted.
