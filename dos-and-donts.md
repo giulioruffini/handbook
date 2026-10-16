@@ -1362,6 +1362,12 @@ question and interpret its result; move the symbol table to an appendix. Valid p
 statements can appear in the main text with proofs in the appendix. Keep the ART correction
 plan separate and ready for the editor's response, without making its history the paper's story.
 
+On October 16, K's marked Round 1 proposals asked for a diagram and pedagogical explanation
+of the worked example, and clearer accounts of computable bounds, reuse, and what Lean checks.
+Practice: walk through the episode and a concrete bound before interface notation; distinguish
+the arithmetic consequence from the interpretation of its hypotheses. K asked to shorten the
+abstract moderately, so do not turn the proposed 200-word target into a mandatory cut.
+
 On September 19, K found v25's probabilistic appendix hard to read and clarified that he
 wanted an ART-like posterior statement conditioned on a small residual. I had given the
 separate independent-sampling result too much prominence. Lead with the requested conditional
