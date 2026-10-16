@@ -2103,6 +2103,10 @@ already compare within-run statistics; phase drift alone does not invalidate the
 Match ICs and durations across steps, quantify uncertainty, and do not use one development
 trajectory as a reference distribution. An ensemble mean-power discrepancy must have its
 own label rather than silently replacing the adopted per-record numerical-resolution rule.
+Klaus's subsequent critique prompted a staged revision: measure variability with the cheap
+coarse ladder before committing to a fine-reference ensemble. A tolerance expressed in
+standard deviations still needs a precision calculation; fixed-cadence storage does not
+shrink merely because integration uses a larger timestep.
 
 On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
 readout counted sigmoid rates that its linearized feedback never transmitted.
