@@ -2095,6 +2095,15 @@ and numerical discrepancy. For mixed slow sources, retain cross-covariances and 
 that separately simulated nonlinear trajectories superpose. Amplitude recovery remains a
 separate question from FC recovery.
 
+On October 16 K questioned the 12.5–25-microsecond production steps and requested a
+coarse-step statistical check before the receptor grid. Practice: separate agreement of
+finite-window IC-ensemble statistics from same-trajectory agreement, and measure whether
+larger compiled RK4 steps suffice for the requested outputs. The existing power/FC checks
+already compare within-run statistics; phase drift alone does not invalidate their failures.
+Match ICs and durations across steps, quantify uncertainty, and do not use one development
+trajectory as a reference distribution. An ensemble mean-power discrepancy must have its
+own label rather than silently replacing the adopted per-record numerical-resolution rule.
+
 On October 13, K identified that the TN0486 Jacobian arm's nonlinear BOLD
 readout counted sigmoid rates that its linearized feedback never transmitted.
 The common-observation contrast was intentional, but describing its terms as
