@@ -67,6 +67,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   as proposals until a choice is agreed and validated.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
+  On October 16, K annotated the WP0203 Round 1 proposals "don't follow, clarify" three
+  times and asked for a more pedagogical set: they compressed technical verdicts (residual
+  certificates, compressor bounds, what a Lean check establishes) into jargon. For a decision
+  document, open with the setup and a schematic, give each proposal the reviewer's request,
+  the proposal, the reason, and a worked example, and keep two questions apart for every
+  formalized result: is the paper's statement correct, and does Lean certify it faithfully.
+  The paper's correctness is the goal; Lean is the means of certification.
 - When K pastes a reply from a support desk, journal, or service, treat it as the outcome of
   a step K already took. Do not instruct K to take that step again; say what the reply
   means and what follows. (2026-10-05: GitHub support's answer on the Pages certificate was
@@ -180,6 +187,12 @@ TI thread. I recognized the different paper but continued into calculations and 
 instead of alerting him to the mismatch. When a request appears to belong to another
 project, explicitly flag the conflict with the active thread before substantive work;
 confirm an ambiguous switch rather than treating recognition as authorization to switch.
+Recurred October 16: in the overnight homogeneous checkpoint I wrote that SL FC "tracks PING
+FC closely" because their FC–SC values agreed within 0.015, and I interpreted first-order SL
+FC from an output a millionth of PING's. Kaiti corrected both. The direct PING–quadratic-SL
+edge correlation was 0.81–1.00 in W1 but −0.01 to 0.58 in W2. Practice: compute the
+edge-vector correlation before saying two FCs agree, and leave FC of a screened, tiny output
+uninterpreted.
 
 On October 7, K clarified that the fully linear fast-SL control uses Re z. I had excluded
 it by linearizing the power observation |z|² at zero, whose derivative vanishes. These are
