@@ -2044,6 +2044,16 @@ keep the reduced model's own observables as the primary arm and label any added 
 a diagnostic. Before proposing a design change, restate the paper's question, here also the one in
 Alex's TN0439, and check the change against it. When the same point has come back more than once,
 take it to Kaiti instead of reopening it with K.
+Recurrence on October 16, 04:24: in a synthesis review I again treated the odd-cubic parity
+argument as making the SL slow output vanish. I also said a successful quadratic reconstruction
+would show that the dynamics "contribute little", and I inferred from a small BOLD amplitude
+(compared with an unverified "typical" empirical value) that the signal was negligible and could
+not carry FC. Kaiti corrected all three. The parity argument holds only for carrier-confined
+spectra; the coupled SL has network input and a constant compensation source. The second-order
+coefficients carry dynamical curvature, so recovery would not localize the mechanism. FC is scale
+invariant, and no matched-normalization amplitude comparison exists. Practice: state a mechanism
+argument with its conditions, say what a planned test can and cannot apportion, and never turn an
+absolute amplitude into a verdict on relevance without a matched comparison.
 K also put the noise-free self-oscillatory network comparison ahead of the NMM2 noise
 sweep and asked for Julia or Numba. Carry that priority into the TODO and run specification.
 Check the existing compiled implementation before proposing a rewrite; keep timestep loops
