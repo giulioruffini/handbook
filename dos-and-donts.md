@@ -38,7 +38,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   patient benefit; retain useful scientific clarifications without changing the goal.
   On October 16, K's S4 annotations asked for a question about subjective experience
   as the opening, a stronger clinical-impact statement, and complete prose in the
-  phase overview. He removed the main-text disclaimer about the clinical ambition
+  forecast-requirement paragraph. I also converted the programme overview table to
+  paragraphs after reading a grouped transcription. K clarified that item 6 applied
+  only to the paragraph below the table; Klaus restored the table in S4-GR4. Preserve
+  the overview layout and keep a local prose correction within its indicated paragraph.
+  He removed the main-text disclaimer about the clinical ambition
   and appendix pointers because the appendices may not circulate. Keep the main
   concept note self-contained and distinguish ambition from trial design where each
   is explained; do not reinsert deleted defensive wording elsewhere in the main text.
