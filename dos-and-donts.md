@@ -36,6 +36,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   models of brain and mind: its intended product is a clinical system. Preserve
   that product objective while distinguishing model validation from demonstrated
   patient benefit; retain useful scientific clarifications without changing the goal.
+  On October 16, K's S4 annotations asked for a question about subjective experience
+  as the opening, a stronger clinical-impact statement, and complete prose in the
+  phase overview. He removed the main-text disclaimer about the clinical ambition
+  and appendix pointers because the appendices may not circulate. Keep the main
+  concept note self-contained and distinguish ambition from trial design where each
+  is explained; do not reinsert deleted defensive wording elsewhere in the main text.
+  Check annotation placement in the rendered PDF when a transcription's anchor is ambiguous.
   When K requests examples from his group, include the studies in the text with their
   evidence limits and funding acknowledgment; bibliography entries alone do not suffice.
   On October 13, K challenged chunk averaging for Kokoro (relayed by Klaus):
