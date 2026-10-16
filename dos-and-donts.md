@@ -42,6 +42,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   and appendix pointers because the appendices may not circulate. Keep the main
   concept note self-contained and distinguish ambition from trial design where each
   is explained; do not reinsert deleted defensive wording elsewhere in the main text.
+  He clarified that the three main pages are the circulation document; appendices
+  are internal backing and material for specific donor questions. State that purpose
+  on the appendix contents page, with selective sharing rather than default circulation.
   Check annotation placement in the rendered PDF when a transcription's anchor is ambiguous.
   When K requests examples from his group, include the studies in the text with their
   evidence limits and funding acknowledgment; bibliography entries alone do not suffice.
