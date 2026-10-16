@@ -42,6 +42,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   paragraphs after reading a grouped transcription. K clarified that item 6 applied
   only to the paragraph below the table; Klaus restored the table in S4-GR4. Preserve
   the overview layout and keep a local prose correction within its indicated paragraph.
+  When transcribing annotations for another agent, quote the first words of the one
+  element each note sits on, never group neighbors into a "block", and ask when the
+  anchor could cover two elements.
   He removed the main-text disclaimer about the clinical ambition
   and appendix pointers because the appendices may not circulate. Keep the main
   concept note self-contained and distinguish ambition from trial design where each
@@ -2200,9 +2203,3 @@ Practice: when asked to adopt another
 document's "format", change only typography, palette and page styling unless
 restructuring is named; verify the text is word-identical; ask if the word could
 mean structure.
-
-## 2026-10-16 — Anchor PDF annotations to the exact text they sit on
-
-**Incident.** K annotated the ANPSY S4-GR1 PDF with "Make this a proper English paragraph, not a list." Klaus transcribed the note as applying to the "phase/clinical-utility block", merging the page-1 table with the paragraph beneath it, and Kaiti converted the whole table to prose in S4-GR2.
-**Correction.** K: the table should stay as it was (only the tagline changes); the note referred to the paragraph under the table.
-**Practice.** When transcribing annotations, quote the first words of the one paragraph or element the note sits on, and never group neighbouring elements into a "block". If the anchor could cover two elements, say so and ask before relaying it as an edit.
