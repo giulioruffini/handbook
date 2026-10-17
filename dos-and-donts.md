@@ -274,6 +274,12 @@ K then asked where Part II, the comparison with empirical data, had gone and req
 Keep empirical prediction and model-to-model/SC resemblance explicit when simplifying the mechanism
 plan. Explain the fitted parameters, comparator roles and held-out score; distinguish a predictive
 advantage from evidence for the mechanism, and matched contrasts from independently fitted competitors.
+On October 17, K objected to further TN0486 production without reasonable SC/FC fit and asked how
+the coupling range had been chosen (relayed by Klaus). It had been inherited from a motif forcing
+criterion, not calibrated for FC. Practice: distinguish a controlled reduction experiment from a
+whole-brain fit, and make calibration the next priority when K requests it. Define the structural
+benchmark and empirical target separately; do not infer a universal sampling-noise floor from small
+FC–SC correlation or assume that scaling every noise source changes a linear model's FC.
 
 On October 12, K closed further TN0486 hemodynamic refinement: the operative property is
 that BOLD is a low-pass observation, and the work should advance to coupled nodes (relayed
