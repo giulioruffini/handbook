@@ -290,6 +290,11 @@ the same-target SC predictor. Only then compare derived Hopf models at the inher
 by independent refitting and white/high-passed-noise contrasts. Practice: make native empirical fit
 the Part-I gate, keep power, FC and fit losses separate, and do not count numerically checked but
 poorly fitting 32-Hz explorations as completion of that stage. Agree the strategy before new runs.
+K then clarified that construction comes first: one PING family with shared intrinsic parameters,
+external input selecting either side of Hopf, and its input-dependent Hopf reduction derived before
+building the full or reduced whole-brain models. My TODO had postponed the derivation until after
+native fitting. Practice: separate deriving the model family from comparing fitted networks;
+native calibration precedes the comparison, not the mathematical derivation.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
