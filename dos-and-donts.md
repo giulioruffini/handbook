@@ -295,6 +295,10 @@ external input selecting either side of Hopf, and its input-dependent Hopf reduc
 building the full or reduced whole-brain models. My TODO had postponed the derivation until after
 native fitting. Practice: separate deriving the model family from comparing fitted networks;
 native calibration precedes the comparison, not the mathematical derivation.
+K delegated the common 40-Hz tuning choice and required that coupling leave the masses mostly in
+their intended regimes. Select operating inputs using coupled behavior and the reduction's local
+validity, not an arbitrarily small isolated Hopf distance. A slow-input margin is a diagnostic;
+it does not prove stability or sustained oscillation in the coupled network.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
