@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's calibration-first 40-Hz PING strategy, literature/SC fit gate, and inherited-then-refitted reductions — 2026-10-17
 - [x] record K's TN0486 G-first calibration priority, separate noisy/autonomous regimes, and whole-brain scope; correct the overbroad noise-floor entry — 2026-10-17
 - [x] record K's Ida-note preference for scientific density, journal-style references and a forecasting-system title — 2026-10-15
 - [x] record Giulio's request to replace conversational shorthand with names in documents shared with others — 2026-10-13

@@ -283,6 +283,13 @@ establish the G range before expanding beta, and stop returning to few-node expe
 covered by Alex. Use the whole-brain empirical target, retain valid zero FC entries, and match its
 published transform convention. A fixed-point critical coupling and its linear sampling estimate
 must remain scoped to that reference; they do not characterize every autonomous regime.
+K then stopped further production to agree on a one-page strategy with Klaus: first fit native
+PING in two 40-Hz regimes, noise-driven below Hopf and self-sustained above it, with compensation
+on/off and coupling-by-receptor scans. Fits should be literature-competitive and beat or approach
+the same-target SC predictor. Only then compare derived Hopf models at the inherited fit, followed
+by independent refitting and white/high-passed-noise contrasts. Practice: make native empirical fit
+the Part-I gate, keep power, FC and fit losses separate, and do not count numerically checked but
+poorly fitting 32-Hz explorations as completion of that stage. Agree the strategy before new runs.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
