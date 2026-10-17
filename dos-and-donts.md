@@ -309,6 +309,9 @@ model-internal mechanism studies even when empirical FC fitting fails. This supe
 empirical-fit prerequisite for those studies. Keep Grade A empirical claims separate, qualify each
 regime independently, and release only the specified block. An analytic family atlas does not
 validate native cycles or finite-amplitude reductions; mark those measurements pending their release.
+The analytical-package review then expanded a delayed-system resolvent outside the campaign.
+K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
+and omit the extension; an out-of-scope example does not warrant a new analytical branch.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
