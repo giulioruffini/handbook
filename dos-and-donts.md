@@ -2101,6 +2101,15 @@ z. Practice: when a reduced model is derived from a physical one, read its obser
 the reconstruction map, never through an ad hoc readout; a generic, independently fitted
 reduced model is the case that lacks them, and should be named as such.
 
+On October 17, K asked why the quadratic Taylor terms disappear from SL and how its
+nonlinear coordinates can represent PING variables. Practice: explain that normal-form
+coordinates remove nonresonant quadratic terms from the reduced equation while retaining
+their effects in the reconstruction and cubic coefficient. The physical rate is the
+original observation composed with that reconstruction. A first-order rate map is an
+additional observable truncation; a derived quadratic map is not an arbitrary square-law
+addition. Keep that mathematical distinction separate from the chosen experimental arms,
+and transform coupling and forcing to their declared order as well.
+
 ### 2026-10-08 — TN0486: external drive is synaptic input
 
 Adapting NE's synaptic BOLD drive to PING, I proposed leaving the common drive eta and the noise out
