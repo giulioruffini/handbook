@@ -283,6 +283,12 @@ establish the G range before expanding beta, and stop returning to few-node expe
 covered by Alex. Use the whole-brain empirical target, retain valid zero FC entries, and match its
 published transform convention. A fixed-point critical coupling and its linear sampling estimate
 must remain scoped to that reference; they do not characterize every autonomous regime.
+Later on October 17, K emphasized that a subcritical linear model can shape slow input into
+structurally organized BOLD FC without generating new slow frequencies. Practice: separate
+frequency generation from transmission and empirical fit. High-passing shared noise attenuates
+slow power; a nonzero filter tail can retain normalized FC, so test power against the transmitted
+linear reference rather than demanding that FC vanish. Check the published implementation's
+actual observation and integration convention before attributing its fit to a mechanism.
 
 On October 12, K closed further TN0486 hemodynamic refinement: the operative property is
 that BOLD is a low-pass observation, and the work should advance to coupled nodes (relayed
