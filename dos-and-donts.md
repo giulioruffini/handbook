@@ -299,6 +299,11 @@ K delegated the common 40-Hz tuning choice and required that coupling leave the 
 their intended regimes. Select operating inputs using coupled behavior and the reduction's local
 validity, not an arbitrarily small isolated Hopf distance. A slow-input margin is a diagnostic;
 it does not prove stability or sustained oscillation in the coupled network.
+K then required a question-by-question review of the campaign before further simulations.
+Practice: each release states its scientific question, primary observable, informative effect,
+comparison, decision criterion, bounded cost, and next action for positive, negative, or inconclusive
+results. Distinguish model-internal mechanisms from empirical adequacy without using that distinction
+to bypass his native-fit priority; a changed priority needs his decision.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
