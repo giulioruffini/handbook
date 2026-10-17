@@ -25,6 +25,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   denser Nature-style prose and references, and a personalized mental-health
   forecasting-system title. Keep the scientific explanation substantial; the
   weather metaphor should not headline this note.
+- Check that a simulated regime is physiologically plausible before running campaigns in it. On
+  October 17, K was baffled by FC–SC ≈ 0 in the TN0486 82-region runs and asked how the G range
+  was chosen. It had been fixed by a motif criterion (modal coupling 0.1/s) and reused for 82
+  regions without any FC/SC check; G* was 0.9% of the network critical coupling, and slow-band FC
+  sat at the sampling-noise floor in every regime. Before any production run, calibrate coupling
+  (and noise) against SC/FC structure, or at least show that predicted FC exceeds its sampling
+  noise, and flag a setup that fails that check even when the teammate's release specifies it.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
