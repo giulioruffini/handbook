@@ -25,13 +25,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   denser Nature-style prose and references, and a personalized mental-health
   forecasting-system title. Keep the scientific explanation substantial; the
   weather metaphor should not headline this note.
-- Check that a simulated regime is physiologically plausible before running campaigns in it. On
-  October 17, K was baffled by FC–SC ≈ 0 in the TN0486 82-region runs and asked how the G range
-  was chosen. It had been fixed by a motif criterion (modal coupling 0.1/s) and reused for 82
-  regions without any FC/SC check; G* was 0.9% of the network critical coupling, and slow-band FC
-  sat at the sampling-noise floor in every regime. Before any production run, calibrate coupling
-  (and noise) against SC/FC structure, or at least show that predicted FC exceeds its sampling
-  noise, and flag a setup that fails that check even when the teammate's release specifies it.
+- Distinguish a controlled mechanism experiment from a calibrated whole-brain model. Check
+  empirical fit before extending a campaign whose purpose requires it, and flag when a parameter
+  range was inherited from another purpose. The October 17 TN0486 correction below records K's
+  calibration-first instruction. Small FC–SC correlation alone establishes neither physiological
+  implausibility nor a universal sampling-noise floor.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
@@ -280,6 +278,11 @@ criterion, not calibrated for FC. Practice: distinguish a controlled reduction e
 whole-brain fit, and make calibration the next priority when K requests it. Define the structural
 benchmark and empirical target separately; do not infer a universal sampling-noise floor from small
 FC–SC correlation or assume that scaling every noise source changes a linear model's FC.
+K then confirmed: calibrate the noisy subcritical and noise-free supercritical regimes separately,
+establish the G range before expanding beta, and stop returning to few-node experiments already
+covered by Alex. Use the whole-brain empirical target, retain valid zero FC entries, and match its
+published transform convention. A fixed-point critical coupling and its linear sampling estimate
+must remain scoped to that reference; they do not characterize every autonomous regime.
 
 On October 12, K closed further TN0486 hemodynamic refinement: the operative property is
 that BOLD is a low-pass observation, and the work should advance to coupled nodes (relayed

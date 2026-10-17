@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] record K's TN0486 priority to calibrate SC/FC before further production and distinguish the motif coupling criterion from a fit — 2026-10-17
+- [x] record K's TN0486 G-first calibration priority, separate noisy/autonomous regimes, and whole-brain scope; correct the overbroad noise-floor entry — 2026-10-17
 - [x] record K's Ida-note preference for scientific density, journal-style references and a forecasting-system title — 2026-10-15
 - [x] record Giulio's request to replace conversational shorthand with names in documents shared with others — 2026-10-13
 - [x] record K's SYNERGIA letter scope and the need to check the complete official GAP comments against actual submission records — 2026-10-09
