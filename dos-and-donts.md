@@ -304,6 +304,11 @@ Practice: each release states its scientific question, primary observable, infor
 comparison, decision criterion, bounded cost, and next action for positive, negative, or inconclusive
 results. Distinguish model-internal mechanisms from empirical adequacy without using that distinction
 to bypass his native-fit priority; a changed priority needs his decision.
+In campaign v3 that evening, K explicitly allowed Grade B: bounded, numerically qualified
+model-internal mechanism studies even when empirical FC fitting fails. This supersedes the earlier
+empirical-fit prerequisite for those studies. Keep Grade A empirical claims separate, qualify each
+regime independently, and release only the specified block. An analytic family atlas does not
+validate native cycles or finite-amplitude reductions; mark those measurements pending their release.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
