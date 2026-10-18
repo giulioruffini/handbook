@@ -45,6 +45,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   models of brain and mind: its intended product is a clinical system. Preserve
   that product objective while distinguishing model validation from demonstrated
   patient benefit; retain useful scientific clarifications without changing the goal.
+  On October 18, GR8 made developing digital twins lead the objective paragraph.
+  K again specified "we should say we will develop a system" and preferred GR7.
+  Keep the clinical system as the stated deliverable; digital twins are its modeling
+  component, and independent comparison is how their predictive value is tested.
   On October 16, K's S4 annotations asked for a question about subjective experience
   as the opening, a stronger clinical-impact statement, and complete prose in the
   forecast-requirement paragraph. I also converted the programme overview table to
