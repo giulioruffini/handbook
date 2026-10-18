@@ -434,6 +434,12 @@ against the documents, say plainly whether they support it, and turn an unsuppor
 into a question for the person who holds the records. Never cite K's memory as a source in a
 deliverable.
 
+On October 18, I answered ANPSY's philanthropy question with shared-infrastructure incentives,
+but K recalled the stronger scale-and-risk argument. Concept note v0.5 explicitly says the
+scientific uncertainty exceeds a product-driven company's remit and the integration burden
+exceeds a single laboratory's capacity. Search earlier versions for the wording K recalls;
+preserve that argument when summarizing, and distinguish recovered text from reconstruction.
+
 ### 2026-10-12 — A measure does not "answer"; the theory provides the framework
 
 In a proposed WP0218 abstract I wrote that Kolmogorov complexity "answers this exactly once the
