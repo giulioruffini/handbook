@@ -439,6 +439,10 @@ but K recalled the stronger scale-and-risk argument. Concept note v0.5 explicitl
 scientific uncertainty exceeds a product-driven company's remit and the integration burden
 exceeds a single laboratory's capacity. Search earlier versions for the wording K recalls;
 preserve that argument when summarizing, and distinguish recovered text from reconstruction.
+Later that day, K objected to “scientifically uncertain” in the Q&A and GR8 because it
+sounds negative, and preferred “scientifically ambitious.” Use that wording in the
+funding pitch, with “at this stage” to specify the investment boundary; retain the
+actual scientific qualification requirements in their own sections.
 K also corrected the "why now" summary: explicitly connect advances in AI, computing power,
 mechanistic models and neuroscience to the capabilities ANPSY can now test; do not reduce
 the case to sensing, data infrastructure or language tools.
