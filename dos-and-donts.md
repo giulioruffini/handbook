@@ -2361,3 +2361,7 @@ pre-financing, do we? Did you check??" It is permitted when the CA sets the sche
 "without unjustified delay"; DESCA 2.1 notes §7.2.2), but I had not shown it. Practice: when a draft clause
 moves money or restricts a party's rights, cite the rule that permits it in the draft and in the reply,
 and say what was not checked (here, the Annotated Grant Agreement).
+
+### 2026-10-18 — ANPSY "why philanthropy": scale and risk lead, public goods support
+
+Giulio asked for the why-philanthropy, why-now, why-us statements. Klaus and Kaiti both led with the shared-infrastructure incentive argument (no company pays for what serves its competitors). Giulio corrected Kaiti: the argument he means is the scale-and-risk one from concept-note v0.5, "Why this needs a programme": the decisive experiment is too large and cross-disciplinary for one laboratory or project grant and too uncertain for a product-driven company, so the programme falls between the ordinary funding routes; shared public goods is the supporting point. Practice: when asked to recall an argument, search the earlier concept-note versions (v0.5, v0.6) and the pitch scripts before synthesizing from the latest records, and lead with the version Giulio approved in the note.
