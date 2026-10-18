@@ -336,6 +336,11 @@ Do not rebuild the removed procedure under a new label.
 The analytical-package review then expanded a delayed-system resolvent outside the campaign.
 K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
 and omit the extension; an out-of-scope example does not warrant a new analytical branch.
+On October 18, K reiterated that delays are not a proposed remedy for the near-zero FC fits
+and asked us to check the PING definition, its TI provenance and its coupling. Practice: compare
+the actual local equations, receiving ports, gains, compensation and observation before attributing
+a poor fit to missing mechanisms. Distinguish measured isolated dynamics from a mapped network
+attractor structure, and a successful forced TI response from empirical whole-brain FC validation.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
