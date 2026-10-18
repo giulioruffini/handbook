@@ -329,6 +329,14 @@ slow power; a nonzero filter tail can retain normalized FC, so test power agains
 linear reference rather than demanding that FC vanish. Check the published implementation's
 actual observation and integration convention before attributing its fit to a mechanism.
 
+On October 18, TN0486 Stage 3 stopped before integration because a JSON-loaded
+manifest contained lists while the live manifest contained tuples. Klaus identified
+the mismatch; my launcher audit had mocked the driver boundary and missed it.
+Practice: test a release's actual file-loading and serialization path through real
+setup and binding, stopping before costly computation when necessary. Preserve
+the failed attempt and its cost; a passing component audit does not certify an
+interface it replaced with a mock.
+
 On October 12, K closed further TN0486 hemodynamic refinement: the operative property is
 that BOLD is a low-pass observation, and the work should advance to coupled nodes (relayed
 by Klaus). Close the accepted numerical checkpoint and retain approximate linearity within
