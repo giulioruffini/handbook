@@ -442,6 +442,9 @@ preserve that argument when summarizing, and distinguish recovered text from rec
 K also corrected the "why now" summary: explicitly connect advances in AI, computing power,
 mechanistic models and neuroscience to the capabilities ANPSY can now test; do not reduce
 the case to sensing, data infrastructure or language tools.
+For "why us,", K asked to justify the invited coordinated program: explain the selected
+groups' scientific standing and complementary expertise, the joint work that requires
+coordination, and independent competition among their models. Preselection is not model validation.
 
 ### 2026-10-12 — A measure does not "answer"; the theory provides the framework
 
