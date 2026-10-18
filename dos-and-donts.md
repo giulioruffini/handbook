@@ -33,6 +33,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
+  On October 18, K found ANPSY S4-GR6 "too aggressive... too much": I had rewritten
+  several main-text paragraphs and added an evidence paragraph and example box.
+  Practice: clarify the digital-twin objective through local wording changes to GR5;
+  preserve its prose and structure, and propose broader additions separately.
 - Read the exact claim before criticizing it. Identify what is being compressed, what information
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
 - Preserve the intended scientific argument. When K corrects an interpretation, revise that
