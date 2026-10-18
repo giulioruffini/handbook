@@ -319,6 +319,15 @@ model-internal mechanism studies even when empirical FC fitting fails. This supe
 empirical-fit prerequisite for those studies. Keep Grade A empirical claims separate, qualify each
 regime independently, and release only the specified block. An analytic family atlas does not
 validate native cycles or finite-amplitude reductions; mark those measurements pending their release.
+On October 18, after reviewing the poor saved FC fits, K said we were being too picky with
+numerics, fixed the integration step at 0.25 ms as a modeling choice, and restored reasonable
+empirical FC fitting as the immediate priority. Practice: fit the declared fixed-step model;
+do not require another timestep ladder, paired-step pass, or missing E_step term before calibration.
+Retain basic code/data correctness, finite-state and observation checks, and resource limits.
+Preserve historical numerical verdicts without treating them as prospective fitting vetoes or
+claiming continuum convergence. Spend the next effort on G, operating input, compensation,
+receptor heterogeneity and subcritical noise; assess native empirical fits before extending
+mechanism/reduction production. Do not promise that fixing the step makes a poorly fitting model fit.
 The analytical-package review then expanded a delayed-system resolvent outside the campaign.
 K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
 and omit the extension; an out-of-scope example does not warrant a new analytical branch.

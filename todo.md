@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's fixed 0.25-ms TN0486 modeling choice and renewed empirical-fit priority; end numerical-refinement gates on calibration — 2026-10-18
 - [x] record K's shared PING/Hopf construction, delegated 40-Hz tuning, coupled-regime retention, empirical-fit gate, and inherited-then-refitted comparison — 2026-10-17
 - [x] record K's TN0486 G-first calibration priority, separate noisy/autonomous regimes, and whole-brain scope; correct the overbroad noise-floor entry — 2026-10-17
 - [x] record K's Ida-note preference for scientific density, journal-style references and a forecasting-system title — 2026-10-15
