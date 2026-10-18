@@ -439,6 +439,9 @@ but K recalled the stronger scale-and-risk argument. Concept note v0.5 explicitl
 scientific uncertainty exceeds a product-driven company's remit and the integration burden
 exceeds a single laboratory's capacity. Search earlier versions for the wording K recalls;
 preserve that argument when summarizing, and distinguish recovered text from reconstruction.
+K also corrected the "why now" summary: explicitly connect advances in AI, computing power,
+mechanistic models and neuroscience to the capabilities ANPSY can now test; do not reduce
+the case to sensing, data infrastructure or language tools.
 
 ### 2026-10-12 — A measure does not "answer"; the theory provides the framework
 
