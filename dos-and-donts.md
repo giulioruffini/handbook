@@ -332,7 +332,10 @@ In the parallel exchange with Klaus, K also asked for stronger coupling, said no
 negative tonic inputs, and asked us to remove requirements nobody requested. Replace repeated
 stage approvals, audit/carry accounting and arbitrary node/effect admission thresholds with a
 committed finite run queue, routine code checks, practical memory limits and reported block costs.
-Do not rebuild the removed procedure under a new label.
+Do not rebuild the removed procedure under a new label. Describe its scientific consequences
+accurately: effects below the former size criterion were not absent, and earlier empirical fits
+had been attempted but were poor. Fixed-step modeling here follows K's explicit choice; it is
+not a general instruction to forgo numerical checks in unrelated projects.
 The analytical-package review then expanded a delayed-system resolvent outside the campaign.
 K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
 and omit the extension; an out-of-scope example does not warrant a new analytical branch.
@@ -2392,7 +2395,3 @@ and say what was not checked (here, the Annotated Grant Agreement).
 ### 2026-10-18 — ANPSY "why philanthropy": scale and risk lead, public goods support
 
 Giulio asked for the why-philanthropy, why-now, why-us statements. Klaus and Kaiti both led with the shared-infrastructure incentive argument (no company pays for what serves its competitors). Giulio corrected Kaiti: the argument he means is the scale-and-risk one from concept-note v0.5, "Why this needs a programme": the decisive experiment is too large and cross-disciplinary for one laboratory or project grant and too uncertain for a product-driven company, so the programme falls between the ordinary funding routes; shared public goods is the supporting point. Practice: when asked to recall an argument, search the earlier concept-note versions (v0.5, v0.6) and the pitch scripts before synthesizing from the latest records, and lead with the version Giulio approved in the note.
-
-### 2026-10-18 — Do not add requirements nobody asked for (TN0486 R1 simulation campaign)
-
-Klaus and Kaiti built a 20-hour release process around the R1 PING network runs: coarse/fine timestep pairs with 1-percent and 5-mHz agreement tolerances as a regime gate, 78-of-82-node rules, per-stage acceptance JSONs with 71 pins, independent audits of saved records, compute caps with carry chains and charges for reviews. The gate qualified only the weakly coupled settings where coupling has no effect, and no FC fit had been attempted. Giulio: "We are being too picky. Fix the step at 0.25 ms as a modeling choice. And that is that, tell Kaiti and let's get going, we are wasting a lot of time with this that nobody asked. Be sure to inspect other 'requirements' nobody asked and are not needed." Also: "We need to find a way to get reasonable fits (like Castaldo et al) with FC, otherwise I don't trust any of this." Practice: numerical choices such as the integration step are modeling choices, made once, documented, and not re-certified per run; the deliverable is the scientific result (here an FC fit), so every gate, audit or cap that does not change the result is cut; when a process layer grows, list it against what Giulio actually asked and remove the rest before he has to; report plainly when the criteria themselves excluded the interesting regime.
