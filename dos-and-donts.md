@@ -328,6 +328,11 @@ Preserve historical numerical verdicts without treating them as prospective fitt
 claiming continuum convergence. Spend the next effort on G, operating input, compensation,
 receptor heterogeneity and subcritical noise; assess native empirical fits before extending
 mechanism/reduction production. Do not promise that fixing the step makes a poorly fitting model fit.
+In the parallel exchange with Klaus, K also asked for stronger coupling, said not to worry about
+negative tonic inputs, and asked us to remove requirements nobody requested. Replace repeated
+stage approvals, audit/carry accounting and arbitrary node/effect admission thresholds with a
+committed finite run queue, routine code checks, practical memory limits and reported block costs.
+Do not rebuild the removed procedure under a new label.
 The analytical-package review then expanded a delayed-system resolvent outside the campaign.
 K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
 and omit the extension; an out-of-scope example does not warrant a new analytical branch.
