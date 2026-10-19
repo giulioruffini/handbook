@@ -357,6 +357,12 @@ and asked us to check the PING definition, its TI provenance and its coupling. P
 the actual local equations, receiving ports, gains, compensation and observation before attributing
 a poor fit to missing mechanisms. Distinguish measured isolated dynamics from a mapped network
 attractor structure, and a successful forced TI response from empirical whole-brain FC validation.
+On October 19, K reopened conduction delays around the best native fit. I proposed uniform
+4/8/16-ms delays; K corrected that delays must depend on measured fiber length, as in
+Castaldo: tau_ij = L_ij/v with one common conduction speed. Withdraw the uniform production
+cases and preserve the anatomical length pattern while varying v. Verify the length matrix's
+parcel definitions, order, units and active-edge coverage; do not silently substitute centroid
+distances or a different parcellation. The earlier no-delay scope is superseded by this request.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
