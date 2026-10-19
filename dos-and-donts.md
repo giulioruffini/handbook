@@ -342,6 +342,10 @@ setting in this bounded block, with its two analysis windows reported separately
 reserve fresh ICs or noise paths for promising candidates. Compare exploratory
 changes against saved single records with the same IC or path, and label historical
 ensemble scores separately. Time windows from one run are not independent replicates.
+On October 19, K could not locate the randomized receptor-map cases in the parcel
+table because the labels used seed numbers and the rows were split across blocks.
+Group the comparison rows together and lead with the experiment name ("randomized
+receptor map"), keeping seed and block provenance as secondary identifiers.
 The analytical-package review then expanded a delayed-system resolvent outside the campaign.
 K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
 and omit the extension; an out-of-scope example does not warrant a new analytical branch.
