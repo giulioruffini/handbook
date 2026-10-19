@@ -346,6 +346,9 @@ On October 19, K could not locate the randomized receptor-map cases in the parce
 table because the labels used seed numbers and the rows were split across blocks.
 Group the comparison rows together and lead with the experiment name ("randomized
 receptor map"), keeping seed and block provenance as secondary identifiers.
+On October 19, K explicitly dropped the optional symmetrized-map run while the
+approved local parameter grid was running. Mark the declined experiment as dropped,
+not pending, and continue the approved grid without re-arguing the optional branch.
 The analytical-package review then expanded a delayed-system resolvent outside the campaign.
 K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
 and omit the extension; an out-of-scope example does not warrant a new analytical branch.
@@ -2405,3 +2408,14 @@ and say what was not checked (here, the Annotated Grant Agreement).
 ### 2026-10-18 — ANPSY "why philanthropy": scale and risk lead, public goods support
 
 Giulio asked for the why-philanthropy, why-now, why-us statements. Klaus and Kaiti both led with the shared-infrastructure incentive argument (no company pays for what serves its competitors). Giulio corrected Kaiti: the argument he means is the scale-and-risk one from concept-note v0.5, "Why this needs a programme": the decisive experiment is too large and cross-disciplinary for one laboratory or project grant and too uncertain for a product-driven company, so the programme falls between the ordinary funding routes; shared public goods is the supporting point. Practice: when asked to recall an argument, search the earlier concept-note versions (v0.5, v0.6) and the pitch scripts before synthesizing from the latest records, and lead with the version Giulio approved in the note.
+
+### 2026-10-19 — Teknos down: I had quit OrbStack after test runs
+
+K reported "Teknos: Internal Server Error". Three causes stacked: the laptop
+portal job served a stale `.next-bcom` build (no `INSTANCE=ne`), the Teknos API
+ran September code against a schema three migrations behind, and its Postgres
+container was down because I had quit OrbStack after every test run since
+2026-10-03, believing only the test suite used it. Practice: before stopping a
+shared local service (OrbStack, a database, a launchd job), list what depends
+on it — here the Teknos instance lives in the same container — and restore the
+machine to the state I found it in, not the state I assume.
