@@ -336,6 +336,12 @@ Do not rebuild the removed procedure under a new label. Describe its scientific 
 accurately: effects below the former size criterion were not absent, and earlier empirical fits
 had been attempted but were poor. Fixed-step modeling here follows K's explicit choice; it is
 not a general instruction to forgo numerical checks in unrelated projects.
+On October 19, K questioned the two-run-per-setting FC ensembles and suggested one
+long run for exploration (relayed by Klaus). Use one 2100-s realization per new
+setting in this bounded block, with its two analysis windows reported separately;
+reserve fresh ICs or noise paths for promising candidates. Compare exploratory
+changes against saved single records with the same IC or path, and label historical
+ensemble scores separately. Time windows from one run are not independent replicates.
 The analytical-package review then expanded a delayed-system resolvent outside the campaign.
 K clarified that conduction delays are excluded (relayed by Klaus). Keep one scoping sentence
 and omit the extension; an out-of-scope example does not warrant a new analytical branch.
