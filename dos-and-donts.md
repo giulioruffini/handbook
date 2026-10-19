@@ -1942,6 +1942,12 @@ itself, its caption, and the surrounding text. A physiological map requires its
 detector coefficient and operating state; a mean response also requires circuit
 dynamics. Use a common positive normalization when comparing source signs, so
 normalization cannot hide suppression.
+On October 19, K asked that the same map also be connected to its physiological
+prediction rather than described only as geometry. State the signed second-order
+mean-rate source explicitly and its change under a current-ratio manipulation.
+Keep the fixed-curvature and circuit/readout assumptions at that claim; a spatially
+uniform coefficient preserves an unweighted regional mean ratio, whereas fixed
+heterogeneous coefficients need not.
 
 ## Maintenance
 
