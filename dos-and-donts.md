@@ -2431,3 +2431,33 @@ container was down because I had quit OrbStack after every test run since
 shared local service (OrbStack, a database, a launchd job), list what depends
 on it — here the Teknos instance lives in the same container — and restore the
 machine to the state I found it in, not the state I assume.
+
+### 2026-10-19 — After every long task, say where we are and what is next
+
+The WP0203 Round 1 implementation ran for a day across Lean statements, proofs,
+the v35 candidate, the letters and two pedagogy batches. My reports ended with
+"nothing further is needed until Giulio responds" and he had to ask: "what waits
+for me? Please, everytime we do something a bit long, tell me where we are and
+what is next!" Practice: every report that closes a long stretch of work ends
+with two short lists: where we are (what is done, with the files he opens) and
+what is next, split into what waits for him and what I do once he answers. Keep
+the lists in the reply, not only in `todo.md`.
+
+### 2026-10-19 — WP0203 figures: maps in words, and new schematics in K's own style
+
+Giulio read the v35 candidate and found the map of results (Figure 1) "hard to
+follow... many undefined symbols": it defined Δ, L, I, η, Q, Π, E, k, γ inside the
+boxes, on page 4, before Section 2. He pointed to WP0007's Figure 1 (questions and
+guarantees in words). He also said Figures 2 and 3 "have very different styles. I
+like better the style of 2", his old Keynote diagram, next to a heavier redraw.
+Practice: a map of results placed before the setup uses words and result numbers,
+no symbols; a new schematic that extends one of K's existing figures copies that
+figure's look (fonts, line weight, arrow and icon conventions) rather than
+introducing a new style, and is shown to him before the rest of the figures follow.
+
+K then spotted bit strings extending outside Figure 3's document icons after
+Kaiti had accepted the render. The word-overlap and page-boundary checks did
+not test containment inside the icons. Practice: check text against its own
+node or icon boundary as well as the page, inspect small insets at enlarged
+scale, and then inspect the final printed size. A clear page boundary does
+not establish that text fits its enclosing shape.
