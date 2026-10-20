@@ -2383,6 +2383,11 @@ itself; a summary is a pointer, not a source.
   K asked why and wanted them with the proposal repository. Use a gitignored
   `build/` folder in the repo (older builds in `build/archive/`), and file shared or
   submitted PDFs on Drive. The desk is for the review shelf only.
+  On October 20, after opening the ANPSY–EBRAINS memo, K asked for copies of such
+  PDFs in `~/Downloads` so he can find them and attach them to email. Practice:
+  keep the master and editable source in the project, and also place a clearly
+  named, versioned copy of each shareable PDF in Downloads by default. Provide
+  the Downloads link at delivery; do not overwrite a different existing copy.
 
 - In funder-facing text, do not cite internal BCOM working papers or lay out the
   internals of a prototype. On October 13, 2026, the Kokoro–Norrsken proposal
