@@ -2502,3 +2502,11 @@ sentence goes to Kaiti before it is offered to K as "defended by the paper" and
 before it enters the abstract; test the inference against the bound it rests on
 and against one counterexample first, and keep "how the paper defends it"
 separate from "what I would like it to say".
+
+Giulio then asked what "larger residual" meant in the corrected abstract
+and restated his interpretation of reusable initial information as a model
+of regularity. Practice: explain the residual as information still needed
+to reconstruct the uncontrolled output, not necessarily information acquired
+by the regulator. Distinguish a demonstrated reusable function from its
+representation as stored data or a generative rule; keep the finite-budget
+calculation in the body when it obscures that conceptual point in the abstract.
