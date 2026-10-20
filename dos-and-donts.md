@@ -1966,6 +1966,11 @@ scientific conditions beside the claims they limit, integrate their explanation,
 and move technical details to a declared home. A fidelity pass and clean build
 do not establish readability. Protect the PDF K is actively annotating; propose
 the scope and wait when he explicitly asks for approval before another edit.
+K then clarified that this review covers the entire paper: he stopped at pages
+8–9 because of the prose, so the early annotations are a sample, not the scope.
+Do not restrict a requested whole-paper repair to the pages he managed to read.
+Apply the same narrative and caption standards throughout, with a redline
+against draft20, and keep the article build frozen until he finishes annotating.
 
 On October 9, K found the added synaptic-filter boxes and repeated red stage
 labels in TN0484's model schematic too cluttered (relayed by giulio-shell).
