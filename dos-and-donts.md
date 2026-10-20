@@ -41,6 +41,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
 - Preserve the intended scientific argument. When K corrects an interpretation, revise that
   interpretation before polishing the wording. Explain a disagreement with reasons.
+  On October 20, K clarified that Morningside wants to sell NE after I widened the
+  banker-contact discussion to other financing objectives. Treat the sale as settled;
+  distinguish uncertainty about adviser selection and execution from uncertainty about
+  the objective. A contact's capital-markets background does not change that objective.
   On October 15, K rejected reframing ANPSY as primarily a programme to develop
   models of brain and mind: its intended product is a clinical system. Preserve
   that product objective while distinguishing model validation from demonstrated
