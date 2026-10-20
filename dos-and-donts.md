@@ -603,6 +603,18 @@ SYNERGIA (grant agreement No. 101286995); support anticipated"); GALVANI is for 
 was done with NE-funded authors on GALVANI topics (TN0484 and the NE modeling papers). When unsure
 which applies, ask rather than apply the NE-affiliation trigger mechanically.
 
+### 2026-10-20 — Peer messages cost the receiver a turn at full context; fewer and fuller
+
+K found Kaiti's Codex credits draining during the TN0486 fit campaign. The rollout
+ledgers showed her BOLD session at 85–90 M tokens a day on 17–19 Oct against 23–31 M
+on 7–12 Oct: 528 model calls a day at ~167k context each, driven by ~140 peer messages
+a day each way, many of them receipts, progress notes, and audits that re-read whole
+files. K: "the messages have to be fewer and more informative", and the rule belongs in
+the peer skill so both CLIs load it. Practice: follow the "Message economy" section of
+`~/Claude/peer-message/SKILL.md` (four message kinds only, batch to milestones, point to
+diffs and line ranges instead of pasting, one owner reports to K, no acknowledgments);
+it is the canonical text and is not copied here.
+
 ### 2026-10-05 — Session-to-session messaging lives in its own folder, not in aifollow
 
 Asked whether Claude Code and Codex sessions could message each other, I planned the glue
