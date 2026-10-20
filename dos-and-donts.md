@@ -2487,3 +2487,18 @@ not test containment inside the icons. Practice: check text against its own
 node or icon boundary as well as the page, inspect small insets at enlarged
 scale, and then inspect the final printed size. A clear page boundary does
 not establish that text fits its enclosing shape.
+
+On October 20 (WP0203 abstract), K asked how the paper defends his point that a
+gap sustained over repeated experiments with the same world model cannot be
+carried by preloaded data. I proposed, and he accepted, an abstract sentence
+saying that a reduction sustained with a small residual "certifies a regularity
+the regulator holds, not a stored record, which is spent after finitely many
+episodes", with a Section 4.4 sentence to back it. Kaiti's theorem check
+rejected the inference: the joint gap is bounded by K(R|C) plus residual plus
+allowance whether R stores a rule or data, a positive joint gap rate with a
+sublinear residual is impossible rather than a certificate, and a stored string
+the world repeats is credited once, not spent. Practice: a theorem-level
+sentence goes to Kaiti before it is offered to K as "defended by the paper" and
+before it enters the abstract; test the inference against the bound it rests on
+and against one counterexample first, and keep "how the paper defends it"
+separate from "what I would like it to say".
