@@ -1987,6 +1987,9 @@ is finished and the revision is ready for normal reading, archive the annotated
 copy with its hash and restore the latest approved working edition to the
 canonical article, supplement, and redline paths. Update the README and tell K
 which file is current; do not leave a stale annotated copy as the default.
+K also specified TeXShop when asking to open the manuscript source. Open the
+canonical `.tex` explicitly in TeXShop rather than relying on the macOS default
+association or choosing another editor; distinguish opening source from its PDF.
 
 On October 9, K found the added synaptic-filter boxes and repeated red stage
 labels in TN0484's model schematic too cluttered (relayed by giulio-shell).
