@@ -1981,6 +1981,12 @@ K then clarified that this review covers the entire paper: he stopped at pages
 Do not restrict a requested whole-paper repair to the pages he managed to read.
 Apply the same narrative and caption standards throughout, with a redline
 against draft20, and keep the article build frozen until he finishes annotating.
+Later that day, K opened the canonical root PDF and found the preserved draft20,
+although the revised draft21 was in a separate review folder. Once annotation
+is finished and the revision is ready for normal reading, archive the annotated
+copy with its hash and restore the latest approved working edition to the
+canonical article, supplement, and redline paths. Update the README and tell K
+which file is current; do not leave a stale annotated copy as the default.
 
 On October 9, K found the added synaptic-filter boxes and repeated red stage
 labels in TN0484's model schematic too cluttered (relayed by giulio-shell).
