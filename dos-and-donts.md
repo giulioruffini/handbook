@@ -473,6 +473,28 @@ in the layout document, rule 4.
 
 ## Recorded incidents
 
+### 2026-10-20 — TN0484: a revision ladder damaged legibility
+
+After drafts 14–20 (notation pass, reorganization after K's annotations, signed steady source,
+Ricardo's FEM integration, Violante rewrite), K read draft20 and said: "I think she's made a mess
+of what I've read so far. It reads strange. This is a SCIENTIFIC PAPER, it should be readable,
+not constantly referring to future sections. I think her edits damaged the storytelling and
+legibility." He also disliked the tildes introduced for the reduced MPR variables ("I don't like
+this stuff, shifting to tilde r... when did this happen?"). My own read confirmed the symptoms:
+126 references to later labels (25 to sections, 8 in one Theory subsection); sentences whose only
+content is a pointer ("whose maps are derived in §2.5"); "ledger" sentences that answer a past
+audit item rather than advance the argument ("This does not make membrane charging
+instantaneous."); four model definitions before the story; the hardest subsection before the
+payoff. Every single edit had a record and a reason; the sum was unreadable. Practice: a fidelity
+check of numbers is not a read. After any revision pass, read the changed sections as a reader,
+front to back, before reporting; count forward section pointers in Introduction and Theory and
+drive them to zero by moving content or deleting the pointer; never paste an audit answer into
+the prose as a standalone sentence; resolve notation collisions with the minimum change and never
+add decorations (tildes, hats) for unit scaling when a phrase ("in membrane-time units") does
+the job; keep the redline baseline at the version K last read so he sees the delta, not the
+ledger. Related: "Readability is the deliverable" (2026-09-07) and "Kaiti cuts too much"
+(2026-09-08).
+
 ### 2026-10-15 — Check the group's own publications before calling evidence missing
 
 For Kaiti's whole-brain-model appendix in ANPSY, I called Gendra et al. "a preprint, no journal version found". I also left GALVANI out of the clinical evidence. K corrected me: Gendra is published (*Network Neuroscience* 10:303–328, 2026), and his group runs the GALVANI tDCS trial, with publications (Lopez-Sola 2025 *J Neural Eng*, Bartolomei 2025 *Epilepsia Open*, NCT06334952). Practice: before writing "not published" or "no clinical evidence" on a topic K's group works on, query CrossRef by author (Ruffini, Lopez-Sola, Salvador) and ClinicalTrials.gov, and read the GALVANI publication list. Include medRxiv/bioRxiv: K then pointed to Mercadal 2026 (medRxiv, doi:10.64898/2026.09.22.26363221), which shows the GALVANI RCT tests WBM-optimized montages, so my "no prospective test" was wrong. Extended 2026-10-17 (WP0203 R1.6): I put "which reference gets the preprints.org link?" to K as a decision and wrote "DOI not yet issued" for WP0007. K: "c'mon, check preprints.org yourself". Crossref showed WP0007 published (Entropy 28, 1090, 2026-10-07) and both cited preprints on preprints.org. Practice: resolve reference status through Crossref (`api.crossref.org/works/<doi>`; preprints.org pages return 403 to scripts) before asking K or writing a status into a deliverable.
