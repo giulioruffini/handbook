@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's EBRAINS correction: distinguish service availability from workflow usefulness and include GDPR access constraints — 2026-10-20
 - [x] record K's default Downloads copy for shareable PDFs and copy the ANPSY–EBRAINS memo there for email attachment — 2026-10-20
 - [x] record K's exclusion of delays and request to diagnose the PING definition/coupling behind poor FC fits — 2026-10-18
 - [x] record K's fixed 0.25-ms TN0486 modeling choice and renewed empirical-fit priority; end numerical-refinement gates on calibration — 2026-10-18

@@ -502,6 +502,11 @@ the case to sensing, data infrastructure or language tools.
 For "why us,", K asked to justify the invited coordinated program: explain the selected
 groups' scientific standing and complementary expertise, the joint work that requires
 coordination, and independent competition among their models. Preselection is not model validation.
+On October 20, K challenged the EBRAINS memo's practical recommendation and asked to add
+GDPR barriers and platform limitations. Practice: distinguish advertised services and scientific
+overlap from demonstrated usefulness for an actual research workflow. Explain data-access
+permissions alongside technical hosting; attribute historical bureaucracy findings to their
+period, and do not infer either current failure or effective adoption from headline user counts.
 
 ### 2026-10-12 — A measure does not "answer"; the theory provides the framework
 
