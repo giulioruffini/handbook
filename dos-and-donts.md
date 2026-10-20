@@ -1958,6 +1958,14 @@ section with the result it establishes, move numerical diagnostics to Methods, a
 end literature comparisons with their consequence for the paper. Read the actual
 annotated PDF for placement, and distinguish a generated DC drive from its
 downstream physiological response when stating the focality restriction.
+On October 20, K found TN0484 draft20’s opening damaged by accumulated review
+edits: forward pointers interrupted the argument, model definitions arrived
+before their purpose, and audit qualifications read as detached corrections.
+Practice: read the rendered argument continuously after a review cycle; retain
+scientific conditions beside the claims they limit, integrate their explanation,
+and move technical details to a declared home. A fidelity pass and clean build
+do not establish readability. Protect the PDF K is actively annotating; propose
+the scope and wait when he explicitly asks for approval before another edit.
 
 On October 9, K found the added synaptic-filter boxes and repeated red stage
 labels in TN0484's model schematic too cluttered (relayed by giulio-shell).
