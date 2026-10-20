@@ -634,6 +634,16 @@ SYNERGIA (grant agreement No. 101286995); support anticipated"); GALVANI is for 
 was done with NE-funded authors on GALVANI topics (TN0484 and the NE modeling papers). When unsure
 which applies, ask rather than apply the NE-affiliation trigger mechanically.
 
+### 2026-10-20 — Parameter values with equals signs; no session-coined names
+
+Reviewing the TN0486 candidates sheet, K: "use = signs! alpha =1 etc.... And what is 'center'?" I had
+written "α 1, β/β_H −1.5" throughout, and had called the previous best-fit record "the center" (a name
+coined during the grid blocks, where it was the center of the local grid) in sheets and replies without
+defining it. Practice: write every parameter value as an equation, α = 1, β/β_H = −1.5, G = 324,
+v = 5 m/s, in figures, tables, prose, and messages. Refer to records and settings by what they are (the
+previous best fit: α = 1, β/β_H = −1.5, no delay, G = 324), never by a label invented in the session;
+if a short name is unavoidable, define it at first use in the same document.
+
 ### 2026-10-20 — Peer messages cost the receiver a turn at full context; fewer and fuller
 
 K found Kaiti's Codex credits draining during the TN0486 fit campaign. The rollout
