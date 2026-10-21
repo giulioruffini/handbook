@@ -374,6 +374,12 @@ Castaldo: tau_ij = L_ij/v with one common conduction speed. Withdraw the uniform
 cases and preserve the anatomical length pattern while varying v. Verify the length matrix's
 parcel definitions, order, units and active-edge coverage; do not silently substitute centroid
 distances or a different parcellation. The earlier no-delay scope is superseded by this request.
+On October 21, K approved the six-record T13 intervention at the previous best no-delay fit
+(α = 1, β/β_H = −1.5, G = 324), with one worker, and asked that model fitting be downplayed
+in the paper (relayed by Klaus). Its purpose is a reasonable operating point for the PING toy
+model on SC; the scientific focus is the mechanisms. Practice: keep fit scores and search
+provenance, but do not turn further fitting or a delayed arm into a prerequisite for the
+approved mechanism work. T14 and T15 derivation proceed at the same inherited setting.
 Later on October 17, K emphasized that a subcritical linear model can shape slow input into
 structurally organized BOLD FC without generating new slow frequencies. Practice: separate
 frequency generation from transmission and empirical fit. High-passing shared noise attenuates
