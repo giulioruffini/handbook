@@ -39,6 +39,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   preserve its prose and structure, and propose broader additions separately.
 - Read the exact claim before criticizing it. Identify what is being compressed, what information
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
+  On October 21 (TN0484), K said a signed DC-like effect can occur at depth and
+  pointed to Ricardo's hippocampal maps. I substituted preferential deep stimulation
+  and invoked the homogeneous-compartment maximum restriction. K clarified that he
+  had not claimed preferential stimulation. Distinguish an effect at depth and
+  steering within a deep target from superiority over superficial tissue; use the
+  actual FEM evidence for the former and reserve target/reference comparisons for
+  claims that require them.
 - Preserve the intended scientific argument. When K corrects an interpretation, revise that
   interpretation before polishing the wording. Explain a disagreement with reasons.
   On October 20, K clarified that Morningside wants to sell NE after I widened the
