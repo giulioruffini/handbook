@@ -2565,6 +2565,12 @@ no symbols; a new schematic that extends one of K's existing figures copies that
 figure's look (fonts, line weight, arrow and icon conventions) rather than
 introducing a new style, and is shown to him before the rest of the figures follow.
 
+On October 21, Giulio found the resulting Figure 1 verbose and overly defensive
+(“does not establish reuse”), and said it did not situate the original ART.
+Practice: plain language alone does not make a diagram readable. Show the main
+argument with short labels, place ART's positive contribution explicitly in its
+development, and keep secondary results and detailed limitations in the text.
+
 K then spotted bit strings extending outside Figure 3's document icons after
 Kaiti had accepted the render. The word-overlap and page-boundary checks did
 not test containment inside the icons. Practice: check text against its own
