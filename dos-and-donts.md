@@ -502,6 +502,16 @@ the job; keep the redline baseline at the version K last read so he sees the del
 ledger. Related: "Readability is the deliverable" (2026-09-07) and "Kaiti cuts too much"
 (2026-09-08).
 
+### 2026-10-21 — TN0484: say which file and which edition; the journal article is the working edition
+
+K asked me to open "the tex" after updating the abstract; I opened the macro file
+planning/tn0484_abstract.tex without saying so, and K could not tell whether he was looking at
+the TN or the journal version. K: focus on the journal version; the TN has the same content and
+abstract and simply mirrors the journal as the last step. Practice: name the file and the edition
+every time one is opened or built; open the main source and the article PDF, not an include file.
+The shared source now defaults to the JNE article (\jnetrue), so typesetting it in TeXShop gives
+the journal edition; build.sh regenerates the TN with \tnbuild. See [[tn0484-ti-tuned-receiver]].
+
 ### 2026-10-15 — Check the group's own publications before calling evidence missing
 
 For Kaiti's whole-brain-model appendix in ANPSY, I called Gendra et al. "a preprint, no journal version found". I also left GALVANI out of the clinical evidence. K corrected me: Gendra is published (*Network Neuroscience* 10:303–328, 2026), and his group runs the GALVANI tDCS trial, with publications (Lopez-Sola 2025 *J Neural Eng*, Bartolomei 2025 *Epilepsia Open*, NCT06334952). Practice: before writing "not published" or "no clinical evidence" on a topic K's group works on, query CrossRef by author (Ruffini, Lopez-Sola, Salvador) and ClinicalTrials.gov, and read the GALVANI publication list. Include medRxiv/bioRxiv: K then pointed to Mercadal 2026 (medRxiv, doi:10.64898/2026.09.22.26363221), which shows the GALVANI RCT tests WBM-optimized montages, so my "no prospective test" was wrong. Extended 2026-10-17 (WP0203 R1.6): I put "which reference gets the preprints.org link?" to K as a decision and wrote "DOI not yet issued" for WP0007. K: "c'mon, check preprints.org yourself". Crossref showed WP0007 published (Entropy 28, 1090, 2026-10-07) and both cited preprints on preprints.org. Practice: resolve reference status through Crossref (`api.crossref.org/works/<doi>`; preprints.org pages return 403 to scripts) before asking K or writing a status into a deliverable.
@@ -2571,3 +2581,12 @@ to reconstruct the uncontrolled output, not necessarily information acquired
 by the regulator. Distinguish a demonstrated reusable function from its
 representation as stored data or a generative rule; keep the finite-budget
 calculation in the body when it obscures that conceptual point in the abstract.
+
+### 2026-10-21 — Emails and messages: sharp and short, in general
+
+Project Starlab. I drafted the KPI mail to Aureli and David at about 450 words, with the
+reasoning spelled out. K: "Make sure it is sharp and short (in general!)". Practice: every
+outgoing email or message drafted for K fits on one screen: the finding, the numbers in a
+short list, the asks numbered, nothing restated from the reader's own material and no
+hedging. The reasoning and the detail go in an attachment or a linked note. This holds for
+all drafts, not only this one.
