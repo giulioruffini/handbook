@@ -2570,6 +2570,10 @@ On October 21, Giulio found the resulting Figure 1 verbose and overly defensive
 Practice: plain language alone does not make a diagram readable. Show the main
 argument with short labels, place ART's positive contribution explicitly in its
 development, and keep secondary results and detailed limitations in the text.
+Giulio then clarified that Figure 1 must remain a logical flow of propositions
+and theorems. Preserve the result dependencies when shortening it; show the
+illustrated example as a complementary inset and draft alternatives separately
+for comparison before replacing the live figure.
 
 K then spotted bit strings extending outside Figure 3's document icons after
 Kaiti had accepted the render. The word-overlap and page-boundary checks did
