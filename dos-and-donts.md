@@ -2610,3 +2610,8 @@ appreciation. He also noted that R1.3 omitted regulation through a stored world
 model and asked what R1.4's placeholder meant. Reviewer responses should connect
 new examples to the existing positive model-based case, and pending items should
 name the exact author decision; do not claim all changes are done while one waits.
+He then questioned cutting the Section 2 reuse sentence because it establishes an
+important distinction at first introduction. Retain that local explanation and link
+to the later transfer discussion; consolidate later repetition rather than removing
+the reader's first guide. Lead the R2.2 response with the model's reusable regulatory
+function before explaining what the single-episode bound does not establish.
