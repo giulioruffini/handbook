@@ -2603,3 +2603,10 @@ outgoing email or message drafted for K fits on one screen: the finding, the num
 short list, the asks numbered, nothing restated from the reader's own material and no
 hedging. The reasoning and the detail go in an attachment or a linked note. This holds for
 all drafts, not only this one.
+
+On October 21 (WP0203), Giulio asked for a slightly warmer acknowledgment of
+the Academic Editor's generous assessment. Concision should retain proportionate
+appreciation. He also noted that R1.3 omitted regulation through a stored world
+model and asked what R1.4's placeholder meant. Reviewer responses should connect
+new examples to the existing positive model-based case, and pending items should
+name the exact author decision; do not claim all changes are done while one waits.
