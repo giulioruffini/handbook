@@ -508,6 +508,13 @@ the job; keep the redline baseline at the version K last read so he sees the del
 ledger. Related: "Readability is the deliverable" (2026-09-07) and "Kaiti cuts too much"
 (2026-09-08).
 
+### 2026-10-21 — Open documents in their own window, in front
+
+When I opened PDFs for K with a plain `open`, they landed as tabs in his crowded Preview window
+and he could not find them. K: open them as a new page so it is obvious where they are.
+Practice: open with a fresh Preview instance (`open -n -F -a Preview <files>`), then bring that
+instance to the front by its process id; name the window titles in the reply.
+
 ### 2026-10-21 — TN0484: say which file and which edition; the journal article is the working edition
 
 K asked me to open "the tex" after updating the abstract; I opened the macro file
