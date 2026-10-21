@@ -2574,6 +2574,10 @@ Giulio then clarified that Figure 1 must remain a logical flow of propositions
 and theorems. Preserve the result dependencies when shortening it; show the
 illustrated example as a complementary inset and draft alternatives separately
 for comparison before replacing the live figure.
+He also found Figure 4 hard to follow from its caption and displaced from its
+worked example. For explanatory figures, use concrete physical labels, walk
+through one numerical step, and verify placement beside the introducing text;
+a caption that summarizes the conclusion does not explain the diagram.
 
 K then spotted bit strings extending outside Figure 3's document icons after
 Kaiti had accepted the render. The word-overlap and page-boundary checks did
