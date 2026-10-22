@@ -1564,6 +1564,13 @@ are background; a request about one does not change the paper's agreed focus.
 
 ### 2026-09-16 — WP0203 correction history and presentation
 
+On October 22, after Frick requested a brief correction using the MDPI template,
+I proposed resolving the broader September audit before drafting. K said “let's
+not go crazy with the corrections” and requested a template-based draft. Keep
+this draft focused on the withdrawn Section 3.2 corollary and its immediate
+interpretation; retain unresolved audit questions separately and avoid blanket
+assurances that all other results are unaffected.
+
 K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
 requested a fresh reading before submission. Keep acknowledgment of the earlier error
 proportionate to its scientific role; let the abstract and conclusion state the current
