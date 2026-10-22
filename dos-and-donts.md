@@ -1575,6 +1575,11 @@ abstract and other summaries. Keep a correction brief by grouping repeated claim
 and specifying their locations, not by correcting only the original paragraph.
 K explicitly approved including the independent Theorem A3 tail error in the same
 correction. Do not equate brevity with incomplete coverage of the chosen errors.
+K then requested a shorter notice: explain the main errors first, list the
+affected locations, and point to highlighted changes in the article. Keep exact
+replacement wording and implementation instructions in a separate Markdown plan
+and marked manuscript. Verify the publisher's requested LaTeX package against the
+published PDF before preparing that redline.
 
 K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
 requested a fresh reading before submission. Keep acknowledgment of the earlier error
