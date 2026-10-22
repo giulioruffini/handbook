@@ -2732,3 +2732,11 @@ the paper was "waiting on the editor". K: "we are done with 203, revision submit
 all." Once the submission is in and the records are filed, report the work as finished.
 Mention the editor's decision as the next external event, not as pending work, and keep
 open items to what we still have to do.
+
+### 2026-10-22 — ASA reply: external emails short, no internal staffing
+
+The reply to the ASA (Tom Baker, £15k rule 4.7 project) grew to about 330 words across two
+review passes and named Prof. Bartolomei's 2 h clinical review. K corrected: do not mention
+Bartolomei, be more succinct. Practice: a client-facing email states the offer, scope, dates and
+next step in under 200 words; keep staffing, advisors and hour splits in the internal notes unless
+K asks to show them.
