@@ -2706,3 +2706,10 @@ Giulio corrected “slow transmission” to “ISO transmission” for the inter
 0.01–0.1-Hz component. Use ISO transmission in active specifications and the
 scientific narrative; keep high-pass and low-pass as the experimental filter
 names, since their passbands are broader than gamma alone or ISO alone.
+On October 22, K corrected a summary whose isolated-PING+ row alone said
+“no noise,” implying that other PING+ arms might contain noise. In this campaign,
+all PING+ cases are noise-free; state that once for the branch. For disconnected
+PING+, state that no resolved ISO FC matching native remains, rather than
+reporting power loss alone. Distinguish lost SC alignment from FC being zero,
+and explain the unresolved origin of the weak low-pass residual instead of
+letting a power-only summary imply that the residual has no structure.
