@@ -1580,6 +1580,12 @@ affected locations, and point to highlighted changes in the article. Keep exact
 replacement wording and implementation instructions in a separate Markdown plan
 and marked manuscript. Verify the publisher's requested LaTeX package against the
 published PDF before preparing that redline.
+K then emphasized that inferring the agent components was ART's central aim and
+asked whether the conditions in WP0203 preserve that interpretation. State the
+supported conditional model-content conclusion alongside the withdrawal, rather
+than leaving only deletions. Distinguish shared world information from evidence
+that the regulator uses it for prediction or planning, and a regulatory score
+from a proved optimization claim.
 
 K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
 requested a fresh reading before submission. Keep acknowledgment of the earlier error
