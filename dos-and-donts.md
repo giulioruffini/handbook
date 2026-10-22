@@ -2699,6 +2699,10 @@ important distinction at first introduction. Retain that local explanation and l
 to the later transfer discussion; consolidate later repetition rather than removing
 the reader's first guide. Lead the R2.2 response with the model's reusable regulatory
 function before explaining what the single-episode bound does not establish.
+On October 22, Giulio questioned the exact before/after abstract word counts
+in the response as unnecessary detail. State that the abstract was shortened
+and how its explanation improved; omit exact counts unless the reviewer or
+journal requires them, and verify any counts retained against the final files.
 
 ### 2026-10-22 — TN0486: use ISO transmission for the stated band
 
