@@ -2679,6 +2679,13 @@ by the regulator. Distinguish a demonstrated reusable function from its
 representation as stored data or a generative rule; keep the finite-budget
 calculation in the body when it obscures that conceptual point in the abstract.
 
+### 2026-10-22 — TN0498: executive summary must carry the decision
+
+K asked for a sharp executive summary because it is what readers will probably read.
+Practice: make page 1 stand alone with the recommendation, evidence limit, material
+policy finding and requested decision; leave battery arithmetic and regulatory detail
+in the body. Update the summary when a new section changes the decision context.
+
 ### 2026-10-21 — Emails and messages: sharp and short, in general
 
 Project Starlab. I drafted the KPI mail to Aureli and David at about 450 words, with the
