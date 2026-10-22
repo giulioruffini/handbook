@@ -2615,6 +2615,9 @@ calibrated temperature increment delta_t = f(a_t), give their units, and label
 the plotted compensation as accumulated temperature effect. State that d_t is
 the external temperature increment before control; any reconstruction from the
 command log requires the response map to be supplied or its cost counted.
+He then asked for an easy-to-read implementation and found the wavy lines odd.
+Use smooth schematic thermal curves, identify their units and time axis, and
+show a clean figure preview without redline underlining.
 
 K then spotted bit strings extending outside Figure 3's document icons after
 Kaiti had accepted the render. The word-overlap and page-boundary checks did
