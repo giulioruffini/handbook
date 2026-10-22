@@ -1484,6 +1484,8 @@ at the end. Practice: read each abstract as a standalone argument, beginning wit
 problem and connecting the results to that problem. Preserve each paper's distinct role and
 WP0215's established two-question structure; explain terms rather than accumulating labels.
 
+On October 22, K initially recalled WP0231 when reopening the computation and Seth biological-naturalism paper for Neuroscience of Consciousness, then confirmed he meant WP0215. Resume the existing WP0215 journal package; WP0231 is the shorter synthesis and presentation. Do not turn this clarification into a separate WP0231 revision.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
@@ -2740,3 +2742,9 @@ review passes and named Prof. Bartolomei's 2 h clinical review. K corrected: do 
 Bartolomei, be more succinct. Practice: a client-facing email states the offer, scope, dates and
 next step in under 200 words; keep staffing, advisors and hour splits in the internal notes unless
 K asks to show them.
+
+### 2026-10-22 — Look up known facts before asking K
+
+Asked K for Aureli's GitHub username when memory (starlab-dashboard-repo) already recorded it
+(`aurelisofr`). K: "you already know aureli's github from previous stuff". Practice: before asking
+K for a person's handle, address or identifier, grep the memory directory and the relevant repos.
