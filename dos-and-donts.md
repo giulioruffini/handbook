@@ -2503,6 +2503,10 @@ itself; a summary is a pointer, not a source.
   keep the master and editable source in the project, and also place a clearly
   named, versioned copy of each shareable PDF in Downloads by default. Provide
   the Downloads link at delivery; do not overwrite a different existing copy.
+  On October 22, K explicitly authorized persistent write access to Downloads
+  after repeated copy approvals interrupted manuscript review. Treat routine
+  Downloads writes as standing authorization; configure narrow persistent access
+  where supported, and distinguish saved settings from an active session policy.
 
 - In funder-facing text, do not cite internal BCOM working papers or lay out the
   internals of a prototype. On October 13, 2026, the Kokoro–Norrsken proposal
