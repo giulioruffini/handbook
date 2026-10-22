@@ -2598,6 +2598,12 @@ to the paper's existing output and action notation, state its explanatory purpos
 and compare mechanisms on the same forcing and output. Preserve the oscillation
 and zero-output graphic he liked; distinguish accumulated control effect from
 instantaneous action when drawing the cancellation.
+Giulio then found the figure physically confusing because it identified an action
+with its temperature effect. Distinguish the controller command a_t from the
+calibrated temperature increment delta_t = f(a_t), give their units, and label
+the plotted compensation as accumulated temperature effect. State that d_t is
+the external temperature increment before control; any reconstruction from the
+command log requires the response map to be supplied or its cost counted.
 
 K then spotted bit strings extending outside Figure 3's document icons after
 Kaiti had accepted the render. The word-overlap and page-boundary checks did
