@@ -1594,6 +1594,9 @@ from a large regulation gap and a small residual to required model content is
 the foundation of the agent interpretation. The thermal example is secondary.
 Organize this passage around that inference; use the example only to illustrate
 it, and distinguish the information premise from the remaining agent roles.
+K explicitly requested separate topics: give the agent foundation its own
+discussion subsection; retain the thermal case as an illustration in the
+worked-example section, with only a brief discussion cross-reference.
 
 K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
 requested a fresh reading before submission. Keep acknowledgment of the earlier error
