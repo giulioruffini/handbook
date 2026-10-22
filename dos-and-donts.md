@@ -2405,6 +2405,11 @@ amplitude as a descriptor rather than an FC-quality criterion. Apply the same sc
 and numerical discrepancy. For mixed slow sources, retain cross-covariances and do not assume
 that separately simulated nonlinear trajectories superpose. Amplitude recovery remains a
 separate question from FC recovery.
+On October 22, K required ISO-band and BOLD FC checks in every mechanism case,
+because power can fall while FC shape or RMSE against native survives. Report
+pattern correlation, signed-FC RMSE against matched native, mean FC and FC–SC
+correlation alongside power; state the transform, edge mask and resolution evidence.
+Do not infer loss of FC from reduced amplitude.
 
 On October 16 K questioned the 12.5–25-microsecond production steps and requested a
 coarse-step statistical check before the receptor grid. Practice: separate agreement of
