@@ -2591,6 +2591,14 @@ worked example. For explanatory figures, use concrete physical labels, walk
 through one numerical step, and verify placement beside the introducing text;
 a caption that summarizes the conclusion does not explain the diagram.
 
+On October 22, Giulio asked what the thermostat example was meant to explain,
+objected to its separate x/z notation, and proposed comparing reactive control
+with a stored model of the daily solar cycle. Practice: connect a worked example
+to the paper's existing output and action notation, state its explanatory purpose,
+and compare mechanisms on the same forcing and output. Preserve the oscillation
+and zero-output graphic he liked; distinguish accumulated control effect from
+instantaneous action when drawing the cancellation.
+
 K then spotted bit strings extending outside Figure 3's document icons after
 Kaiti had accepted the render. The word-overlap and page-boundary checks did
 not test containment inside the icons. Practice: check text against its own
