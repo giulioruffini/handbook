@@ -1570,6 +1570,11 @@ not go crazy with the corrections” and requested a template-based draft. Keep
 this draft focused on the withdrawn Section 3.2 corollary and its immediate
 interpretation; retain unresolved audit questions separately and avoid blanket
 assurances that all other results are unaffected.
+K then relayed Klaus's review: the draft left the same withdrawn inference in the
+abstract and other summaries. Keep a correction brief by grouping repeated claims
+and specifying their locations, not by correcting only the original paragraph.
+K explicitly approved including the independent Theorem A3 tail error in the same
+correction. Do not equate brevity with incomplete coverage of the chosen errors.
 
 K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
 requested a fresh reading before submission. Keep acknowledgment of the earlier error
