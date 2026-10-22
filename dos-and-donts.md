@@ -931,6 +931,12 @@ into the same world. Use the same action-arrow style; distinguish admissible rec
 from untracked destinations by their boundaries and labels. Charge reconstruction
 allowance only for necessary advice not already supplied by the selected records;
 discarding a redundant copy does not itself create a deficit.
+On October 22, the WP0203 final review again used an observed-and-erased
+record as a counterexample without including its destination in the conserved
+world. K corrected this: in the complete conservation framework, local erasure
+is information returned to the world. Preserve that interpretation; if a
+statement only assumes selected-record reconstruction, clarify the change of
+premise rather than presenting global information loss as the alternative.
 On October 5, K found that the collective section had lost its force during revision.
 Klaus's historical comparison identified the weakened claim that a collective can persist
 without a shared objective, along with grain distinctions, the cycle example, and the
