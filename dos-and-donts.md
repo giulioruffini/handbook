@@ -1589,6 +1589,11 @@ from a proved optimization claim.
 K confirmed the division: keep the ART Correction's reference to WP0203 terse,
 and develop the conditional agent interpretation in WP0203 with a citation back
 to ART. Preserve that division when updating either document.
+K then corrected the integrated Section 5.1 discussion: the general inference
+from a large regulation gap and a small residual to required model content is
+the foundation of the agent interpretation. The thermal example is secondary.
+Organize this passage around that inference; use the example only to illustrate
+it, and distinguish the information premise from the remaining agent roles.
 
 K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
 requested a fresh reading before submission. Keep acknowledgment of the earlier error
