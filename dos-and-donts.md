@@ -2694,3 +2694,10 @@ important distinction at first introduction. Retain that local explanation and l
 to the later transfer discussion; consolidate later repetition rather than removing
 the reader's first guide. Lead the R2.2 response with the model's reusable regulatory
 function before explaining what the single-episode bound does not establish.
+
+### 2026-10-22 — TN0486: use ISO transmission for the stated band
+
+Giulio corrected “slow transmission” to “ISO transmission” for the interparcel
+0.01–0.1-Hz component. Use ISO transmission in active specifications and the
+scientific narrative; keep high-pass and low-pass as the experimental filter
+names, since their passbands are broader than gamma alone or ISO alone.
