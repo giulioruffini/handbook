@@ -1586,6 +1586,9 @@ supported conditional model-content conclusion alongside the withdrawal, rather
 than leaving only deletions. Distinguish shared world information from evidence
 that the regulator uses it for prediction or planning, and a regulatory score
 from a proved optimization claim.
+K confirmed the division: keep the ART Correction's reference to WP0203 terse,
+and develop the conditional agent interpretation in WP0203 with a citation back
+to ART. Preserve that division when updating either document.
 
 K found WP0203 v17.2's repeated discussion of the failed ART corollary defensive and
 requested a fresh reading before submission. Keep acknowledgment of the earlier error
