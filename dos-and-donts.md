@@ -2724,3 +2724,11 @@ PING+, state that no resolved ISO FC matching native remains, rather than
 reporting power loss alone. Distinguish lost SC alignment from FC being zero,
 and explain the unresolved origin of the weak low-pass residual instead of
 letting a power-only summary imply that the residual has no structure.
+
+## Say "done" when our part is done
+
+2026-10-22, WP0203: after the Round 1 resubmission and the Zenodo deposit, I wrote that
+the paper was "waiting on the editor". K: "we are done with 203, revision submitted and
+all." Once the submission is in and the records are filed, report the work as finished.
+Mention the editor's decision as the next external event, not as pending work, and keep
+open items to what we still have to do.
