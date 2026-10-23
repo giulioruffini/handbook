@@ -1671,6 +1671,10 @@ positively, with their hypotheses; delete unsupported claims without replacing
 them with a running critique. Keep the error history and explanation of the
 withdrawals in the Correction notice. Review all added passages for this pattern,
 not only the examples K quotes.
+K subsequently asked that Theorem A3 disappear from the clean paper, including
+the numbered “Withdrawn” placeholder. Preserve later theorem numbers with a
+silent counter adjustment; show the complete deleted theorem in red in the
+marked comparison, and explain the withdrawal only in the notice.
 K then questioned whether the remaining edits included language improvements
 outside the Correction DOCX and asked for a separate scope check with Klaus.
 Scientific correctness does not establish that an edit is necessary. Map each
