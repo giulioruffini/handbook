@@ -2373,6 +2373,16 @@ units through the model's own efficacy convention rather than dropping what does
 
 ### 2026-10-15 — TN0486: the SL comparator keeps its own linear readout
 
+On October 23, the synthesis again framed SL chiefly as a reduction-fidelity test and
+foregrounded its second-order observation. K corrected that the purpose was to remove
+the sigmoid squaring mechanism, and questioned comparisons driven by identical noise.
+Practice: make the first-order transmission/readout contrast primary; quadratic
+reconstruction and squared envelopes are add-back diagnostics. Distinguish removal of
+explicit quadratic mixing from removal of all sigmoid-derived effects in cubic SL.
+Report common-noise response agreement separately from independent-noise FC, alongside
+each model's own cross-seed repeatability and the direct-noise BOLD contribution.
+
+
 Above Hopf, I argued that the first-order SL rate readout gives no slow BOLD by construction,
 called the second-order readout "the BOLD-equivalent observation", and told Kaiti so. K: the SL
 is the linearized version of PING; the paper asks whether the sigmoid nonlinearity matters, so
