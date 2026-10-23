@@ -42,6 +42,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   expected context. I had redirected attention toward SC and a linear sampling benchmark.
   Practice: lead with the observed nonlinear-model contrast, attach the finite-sampling
   qualification, and do not let an approximate linear reference replace those results.
+  K then specified the causal distinction: PING− prescribes ISO through independent
+  external noise, whereas PING+ generates ISO through interacting gamma rhythms shaped
+  by SC, node parameters and tonic external inputs. Frame the FC differences as consequences
+  of these source mechanisms. In PING+, SC participates in generation as well as transmission;
+  keep this explanatory distinction central rather than turning the comparison into a fit contest.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
