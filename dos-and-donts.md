@@ -1638,6 +1638,12 @@ not authorization to widen the agreed notice. Distinguish absence of a separate
 stochastic source model from dependence on the universal program prior; a prior
 assumption does not by itself settle what “distribution-free” means. The extra
 pass was set aside and the approved package restored unchanged.
+K then rejected the article's retrospective withdrawal prose and repeated
+sentences saying what the results do not establish. Present the retained results
+positively, with their hypotheses; delete unsupported claims without replacing
+them with a running critique. Keep the error history and explanation of the
+withdrawals in the Correction notice. Review all added passages for this pattern,
+not only the examples K quotes.
 K then corrected the integrated Section 5.1 discussion: the general inference
 from a large regulation gap and a small residual to required model content is
 the foundation of the agent interpretation. The thermal example is secondary.
