@@ -1564,6 +1564,8 @@ K then questioned whether different lower-level implementations of the same full
 
 After the program-to-ODE demonstration, K requested a pedagogical main-text account and appendix. Explain Clang, LLVM, and the supplied interface before describing extraction; show actual operations and separate proofs from tests. K then identified the extraction as compression and corrected my emphasis on reconstructing the original code: once the ODE is the chosen core, the original program is unnecessary for comparisons at that level. Lead with the recovered dynamical object; scope the equivalence without repeatedly treating discarded implementation details as a failure.
 
+In the subsequent discussion relayed by Klaus, K clarified that a specified coarse-graining already defines the retained states. Treat the program's slot identification as that representation map, with the declared clock, rather than repeatedly presenting it as an additional unresolved burden. Frame the extractor as a test of closure at first order and recovery of the generator; distinguish this from exact finite-step closure and retain differentiability assumptions when discussing a reduced flow.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
