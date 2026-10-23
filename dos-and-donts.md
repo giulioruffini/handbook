@@ -1606,6 +1606,8 @@ in the Correction. Read this in the context of K's direct citation question:
 follow the requested correction-only scope without inventing a general ban on
 reciprocal citations. Inspect attachments before treating them as the requested
 source; Frick's bundle contained the old Correction, not the published ART article.
+K then approved removing the WP0203 discussion and citation from the Correction,
+asked to keep it light, and confirmed that he had renewed the source request.
 K then corrected the integrated Section 5.1 discussion: the general inference
 from a large regulation gap and a small residual to required model content is
 the foundation of the agent interpretation. The thermal example is secondary.
