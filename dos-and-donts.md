@@ -233,6 +233,10 @@ recovering the original question or explaining how the study addresses it. Pract
 with the scientific problem, identify the causal contrast and experimental strategy, then
 state the findings needed to answer that problem. Keep supporting analyses in the Results;
 a shorter inventory of results is not a scientific argument.
+Later that day, K found the PING branch source/FC distinction still absent in effect,
+although individual sentences mentioned it. Make that contrast the organizing argument,
+connect the source mechanisms directly to their observed FC differences, and close with
+the generation–transmission result in plain terms rather than another descriptive summary.
 K then found the abstract ambiguous about PING+/SL+ versus PING−/SL−. Define each
 branch and its noise convention before reporting comparisons; attach every branch-specific
 finding to the named models. Distinguish a quadratic correction to the rate from an
