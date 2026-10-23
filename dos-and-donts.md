@@ -1490,6 +1490,8 @@ In the same discussion, K supplied his annotated Seth paper and an earlier corre
 
 On October 23, K rejected WP0215's spring plot as unclear and aesthetically unsatisfactory and requested its removal. Remove the figure and its references, preserve the worked spring example, and renumber the remaining figures. A figure should clarify the argument beyond the accompanying equations; do not retain one merely because it already exists.
 
+Later on October 23, K explicitly selected the simple vertical four-stage diagram and requested a new abstract/storyline before manuscript revision. Preserve that diagram's progression without branching it; the separate program/algorithm/function figure can retain its distinct role. State that operational realization requires dynamical support and intervention correspondence, not commitment to independently existing nonexperiential matter. Materialism is not a premise of the mathematical argument; KT's experiential ontology is a separate commitment. Use operational/dynamical language in our exposition, retaining standard terms and accurate descriptions of others' positions. Keep the revision staged and remove repetition rather than explanation.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
