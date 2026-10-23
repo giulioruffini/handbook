@@ -31,6 +31,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   range was inherited from another purpose. The October 17 TN0486 correction below records K's
   calibration-first instruction. Small FC–SC correlation alone establishes neither physiological
   implausibility nor a universal sampling-noise floor.
+  On October 23 (TN0486), K clarified that PING− must be a reasonable starting point for
+  mechanism experiments, without being called a good empirical model. I had let the fit
+  deficit dominate the Discussion opening. Lead with the intended mechanism chain: ISO
+  generation by gamma mixing with effective even-order nonlinearity, or externally supplied
+  ISO, followed by ISO transmission organizing network FC. Keep fit adequacy and the
+  limits of each mechanism claim explicit without replacing that argument with them.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
