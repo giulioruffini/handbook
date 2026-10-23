@@ -2898,3 +2898,7 @@ repository with a remote, push after every few commits (about three) and at the 
 task, with no prompt from K; before closing a turn that committed anything, run
 `git status -sb` on each touched repository and push whatever is ahead. The global rule
 ("push after a substantial batch") is read as "every few commits".
+Since 17:55 the same day a Stop hook (`~/.claude/hooks/push-touched-repos.py`, registered in
+`~/.claude/settings.json`) pushes, at the end of every turn, each repository the session touched
+whose branch is ahead of its upstream and not behind it; it never forces and skips repositories
+with a merge or rebase in progress. The practice above still applies when the hook cannot run.
