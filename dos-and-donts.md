@@ -1530,6 +1530,8 @@ K subsequently clarified that these first-person tests can include tDCS, rTMS, D
 
 After Klaus's critique, K proposed that program differences be assessed through the coherent organizations available under coarse-graining and, for organizations with self-reference and memory, their consequences for self-report. Treat this as a candidate basis for structural comparison, not merely an illustrative application. K left it tentative: one system may support multiple organizations, only some self-reporting, while other organizations may have experiential aspects. Clarify the proposal before rewriting it as an established criterion or counting subjects from coarse-grainings.
 
+K then separated that proposal from the general problem of program/algorithm identity: explore coherent coarse-grained organizations first, then the programs representing them and the structure those programs describe. Do not require a universal classification of programs before developing this route. Preserve Yanofsky's motivating role while distinguishing a reduced organization from its code and from a particular execution of that code.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
