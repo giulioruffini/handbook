@@ -1350,6 +1350,14 @@ He preferred v0.4.0's abstract structure. The new coarse-graining work studies w
 are admissible within that argument. Preserve the abstract's established hierarchy when adding
 supporting results; review its emphasis and intellectual arc as well as the accuracy of each claim.
 
+On October 23, K found that the proposed SCF abstract again displaced the motivating problem,
+this time with biological naturalism and the computation–experience correspondence. Yanofsky's
+program/algorithm/function distinction initiated the paper and must remain central in the
+abstract and argument, not merely retained in a later section. Recent consciousness literature
+should sharpen that structural-identification problem. Connect the newly published WP0007's
+relevance-constrained coarse-graining, joint representation/model acquisition, and AIT bounds;
+do not equate its task-relative functional core with experiential or organizational equivalence.
+
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
 KT's premise and the passage from physical dynamics to computational descriptions before discussing
