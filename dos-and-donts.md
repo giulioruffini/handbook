@@ -1573,6 +1573,8 @@ After the program-to-ODE demonstration, K requested a pedagogical main-text acco
 
 In the subsequent discussion relayed by Klaus, K clarified that a specified coarse-graining already defines the retained states. Treat the program's slot identification as that representation map, with the declared clock, rather than repeatedly presenting it as an additional unresolved burden. Frame the extractor as a test of closure at first order and recovery of the generator; distinguish this from exact finite-step closure and retain differentiability assumptions when discussing a reduced flow.
 
+When revising the storyline that evening, K restated the positive proposal: the ODE associated with a chosen coherent coarse-graining is the mathematical structure shared by its faithful programs. Present that object first, then ask which experiential features depend on it and which require additional realized organization. He linked this to the 2022 unfolding preprint (WP0102): the functional comparison includes internal states and their dynamics at the chosen grain, with neural measurements as constraints, rather than only overt behavior. Preserve that precedent without treating matched fMRI observations alone as complete structural equivalence.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
