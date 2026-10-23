@@ -1652,6 +1652,15 @@ Scientific correctness does not establish that an edit is necessary. Map each
 change to the notice's stated errors, retain unaffected published wording, and
 distinguish necessary grammatical joins from optional rewriting. Listing a page
 in the notice does not authorize every improvement on that page.
+Klaus's scope audit (notes/2026-10-23_klaus/ART_CORRECTION_SCOPE_AUDIT.md) found
+that three of the adopted rewordings were his own optional suggestions from the
+earlier candidate audit (Table 1 "so that Δ = b − K(x)", the "Policy
+representation" heading, the A.5.4 remark emphasis). In a review whose brief is a
+journal correction, offer no optional wording; every proposal must cite the
+withdrawn claim it serves. The optimization and planner language rests on the
+preserved Theorem 3 and Section 3.3, so renaming "objective" to "coding score"
+and "planner" to "policy" was an independent change, not a consequence of the
+withdrawals.
 K then corrected the integrated Section 5.1 discussion: the general inference
 from a large regulation gap and a small residual to required model content is
 the foundation of the agent interpretation. The thermal example is secondary.
