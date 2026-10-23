@@ -2835,3 +2835,12 @@ K asks to show them.
 Asked K for Aureli's GitHub username when memory (starlab-dashboard-repo) already recorded it
 (`aurelisofr`). K: "you already know aureli's github from previous stuff". Practice: before asking
 K for a person's handle, address or identifier, grep the memory directory and the relevant repos.
+
+### 2026-10-23 — Read the whole thread before answering a pasted email
+
+K pasted Aureli's reply on the ASA project and asked for help responding. I drafted from the paste
+alone and wrote that BCOM contributes the existing work "at no cost", the opposite of what K had
+written in his own sent message in the same thread ("5000 for BCOM (my time)"), which the paste
+did not include. K: "did you read the thread in the message? I want to move budget to BCOM".
+Practice: before drafting a reply, fetch the full thread (Gmail get_thread) and read K's own
+earlier messages in it; what K already told the correspondent binds the reply.
