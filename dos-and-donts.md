@@ -248,6 +248,9 @@ In his October 23 abstract annotations, K asked for parenthetical branch definit
 explicit absence of the sigmoid mixing mechanism in the first-order SL comparison,
 and “intrinsic gamma beating” in the conclusion. Name this omission at the mechanism
 statement itself; do not leave the reader to infer it from the later SL result.
+K then required the title to name neural mass models. State the modeling domain in
+the title so a model-internal mechanism is not presented as an unrestricted finding
+about human BOLD connectivity.
 
 On October 6, K questioned TN0486's “both square-law routes depart” and asked whether
 the models' FCs had been compared with each other. Name the actual readouts: SL power
