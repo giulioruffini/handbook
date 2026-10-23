@@ -1488,6 +1488,8 @@ On October 22, K initially recalled WP0231 when reopening the computation and Se
 
 In the same discussion, K supplied his annotated Seth paper and an earlier correction to my combustion analogy: do not assume an independently privileged material ontology when discussing KT. Start from Experience and its mathematical structure; distinguish computability, physical realization, and experiential preservation. Do not infer experiential equivalence from Turing universality or require hypercomputation evidence merely to dispute structural sufficiency. Check the author's response before repeating an objection: Seth explicitly concedes the necessity/sufficiency error about computational functionalism in R2.2.
 
+On October 23, K rejected WP0215's spring plot as unclear and aesthetically unsatisfactory and requested its removal. Remove the figure and its references, preserve the worked spring example, and renumber the remaining figures. A figure should clarify the argument beyond the accompanying equations; do not retain one merely because it already exists.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
