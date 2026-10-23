@@ -101,6 +101,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Check annotation placement in the rendered PDF when a transcription's anchor is ambiguous.
   When K requests examples from his group, include the studies in the text with their
   evidence limits and funding acknowledgment; bibliography entries alone do not suffice.
+  On October 23, K corrected ANPSY A1 after I replaced its general proposed-mechanism
+  sentence with “Our depression framework” and “A candidate ANPSY model would”.
+  Keep the general statement and introduce the circuit account as an example; use
+  conditional wording for a possible model so the example does not imply a selected
+  or exclusive program approach.
   On October 13, K challenged chunk averaging for Kokoro (relayed by Klaus):
   mapping report meaning to mathematical coordinates is the scientific problem.
   Treat averaging as a comparison baseline, not a routine repair of a context
