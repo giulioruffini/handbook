@@ -237,6 +237,9 @@ Later that day, K found the PING branch source/FC distinction still absent in ef
 although individual sentences mentioned it. Make that contrast the organizing argument,
 connect the source mechanisms directly to their observed FC differences, and close with
 the generation–transmission result in plain terms rather than another descriptive summary.
+K then asked for the closing statement to name both branches and their ISO sources explicitly,
+including the even-order sigmoid conversion needed to turn gamma beating into a slow component,
+and to say that ISO transmission shapes BOLD FC. Do not leave those links implicit in the body.
 K then found the abstract ambiguous about PING+/SL+ versus PING−/SL−. Define each
 branch and its noise convention before reporting comparisons; attach every branch-specific
 finding to the named models. Distinguish a quadratic correction to the rate from an
