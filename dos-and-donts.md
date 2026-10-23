@@ -1493,6 +1493,8 @@ On October 23, K rejected WP0215's spring plot as unclear and aesthetically unsa
 
 Later on October 23, K explicitly selected the simple vertical four-stage diagram and requested a new abstract/storyline before manuscript revision. Preserve that diagram's progression without branching it; the separate program/algorithm/function figure can retain its distinct role. State that operational realization requires dynamical support and intervention correspondence, not commitment to independently existing nonexperiential matter. Materialism is not a premise of the mathematical argument; KT's experiential ontology is a separate commitment. Use operational/dynamical language in our exposition, retaining standard terms and accurate descriptions of others' positions. Keep the revision staged and remove repetition rather than explanation.
 
+K then corrected the Kanai-centered positioning and requested the earlier KT papers and first-person science. The 2017 annotated supplement (`nix019_supp.pdf`, note 42) addresses mathematical substrate; the 2022 AIT foundations paper (§§4.2–4.3) explicitly proposes experiential self-tests and replication; the 2025 structured-dynamics paper develops the structural program. Establish this verified lineage in the opening before comparing recent work. Cite exact contributions without assigning later definitions to older papers. Include first-person testing of specified experiential predictions, distinguishing direct evidence for the participant from reports shared with others and from proof of universal SCF.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
