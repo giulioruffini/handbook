@@ -244,6 +244,10 @@ K then found the abstract ambiguous about PING+/SL+ versus PING−/SL−. Define
 branch and its noise convention before reporting comparisons; attach every branch-specific
 finding to the named models. Distinguish a quadratic correction to the rate from an
 envelope-only squared readout. Identify human SC/FC provenance concisely.
+In his October 23 abstract annotations, K asked for parenthetical branch definitions,
+explicit absence of the sigmoid mixing mechanism in the first-order SL comparison,
+and “intrinsic gamma beating” in the conclusion. Name this omission at the mechanism
+statement itself; do not leave the reader to infer it from the later SL result.
 
 On October 6, K questioned TN0486's “both square-law routes depart” and asked whether
 the models' FCs had been compared with each other. Name the actual readouts: SL power
