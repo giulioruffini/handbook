@@ -1646,6 +1646,12 @@ positively, with their hypotheses; delete unsupported claims without replacing
 them with a running critique. Keep the error history and explanation of the
 withdrawals in the Correction notice. Review all added passages for this pattern,
 not only the examples K quotes.
+K then questioned whether the remaining edits included language improvements
+outside the Correction DOCX and asked for a separate scope check with Klaus.
+Scientific correctness does not establish that an edit is necessary. Map each
+change to the notice's stated errors, retain unaffected published wording, and
+distinguish necessary grammatical joins from optional rewriting. Listing a page
+in the notice does not authorize every improvement on that page.
 K then corrected the integrated Section 5.1 discussion: the general inference
 from a large regulation gap and a small residual to required model content is
 the foundation of the agent interpretation. The thermal example is secondary.
