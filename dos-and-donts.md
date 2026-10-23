@@ -2862,3 +2862,12 @@ written in his own sent message in the same thread ("5000 for BCOM (my time)"), 
 did not include. K: "did you read the thread in the message? I want to move budget to BCOM".
 Practice: before drafting a reply, fetch the full thread (Gmail get_thread) and read K's own
 earlier messages in it; what K already told the correspondent binds the reply.
+
+### 2026-10-23 — A withdrawn theorem leaves the corrected article entirely
+
+In the ART Correction I had proposed keeping the withdrawn Theorem A3 as a numbered empty
+entry ("Theorem A3 (Withdrawn)") so that Theorem A4 would keep its number, and the package
+was built that way. K: "A3 should not appear anywhere in the clean paper." Practice: a
+withdrawn result is removed from the corrected article, with the withdrawal recorded in the
+Correction notice; preserve later numbering with a counter step (`\addtocounter{theorem}{1}`),
+never with a visible placeholder.
