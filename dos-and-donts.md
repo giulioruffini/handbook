@@ -1528,6 +1528,8 @@ K then corrected the Kanai-centered positioning and requested the earlier KT pap
 
 K subsequently clarified that these first-person tests can include tDCS, rTMS, DBS, and psychedelics acting on circuits putatively relevant to Structured Experience. Make the empirical program intervention-based, with predicted computational and experiential changes specified in advance; distinguish published intervention effects from the proposed constitutive interpretation. Investigator participation belongs within the appropriate research setting, and DBS examples concern implanted participants. Revise the abstract and storyline for review before editing the manuscript.
 
+After Klaus's critique, K proposed that program differences be assessed through the coherent organizations available under coarse-graining and, for organizations with self-reference and memory, their consequences for self-report. Treat this as a candidate basis for structural comparison, not merely an illustrative application. K left it tentative: one system may support multiple organizations, only some self-reporting, while other organizations may have experiential aspects. Clarify the proposal before rewriting it as an established criterion or counting subjects from coarse-grainings.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
