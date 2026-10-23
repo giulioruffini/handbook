@@ -5,6 +5,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- When delivering files for K to review, open their containing folder in Finder and provide the file links. On October 23, 2026, K requested this after receiving the WP0215 review PDFs; make it the default for future review deliverables.
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
