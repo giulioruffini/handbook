@@ -1364,6 +1364,13 @@ should sharpen that structural-identification problem. Connect the newly publish
 relevance-constrained coarse-graining, joint representation/model acquisition, and AIT bounds;
 do not equate its task-relative functional core with experiential or organizational equivalence.
 
+K then rejected the revised abstract as disconnected statements, pointing to the abrupt insertion
+of effective computability, experiential sufficiency, closure, and interventions. Restoring the
+right topics is not enough: reconstruct the argument from computational identity to dynamical
+realization, feature preservation, and its report/memory application. Keep detailed hypotheses
+in the Introduction when they interrupt that sequence; do not give every recent discussion point
+its own abstract sentence. Read the abstract aloud as a standalone argument before delivering it.
+
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
 KT's premise and the passage from physical dynamics to computational descriptions before discussing
