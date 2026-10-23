@@ -1632,6 +1632,12 @@ deep and asked whether all were necessary. Distinguish required coverage of ever
 false repetition from optional paragraph rewriting. Prefer local deletions and
 qualifications, preserve surrounding prose, and explain each mathematical limit
 once before using concise references to it elsewhere.
+K then questioned the retained “distribution-free” wording and stopped me when I
+expanded this into another correction. Treat a terminology question as discussion,
+not authorization to widen the agreed notice. Distinguish absence of a separate
+stochastic source model from dependence on the universal program prior; a prior
+assumption does not by itself settle what “distribution-free” means. The extra
+pass was set aside and the approved package restored unchanged.
 K then corrected the integrated Section 5.1 discussion: the general inference
 from a large regulation gap and a small residual to required model content is
 the foundation of the agent interpretation. The thermal example is secondary.
