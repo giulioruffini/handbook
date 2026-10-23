@@ -214,6 +214,10 @@ recovering the original question or explaining how the study addresses it. Pract
 with the scientific problem, identify the causal contrast and experimental strategy, then
 state the findings needed to answer that problem. Keep supporting analyses in the Results;
 a shorter inventory of results is not a scientific argument.
+K then found the abstract ambiguous about PING+/SL+ versus PING−/SL−. Define each
+branch and its noise convention before reporting comparisons; attach every branch-specific
+finding to the named models. Distinguish a quadratic correction to the rate from an
+envelope-only squared readout. Identify human SC/FC provenance concisely.
 
 On October 6, K questioned TN0486's “both square-law routes depart” and asked whether
 the models' FCs had been compared with each other. Name the actual readouts: SL power
