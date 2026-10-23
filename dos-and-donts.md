@@ -37,6 +37,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   generation by gamma mixing with effective even-order nonlinearity, or externally supplied
   ISO, followed by ISO transmission organizing network FC. Keep fit adequacy and the
   limits of each mechanism claim explicit without replacing that argument with them.
+  Later that day, K clarified that the PING± comparison should foreground their different
+  observed FC patterns and PING−'s poorer measured empirical FC match; SC alignment is
+  expected context. I had redirected attention toward SC and a linear sampling benchmark.
+  Practice: lead with the observed nonlinear-model contrast, attach the finite-sampling
+  qualification, and do not let an approximate linear reference replace those results.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
