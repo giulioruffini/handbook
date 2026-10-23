@@ -1534,6 +1534,8 @@ K then separated that proposal from the general problem of program/algorithm ide
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
+K then questioned whether different lower-level implementations of the same full state-update map have the same experience, and whether a nonunique ODE-to-program correspondence undermines physics as computation. Address the full-map case, not merely matching input-output behavior. Keep effective describability, dynamical realization, ontological identity, and experiential invariance distinct; neither unique nor nonunique code settles the experiential claim. Do not present the common ODE as a demonstrated complete experiential core.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
