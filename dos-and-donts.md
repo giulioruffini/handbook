@@ -2360,6 +2360,9 @@ and the KTAIT repository and began preparing the move. K corrected this: nothing
 moved, and KT-LEAN stays where it is. A remark about a name, or an observation about what a
 folder is, is not an instruction to act on the filesystem. Answer the question asked; propose
 the move as one line; move only on an explicit "do it".
+On October 23, K clarified that “NMM2? Worth trying” was a question, not an instruction
+to prepare or launch simulations. Assess scientific value and scope first; keep an
+exploratory question separate from authorization for a new experimental block.
 
 ### 2026-09-30 — WP0239 claims corrected before the first commit
 
