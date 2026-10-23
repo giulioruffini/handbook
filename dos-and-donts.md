@@ -1509,6 +1509,8 @@ Later on October 23, K explicitly selected the simple vertical four-stage diagra
 
 K then corrected the Kanai-centered positioning and requested the earlier KT papers and first-person science. The 2017 annotated supplement (`nix019_supp.pdf`, note 42) addresses mathematical substrate; the 2022 AIT foundations paper (§§4.2–4.3) explicitly proposes experiential self-tests and replication; the 2025 structured-dynamics paper develops the structural program. Establish this verified lineage in the opening before comparing recent work. Cite exact contributions without assigning later definitions to older papers. Include first-person testing of specified experiential predictions, distinguishing direct evidence for the participant from reports shared with others and from proof of universal SCF.
 
+K subsequently clarified that these first-person tests can include tDCS, rTMS, DBS, and psychedelics acting on circuits putatively relevant to Structured Experience. Make the empirical program intervention-based, with predicted computational and experiential changes specified in advance; distinguish published intervention effects from the proposed constitutive interpretation. Investigator participation belongs within the appropriate research setting, and DBS examples concern implanted participants. Revise the abstract and storyline for review before editing the manuscript.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
