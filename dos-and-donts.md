@@ -47,6 +47,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   by SC, node parameters and tonic external inputs. Frame the FC differences as consequences
   of these source mechanisms. In PING+, SC participates in generation as well as transmission;
   keep this explanatory distinction central rather than turning the comparison into a fit contest.
+  K also asked why noisy PING varied seeds but not initial conditions. State those replication
+  axes separately; a fixed-equilibrium noise ensemble does not test initial-condition independence.
+  Cross alternative physical starting states with the same noise paths to isolate that effect.
+  Use upright PING and SL with superscript branch signs in paper text and figures.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
@@ -1550,6 +1554,8 @@ K then separated that proposal from the general problem of program/algorithm ide
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
 K then questioned whether different lower-level implementations of the same full state-update map have the same experience, and whether a nonunique ODE-to-program correspondence undermines physics as computation. Address the full-map case, not merely matching input-output behavior. Keep effective describability, dynamical realization, ontological identity, and experiential invariance distinct; neither unique nor nonunique code settles the experiential claim. Do not present the common ODE as a demonstrated complete experiential core.
+
+After the program-to-ODE demonstration, K requested a pedagogical main-text account and appendix. Explain Clang, LLVM, and the supplied interface before describing extraction; show actual operations and separate proofs from tests. K then identified the extraction as compression and corrected my emphasis on reconstructing the original code: once the ODE is the chosen core, the original program is unnecessary for comparisons at that level. Lead with the recovered dynamical object; scope the equivalence without repeatedly treating discarded implementation details as a failure.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
