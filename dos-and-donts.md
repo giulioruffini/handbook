@@ -1627,6 +1627,11 @@ reciprocal citations. Inspect attachments before treating them as the requested
 source; Frick's bundle contained the old Correction, not the published ART article.
 K then approved removing the WP0203 discussion and citation from the Correction,
 asked to keep it light, and confirmed that he had renewed the source request.
+After reviewing the applied article corrections on October 23, K found the changes
+deep and asked whether all were necessary. Distinguish required coverage of every
+false repetition from optional paragraph rewriting. Prefer local deletions and
+qualifications, preserve surrounding prose, and explain each mathematical limit
+once before using concise references to it elsewhere.
 K then corrected the integrated Section 5.1 discussion: the general inference
 from a large regulation gap and a small residual to required model content is
 the foundation of the agent interpretation. The thermal example is secondary.
