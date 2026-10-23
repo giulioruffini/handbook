@@ -209,6 +209,12 @@ and the status of a and b unclear. He requested a short LaTeX PDF: write a(x) an
 b(x) explicitly, separate the applied field from detector outputs, and compare
 the DC and modulation maps before drawing conclusions about focality.
 
+On October 23, K rejected the TN0486 abstract because it listed campaign findings without
+recovering the original question or explaining how the study addresses it. Practice: open
+with the scientific problem, identify the causal contrast and experimental strategy, then
+state the findings needed to answer that problem. Keep supporting analyses in the Results;
+a shorter inventory of results is not a scientific argument.
+
 On October 6, K questioned TN0486's “both square-law routes depart” and asked whether
 the models' FCs had been compared with each other. Name the actual readouts: SL power
 is exactly quadratic, while JR uses a full sigmoid with a leading quadratic mixing term.
