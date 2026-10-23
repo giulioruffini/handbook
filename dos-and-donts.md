@@ -2882,3 +2882,14 @@ was built that way. K: "A3 should not appear anywhere in the clean paper." Pract
 withdrawn result is removed from the corrected article, with the withdrawal recorded in the
 Correction notice; preserve later numbering with a counter step (`\addtocounter{theorem}{1}`),
 never with a visible placeholder.
+
+### 2026-10-23 — Push to GitHub every few commits, without being asked
+
+After a day of commits on the ART Correction (about ten of mine in bcom-working-drafts, plus
+paper-tracker and this handbook), I pushed nothing until K asked "did you push to github as
+usual?" (working-drafts was 182 commits ahead). K: "why do I have to remind you to push to
+github? This should be automatic ... every few commits.... in general". Practice: in every
+repository with a remote, push after every few commits (about three) and at the end of each
+task, with no prompt from K; before closing a turn that committed anything, run
+`git status -sb` on each touched repository and push whatever is ahead. The global rule
+("push after a substantial batch") is read as "every few commits".
