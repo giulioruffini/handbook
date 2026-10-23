@@ -1532,6 +1532,8 @@ After Klaus's critique, K proposed that program differences be assessed through 
 
 K then separated that proposal from the general problem of program/algorithm identity: explore coherent coarse-grained organizations first, then the programs representing them and the structure those programs describe. Do not require a universal classification of programs before developing this route. Preserve Yanofsky's motivating role while distinguishing a reduced organization from its code and from a particular execution of that code.
 
+K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
