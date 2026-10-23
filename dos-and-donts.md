@@ -2836,6 +2836,14 @@ Bartolomei, be more succinct. Practice: a client-facing email states the offer, 
 next step in under 200 words; keep staffing, advisors and hour splits in the internal notes unless
 K asks to show them.
 
+On October 23, K corrected the inclusion of software in the reduced deliverables:
+“I don't think the client is asking for SW anymore, only a report.”
+I had carried the old proposal's reference implementation into the £15k package.
+Practice: use the client's current minimum request and the agreed reply to define scope.
+For this commission the report is the sole deliverable; software is an internal aid,
+and practical summaries/checklists can sit in the report. Do not add software handover
+because an implementation already exists.
+
 ### 2026-10-22 — Look up known facts before asking K
 
 Asked K for Aureli's GitHub username when memory (starlab-dashboard-repo) already recorded it
