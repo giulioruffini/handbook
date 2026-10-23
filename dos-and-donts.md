@@ -1675,6 +1675,11 @@ K subsequently asked that Theorem A3 disappear from the clean paper, including
 the numbered “Withdrawn” placeholder. Preserve later theorem numbers with a
 silent counter adjustment; show the complete deleted theorem in red in the
 marked comparison, and explain the withdrawal only in the notice.
+The final DOCX check found an anchored MDPI template comment that I had preserved
+because it did not appear in the rendered PDF. For submission copies, remove
+template comments, including orphaned parts, anchors and relationships. A clean
+PDF render does not establish that Word will show no comment balloons; verify
+both the document structure and the rendered text and layout.
 K then questioned whether the remaining edits included language improvements
 outside the Correction DOCX and asked for a separate scope check with Klaus.
 Scientific correctness does not establish that an edit is necessary. Map each
