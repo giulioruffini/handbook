@@ -1420,6 +1420,11 @@ that law. Practice: identify the brain–simulation comparison explicitly, then 
 how coarse-graining yields the dynamics whose different program implementations are
 compared. Check every definite noun phrase and connective from a first-time reader's
 perspective; technical verification does not establish narrative continuity.
+K then clarified that “We compare a brain and its simulation” still misstates the
+setup: suppose they agree at the chosen coarse-graining, then ask which remaining
+program differences matter for experience. State this conditional premise explicitly;
+keep stipulated dynamical agreement separate from the hypothesis of experiential
+preservation, and do not make the setup sound like an empirical comparison performed.
 
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
