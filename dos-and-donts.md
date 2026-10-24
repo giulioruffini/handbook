@@ -1461,6 +1461,11 @@ ontological priority, not the need to specify a temporal correspondence: allow
 relational time and state which timing relations an equivalence preserves. Keep
 preservation of a specified experiential feature separate from equality of all
 experiential aspects of implementations that perform additional computations.
+K then noted that the recovery sentence sounded restricted to Euler and RK4.
+The manuscript already gives the class-wide consistency argument. Lead with the
+shared infinitesimal generator of consistent one-step implementations; identify
+the compiled-code examples separately. Distinguish the general mathematical limit,
+the implemented extractor's grammar, and the precision required for numerical recovery.
 
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
