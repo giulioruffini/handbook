@@ -1649,6 +1649,15 @@ help explain why we mistakenly regard it as exclusive to systems like us. State 
 proposed explanation, not a result; do not make reportability a condition of experience or
 treat the unresolved individuation question as the same issue.
 
+Later on October 24, K strengthened his position: every mathematical organization associated
+with the system's coarse-grainings comes with SE; reporting organizations characterize the
+limited forms ordinarily called consciousness and accessible to discussion. He asked to center
+structured reporting to oneself, with reporting to others as a further operation, rather than
+assume a self-model is necessary. Preserve universal experiential attribution as his KT premise;
+discuss realization and individuation separately. Do not substitute the question of which
+organizations have any experience for the questions of experiential form and internal reporting.
+K explicitly requested discussion with Klaus before any manuscript changes.
+
 K then separated that proposal from the general problem of program/algorithm identity: explore coherent coarse-grained organizations first, then the programs representing them and the structure those programs describe. Do not require a universal classification of programs before developing this route. Preserve Yanofsky's motivating role while distinguishing a reduced organization from its code and from a particular execution of that code.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
