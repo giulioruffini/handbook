@@ -1699,6 +1699,11 @@ from the runtime model name.
 K then explicitly requested MCP. Use the connected Calliope MCP tools for author
 metadata, envelope verification, source uploads, and ingestion; avoid browser
 sign-in when the MCP connection already supports the operation.
+On October 24 (TN0486), K again directed me to MCP and noted that Klaus had it
+after I tried the portal to repair a generated summary. Use MCP for Calliope;
+when a needed operation is missing from my tools, coordinate with Klaus before
+attempting a browser fallback. Separate successful source synchronization from
+remaining generated-summary defects.
 
 ### 2026-09-15 — LIQUID-I framing omitted the Lamarckian regime
 
