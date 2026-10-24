@@ -1472,6 +1472,11 @@ I substituted a two-sentence formulation while reconciling Klaus's review.
 When K asks for a quoted replacement, apply it verbatim and verify the source,
 plain-text copy, and rendered PDF. Preserve that wording through peer-review merges
 unless K requests a further revision.
+K also rejected “these dynamics admit effective simulation” because simulation was
+undefined. State the Turing-computability assumption explicitly, then explain the
+digital simulation as its realization on a computer through declared state and
+transition mappings. Do not use “simulation” to define the very assumption that
+makes the source-to-computer correspondence possible.
 
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
