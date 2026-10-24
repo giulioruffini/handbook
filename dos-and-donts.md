@@ -63,6 +63,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   several main-text paragraphs and added an evidence paragraph and example box.
   Practice: clarify the digital-twin objective through local wording changes to GR5;
   preserve its prose and structure, and propose broader additions separately.
+  On October 24 (TN0486), I began adopting a common style across all nine figures
+  after K asked about oversized plots. K narrowed the request to those clearly oversized
+  for JNE. Resize only the affected figures; preserve the others and keep a broader
+  redesign as an unadopted proposal.
 - Read the exact claim before criticizing it. Identify what is being compressed, what information
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
   On October 21 (TN0484), K said a signed DC-like effect can occur at depth and
