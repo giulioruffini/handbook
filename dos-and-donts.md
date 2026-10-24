@@ -5,7 +5,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
-- When delivering files for K to review, open their containing folder in Finder and provide the file links. On October 23, 2026, K requested this after receiving the WP0215 review PDFs; make it the default for future review deliverables.
+- When delivering files for K to review, open their containing folder in Finder and provide the file links. On October 23, 2026, K requested this after receiving the WP0215 review PDFs. On October 24, I asked again before opening the new review folder; K explicitly corrected this. Opening Finder windows and showing documents have standing authorization: do these actions without asking K again. Apply any required environment controls without adding a separate conversational permission request.
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
