@@ -66,7 +66,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
   On October 24 (TN0486), I began adopting a common style across all nine figures
   after K asked about oversized plots. K narrowed the request to those clearly oversized
   for JNE. Resize only the affected figures; preserve the others and keep a broader
-  redesign as an unadopted proposal.
+  redesign as an unadopted proposal. K then identified Figure 2 as the actual height
+  problem; make that local correction without reopening the rest of the figure set.
 - Read the exact claim before criticizing it. Identify what is being compressed, what information
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
   On October 21 (TN0484), K said a signed DC-like effect can occur at depth and
