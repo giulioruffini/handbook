@@ -129,6 +129,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   as proposals until a choice is agreed and validated.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
+  On October 24 (TN0486), K found the scalar “contains” notation in the mixing equation
+  confusing and asked for clearer headings. Name the retained frequency component and
+  write its equation explicitly; use headings that identify the mechanism, result or method
+  without working-note terms such as “observation add-backs.”
   On October 16, K annotated the WP0203 Round 1 proposals "don't follow, clarify" three
   times and asked for a more pedagogical set: they compressed technical verdicts (residual
   certificates, compressor bounds, what a Lean check establishes) into jargon. For a decision
