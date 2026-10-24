@@ -51,6 +51,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   axes separately; a fixed-equilibrium noise ensemble does not test initial-condition independence.
   Cross alternative physical starting states with the same noise paths to isolate that effect.
   Use upright PING and SL with superscript branch signs in paper text and figures.
+  On October 24, K asked that Methods make fitting’s limited purpose explicit: select
+  reasonable working regimes for mechanism tests, rather than present the study as a
+  predictive fitting exercise. He also corrected the model label to PING-like: identify
+  its second-order synaptic dynamics and static sigmoid, cite the Rosetta Stone framework,
+  and define PING as shorthand for the implemented population model.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
