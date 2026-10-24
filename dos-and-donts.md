@@ -133,6 +133,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   confusing and asked for clearer headings. Name the retained frequency component and
   write its equation explicitly; use headings that identify the mechanism, result or method
   without working-note terms such as “observation add-backs.”
+  K then found undefined SL coefficients, unexplained sigmoid constants and excessive
+  decimal places. Define each symbol at first use, derive reduction/readout coefficients
+  in an appendix, and include a notation table with names, values and units in the reading
+  edition. Use named parameters in equations; round statistics to meaningful precision
+  while preserving full precision in archived cases and numerical tolerances.
   On October 16, K annotated the WP0203 Round 1 proposals "don't follow, clarify" three
   times and asked for a more pedagogical set: they compressed technical verdicts (residual
   certificates, compressor bounds, what a Lean check establishes) into jargon. For a decision
