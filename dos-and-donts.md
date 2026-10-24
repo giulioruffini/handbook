@@ -1414,6 +1414,13 @@ realization, feature preservation, and its report/memory application. Keep detai
 in the Introduction when they interrupt that sequence; do not give every recent discussion point
 its own abstract sentence. Read the abstract aloud as a standalone argument before delivering it.
 
+On October 24, K stopped at “The comparison” in WP0215 v0.6.0 because the abstract
+had not named its objects. It also moved to “the same reduced law” before introducing
+that law. Practice: identify the brain–simulation comparison explicitly, then explain
+how coarse-graining yields the dynamics whose different program implementations are
+compared. Check every definite noun phrase and connective from a first-time reader's
+perspective; technical verification does not establish narrative continuity.
+
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
 KT's premise and the passage from physical dynamics to computational descriptions before discussing
