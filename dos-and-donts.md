@@ -1467,6 +1467,11 @@ The manuscript already gives the class-wide consistency argument. Lead with the
 shared infinitesimal generator of consistent one-step implementations; identify
 the compiled-code examples separately. Distinguish the general mathematical limit,
 the implemented extractor's grammar, and the precision required for numerical recovery.
+K then pointed out that I had not used the exact replacement sentence I offered:
+I substituted a two-sentence formulation while reconciling Klaus's review.
+When K asks for a quoted replacement, apply it verbatim and verify the source,
+plain-text copy, and rendered PDF. Preserve that wording through peer-review merges
+unless K requests a further revision.
 
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
