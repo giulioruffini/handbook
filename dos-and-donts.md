@@ -56,6 +56,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   predictive fitting exercise. He also corrected the model label to PING-like: identify
   its second-order synaptic dynamics and static sigmoid, cite the Rosetta Stone framework,
   and define PING as shorthand for the implemented population model.
+  Later that day, K corrected my qualification of the SL comparison: it removes the
+  quadratic beating mechanism that generates ISO in PING+. I had foregrounded retained
+  cubic dynamics and supplied noise, obscuring that intended contrast. State the removed
+  mechanism directly; distinguish the separate quadratic-readout add-backs when relevant,
+  without implying that every possible source of ISO is removed.
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
