@@ -1433,6 +1433,15 @@ program differences matter for experience. State this conditional premise explic
 keep stipulated dynamical agreement separate from the hypothesis of experiential
 preservation, and do not make the setup sound like an empirical comparison performed.
 
+K's October 24 COSFUN notes distinguish general dynamical computation from the
+additional Turing-computability assumption; my preceding proposed definition had
+built effectiveness into computation itself. Preserve that distinction and put
+coarse-graining before the program-identity problem. His clock comment questions
+ontological priority, not the need to specify a temporal correspondence: allow
+relational time and state which timing relations an equivalence preserves. Keep
+preservation of a specified experiential feature separate from equality of all
+experiential aspects of implementations that perform additional computations.
+
 K then flagged the unexplained phrase “This plurality requires restrictions on transformations”
 and the missing introductory account of Experience, mathematics, and dynamical structure. Explain
 KT's premise and the passage from physical dynamics to computational descriptions before discussing
