@@ -1658,6 +1658,15 @@ discuss realization and individuation separately. Do not substitute the question
 organizations have any experience for the questions of experiential form and internal reporting.
 K explicitly requested discussion with Klaus before any manuscript changes.
 
+When reviewing the subsequent abstract, K found my separation of the mathematics, KT,
+and internal reporting made them read as three adjacent projects. State the KT premise
+once near the beginning and draw its consequence: a running simulation has experiential
+aspects under KT; the question is which organization it shares with the brain. Develop
+COSFUN as the additional preservation hypothesis within this account, and internal
+reporting as a particular application of the correspondence problem. Logical independence
+of the premises does not require a disconnected narrative. Preserve Yanofsky's role and
+keep the generator example to its declared comparison target.
+
 In the same discussion, K corrected a chair/dog/human hierarchy: Pattern, Persist! allows
 graded as-if ME/OF/PE agency without structured memory or report. Do not exclude agency
 by object category or impose a cognitive threshold. Assess whether the declared organization
