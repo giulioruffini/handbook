@@ -534,6 +534,13 @@ Calliope push read a conformant folder without per-paper rules. K also asked for
 numbering across papers (WP0215 at v0.5.4, WP0216 at v18, WP0203 at v34.5 differ); the rule is
 in the layout document, rule 4.
 
+On October 24, K asked for one top-level folder per TN in `NE TNs and Blogs`, with earlier
+versions kept inside that project. Keep experimental Git worktrees under the canonical
+project's `.worktrees/`, move them with `git worktree move` after coordinating active owners,
+and verify file hashes and Git state rather than deleting duplicate-looking folders. K also
+selected TN0484's JNE article style for TN0486: one source, a structured abstract, plain
+journal typography and a separate supplement; historical editions remain preserved.
+
 ## Recorded incidents
 
 ### 2026-10-20 — TN0484: a revision ladder damaged legibility
