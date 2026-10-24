@@ -1627,6 +1627,14 @@ K subsequently clarified that these first-person tests can include tDCS, rTMS, D
 
 After Klaus's critique, K proposed that program differences be assessed through the coherent organizations available under coarse-graining and, for organizations with self-reference and memory, their consequences for self-report. Treat this as a candidate basis for structural comparison, not merely an illustrative application. K left it tentative: one system may support multiple organizations, only some self-reporting, while other organizations may have experiential aspects. Clarify the proposal before rewriting it as an established criterion or counting subjects from coarse-grainings.
 
+On October 24, my abstract merged experiential plurality across coherent grains with the
+presence of memory, self-attribution, and report in some grains. K distinguished these claims:
+different grains may support different SE, while self-referential and reporting organization
+characterizes a particular form of SE. Our capacity to recognize and report experience may
+help explain why we mistakenly regard it as exclusive to systems like us. State this as a
+proposed explanation, not a result; do not make reportability a condition of experience or
+treat the unresolved individuation question as the same issue.
+
 K then separated that proposal from the general problem of program/algorithm identity: explore coherent coarse-grained organizations first, then the programs representing them and the structure those programs describe. Do not require a universal classification of programs before developing this route. Preserve Yanofsky's motivating role while distinguishing a reduced organization from its code and from a particular execution of that code.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
