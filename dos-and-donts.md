@@ -552,6 +552,17 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-10-24 — "Some figures are too large" meant those figures, not a restyle of the set
+
+K on the TN0486 draft: "revise the figure, some are too large and ugly... can we do this
+better? Think and talk to Kaiti, this is aesthetics, not content." I restyled all nine
+figures (new typeface, color and marker code, placement widths, page previews). K narrowed
+the scope through Kaiti: change only the clearly oversized figures; Kaiti adopted compact
+Figures 1, 3, 5 and 6 and kept 2, 4 and S1–S3 exactly. Practice: a complaint about "some"
+items is a request to fix those items; identify them, propose the minimal change, and keep
+set-wide style work as a separate offer rather than part of the deliverable.
+
+
 ### 2026-10-20 — TN0484: a revision ladder damaged legibility
 
 After drafts 14–20 (notation pass, reorganization after K's annotations, signed steady source,
