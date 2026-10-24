@@ -1658,6 +1658,14 @@ discuss realization and individuation separately. Do not substitute the question
 organizations have any experience for the questions of experiential form and internal reporting.
 K explicitly requested discussion with Klaus before any manuscript changes.
 
+In the same discussion, K corrected a chair/dog/human hierarchy: Pattern, Persist! allows
+graded as-if ME/OF/PE agency without structured memory or report. Do not exclude agency
+by object category or impose a cognitive threshold. Assess whether the declared organization
+retains and internally uses structured records; a persistent physical trace alone does not
+establish reporting. Keep reporting to the system distinct from reporting about the system,
+and treat recursive record reuse as a proposed basis for temporal self-continuity, not a
+demonstration of selfhood or a requirement for all SE.
+
 K then separated that proposal from the general problem of program/algorithm identity: explore coherent coarse-grained organizations first, then the programs representing them and the structure those programs describe. Do not require a universal classification of programs before developing this route. Preserve Yanofsky's motivating role while distinguishing a reduced organization from its code and from a particular execution of that code.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
