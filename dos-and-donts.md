@@ -1738,6 +1738,13 @@ In the subsequent discussion relayed by Klaus, K clarified that a specified coar
 
 When revising the storyline that evening, K restated the positive proposal: the ODE associated with a chosen coherent coarse-graining is the mathematical structure shared by its faithful programs. Present that object first, then ask which experiential features depend on it and which require additional realized organization. He linked this to the 2022 unfolding preprint (WP0102): the functional comparison includes internal states and their dynamics at the chosen grain, with neural measurements as constraints, rather than only overt behavior. Preserve that precedent without treating matched fMRI observations alone as complete structural equivalence.
 
+On October 25, K proposed QIF-to-NMM2 as an established example of successful neural
+coarse-graining, already discussed in WP0007 and Rosetta Stone. I expanded it into a new
+compiled-code extraction and validation task. K clarified that the role is explanatory;
+the reduction and dynamical analyses already exist. Practice: reuse and cite the established
+result, distinguish it from the paper’s existing program-recovery demonstration, and propose
+new computation only for a named unanswered question whose value justifies the work.
+
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
 K corrected WP0231's sole-author byline and requested Kaiti's usual Calliope
