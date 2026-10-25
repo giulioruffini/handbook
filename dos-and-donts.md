@@ -1760,6 +1760,11 @@ models at that grain. He emphasized training as the route to approximate statist
 closure: explain the learned predictive state and update law, with their domain and
 accuracy, rather than leaving closure only as an unanswered question. Distinguish
 semantic loss in a description from lossless encoding of the resulting text.
+I then omitted K’s explicit interpretation of LLMs as coarse-grained models of human
+brain activity, despite his Highlights edit. He clarified that this belongs among the
+examples and in the consciousness discussion. Preserve the proposed population-level
+brain-model interpretation, the learned-closure claim, and KT’s attribution of experience
+to the running model; keep experiential correspondence with humans as a separate question.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
