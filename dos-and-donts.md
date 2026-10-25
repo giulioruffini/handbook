@@ -1744,6 +1744,12 @@ compiled-code extraction and validation task. K clarified that the role is expla
 the reduction and dynamical analyses already exist. Practice: reuse and cite the established
 result, distinguish it from the paper’s existing program-recovery demonstration, and propose
 new computation only for a named unanswered question whose value justifies the work.
+K then corrected the Section 2.2 order: the spring example should introduce closed
+reductions and a failed average before NMM2 supplies the more detailed neural example.
+Preserve a useful simple example at the point of definition; add the complex example
+after it rather than demoting the introduction to an appendix pointer.
+Name the reduction in the heading: these are closed coarse-grained descriptions,
+because closure of the retained variables is the result being illustrated.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
