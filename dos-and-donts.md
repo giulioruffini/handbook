@@ -1755,6 +1755,11 @@ center-of-mass equations in the main text, followed by the individual QIF equati
 population coupling, and the map to rate and mean voltage. Explain how closure is
 derived under the stated assumptions. Keep parameter detail brief; do not save words
 by omitting the conceptual steps the example is meant to teach.
+K also requested language as a context-dependent coarse-graining and trained LLMs as
+models at that grain. He emphasized training as the route to approximate statistical
+closure: explain the learned predictive state and update law, with their domain and
+accuracy, rather than leaving closure only as an unanswered question. Distinguish
+semantic loss in a description from lossless encoding of the resulting text.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
