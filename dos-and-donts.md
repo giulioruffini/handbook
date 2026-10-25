@@ -14,6 +14,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   K was editing the generated journal `.tex` while the canonical BCOM source stayed unchanged.
   I first pointed him to the canonical file. Preserve the author-edited journal file, freeze
   regeneration, and port its changes back after he finishes; make the active path explicit.
+  If another saved author copy appears during integration, snapshot and compare it before
+  rebuilding. On October 25, K supplied a separate GR notes copy after the first integration;
+  its reference changes and wording must be reconciled with the current source, not overwritten.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
   On October 15, K rejected the dashed hormone-input arrow in the ANPSY primer.
@@ -1643,6 +1646,8 @@ problem and connecting the results to that problem. Preserve each paper's distin
 WP0215's established two-question structure; explain terms rather than accumulating labels.
 
 On October 22, K initially recalled WP0231 when reopening the computation and Seth biological-naturalism paper for Neuroscience of Consciousness, then confirmed he meant WP0215. Resume the existing WP0215 journal package; WP0231 is the shorter synthesis and presentation. Do not turn this clarification into a separate WP0231 revision.
+
+On October 25, K replaced software-framework citations in WP0215's WBM introduction with foundational neural-mass, large-scale-dynamics, and dynamic-causal-modeling references. Cite the conceptual foundation where the model class is introduced; cite tools and applied studies beside the specific claims they support. He also requested Castaldo and Ruffini's WP0026 as the ANPSY program linking WBMs to experience. State its current manuscript status and update the citation when the public preprint exists.
 
 In the same discussion, K supplied his annotated Seth paper and an earlier correction to my combustion analogy: do not assume an independently privileged material ontology when discussing KT. Start from Experience and its mathematical structure; distinguish computability, physical realization, and experiential preservation. Do not infer experiential equivalence from Turing universality or require hypercomputation evidence merely to dispute structural sufficiency. Check the author's response before repeating an objection: Seth explicitly concedes the necessity/sufficiency error about computational functionalism in R2.2.
 
