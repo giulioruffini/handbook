@@ -1695,6 +1695,14 @@ establish reporting. Keep reporting to the system distinct from reporting about 
 and treat recursive record reuse as a proposed basis for temporal self-continuity, not a
 demonstration of selfhood or a requirement for all SE.
 
+On October 25, K clarified that structured reports to oneself include nonverbal slices of
+the internal model. Do not use linguistic detail as the resolution of internal reporting.
+Preserve his distinction: the reported distinctions set a minimum representational resolution;
+whether a coherent grain at that resolution suffices remains a conjecture. Distinguish internal
+content, outward descriptions, and the dynamical detail required for closure. Explain the
+ME/OF/PE roles briefly when invoking the algorithmic agent, without making agency a prerequisite
+for SE.
+
 K then separated that proposal from the general problem of program/algorithm identity: explore coherent coarse-grained organizations first, then the programs representing them and the structure those programs describe. Do not require a universal classification of programs before developing this route. Preserve Yanofsky's motivating role while distinguishing a reduced organization from its code and from a particular execution of that code.
 
 On 2026-10-25 I described the orientation-and-record model as "not a KT agent" because it has no
