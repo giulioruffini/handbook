@@ -3154,3 +3154,18 @@ cosmopsychism. The sentence I proposed cutting is the marker of that stance. Pra
 characterizing KT philosophically, read WP0005 or ask Calliope; write "idealism in structural
 form" or "two-aspect monism", never "panpsychism"; when a reader is likely to misread the
 premise, recommend naming the stance and saying what it is not, rather than softening it.
+
+### 2026-10-25 — WP0215 comments: two technical claims written without checking
+
+In the paragraph comments on the WP0215 journal copy I wrote that the generator extractor
+"rejects a program with a different law, clock, or unresolved auxiliary dependence", and I
+proposed renaming the laminar model's signal-envelope and envelope-envelope coupling to
+phase-amplitude and amplitude-amplitude coupling. Kaiti's assessment corrected both: a program
+with a different law or clock is accepted and yields a different generator, so the two are
+distinguished, and rejection is reserved for a nonzero zero-step output, first-order dependence
+on an omitted auxiliary input, or an unsupported branch (the Supplement's extraction-outcome
+table says so); and the coupling terms are the cited model's own, described in my own
+GR_REFERENCE_CHECK.md, so renaming them needs verification from the source. Practice: before a
+review comment states what a construction does or proposes replacing an author's term, check the
+Supplement or the cited source; a comment that asserts a mechanism is a claim and gets the same
+verification as prose in the paper.
