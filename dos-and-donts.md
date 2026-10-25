@@ -1769,7 +1769,7 @@ K then asked for the concrete observation chain: a human subject produces speech
 recording digitizes the sound, transcription selects linguistic content, and tokenization
 encodes it. Explain this many-to-one map before population pooling. Next-token training
 seeks approximate statistical closure; retain "approximate." Do not reintroduce COSFUN: K
-removed that acronym. Later that day K proposed COSTRUCT for the broader position combining experiential plurality across admissible grains with feature-specific structural preservation. Use COSTRUCT, expanded once as grain-pluralist computational structuralism; keep H1 (Turing approximation) and H2 (structural preservation) logically separate. Do not restore COSFUN or equate grain pluralism with grain invariance.
+removed that acronym. Later that day K proposed COSTRUCT for the broader position combining experiential plurality across admissible grains with feature-specific structural preservation, then rejected it after reading v0.6.12 as ugly and unnecessary. Remove COSTRUCT from the abstract and throughout the paper; use the written terms and H1/H2 where useful. Keep H1 (Turing approximation) and H2 (structural preservation) logically separate, and do not equate grain pluralism with grain invariance. Do not reintroduce either acronym unless K asks again.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
