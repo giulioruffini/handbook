@@ -3140,6 +3140,9 @@ its approximate-preservation bound. Practice: before characterizing a paper's re
 or proposing a sentence that cites it, read the version of record (Europe PMC full text
 when the publisher blocks) and quote its numbers; when speaking from memory, say so in
 the same sentence and do not build an analogy on it.
+Addendum, same day: my later review comment glossed the study as matching "the two groups'
+similarity structures to each other", which reads as cross-group success; the alignment that
+succeeded was within each group. A gloss of a result is a claim about it and needs the same care.
 
 ### 2026-10-25 — WP0215: I called KT's premise "panpsychism"
 
