@@ -3107,3 +3107,19 @@ hard to read the blue or grey highlights". Practice: in terminal replies, write 
 tool names, flags and identifiers in plain text without backticks; use a fenced block only
 for a command or text K has to copy; when a link is needed, put it on its own line rather
 than inline. This applies to replies in Claude Code, not to files or documents.
+
+### 2026-10-25 — WP0215: I characterized the color-alignment study from memory
+
+Asked whether WP0215 touched the Kawakita et al. "Is my red your red?" study, I described
+its result from memory: neurotypical observers align color to color, alignment with
+color-atypical observers fails, and the alignment distance and match rate play the roles of
+the two discrepancies in H2. Kaiti checked the published XML: the comparison is between
+pooled judgment structures; alignment succeeds within the neurotypical group (51%) and
+within the atypical group (57%) and is near chance between groups (3.8%, chance 1.1%);
+the match rate evaluates recovery of stimulus identities, not experiential identity; and
+the paper itself keeps structural correspondence separate from evidence of identical
+experiences. The study is an experiential-side relational target, not a test of H2 or of
+its approximate-preservation bound. Practice: before characterizing a paper's result to K
+or proposing a sentence that cites it, read the version of record (Europe PMC full text
+when the publisher blocks) and quote its numbers; when speaking from memory, say so in
+the same sentence and do not build an analogy on it.
