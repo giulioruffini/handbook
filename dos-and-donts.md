@@ -1707,6 +1707,9 @@ onto the content. Practice: when one of K's models looks like a plain ODE, read 
 before saying what it lacks. A state that follows input is a model tracking data; an error-driven
 update is a comparator; a gate is attention or learning. Say which roles are implicit and which
 are absent (here, an internal consumer of the record), never that the system is not an agent.
+K then asked for more context before the orientation equations. Begin with the viewing and
+occlusion task, distinguish the current estimate from the stored record, and explain the input,
+write control, and readouts before using the example to establish closure or preservation.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
