@@ -1723,6 +1723,10 @@ It buried the prediction in labels such as "descends," "carries a feature," and 
 later sections. Explain what each retained variable lets us predict, then name the formal
 criterion where it is defined. Remove repeated signposting and noun stacks throughout the
 paper; shortening must preserve the explanatory steps, not replace them with terminology.
+Klaus's own review comment on that paragraph, written the same afternoon, called it concrete and
+said "it works": I could not see the jargon from inside, and I graded my own work. Practice: when a
+paragraph under review is one I wrote, say so in the comment and read it as K would, asking what
+the reader can now predict or compute, not whether the terms are used correctly.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
