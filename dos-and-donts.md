@@ -1718,6 +1718,11 @@ are absent (here, an internal consumer of the record), never that the system is 
 K then asked for more context before the orientation equations. Begin with the viewing and
 occlusion task, distinguish the current estimate from the stored record, and explain the input,
 write control, and readouts before using the example to establish closure or preservation.
+Later that day, K rejected the paragraph about "two coherent grains" as "claude-speak."
+It buried the prediction in labels such as "descends," "carries a feature," and a tour of four
+later sections. Explain what each retained variable lets us predict, then name the formal
+criterion where it is defined. Remove repeated signposting and noun stacks throughout the
+paper; shortening must preserve the explanatory steps, not replace them with terminology.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
@@ -3131,3 +3136,17 @@ its approximate-preservation bound. Practice: before characterizing a paper's re
 or proposing a sentence that cites it, read the version of record (Europe PMC full text
 when the publisher blocks) and quote its numbers; when speaking from memory, say so in
 the same sentence and do not build an analogy on it.
+
+### 2026-10-25 — WP0215: I called KT's premise "panpsychism"
+
+In a reviewer comment on the WP0215 journal copy I wrote that NoC readers "will read it as
+panpsychism" and recommended cutting the sentence "without requiring a materialist ontology".
+K: "it is not panpsychism... it is more like Idealism... as Calliope". Calliope confirmed from
+WP0005 (Algorithmic Experiential Structural Platonism, cited in WP0215): KT-ESP is cosmic
+idealism in structural form, a two-aspect monism with one impersonal, non-valenced experiential
+base whose structural aspect is mathematics; it is explicitly not micro-psychism (no many
+micro-subjects, no valence at the base), not subjective idealism, and not personal
+cosmopsychism. The sentence I proposed cutting is the marker of that stance. Practice: before
+characterizing KT philosophically, read WP0005 or ask Calliope; write "idealism in structural
+form" or "two-aspect monism", never "panpsychism"; when a reader is likely to misread the
+premise, recommend naming the stance and saying what it is not, rather than softening it.
