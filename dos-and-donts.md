@@ -1765,6 +1765,11 @@ brain activity, despite his Highlights edit. He clarified that this belongs amon
 examples and in the consciousness discussion. Preserve the proposed population-level
 brain-model interpretation, the learned-closure claim, and KT’s attribution of experience
 to the running model; keep experiential correspondence with humans as a separate question.
+K then asked for the concrete observation chain: a human subject produces speech,
+recording digitizes the sound, transcription selects linguistic content, and tokenization
+encodes it. Explain this many-to-one map before population pooling. Next-token training
+seeks approximate statistical closure; retain "approximate." Do not reintroduce COSFUN: K
+removed that acronym. Write the full term or describe the preservation hypothesis directly.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
