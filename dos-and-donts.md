@@ -1631,7 +1631,7 @@ On October 22, K initially recalled WP0231 when reopening the computation and Se
 
 In the same discussion, K supplied his annotated Seth paper and an earlier correction to my combustion analogy: do not assume an independently privileged material ontology when discussing KT. Start from Experience and its mathematical structure; distinguish computability, physical realization, and experiential preservation. Do not infer experiential equivalence from Turing universality or require hypercomputation evidence merely to dispute structural sufficiency. Check the author's response before repeating an objection: Seth explicitly concedes the necessity/sufficiency error about computational functionalism in R2.2.
 
-On October 23, K rejected WP0215's spring plot as unclear and aesthetically unsatisfactory and requested its removal. Remove the figure and its references, preserve the worked spring example, and renumber the remaining figures. A figure should clarify the argument beyond the accompanying equations; do not retain one merely because it already exists.
+On October 23, K rejected WP0215's spring plot as unclear and aesthetically unsatisfactory and requested its removal. Remove the figure and its references, preserve the worked spring example, and renumber the remaining figures. A figure should clarify the argument beyond the accompanying equations; do not retain one merely because it already exists. On October 25, he proposed a diagram linking Experience, SE, Pattern, Persist!, and structured reporting, questioned whether the inclusion chain mixed categories, and said to skip it if unclear. Do not force foundational premises and organizational properties into a nested-set diagram; retain the prose distinction when the figure adds no clarity.
 
 Later on October 23, K explicitly selected the simple vertical four-stage diagram and requested a new abstract/storyline before manuscript revision. Preserve that diagram's progression without branching it; the separate program/algorithm/function figure can retain its distinct role. State that operational realization requires dynamical support and intervention correspondence, not commitment to independently existing nonexperiential matter. Materialism is not a premise of the mathematical argument; KT's experiential ontology is a separate commitment. Use operational/dynamical language in our exposition, retaining standard terms and accurate descriptions of others' positions. Keep the revision staged and remove repetition rather than explanation.
 
@@ -3056,3 +3056,11 @@ Since 17:55 the same day a Stop hook (`~/.claude/hooks/push-touched-repos.py`, r
 `~/.claude/settings.json`) pushes, at the end of every turn, each repository the session touched
 whose branch is ahead of its upstream and not behind it; it never forces and skips repositories
 with a merge or rebase in progress. The practice above still applies when the hook cannot run.
+2026-10-24 (Kaiti's correction, K not yet consulted): the hook knows nothing of per-repository
+release holds. TN0484's `two-tone-validation` branch had been held from the public GitHub repo
+since v0.14.0 (2026-09-22); the hook pushed it at 10:39 on 2026-10-24 (180 commits) and again
+after each of Klaus's evening commits. Kaiti blocked further pushes with
+`branch.two-tone-validation.pushRemote` set to an undefined remote. Practice: when a project's
+todo or docs record a release hold, check before the first commit that the hold is enforced
+locally (undefined `pushRemote`, or a private remote) and say so to K; the hook needs a
+per-repository opt-out, proposed to K on 2026-10-25.
