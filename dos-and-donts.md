@@ -3064,3 +3064,12 @@ after each of Klaus's evening commits. Kaiti blocked further pushes with
 todo or docs record a release hold, check before the first commit that the hold is enforced
 locally (undefined `pushRemote`, or a private remote) and say so to K; the hook needs a
 per-repository opt-out, proposed to K on 2026-10-25.
+
+### 2026-10-25 — Inline code and links are hard to read on K's blue terminal
+
+K's terminal background is blue, so the grey highlight of inline code spans and the blue of
+links in my replies are hard to read. K: "the background of this terminal is blue, so it is
+hard to read the blue or grey highlights". Practice: in terminal replies, write file names,
+tool names, flags and identifiers in plain text without backticks; use a fenced block only
+for a command or text K has to copy; when a link is needed, put it on its own line rather
+than inline. This applies to replies in Claude Code, not to files or documents.
