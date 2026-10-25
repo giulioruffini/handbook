@@ -244,6 +244,11 @@ with three stages in series: access, detection, amplification), give each stage 
 its test, and place each qualifier where it bites ("for weak fields", "near a Hopf") instead of
 in front. Review fixes accumulate as hedges; after any review cycle, reread the abstract for
 this drift before declaring the paper ready.
+On October 25 (WP0215), K again objected that the abstract was full of negations and
+caveats. Practice: state the connected positive argument, its result, and its proposed
+application. Keep assumptions and the result's scope in affirmative clauses; place
+supporting exclusions beside the relevant main-text claims. Check this after review
+repairs, not only the word count. K extended this correction to the main text and appendices: consolidate repeated qualifications and state the positive conclusions, while retaining conditions where the claims require them.
 The scoped TN0484 abstract then reached 321 words; K relayed Klaus's 297-word replacement
 for the 300-word budget. Check the final abstract against the journal limit after adding
 scope qualifications, and retain those qualifications when compressing the shared text.
@@ -1676,6 +1681,17 @@ and treat recursive record reuse as a proposed basis for temporal self-continuit
 demonstration of selfhood or a requirement for all SE.
 
 K then separated that proposal from the general problem of program/algorithm identity: explore coherent coarse-grained organizations first, then the programs representing them and the structure those programs describe. Do not require a universal classification of programs before developing this route. Preserve Yanofsky's motivating role while distinguishing a reduced organization from its code and from a particular execution of that code.
+
+On 2026-10-25 I described the orientation-and-record model as "not a KT agent" because it has no
+explicit Modeling Engine, Comparator, or objective. K corrected this: the Comparator and the Model
+are implicit in the equations, and the example fits the agent framework under the as-if reading of
+agent roles. In that model the content angle follows the input (the tracked datum), the record is
+the model of that content, the sine of their difference is the Comparator error, the write control
+is the update gate, and the rate is the gain; held input gives a Lyapunov descent of the record
+onto the content. Practice: when one of K's models looks like a plain ODE, read its roles as-if
+before saying what it lacks. A state that follows input is a model tracking data; an error-driven
+update is a comparator; a gate is attention or learning. Say which roles are implicit and which
+are absent (here, an internal consumer of the record), never that the system is not an agent.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
