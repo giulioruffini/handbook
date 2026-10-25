@@ -1590,6 +1590,11 @@ is constitutive. Preserve the symmetry between behavioral agreement and substrat
 label the composition-independence preference as a theoretical position, treat positive and
 negative AI reports through the same evidence requirements, and consolidate rather than append.
 
+On October 25, K clarified that Turing-machine discreteness belongs to the retained
+computational description; the underlying dynamical source may be continuous. Explain
+realization through an admissible coarse-graining and clock, and keep this distinct from
+H1's neural-approximation hypothesis. Do not imply a discrete material ontology.
+
 On October 4, K confirmed sole journal authorship and BCOM as the main institution, with
 Neuroelectrics and Starlab as additional affiliations. I initially used Neuroelectrics for
 the correspondence address despite listing BCOM first. K reiterated BCOM and his BCOM email.
