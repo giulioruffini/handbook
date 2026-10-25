@@ -9,6 +9,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
+- When K edits a manuscript directly, identify the actual edited file from saved changes,
+  not from the canonical-path convention or a matching paragraph. On October 25 (WP0215),
+  K was editing the generated journal `.tex` while the canonical BCOM source stayed unchanged.
+  I first pointed him to the canonical file. Preserve the author-edited journal file, freeze
+  regeneration, and port its changes back after he finishes; make the active path explicit.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
   On October 15, K rejected the dashed hormone-input arrow in the ANPSY primer.
