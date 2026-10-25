@@ -1750,6 +1750,11 @@ Preserve a useful simple example at the point of definition; add the complex exa
 after it rather than demoting the introduction to an appendix pointer.
 Name the reduction in the heading: these are closed coarse-grained descriptions,
 because closure of the retained variables is the result being illustrated.
+K then rejected the compressed exposition: show the spring force laws and their closed
+center-of-mass equations in the main text, followed by the individual QIF equation,
+population coupling, and the map to rate and mean voltage. Explain how closure is
+derived under the stated assumptions. Keep parameter detail brief; do not save words
+by omitting the conceptual steps the example is meant to teach.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
