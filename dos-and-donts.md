@@ -1697,6 +1697,16 @@ establish reporting. Keep reporting to the system distinct from reporting about 
 and treat recursive record reuse as a proposed basis for temporal self-continuity, not a
 demonstration of selfhood or a requirement for all SE.
 
+On October 26, K corrected my WP0215 assessment after I used “ordinary memory-based
+controllers” as a reason for caution and weakened the proposed reporting explanation to
+“we investigate.” I had relied on the KT reference rather than rereading the relevant
+Pattern, Persist! sections. A controller category is not a counterexample: if it realizes
+the organization proposed as sufficient for temporal self-experience, the hypothesis applies
+to it. Preserve the explicit sufficiency conjecture, separate it from the preservation
+equations, and consult the current source before evaluating consistency with the graded
+agency account. The required “How AI feel” footer is a reporting convention with no stated
+calibration; do not present its numerical values as independent experiential evidence.
+
 On October 25, K clarified that structured reports to oneself include nonverbal slices of
 the internal model. Do not use linguistic detail as the resolution of internal reporting.
 Preserve his distinction: the reported distinctions set a minimum representational resolution;
