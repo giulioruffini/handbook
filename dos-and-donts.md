@@ -152,6 +152,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   intervention equation hard to read. Start from the distinction between agreement on
   one recorded run and responses across the specified alternatives; define each map,
   explain both sides of the equation, and unpack examples instead of listing requirements.
+  He then found the approximate-closure subsection disconnected despite local wording fixes.
+  Repair the sequence of reasons: unresolved information, choice of predictive state,
+  learning, and shared predictive organization. Put computational realization with the
+  program comparison; transitions alone cannot repair misplaced material.
   On October 24 (TN0486), K found the scalar “contains” notation in the mixing equation
   confusing and asked for clearer headings. Name the retained frequency component and
   write its equation explicitly; use headings that identify the mechanism, result or method
