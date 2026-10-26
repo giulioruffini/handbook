@@ -1770,6 +1770,10 @@ recording digitizes the sound, transcription selects linguistic content, and tok
 encodes it. Explain this many-to-one map before population pooling. Next-token training
 seeks approximate statistical closure; retain "approximate." Do not reintroduce COSFUN: K
 removed that acronym. Later that day K proposed COSTRUCT for the broader position combining experiential plurality across admissible grains with feature-specific structural preservation, then rejected it after reading v0.6.12 as ugly and unnecessary. Remove COSTRUCT from the abstract and throughout the paper; use the written terms and H1/H2 where useful. Keep H1 (Turing approximation) and H2 (structural preservation) logically separate, and do not equate grain pluralism with grain invariance. Do not reintroduce either acronym unless K asks again.
+On October 26, K rejected the v0.6.13 abstract's early turn to LLMs and deep learning:
+the previous opening was already satisfactory apart from the acronym. Restore that
+opening and place the learned-model extension at the end. When adding a new application,
+preserve an accepted argument sequence unless K asks to change its emphasis.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
