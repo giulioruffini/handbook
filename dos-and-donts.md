@@ -19,6 +19,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   If another saved author copy appears during integration, snapshot and compare it before
   rebuilding. On October 25, K supplied a separate GR notes copy after the first integration;
   its reference changes and wording must be reconciled with the current source, not overwritten.
+  On October 26 (WP0215), K requested an agile review loop: apply agreed changes directly in
+  the open journal `.tex`, preserve his comments, and add brief `% [Kaiti]` replies where useful.
+  Rebuild that working copy as needed; defer version bumps, regenerated editions, and review
+  packages until a later checkpoint. Do not turn each local editing request into a release.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
   On October 15, K rejected the dashed hormone-input arrow in the ANPSY primer.
