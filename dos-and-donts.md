@@ -1733,6 +1733,7 @@ the reader can now predict or compute, not whether the terms are used correctly.
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
 K then questioned whether different lower-level implementations of the same full state-update map have the same experience, and whether a nonunique ODE-to-program correspondence undermines physics as computation. Address the full-map case, not merely matching input-output behavior. Keep effective describability, dynamical realization, ontological identity, and experiential invariance distinct; neither unique nor nonunique code settles the experiential claim. Do not present the common ODE as a demonstrated complete experiential core.
+On October 26, K restated this as a proposed shared "ODE flavor": common experiential aspects may coexist with aspects that depend on additional implementation relations. State that as a feature-specific hypothesis, with state/history and approximation conditions. He also questioned whether Yanofsky missed mappings to mathematical objects; Yanofsky's quotients already are such objects. Present generator equality as a selected comparison that permits different algorithms, not as a discovery that programs can have mathematical meanings.
 
 After the program-to-ODE demonstration, K requested a pedagogical main-text account and appendix. Explain Clang, LLVM, and the supplied interface before describing extraction; show actual operations and separate proofs from tests. K then identified the extraction as compression and corrected my emphasis on reconstructing the original code: once the ODE is the chosen core, the original program is unnecessary for comparisons at that level. Lead with the recovered dynamical object; scope the equivalence without repeatedly treating discarded implementation details as a failure.
 
@@ -1776,6 +1777,7 @@ On October 26, K rejected the v0.6.13 abstract's early turn to LLMs and deep lea
 the previous opening was already satisfactory apart from the acronym. Restore that
 opening and place the learned-model extension at the end. When adding a new application,
 preserve an accepted argument sequence unless K asks to change its emphasis.
+He then accepted an abstract keeping that opening and requested the transition "beyond whole-brain models" before the learned language, vision, and generative examples. Name the established modeling setting before extending the comparison; end with the empirical tests rather than appending another application after them.
 
 ### 2026-09-15 — WP0231 omitted Kaiti from the byline
 
