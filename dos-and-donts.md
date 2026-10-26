@@ -162,6 +162,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   these with a coupled flag-reader and the spring's coordinates before introducing
   congruence or dependency graphs. Lead the program comparison with the mathematical,
   algorithmic, and program structures available at the selected grain.
+  K clarified that this progression bears on a proposed hierarchy of experiential
+  structures: systems may share aspects at different descriptive levels while their
+  full SE differs. State this under H2 and distinguish a shared limiting ODE from
+  equality of finite-step solver functions.
   On October 24 (TN0486), K found the scalar “contains” notation in the mixing equation
   confusing and asked for clearer headings. Name the retained frequency component and
   write its equation explicitly; use headings that identify the mechanism, result or method
