@@ -156,6 +156,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Repair the sequence of reasons: unresolved information, choice of predictive state,
   learning, and shared predictive organization. Put computational realization with the
   program comparison; transitions alone cannot repair misplaced material.
+  His next comments exposed two ambiguities: a reader of an intermediate register can
+  distinguish executions without changing the producer's dynamics, and an invertible
+  coordinate change differs from a coarse-graining that discards distinctions. Explain
+  these with a coupled flag-reader and the spring's coordinates before introducing
+  congruence or dependency graphs. Lead the program comparison with the mathematical,
+  algorithmic, and program structures available at the selected grain.
   On October 24 (TN0486), K found the scalar “contains” notation in the mixing equation
   confusing and asked for clearer headings. Name the retained frequency component and
   write its equation explicitly; use headings that identify the mechanism, result or method
