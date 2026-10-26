@@ -148,6 +148,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   as proposals until a choice is agreed and validated.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
+  On October 26 (WP0215), K found the realization subsection's purpose unclear and its
+  intervention equation hard to read. Start from the distinction between agreement on
+  one recorded run and responses across the specified alternatives; define each map,
+  explain both sides of the equation, and unpack examples instead of listing requirements.
   On October 24 (TN0486), K found the scalar “contains” notation in the mixing equation
   confusing and asked for clearer headings. Name the retained frequency component and
   write its equation explicitly; use headings that identify the mechanism, result or method
@@ -1777,6 +1781,11 @@ models at that grain. He emphasized training as the route to approximate statist
 closure: explain the learned predictive state and update law, with their domain and
 accuracy, rather than leaving closure only as an unanswered question. Distinguish
 semantic loss in a description from lossless encoding of the resulting text.
+On October 26, K found the multimodal paragraph obscure because it presented the
+human--model comparison as a future proposal, despite the training task already specifying
+the capacities to reproduce. State the shared task and its retained content first, then
+explain how training seeks predictive closure at that grain. Distinguish a task step from
+the model's internal sampling steps without letting that distinction obscure the comparison.
 I then omitted K’s explicit interpretation of LLMs as coarse-grained models of human
 brain activity, despite his Highlights edit. He clarified that this belongs among the
 examples and in the consciousness discussion. Preserve the proposed population-level
