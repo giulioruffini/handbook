@@ -1513,6 +1513,12 @@ ontological priority, not the need to specify a temporal correspondence: allow
 relational time and state which timing relations an equivalence preserves. Keep
 preservation of a specified experiential feature separate from equality of all
 experiential aspects of implementations that perform additional computations.
+On October 27, K clarified that clocks themselves are dynamical systems identified
+through coarse-graining. A useful retained clock variable makes other reduced
+dynamics simple when expressed relative to it. Introduce this relational role
+before using time intervals or distinguishing modeled time from hardware timing;
+do not treat a physical clock as a primitive outside the realization framework.
+Keep the simplicity criterion tied to the declared domain and predictive task.
 K then noted that the recovery sentence sounded restricted to Euler and RK4.
 The manuscript already gives the class-wide consistency argument. Lead with the
 shared infinitesimal generator of consistent one-step implementations; identify
