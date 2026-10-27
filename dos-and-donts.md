@@ -1524,6 +1524,7 @@ The manuscript already gives the class-wide consistency argument. Lead with the
 shared infinitesimal generator of consistent one-step implementations; identify
 the compiled-code examples separately. Distinguish the general mathematical limit,
 the implemented extractor's grammar, and the precision required for numerical recovery.
+Later that day, K could not find the generalization: I had placed it in Methods while his comment remained beside the Results example. When a requested change belongs elsewhere, add a short pointer beside the original comment and give the active file, line, and PDF page in the reply.
 K then pointed out that I had not used the exact replacement sentence I offered:
 I substituted a two-sentence formulation while reconciling Klaus's review.
 When K asks for a quoted replacement, apply it verbatim and verify the source,
