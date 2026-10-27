@@ -25,6 +25,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   packages until a later checkpoint. Do not turn each local editing request into a release.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
+  On October 27 (WP0215), I interpreted a request to revise Figure 2 as replacing its general
+  Yanofsky hierarchy with a numerical example. K wanted the hierarchy retained. Keep the
+  general diagram and add the concrete shared-evolution illustration separately; a request
+  to improve content and appearance does not authorize dropping its conceptual role.
   On October 15, K rejected the dashed hormone-input arrow in the ANPSY primer.
   He then asked to remove the image's proposed-extension label and replace a gland
   icon that resembled testicles. Use a solid arrow and an unambiguous hormone-rhythm
@@ -166,6 +170,21 @@ K's current instructions take precedence; keep scientific corrections tied to th
   structures: systems may share aspects at different descriptive levels while their
   full SE differs. State this under H2 and distinguish a shared limiting ODE from
   equality of finite-step solver functions.
+  In the subsequent clarification, K meant the shared input-driven evolution function:
+  initial state and interaction history determine later retained states and outputs. Use
+  that as the functional target; reserve “one-step map” for the solver update. Programs
+  within Euler or RK4 can share additional method-specific stage structure.
+  K then specified the full branching order: system, alternative coherent coarse-grainings,
+  their ODEs and evolution functions, alternative algorithms, and alternative programs.
+  Additional signature constraints narrow a sharing class within a chosen branch; the
+  alternative grains need not be nested. Complete retained-state evolution fixes its
+  vector field at a declared grain and clock; one observed history generally does not.
+  On October 27, K found that the Results did not explain how the counter and three-bit
+  examples followed from ODE recovery. State their separate roles: recover a shared law,
+  identify retained versus discarded features, then distinguish an identical update from
+  its implementing mechanisms. Do not imply that the discrete examples implement the ODE
+  or form successive levels of Yanofsky’s hierarchy. Draw generator recovery separately
+  from program-to-algorithm and algorithm-to-function maps.
   On October 24 (TN0486), K found the scalar “contains” notation in the mixing equation
   confusing and asked for clearer headings. Name the retained frequency component and
   write its equation explicitly; use headings that identify the mechanism, result or method
