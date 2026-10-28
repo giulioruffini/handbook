@@ -185,6 +185,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   its implementing mechanisms. Do not imply that the discrete examples implement the ODE
   or form successive levels of Yanofsky’s hierarchy. Draw generator recovery separately
   from program-to-algorithm and algorithm-to-function maps.
+  On October 28, K asked of the compiled example, “What extractor? What has been done?”
+  Identify the study's supplied tool before reporting its result, and explain the input,
+  transformation, checks, and recovered object in that order.
   On October 24 (TN0486), K found the scalar “contains” notation in the mixing equation
   confusing and asked for clearer headings. Name the retained frequency component and
   write its equation explicitly; use headings that identify the mechanism, result or method
