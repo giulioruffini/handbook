@@ -623,6 +623,15 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-10-28 — Send proposals to Kaiti when drafted; do not ask K for a go-ahead
+
+While reviewing WP0215's finite-packing section I drafted two propositions and a
+conjecture in the supplement's house format and twice closed with "if you approve, I
+will send Kaiti". K: "yes tell Kaiti, c'mon". A proposal to Kaiti through peer-message
+is not an edit of her files and needs no approval; when K has asked for the content,
+send it as soon as it is drafted and tell him it went. Ask only when the proposal
+would change the paper's scope or commit K to something outward-facing.
+
 ### 2026-10-24 — "Some figures are too large" meant those figures, not a restyle of the set
 
 K on the TN0486 draft: "revise the figure, some are too large and ugly... can we do this
@@ -3281,3 +3290,11 @@ GR_REFERENCE_CHECK.md, so renaming them needs verification from the source. Prac
 review comment states what a construction does or proposes replacing an author's term, check the
 Supplement or the cited source; a comment that asserts a mechanism is a claim and gets the same
 verification as prose in the paper.
+- Let K hear the voice before building a narration. On October 27, 2026 (ANPSY pitch narration),
+  I built the full movie with an OpenAI voice that an audio model had rated "female, British";
+  K heard it as male, and asked for a female, young, British voice and a search beyond OpenAI
+  (ElevenLabs, Microsoft, newer models). A model's gender judgment is not evidence; measure the
+  median pitch (female speech sits near 200 Hz, male near 130 Hz), prefer a voice that is British
+  by construction over an American voice instructed to imitate the accent, and ship short samples
+  of two or three candidates with the build so K can switch. Check Downloads for a newer script
+  version before building: v27 had replaced v26 while I was working.
