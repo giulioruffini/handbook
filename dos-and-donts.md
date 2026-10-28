@@ -3119,6 +3119,11 @@ short list, the asks numbered, nothing restated from the reader's own material a
 hedging. The reasoning and the detail go in an attachment or a linked note. This holds for
 all drafts, not only this one.
 
+On October 28, K clarified that David is the CFO after I drafted dashboard feedback
+asking for broad management interpretation and operational actions. Practice: ask David
+for financial interpretation—variance drivers, profitability, cash outlook, forecast
+assumptions, financial risks, and recommended financial actions—within his CFO role.
+
 On October 21 (WP0203), Giulio asked for a slightly warmer acknowledgment of
 the Academic Editor's generous assessment. Concision should retain proportionate
 appreciation. He also noted that R1.3 omitted regulation through a stored world
