@@ -194,6 +194,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   retained description, not its digital or analog implementation: a WBM may retain
   population, cellular, subcellular, or multiscale variables. Sketch the revised table
   in the conversation when requested, before revising the manuscript or preview.
+  K then clarified that the LLM observation grain is tokens; context or history belongs
+  in the predictive state when needed for closure. Name that grain directly. Distinguish
+  the structure shared under the comparison from omitted source details and additional
+  emulator structure; do not imply that every relation below the selected grain must differ.
   On October 27, K found that the Results did not explain how the counter and three-bit
   examples followed from ODE recovery. State their separate roles: recover a shared law,
   identify retained versus discarded features, then distinguish an identical update from
