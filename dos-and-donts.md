@@ -320,6 +320,11 @@ the intended physical claim before polishing the abstract. Distinguish a stored
 noncomputable parameter from completion of an infinite computable process; an infinite
 history need not have unbounded conditional algorithmic complexity. Lead the abstract
 with the physical question and the result, leaving the proof machinery to the paper.
+After approving the five-section plan, K asked for a memorable statement of the central
+result, rather than an abstract that only organizes the subject. State the strongest
+supported conclusion in one plain sentence. Keep the proposed identification with
+spacetime information density distinct from a proved implication when its physical
+localization or temporal-completion assumptions remain open.
 The scoped TN0484 abstract then reached 321 words; K relayed Klaus's 297-word replacement
 for the 300-word budget. Check the final abstract against the journal limit after adding
 scope qualifications, and retain those qualifications when compressing the shared text.
