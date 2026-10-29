@@ -188,6 +188,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   by closure and realization, and avoid implying a separate subject for each description.
   Explain the ontology directly: a dynamical mathematical description does not commit
   us to matter being fundamental.
+  Later that day, K rejected the separate embodiment matrix in the WP0215 table proposal.
+  For this table, use presumed grain, mathematical structure, and world interfaces;
+  include virtual or physical embodiment in the interface column. Grain names the
+  retained description, not its digital or analog implementation: a WBM may retain
+  population, cellular, subcellular, or multiscale variables. Sketch the revised table
+  in the conversation when requested, before revising the manuscript or preview.
   On October 27, K found that the Results did not explain how the counter and three-bit
   examples followed from ODE recovery. State their separate roles: recover a shared law,
   identify retained versus discarded features, then distinguish an identical update from
