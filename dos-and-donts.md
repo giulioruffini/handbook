@@ -23,6 +23,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   the open journal `.tex`, preserve his comments, and add brief `% [Kaiti]` replies where useful.
   Rebuild that working copy as needed; defer version bumps, regenerated editions, and review
   packages until a later checkpoint. Do not turn each local editing request into a release.
+  On October 29, I left K's explicit request to cite Ruffini and Lopez-Sola (2022)
+  unresolved while editing the same Introduction paragraph. Apply such specific citation
+  instructions during the local edit after checking the reference, and mark the comment
+  addressed rather than leaving it for another pass.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
   On October 27 (WP0215), I interpreted a request to revise Figure 2 as replacing its general
@@ -179,6 +183,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Additional signature constraints narrow a sharing class within a chosen branch; the
   alternative grains need not be nested. Complete retained-state evolution fixes its
   vector field at a declared grain and clock; one observed history generally does not.
+  On October 29, K clarified that experiential plurality also concerns the choice of
+  system boundary. Distinguish boundary selection from coarse-graining, constrain both
+  by closure and realization, and avoid implying a separate subject for each description.
+  Explain the ontology directly: a dynamical mathematical description does not commit
+  us to matter being fundamental.
   On October 27, K found that the Results did not explain how the counter and three-bit
   examples followed from ODE recovery. State their separate roles: recover a shared law,
   identify retained versus discarded features, then distinguish an identical update from
