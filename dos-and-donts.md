@@ -1196,6 +1196,12 @@ K then asked for subtler attribution: introduce the general agent setting in the
 opening and cite the published KT paper as an example, without naming KT in the
 main sentence. Keep the conceptual distinction prominent and the attribution light.
 
+On October 29, K asked to soften the author-facing referee comments, using “We
+suggest” and requests to verify, double-check, qualify, or remove claims, except
+for the clearly incorrect statements. Practice: use collegial suggestions for
+clarifications and verification requests; retain direct correction language for
+demonstrable mathematical errors without weakening the scientific requirements.
+
 ### 2026-09-07 — WP0007 figures and revision scope
 
 The revision replaced the original observer-chain Figure 2 and colored barrier Figure 4, removed
