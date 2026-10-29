@@ -1,6 +1,6 @@
 # TODO — giulio-personal-handbook
 
-- [x] Record K's referee-report tone preference: suggestions and verification requests, with direct corrections for demonstrable errors — 2026-10-29
+- [x] Record K's referee-report tone preference and requirement to archive the complete record under Paper Reviews — 2026-10-29
 - [x] record K's EBRAINS correction: distinguish service availability from workflow usefulness and include GDPR access constraints — 2026-10-20
 - [x] record K's default Downloads copy for shareable PDFs and copy the ANPSY–EBRAINS memo there for email attachment — 2026-10-20
 - [x] record K's exclusion of delays and request to diagnose the PING definition/coupling behind poor FC fits — 2026-10-18

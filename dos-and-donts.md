@@ -1202,6 +1202,11 @@ for the clearly incorrect statements. Practice: use collegial suggestions for
 clarifications and verification requests; retain direct correction language for
 demonstrable mathematical errors without weakening the scientific requirements.
 
+K also clarified that the complete review record belongs under `~/Claude/Paper
+Reviews`. I had saved the incoming revision and author replies only in Downloads.
+Archive those sources with the reports and verification notes in the review project;
+use Downloads for delivery copies.
+
 ### 2026-09-07 — WP0007 figures and revision scope
 
 The revision replaced the original observer-chain Figure 2 and colored barrier Figure 4, removed
