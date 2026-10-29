@@ -303,6 +303,14 @@ caveats. Practice: state the connected positive argument, its result, and its pr
 application. Keep assumptions and the result's scope in affirmative clauses; place
 supporting exclusions beside the relevant main-text claims. Check this after review
 repairs, not only the word count. K extended this correction to the main text and appendices: consolidate repeated qualifications and state the positive conclusions, while retaining conditions where the claims require them.
+On October 29 (WP0251), K found the revised abstract difficult to read and said it had
+lost his question: whether hypercomputation requires infinite algorithmic information
+in a bounded spacetime region, with implications for physics. He then clarified that
+the wording was provisional and the temporal case needed examination. Practice: test
+the intended physical claim before polishing the abstract. Distinguish a stored
+noncomputable parameter from completion of an infinite computable process; an infinite
+history need not have unbounded conditional algorithmic complexity. Lead the abstract
+with the physical question and the result, leaving the proof machinery to the paper.
 The scoped TN0484 abstract then reached 321 words; K relayed Klaus's 297-word replacement
 for the 300-word budget. Check the final abstract against the journal limit after adding
 scope qualifications, and retain those qualifications when compressing the shared text.
