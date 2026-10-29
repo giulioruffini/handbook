@@ -27,6 +27,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   unresolved while editing the same Introduction paragraph. Apply such specific citation
   instructions during the local edit after checking the reference, and mark the comment
   addressed rather than leaving it for another pass.
+  In the same paper's opening, K requested Deco rather than Breakspear when choosing
+  a WBM citation and retained the oscillator-network review after I omitted it from
+  a shortened draft. Preserve those citation choices when condensing this passage.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
   On October 27 (WP0215), I interpreted a request to revise Figure 2 as replacing its general
