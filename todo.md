@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] record K's dynamical software/hardware definition, report-definition placement, and objection to privileging the outer simulation host — 2026-10-29
 - [x] Record K's referee-report tone preference and requirement to archive the complete record under Paper Reviews — 2026-10-29
 - [x] record K's EBRAINS correction: distinguish service availability from workflow usefulness and include GDPR access constraints — 2026-10-20
 - [x] record K's default Downloads copy for shareable PDFs and copy the ANPSY–EBRAINS memo there for email attachment — 2026-10-20
