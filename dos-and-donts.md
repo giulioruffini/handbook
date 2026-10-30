@@ -3199,6 +3199,10 @@ needs something simpler to do; the product should not disconnect during normal u
 Practice: lead with the user-visible requirement and a small executable first check,
 with one owner and a result date. Keep the broader technical program as supporting work;
 reduce the operational burden, not merely the wording of the request.
+K then asked to restore the criticism of the reports’ technical substance and quality,
+while acknowledging that Joan had just arrived and inherited the situation. Simplifying
+the assignment must preserve the substantive criticism K wants discussed; separate
+responsibility for inherited defects from responsibility for improving the standard.
 
 On October 21 (WP0203), Giulio asked for a slightly warmer acknowledgment of
 the Academic Editor's generous assessment. Concision should retain proportionate
