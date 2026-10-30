@@ -2975,6 +2975,11 @@ APPLE MAIL! I want gmail as usual." Practice: create drafts with the Gmail conne
 attachment is too large for the connector, create the Gmail draft without it, stage the files in
 one folder under ~/Downloads, and tell K to drag them in. Never open or script Apple Mail.
 
+On October 30 (NE Wi-Fi), I created an unsent Gmail draft after a request for a message to Joan.
+K then clarified that Joan's message was in Google Chat. Establish the communication channel
+before creating an external draft; a request for a message does not by itself mean email.
+For a Chat reply, prepare text for that channel unless K asks for an email.
+
 ## Sharing tools: ask the recipients' platform first
 
 On October 7, 2026, K asked how to share the peer-message skill with Ricardo and Borja. I
