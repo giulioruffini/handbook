@@ -3257,6 +3257,12 @@ did not include. K: "did you read the thread in the message? I want to move budg
 Practice: before drafting a reply, fetch the full thread (Gmail get_thread) and read K's own
 earlier messages in it; what K already told the correspondent binds the reply.
 
+On October 30, I asked K to paste Ricardo's reply before checking mail access. K pointed out
+that it was in his Neuroelectrics Gmail and asked me to consult Klaus. The connected Gmail
+tool authenticated that account and retrieved the thread. Check available mail tools and the
+account profile before asking K to paste a message; do not infer missing access from an
+undiscovered connector.
+
 ### 2026-10-23 — A withdrawn theorem leaves the corrected article entirely
 
 In the ART Correction I had proposed keeping the withdrawn Theorem A3 as a numbered empty
