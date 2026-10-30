@@ -297,6 +297,14 @@ megabytes, media-heavy folders such as slide decks) always ask before creating o
 K declined the GALVANI 2026 slide repository (810 MB) on 2026-10-05. Confidential material,
 such as notes on a manuscript under review, also waits for an explicit yes.
 
+On October 30 (NE Wi-Fi), I left the project committed only locally because it had no
+remote. K corrected this: "Everything we do should be in github." This authorizes private
+backup of our collaborative work, including internal project notes and reports; honor any
+specific project release hold. No remote is a task to resolve, not a reason to stop at a
+local commit. Create the private repository, include the useful source material, push,
+and verify that the remote matches the local commit before reporting the backup current.
+Identify any large external dataset that remains outside that backup explicitly.
+
 ## Abstract and storyline planning
 
 On October 3, 2026, K endorsed WP0216's abstract-plus-storyline document as the default
