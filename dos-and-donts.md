@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On October 30, 2026 (WP0215), K clarified that approximate closure concerns the agent's own modeling, valuation, and planning dynamics, not only an analyst's uncertainty about the world. Trace unresolved causal influences through those coupled operations before discussing experiential consequences; distinguish the agent's limited predictive access from unpredictability in principle.
+
 - For journal proofs, begin with the publisher’s embedded author queries (for MDPI, `%MDPI:` and other query comments) and inspect the edits they identify. On October 26, 2026, I initially framed WP0203’s proof review as a broad mathematical check; K redirected me to the `%MDPI:` comments. Prepare proposed answers and verify the relevant formatting or facts before widening the review. When K supplies shorthand model names, verify their providers and official versions before drafting the AI-use disclosure: in the same review I incorrectly grouped Fable under ChatGPT; the corrected providers are OpenAI for GPT-6 Astra and Anthropic for Claude Fable and Opus.
 
 - When delivering files for K to review, open their containing folder in Finder and provide the file links. On October 23, 2026, K requested this after receiving the WP0215 review PDFs. On October 24, I asked again before opening the new review folder; K explicitly corrected this. Opening Finder windows and showing documents have standing authorization: do these actions without asking K again. Apply any required environment controls without adding a separate conversational permission request. On October 25, I still triggered repeated runtime prompts by asking approval for each new version-specific review directory. K corrected this again. Reuse the already-approved review-parent command (for WP0215, open `build/storyline`) instead of creating a new permission request for every version. Check existing approved commands before requesting escalation; preserve the environment controls when no approved route exists.
@@ -304,6 +306,12 @@ specific project release hold. No remote is a task to resolve, not a reason to s
 local commit. Create the private repository, include the useful source material, push,
 and verify that the remote matches the local commit before reporting the backup current.
 Identify any large external dataset that remains outside that backup explicitly.
+
+On October 30 (TN0486), I provided a safe cleanup list but left execution to K's other
+session. K directed me to decide what could safely go and delete it. Once cleanup
+execution is explicitly delegated, carry out the bounded, reviewed deletion, preserve
+compact audit evidence, verify protected data, and report what was actually removed.
+Do not stop at another approval handoff; keep unverified backup-dependent data intact.
 
 ## Abstract and storyline planning
 
