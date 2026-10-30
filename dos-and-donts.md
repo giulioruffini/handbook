@@ -3193,6 +3193,13 @@ asking for broad management interpretation and operational actions. Practice: as
 for financial interpretation—variance drivers, profitability, cash outlook, forecast
 assumptions, financial risks, and recommended financial actions—within his CFO role.
 
+On October 30 (NE Wi-Fi), I gave Joan a broad benchmark, instrumentation and acceptance
+program as the next task. K corrected this: the team has limited size and skills and
+needs something simpler to do; the product should not disconnect during normal use.
+Practice: lead with the user-visible requirement and a small executable first check,
+with one owner and a result date. Keep the broader technical program as supporting work;
+reduce the operational burden, not merely the wording of the request.
+
 On October 21 (WP0203), Giulio asked for a slightly warmer acknowledgment of
 the Academic Editor's generous assessment. Concision should retain proportionate
 appreciation. He also noted that R1.3 omitted regulation through a stored world
