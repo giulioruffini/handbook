@@ -93,6 +93,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Keep edits proportional to the request. A request for succinct edits calls for small, reviewable
   changes. Report substantive deletions and reorganizations explicitly, and provide a redline
   against the agreed baseline.
+  On October 31 (WP0215), after adding the requested model classes and first-person endpoint,
+  K asked for another conclusion pass to remove repetition and improve flow. Integrate new
+  scope into the argument once; shorten repeated result inventories instead of appending them.
   On October 18, K found ANPSY S4-GR6 "too aggressive... too much": I had rewritten
   several main-text paragraphs and added an evidence paragraph and example box.
   Practice: clarify the digital-twin objective through local wording changes to GR5;
