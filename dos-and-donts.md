@@ -103,6 +103,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
   when an example introduces a distinct failure mode. Keep result-specific arithmetic, execution,
   intervention-domain, and evidence conditions; remove generic H2 reminders at subsection endings.
+  Later that day, K found that the abstract and Introduction no longer explicitly stated the
+  correspondence between structured experience and realized mathematical organization. Local
+  notation and safeguard checks had missed the loss of the paper's premise. After compression,
+  reread the whole argument as a first-time reader: preserve its explicit assumptions and the
+  links from each construction to the experiential claim, not only equations and qualifications.
   On October 18, K found ANPSY S4-GR6 "too aggressive... too much": I had rewritten
   several main-text paragraphs and added an evidence paragraph and example box.
   Practice: clarify the digital-twin objective through local wording changes to GR5;
