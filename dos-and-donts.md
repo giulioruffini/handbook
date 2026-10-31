@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On October 31, 2026 (WP0215), K added “in an emulator” because the Introduction’s realization clause did not identify which system must carry the proposed relations. When introducing realization, name the supporting system (source or emulator) and explain the correspondence through its states, transitions, and intervention responses; do not rely on “supports the organization” alone.
+
 - On October 30, 2026 (WP0215), K clarified that approximate closure concerns the agent's own modeling, valuation, and planning dynamics, not only an analyst's uncertainty about the world. Trace unresolved causal influences through those coupled operations before discussing experiential consequences; distinguish the agent's limited predictive access from unpredictability in principle.
 
 - For journal proofs, begin with the publisher’s embedded author queries (for MDPI, `%MDPI:` and other query comments) and inspect the edits they identify. On October 26, 2026, I initially framed WP0203’s proof review as a broad mathematical check; K redirected me to the `%MDPI:` comments. Prepare proposed answers and verify the relevant formatting or facts before widening the review. When K supplies shorthand model names, verify their providers and official versions before drafting the AI-use disclosure: in the same review I incorrectly grouped Fable under ChatGPT; the corrected providers are OpenAI for GPT-6 Astra and Anthropic for Claude Fable and Opus.
