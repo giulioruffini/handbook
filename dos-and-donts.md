@@ -5,7 +5,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
-- On October 31, 2026 (WP0215), K added “in an emulator” because the Introduction’s realization clause did not identify which system must carry the proposed relations. When introducing realization, name the supporting system (source or emulator) and explain the correspondence through its states, transitions, and intervention responses; do not rely on “supports the organization” alone.
+- On October 31, 2026 (WP0215), K added “in an emulator” because the Introduction’s realization clause did not identify which system must carry the proposed relations. He then clarified that a valid coherent coarse-graining already permits experiential attribution under KT; it need not emulate anything. Do not present realization as an additional experiential eligibility condition after coherent coarse-graining. Introduce the emulator’s obligation to preserve selected organization separately, through its own states, transitions, and intervention responses. The broader technical use of realization for supported system–description correspondences may remain, but explain the distinction.
 
 - On October 30, 2026 (WP0215), K clarified that approximate closure concerns the agent's own modeling, valuation, and planning dynamics, not only an analyst's uncertainty about the world. Trace unresolved causal influences through those coupled operations before discussing experiential consequences; distinguish the agent's limited predictive access from unpredictability in principle.
 
