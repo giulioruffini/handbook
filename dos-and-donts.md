@@ -179,7 +179,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   K then found the alternative support paragraph unclear: it switched between emulator
   and source terminology and mixed carrier changes with interpreter accounting. Explain
   which system performs the retained transitions directly; separate technical carrier
-  details from the central attribution condition.
+  details from the central attribution condition. K then clarified that the central point
+  is faithfulness over the declared counterfactual scope under one fixed coarse-graining
+  (or a specified adaptation rule). Integrate that point with the intervention test;
+  distinguish declaring the map from verifying it across the admitted alternatives,
+  rather than introducing a separate observer-accounting digression.
   His next comments exposed two ambiguities: a reader of an intermediate register can
   distinguish executions without changing the producer's dynamics, and an invertible
   coordinate change differs from a coarse-graining that discards distinctions. Explain
