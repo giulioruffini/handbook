@@ -163,6 +163,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   as proposals until a choice is agreed and validated.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
+  On October 31 (WP0215), K asked for a less formal, Feynman-like explanation: begin with
+  a person and an emulator that must respond alike at the chosen grain. Explain the
+  experiment and its scope before introducing maps; distinguish tests not chosen in
+  advance from an unrestricted intervention class. Use concrete reasoning to make the
+  conditions readable, without dropping them.
   On October 26 (WP0215), K found the realization subsection's purpose unclear and its
   intervention equation hard to read. Start from the distinction between agreement on
   one recorded run and responses across the specified alternatives; define each map,
