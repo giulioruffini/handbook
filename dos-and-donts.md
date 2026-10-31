@@ -96,6 +96,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   On October 31 (WP0215), after adding the requested model classes and first-person endpoint,
   K asked for another conclusion pass to remove repetition and improve flow. Integrate new
   scope into the argument once; shorten repeated result inventories instead of appending them.
+  K then clarified that readability and paragraph flow take priority over a supplied word
+  budget: remove repetition and disconnects; retain doubtful cuts or move them with context.
+  When the reduction is substantial, report losses from the main text separately from deletions
+  across both documents, and check explanatory links as well as equations and citations.
   On October 18, K found ANPSY S4-GR6 "too aggressive... too much": I had rewritten
   several main-text paragraphs and added an evidence paragraph and example box.
   Practice: clarify the digital-twin objective through local wording changes to GR5;
