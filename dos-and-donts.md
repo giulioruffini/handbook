@@ -1790,6 +1790,12 @@ of reduced neural dynamics. Practice: preserve this positive research direction 
 lineage. Distinguish useful partial invariants from a complete classifier, and state the maps and
 physical or empirical conditions under which a descriptor is preserved and supports interpretation.
 
+On October 31, K found that WP0215's isolated LieGG sentence omitted the shared-structure
+argument: models can acquire selected transformation regularities from data, connecting his
+symmetry papers and Anselmi--Poggio to representational convergence. State that connection before
+the technical limits. Distinguish learned symmetry from architectural constraints and invariance
+from equivariance; use LieGG as an extraction example, not as proof of universal convergence.
+
 K then found WP0231's revised abstract unsatisfactory and requested revisions to all the related
 abstracts. The synthesis had become a list of technical topics, with its experiential motivation
 at the end. Practice: read each abstract as a standalone argument, beginning with its scientific
