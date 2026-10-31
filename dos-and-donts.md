@@ -176,6 +176,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   repeated requirements and use existing supplementary homes for detailed examples.
   Preserve pedagogical examples where they explain a condition, rather than adding
   connective phrases to an unchanged sequence.
+  K then found the alternative support paragraph unclear: it switched between emulator
+  and source terminology and mixed carrier changes with interpreter accounting. Explain
+  which system performs the retained transitions directly; separate technical carrier
+  details from the central attribution condition.
   His next comments exposed two ambiguities: a reader of an intermediate register can
   distinguish executions without changing the producer's dynamics, and an invertible
   coordinate change differs from a coarse-graining that discards distinctions. Explain
