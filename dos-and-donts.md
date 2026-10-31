@@ -171,6 +171,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Repair the sequence of reasons: unresolved information, choice of predictive state,
   learning, and shared predictive organization. Put computational realization with the
   program comparison; transitions alone cannot repair misplaced material.
+  On October 31, after local intervention edits, K again found a sequence of disconnected
+  paragraphs. Check each paragraph’s purpose and dependence on its neighbors; merge
+  repeated requirements and use existing supplementary homes for detailed examples.
+  Preserve pedagogical examples where they explain a condition, rather than adding
+  connective phrases to an unchanged sequence.
   His next comments exposed two ambiguities: a reader of an intermediate register can
   distinguish executions without changing the producer's dynamics, and an invertible
   coordinate change differs from a coarse-graining that discards distinctions. Explain
