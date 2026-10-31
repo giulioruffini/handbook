@@ -168,6 +168,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   experiment and its scope before introducing maps; distinguish tests not chosen in
   advance from an unrestricted intervention class. Use concrete reasoning to make the
   conditions readable, without dropping them.
+  Later that day, “feature descent” obscured the structural comparison. My proposed
+  generalization then reused X and Q for whole organizations, although they already denote
+  source and reduced states. K corrected the category change and named the current model
+  and current valence as state-dependent KT examples. Preserve the state-space types:
+  a factorization through rho tests retained structural content, whereas H2 compares
+  realized organizations with relevant state/history markings. Do not substitute this
+  content criterion for preservation of the dynamics and operations that use the content.
   On October 26 (WP0215), K found the realization subsection's purpose unclear and its
   intervention equation hard to read. Start from the distinction between agreement on
   one recorded run and responses across the specified alternatives; define each map,
