@@ -57,6 +57,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   denser Nature-style prose and references, and a personalized mental-health
   forecasting-system title. Keep the scientific explanation substantial; the
   weather metaphor should not headline this note.
+  On November 1 (WP0215), K asked to combine selected details and icons from Klaus’s
+  brain–emulator draft, then warned that the draft also contained errors and unnecessary
+  material. Adopt useful elements selectively: show the clock as a dynamical subsystem
+  within the retained state space, include LLM/multimodal candidates at human language or
+  perceptual grains, and check each example’s grain against its proposed emulator.
+
 - Distinguish a controlled mechanism experiment from a calibrated whole-brain model. Check
   empirical fit before extending a campaign whose purpose requires it, and flag when a parameter
   range was inherited from another purpose. The October 17 TN0486 correction below records K's
@@ -253,6 +259,15 @@ K's current instructions take precedence; keep scientific corrections tied to th
   by closure and realization, and avoid implying a separate subject for each description.
   Explain the ontology directly: a dynamical mathematical description does not commit
   us to matter being fundamental.
+  On November 1, K corrected the Introduction's unexplained reference to 'our use of
+  dynamical systems': KT develops a computational account; WP0215 takes a step back
+  to dynamical systems and asks which computational descriptions their coarse-grainings
+  support. State this paper-specific starting point before invoking it, and attach the
+  nonmaterialist clarification to KT's philosophical premise when appropriate. K then
+  preferred moving that clarification to the Introduction's end, after the paper's
+  dynamical construction had been introduced, rather than adding a new KT preamble.
+  K subsequently deleted the sentence; preserve that deletion rather than reinserting
+  the clarification during later edits.
   Later that day, K rejected the separate embodiment matrix in the WP0215 table proposal.
   For this table, use presumed grain, mathematical structure, and world interfaces;
   include virtual or physical embodiment in the interface column. Grain names the
