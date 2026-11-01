@@ -189,6 +189,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   K specified that internal WP0048 is background, not a citable source for WP0215. He also
   asked to consolidate repeated supplementary pointers near section openings, preserving
   direct links for specific proofs or models.
+  He then rejected restating the reporting-preservation equations in the agent section:
+  explain the preserved records, uses, and timing in words, retaining the formal version
+  in the supplement. For incomplete closure, start from the agent and observers restricted
+  to the chosen grain; avoid introducing an unexplained analyst. Distinguish omitted
+  variables, limited computational resources, and open-ended undecidability.
   On October 31 (WP0215), K asked for a less formal, Feynman-like explanation: begin with
   a person and an emulator that must respond alike at the chosen grain. Explain the
   experiment and its scope before introducing maps; distinguish tests not chosen in
