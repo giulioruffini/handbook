@@ -182,6 +182,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   discussing the thermostat in Section 4.3. Name both locations explicitly when proposing
   a move: main-text Section 4.3 and Supplementary Section S4.8. Do not rely on the S prefix
   alone to distinguish the destination from the passage under discussion.
+  Later that day, K found the predictive-controller explanation obscured by an investigator
+  readout detour. Explain how a retained forecast enters the next command in the main text;
+  keep external-readout controls with the detailed experiment. State the subjective-duration
+  idea before its appendix pointer, and keep the appendix consistent with that account.
+  K specified that internal WP0048 is background, not a citable source for WP0215. He also
+  asked to consolidate repeated supplementary pointers near section openings, preserving
+  direct links for specific proofs or models.
   On October 31 (WP0215), K asked for a less formal, Feynman-like explanation: begin with
   a person and an emulator that must respond alike at the chosen grain. Explain the
   experiment and its scope before introducing maps; distinguish tests not chosen in
