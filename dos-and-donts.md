@@ -178,6 +178,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   as proposals until a choice is agreed and validated.
 - Make concise prose self-contained. Name the objects and guarantees; explain technical terms
   before relying on them, especially in an abstract.
+  On November 1 (WP0215), K read my reference to S4.8 as a main-text section when
+  discussing the thermostat in Section 4.3. Name both locations explicitly when proposing
+  a move: main-text Section 4.3 and Supplementary Section S4.8. Do not rely on the S prefix
+  alone to distinguish the destination from the passage under discussion.
   On October 31 (WP0215), K asked for a less formal, Feynman-like explanation: begin with
   a person and an emulator that must respond alike at the chosen grain. Explain the
   experiment and its scope before introducing maps; distinguish tests not chosen in
