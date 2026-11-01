@@ -62,6 +62,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
   material. Adopt useful elements selectively: show the clock as a dynamical subsystem
   within the retained state space, include LLM/multimodal candidates at human language or
   perceptual grains, and check each example’s grain against its proposed emulator.
+  K then required the same field names across the example cards, explicitly using
+  “Emulator”; use parallel fields and qualify candidate status within their contents.
 
 - Distinguish a controlled mechanism experiment from a calibrated whole-brain model. Check
   empirical fit before extending a campaign whose purpose requires it, and flag when a parameter
