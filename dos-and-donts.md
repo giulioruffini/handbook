@@ -31,6 +31,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   the open journal `.tex`, preserve his comments, and add brief `% [Kaiti]` replies where useful.
   Rebuild that working copy as needed; defer version bumps, regenerated editions, and review
   packages until a later checkpoint. Do not turn each local editing request into a release.
+  On November 2, K recompiled WP0215 and found the promised C1 figure absent because it
+  existed only in my scratch build. Distinguish candidate work from changes applied to the
+  live source; once the focused check passes, apply approved changes promptly rather than
+  making K wait for unrelated audit and packaging work.
   On October 29, I left K's explicit request to cite Ruffini and Lopez-Sola (2022)
   unresolved while editing the same Introduction paragraph. Apply such specific citation
   instructions during the local edit after checking the reference, and mark the comment
