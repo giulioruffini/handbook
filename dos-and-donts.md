@@ -147,6 +147,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   claims that require them.
 - Preserve the intended scientific argument. When K corrects an interpretation, revise that
   interpretation before polishing the wording. Explain a disagreement with reasons.
+  On November 2 (WP0215), K asked that the spring example name particle exchange,
+  which preserves the retained state, rather than only translation symmetry. Distinguish
+  label removal from the further closure supplied by momentum conservation; check that
+  the force law and its coordinate domain actually support the claimed exchange.
   On October 20, K clarified that Morningside wants to sell NE after I widened the
   banker-contact discussion to other financing objectives. Treat the sale as settled;
   distinguish uncertainty about adviser selection and execution from uncertainty about
