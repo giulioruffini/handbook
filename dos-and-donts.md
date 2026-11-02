@@ -48,6 +48,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Yanofsky hierarchy with a numerical example. K wanted the hierarchy retained. Keep the
   general diagram and add the concrete shared-evolution illustration separately; a request
   to improve content and appearance does not authorize dropping its conceptual role.
+  On November 2 (WP0215 Figure 1), K found the separate C1 panel too large and misplaced.
+  Put the compact C1 case inside an enlarged Structured Experience box, so the nesting
+  conveys a special case of SE rather than a separate branch or a further stage.
   On October 15, K rejected the dashed hormone-input arrow in the ANPSY primer.
   He then asked to remove the image's proposed-extension label and replace a gland
   icon that resembled testicles. Use a solid arrow and an unambiguous hormone-rhythm
