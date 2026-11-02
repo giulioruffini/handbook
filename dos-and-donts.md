@@ -3492,3 +3492,24 @@ verification as prose in the paper.
   by construction over an American voice instructed to imitate the accent, and ship short samples
   of two or three candidates with the build so K can switch. Check Downloads for a newer script
   version before building: v27 had replaced v26 while I was working.
+
+### 2026-10-31 — Preprints built on a journal template must not look published
+
+On WP0215's OUP-template copy, K asked to "say Submitted to Neuroscience of Consciousness"
+before posting the manuscript to Zenodo and preprints.org, "not to give the impression that it
+has been published in NoC", and called journal templates that suggest publication "a general
+problem we have". The class had printed "Neuroscience of Consciousness, 2026, pp. 1–22",
+"doi: to be assigned", and "© The Author 2026. Published by Oxford University Press". Practice:
+a PDF built on a journal class that leaves the house (Zenodo, preprints.org, a public Calliope
+record, a mailing to co-authors) carries "Submitted to <journal>" in place of the masthead, no
+volume or page range, no "doi:" line until the preprint's own DOI exists, a "Preprint, not peer
+reviewed" notice, and no publisher copyright line. Keep the class file unmodified and patch its
+macros from the preamble with etoolbox, failing the build when a pattern is absent (WP0215's
+author copies, `notes/2026-10-31_klaus/preprint_header/`). Check page 1 and its footer with
+pdftotext before shipping.
+
+### 2026-11-02 — Say the cost before a high-volume tool operation
+
+**Incident.** Asked to cut a new Calliope version of WP0215, Klaus re-uploaded the whole 93-file root through the MCP path, which issues one signed URL per file, and K asked why Calliope was being called 52 times.
+**Correction.** "That's a lot!" A high-volume operation is a cost K wants to see before it runs, not after.
+**Practice.** Before an operation that will take more than about ten tool calls, state the count and why in one line and offer the lean alternative (here: core sources and figures only, companion bundles left in the repo). Prefer the smallest set that keeps the record complete, and log a product gap (bulk or archive upload) when the surface forces per-item calls.
