@@ -136,7 +136,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
   for JNE. Resize only the affected figures; preserve the others and keep a broader
   redesign as an unadopted proposal. K then identified Figure 2 as the actual height
   problem; make that local correction without reopening the rest of the figure set.
-- On November 2, 2026 (WP0215), K pointed to the generalized symmetry and conservation construction in Structured Dynamics after I answered using only classical Noether assumptions. Read the cited definitions and identify whether transformations act on states, trajectories, or initial conditions before assessing the claimed connection.
+- On November 2, 2026 (WP0215), K pointed to the generalized symmetry and conservation construction in Structured Dynamics after I answered using only classical Noether assumptions. Read the cited definitions and identify whether transformations act on states, trajectories, or initial conditions before assessing the claimed connection. K clarified that macrostate membership means two initially equivalent microstates remain equivalent as both evolve, not that either stays in its original macrostate; state the preserved relation directly.
 - Read the exact claim before criticizing it. Identify what is being compressed, what information
   is supplied, and which guarantee the theorem addresses. Do not substitute a different question.
   On October 21 (TN0484), K said a signed DC-like effect can occur at depth and
