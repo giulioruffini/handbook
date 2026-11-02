@@ -3513,3 +3513,14 @@ pdftotext before shipping.
 **Incident.** Asked to cut a new Calliope version of WP0215, Klaus re-uploaded the whole 93-file root through the MCP path, which issues one signed URL per file, and K asked why Calliope was being called 52 times.
 **Correction.** "That's a lot!" A high-volume operation is a cost K wants to see before it runs, not after.
 **Practice.** Before an operation that will take more than about ten tool calls, state the count and why in one line and offer the lean alternative (here: core sources and figures only, companion bundles left in the repo). Prefer the smallest set that keeps the record complete, and log a product gap (bulk or archive upload) when the surface forces per-item calls.
+
+### 2026-11-02 — Answer in the paper's own construction, after rereading it
+
+On WP0215, K asked how the symmetry-to-conserved-quantity argument of Structured Dynamics
+applies to the spring with the exchange of the two masses. I answered from the cited paper
+alone (a two-valued solution label, the ordering of the masses) and K replied "I don't think
+this is right... check what Kaiti wrote with the indicator function": the supplement's new S2.3
+paragraph had already fixed the object, the indicator of shared macrostate on pairs of states,
+conserved under two-sided closure. Practice: when K asks how an argument applies to an example
+in the paper, reread the live passage that treats it before answering, state the paper's
+construction first, and only then add any alternative reading, labeled as such.
