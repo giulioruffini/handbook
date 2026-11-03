@@ -3524,3 +3524,13 @@ paragraph had already fixed the object, the indicator of shared macrostate on pa
 conserved under two-sided closure. Practice: when K asks how an argument applies to an example
 in the paper, reread the live passage that treats it before answering, state the paper's
 construction first, and only then add any alternative reading, labeled as such.
+
+### 2026-11-03 — WP0215 Section 7: announcing clauses are filler
+
+In the rewritten Section 7 I opened with "Two kinds of evidence bear on H1 and C1, and they do
+different jobs." K: "this can of stuff, also, must go... First, is it relevant? Second, bad
+writing." The clause announces that a distinction follows instead of making it; the next two
+sentences already make it. Practice: delete any clause whose only content is that the following
+sentences will say something ("and they do different jobs", "two things follow", "this matters
+because"); if the sentences that follow do not carry the point on their own, fix them. Same
+family as "Do not enumerate for rhythm" and "State results, not intentions" in the prose rules.
