@@ -127,6 +127,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   transitions; edit his abstract locally rather than replacing its voice. Equations, labels,
   citations, and word counts do not establish semantic preservation: audit each changed claim,
   scope condition, and explanatory link against the author copy before reporting preservation.
+  K then distinguished a biological challenge to a candidate reporting grain from a
+  challenge to experience itself: neuronal or subcellular dependencies may require a finer
+  C1 grain; biological necessity for any experience challenges H0 and needs a specified
+  property and justification. Do not turn failure of one grain into rejection of C1 generally,
+  or treat a hypothetical microtubule example as a position attributed to Seth.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
