@@ -117,6 +117,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   scope into the argument once; shorten repeated result inventories instead of appending them.
   K then clarified that readability and paragraph flow take priority over a supplied word
   budget: remove repetition and disconnects; retain doubtful cuts or move them with context.
+  On November 4 (WP0215), while digesting the consolidated review, K restricted cuts for now
+  to blatant repetition that bothers the reader. Record proposed larger reductions or moves
+  without applying them; preserve explanations and state recurring distinctions fully once.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
