@@ -127,6 +127,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   transitions; edit his abstract locally rather than replacing its voice. Equations, labels,
   citations, and word counts do not establish semantic preservation: audit each changed claim,
   scope condition, and explanatory link against the author copy before reporting preservation.
+  In the abstract’s recovery example, K then restored the missing function–algorithm–program
+  connection: a shared function does not uniquely determine an algorithm or program. Explain
+  the recovered limiting law as shared structure across that hierarchy, not merely as evidence
+  that mathematical structure is present. Retain the distinction between computing a function
+  and approximating a common target law.
   K then distinguished a biological challenge to a candidate reporting grain from a
   challenge to experience itself: neuronal or subcellular dependencies may require a finer
   C1 grain; biological necessity for any experience challenges H0 and needs a specified
