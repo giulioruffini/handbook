@@ -132,6 +132,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   the recovered limiting law as shared structure across that hierarchy, not merely as evidence
   that mathematical structure is present. Retain the distinction between computing a function
   and approximating a common target law.
+  Later that evening, K corrected the revised abstract again: I emphasized differences
+  between implementations while losing the hierarchy of shared structure. State the common
+  law across numerical methods, the common algorithm within its implementations (Euler as
+  the example), and further shared organization within program families. The recovery
+  demonstrates the shared law; it is not merely an illustration of implementation diversity.
   K also clarified that C1 requires separate coherent reductions of the brain and emulator.
   Candidate brain boundaries and grains are empirical hypotheses that can first be tested
   in human brains; they are not fixed targets supplied before the investigation. Preserve
