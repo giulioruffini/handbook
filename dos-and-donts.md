@@ -120,6 +120,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   On November 4 (WP0215), while digesting the consolidated review, K restricted cuts for now
   to blatant repetition that bothers the reader. Record proposed larger reductions or moves
   without applying them; preserve explanations and state recurring distinctions fully once.
+  Later that day, K found that my revision had weakened the reporting-grain conjecture:
+  generic agent organization had replaced the specified system, coherent grain, and internally
+  used level of detail. He also found the abstract robotic after I replaced its connected prose
+  with a technical inventory. Preserve the operational criterion and the author's argumentative
+  transitions; edit his abstract locally rather than replacing its voice. Equations, labels,
+  citations, and word counts do not establish semantic preservation: audit each changed claim,
+  scope condition, and explanatory link against the author copy before reporting preservation.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
