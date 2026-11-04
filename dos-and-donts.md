@@ -142,6 +142,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   multiplicity of possible algorithms and programs; recovering the target law identifies
   a nonempty shared mathematical core despite it. Do not reduce this purpose to a taxonomy
   of programs or to agreements among emulators without their target.
+  Introduce the construction itself: observations and mechanistic constraints support a
+  target model, then choices of algorithm and program produce the emulator. What survives
+  that passage is a guiding question of the paper, not an isolated recovery exercise.
   K also clarified that C1 requires separate coherent reductions of the brain and emulator.
   Candidate brain boundaries and grains are empirical hypotheses that can first be tested
   in human brains; they are not fixed targets supplied before the investigation. Preserve
