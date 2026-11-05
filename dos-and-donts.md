@@ -2548,6 +2548,15 @@ formalize it in KTAIT before it ships, cite the declarations with `\ktait{}`, mo
 the commit that defines them, and register the version; `% ktait: none` is for definitions and
 limiting arguments, not for derivations that Lean can carry.
 
+On November 5, 2026 (WP0004), I uploaded a journal revision with six propositions marked
+`% ktait: none` because they were established algebraic constructions with paper proofs.
+K corrected this: every mathematical statement needs Lean coverage. Standardness and finite
+Python checks do not exempt a paper's mathematical assertions. Audit propositions, intermediate
+derivations, examples, and corollaries against exact Lean statements; name any uncovered
+literature theorem or hypothesis explicitly, and do not report complete verification while gaps remain.
+K clarified the scope that day: formalize all original claims and list cited external theorems
+as external dependencies; reconstructing those literature proofs is not required.
+
 ### 2026-09-23 — TN0484: explain in the user's own equations, and count each element once
 
 Discussing Kaiti's note that the QIF adds a "detector penalty" 1/ω_c² on top of access, my first
