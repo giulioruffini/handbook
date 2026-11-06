@@ -163,6 +163,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   detail in inputs, outputs, and implementing dynamics, not only sensory compression.
   State this as the reporting-grain conjecture; compressed representations do not by
   themselves establish that the dynamics producing them admit a sufficient reduction.
+  Later that day, K corrected the experience acronyms to RSE (reported SE), SES (SE
+  with a self-model), and RSES (their intersection). C1 concerns a human organization
+  with both self-modeling and internal reporting; abbreviated summaries must retain
+  both requirements without making self-models necessary for all reporting generally.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
