@@ -167,6 +167,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
   with a self-model), and RSES (their intersection). C1 concerns a human organization
   with both self-modeling and internal reporting; abbreviated summaries must retain
   both requirements without making self-models necessary for all reporting generally.
+  Expand RSES in the C1 prose and link the Venn figure; defining an acronym only
+  in a figure caption does not replace its introduction in the running text.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
