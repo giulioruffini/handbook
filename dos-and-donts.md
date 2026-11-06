@@ -190,6 +190,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   claims that require them.
 - Preserve the intended scientific argument. When K corrects an interpretation, revise that
   interpretation before polishing the wording. Explain a disagreement with reasons.
+  On November 6, 2026 (WP0004), I proposed extractor and rewrite-completeness work as
+  the next priority. K clarified that the first objective is the relation between Turing
+  universality and group/monoid computation; developing Yanofsky's hierarchy comes second.
+  Establish the effective computational representation and its converse first, with explicit
+  preparation, halting, readout, and reversibility assumptions. Do not substitute program
+  equivalence or a demand for a new theorem for that foundational objective; distinguish
+  cited universality results from the algebraic statements already proved in Lean.
   On November 2 (WP0215), K asked that the spring example name particle exchange,
   which preserves the retained state, rather than only translation symmetry. Distinguish
   label removal from the further closure supplied by momentum conservation; check that
