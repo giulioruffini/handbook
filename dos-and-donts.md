@@ -169,6 +169,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   both requirements without making self-models necessary for all reporting generally.
   Expand RSES in the C1 prose and link the Venn figure; defining an acronym only
   in a figure caption does not replace its introduction in the running text.
+  K then clarified that C1 identifies the resolution needed to study and emulate human RSES,
+  not merely an organization sufficient for it. Keep the grain as the subject: preserve the
+  distinctions required for the specified contents and operations, omit finer irrelevant detail,
+  and require corresponding coherent reductions of brain and emulator. Necessary and sufficient
+  concerns that preservation task, not a unique coarsest partition or generic capacity labels.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
