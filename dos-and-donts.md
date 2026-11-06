@@ -270,6 +270,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   and sound like a human scientist: direct and succinct, with connected reasoning.
   Remove repeated exposition; retain explanatory transitions and read revised paragraphs
   continuously. Do not replace explanations with compressed labels or audit language.
+  On November 6 (WP0215), K rejected the shortened Section 6 opening and body as
+  telegraphic and supplied connected opening paragraphs explaining the objections and
+  digital/analog comparison. Preserve explanatory relationships throughout the section;
+  topic labels and short factual sentences do not substitute for a connected argument.
   On November 1 (WP0215), K read my reference to S4.8 as a main-text section when
   discussing the thermostat in Section 4.3. Name both locations explicitly when proposing
   a move: main-text Section 4.3 and Supplementary Section S4.8. Do not rely on the S prefix
