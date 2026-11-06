@@ -3611,3 +3611,17 @@ sentences already make it. Practice: delete any clause whose only content is tha
 sentences will say something ("and they do different jobs", "two things follow", "this matters
 because"); if the sentences that follow do not carry the point on their own, fix them. Same
 family as "Do not enumerate for rhythm" and "State results, not intentions" in the prose rules.
+
+### 2026-11-06 — Kokoro circulation copy carried a blue review note
+
+The v0.10 circulation build of the Kokoro proposal, the copy meant for Óscar and Jakub, still
+showed the Summary sentence "Recruitment and clinical staffing remain subject to PSSJD's
+confirmation (OSCAR)" in blue, a reviewer flag K had added in v0.9. The `\circulation` switch
+dropped only the salary page, and I had reported the circulation PDF ready after checking page
+counts and overfull boxes, not the rendered colors. K: "there is blue stuff still in the
+circulation!" Fix: the note is wrapped in `\ifdefined\circulation\else ... \fi`, so the candidate
+build keeps it for K and the circulation build drops it. Practice: a circulation or submission
+copy carries no review markers of any kind (colored passages, reviewer tags, prompts to a named
+reader), and the check is on the rendered PDF, scanning text spans for colors outside the design
+palette, before the copy is reported ready. Same family as the October 4 rule above: a review
+edition with colored passages always sits beside a clean edition, and only the clean one travels.
