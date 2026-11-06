@@ -159,6 +159,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   C1 grain; biological necessity for any experience challenges H0 and needs a specified
   property and justification. Do not turn failure of one grain into rejection of C1 generally,
   or treat a hypothetical microtubule example as a position attributed to Seth.
+  On November 6, K clarified that C1 should explicitly concern dispensing with microscopic
+  detail in inputs, outputs, and implementing dynamics, not only sensory compression.
+  State this as the reporting-grain conjecture; compressed representations do not by
+  themselves establish that the dynamics producing them admit a sufficient reduction.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
