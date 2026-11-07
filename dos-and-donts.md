@@ -120,6 +120,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   next to the experiential-plurality statement without explaining their connection. A
   paragraph move must include a local transition that states the inferential link; adjacency
   alone does not tell the reader why the example belongs there.
+  Later that day, K clarified that the olo color experiment illustrates the importance
+  of structured receptor activation for qualia, not merely another intervention method.
+  Connect the pattern of cone activation to perceptual color relations and possible learned
+  representations; distinguish that proposed connection from a demonstrated equivalence.
   On October 31 (WP0215), after adding the requested model classes and first-person endpoint,
   K asked for another conclusion pass to remove repetition and improve flow. Integrate new
   scope into the argument once; shorten repeated result inventories instead of appending them.
