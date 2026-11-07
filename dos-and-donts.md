@@ -148,6 +148,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   limitations. Explain the positive information requirement and physical obstruction first;
   keep the computational theorem distinct from the physical premise, and do not collapse
   infinite-step proposals into infinite information stored in one finite-run state.
+  K then rejected the replacement as still unreadable for a standard Neuroscience of
+  Consciousness reader and requested a paragraph-by-paragraph Section 6 revision. Explain
+  the scientific issue in ordinary terms before using AIT vocabulary or formal conditions;
+  a passed terminology check does not establish that the intended reader can follow the argument.
   K then clarified the comparison that motivates the derivation: target system versus
   emulators matching behavior and selected internal measurements. Yanofsky exposes the
   multiplicity of possible algorithms and programs; recovering the target law identifies
