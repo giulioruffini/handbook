@@ -149,6 +149,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   law across numerical methods, the common algorithm within its implementations (Euler as
   the example), and further shared organization within program families. The recovery
   demonstrates the shared law; it is not merely an illustration of implementation diversity.
+  On November 7, K corrected Table 1 after I presented function agreement and the ODE
+  evolution as successive levels. With the state space, inputs, and clock fixed, the ODE
+  and its differentiable evolution describe the same target at the function level. Keep
+  that target separate from algorithm, program, and implementation; distinguish restricted
+  output observations by their retained variables rather than inventing another level.
   On November 7, K applied this point to IIT: different implementing or algorithmic
   organization can coexist with a shared mathematical core. State the conditional H1 reply
   explicitly; do not end with the differences alone or reduce IIT to its scalar Phi measure.
