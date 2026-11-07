@@ -141,6 +141,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   law across numerical methods, the common algorithm within its implementations (Euler as
   the example), and further shared organization within program families. The recovery
   demonstrates the shared law; it is not merely an illustration of implementation diversity.
+  On November 7, K applied this point to IIT: different implementing or algorithmic
+  organization can coexist with a shared mathematical core. State the conditional H1 reply
+  explicitly; do not end with the differences alone or reduce IIT to its scalar Phi measure.
   K then clarified the comparison that motivates the derivation: target system versus
   emulators matching behavior and selected internal measurements. Yanofsky exposes the
   multiplicity of possible algorithms and programs; recovering the target law identifies
