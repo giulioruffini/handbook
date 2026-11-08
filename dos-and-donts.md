@@ -309,6 +309,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   K specified that internal WP0048 is background, not a citable source for WP0215. He also
   asked to consolidate repeated supplementary pointers near section openings, preserving
   direct links for specific proofs or models.
+  On November 8, 2026, K confirmed a related rule: running text never names a BCOM working
+  paper by number ("WP0004 develops this hierarchy"). Describe the paper and cite it. A
+  WP may be cited once it will carry a preprint DOI by submission (WP0004 and WP0251 will);
+  the bare number stays in the bib note, never in the prose.
   He then rejected restating the reporting-preservation equations in the agent section:
   explain the preserved records, uses, and timing in words, retaining the formal version
   in the supplement. For incomplete closure, start from the agent and observers restricted
@@ -3653,3 +3657,13 @@ copy carries no review markers of any kind (colored passages, reviewer tags, pro
 reader), and the check is on the rendered PDF, scanning text spans for colors outside the design
 palette, before the copy is reported ready. Same family as the October 4 rule above: a review
 edition with colored passages always sits beside a clean edition, and only the clean one travels.
+
+### 2026-11-06 — A section number beats a content word when the two disagree
+
+K asked for a review of "Section 7" of WP0215, "checking what each objection adds." The
+objections section is numbered 6 in the build and Section 7 holds the tests, so I reviewed
+Section 6 on the strength of the word "objection" and reported on it. K: "My ask was about 7,
+sorry, just to review it." Practice: when a numbered reference and a descriptive word point to
+different sections, the number is what K has in front of him; review the numbered section and
+note the mismatch in one line, or ask one line before starting, never choose the other section
+on my own reading. Same family as the September 12 rule on answering the question asked.
