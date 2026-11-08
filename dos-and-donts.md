@@ -193,6 +193,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   both requirements without making self-models necessary for all reporting generally.
   Expand RSES in the C1 prose and link the Venn figure; defining an acronym only
   in a figure caption does not replace its introduction in the running text.
+  On November 8, K adopted A/AR/AS/ARS and corrected the loose phrase “agents with reports”:
+  AR means agents with internal reports; ARS combines internal reports and a self-model.
+  Keep the acronyms AR and ARS unchanged when spelling out this requirement.
   K then clarified that C1 identifies the resolution needed to study and emulate human RSES,
   not merely an organization sufficient for it. Keep the grain as the subject: preserve the
   distinctions required for the specified contents and operations, omit finer irrelevant detail,
