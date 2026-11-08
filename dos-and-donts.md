@@ -196,6 +196,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   On November 8, K adopted A/AR/AS/ARS and corrected the loose phrase “agents with reports”:
   AR means agents with internal reports; ARS combines internal reports and a self-model.
   Keep the acronyms AR and ARS unchanged when spelling out this requirement.
+  In the corrected November 8 package, self-model MAI compares realized program rules,
+  parameters, and bindings, with sensory values left as arguments. Do not infer shared program
+  organization from coincident runtime values such as temperature equaling a setpoint.
+  A no-self-model example needs a bound over every admissible modeling part and a predeclared
+  coding tolerance covering that bound; this does not remove state/history from H1 comparisons.
   K then clarified that C1 identifies the resolution needed to study and emulate human RSES,
   not merely an organization sufficient for it. Keep the grain as the subject: preserve the
   distinctions required for the specified contents and operations, omit finer irrelevant detail,
