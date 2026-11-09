@@ -139,6 +139,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   clearer than Section 4's revised opening. Put the actual problem in the manuscript,
   not only in the review report. Improve paragraph connections by replacing, reordering,
   or removing text where possible; a flow pass does not require adding transition sentences.
+  In the same pass, K found the conclusion's repeated “H1 … H2 …” declarations telegraphic.
+  Explain the hypotheses through their consequences, with labels as references; state each
+  premise once and keep the conditions for the digital conclusion together.
   On November 4 (WP0215), while digesting the consolidated review, K restricted cuts for now
   to blatant repetition that bothers the reader. Record proposed larger reductions or moves
   without applying them; preserve explanations and state recurring distinctions fully once.
