@@ -135,6 +135,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   scope into the argument once; shorten repeated result inventories instead of appending them.
   K then clarified that readability and paragraph flow take priority over a supplied word
   budget: remove repetition and disconnects; retain doubtful cuts or move them with context.
+  On November 9 (WP0215), K found that the questions in my editorial explanation were
+  clearer than Section 4's revised opening. Put the actual problem in the manuscript,
+  not only in the review report. Improve paragraph connections by replacing, reordering,
+  or removing text where possible; a flow pass does not require adding transition sentences.
   On November 4 (WP0215), while digesting the consolidated review, K restricted cuts for now
   to blatant repetition that bothers the reader. Record proposed larger reductions or moves
   without applying them; preserve explanations and state recurring distinctions fully once.
