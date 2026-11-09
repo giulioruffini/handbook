@@ -149,6 +149,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   In the same pass, K found the conclusion's repeated “H1 … H2 …” declarations telegraphic.
   Explain the hypotheses through their consequences, with labels as references; state each
   premise once and keep the conditions for the digital conclusion together.
+  Later in Section 6.2, K disliked the bold run-in headings. He approved keeping one
+  subsection, removing both headings, and expressing the feature-versus-any-experience
+  distinction in prose. Keep this local formatting preference distinct from a request
+  to split or renumber the paper.
   On November 4 (WP0215), while digesting the consolidated review, K restricted cuts for now
   to blatant repetition that bothers the reader. Record proposed larger reductions or moves
   without applying them; preserve explanations and state recurring distinctions fully once.
