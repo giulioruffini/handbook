@@ -3704,3 +3704,13 @@ sorry, just to review it." Practice: when a numbered reference and a descriptive
 different sections, the number is what K has in front of him; review the numbered section and
 note the mismatch in one line, or ask one line before starting, never choose the other section
 on my own reading. Same family as the September 12 rule on answering the question asked.
+
+### 2026-11-09 — EEG QC: retain interpretive labels with a report disclaimer
+
+In the ne-eng-qc-eeg review, I replaced interpretive labels with observational names.
+K preferred Klaus's labels, including “open input,” “common-mode dominated (CMS/DRL),”
+“never connected,” “usable,” and SIGNAL / DRIFT/SAT / OPEN. Keep those names for this
+tool, with a disclaimer on every report explaining the intended common-cause reading,
+that it is not a verified diagnosis, that thresholds are provisional, and that
+physiological EEG is unassessed. Preserve the numerical fixes and schema-2 export
+keys; do not repeat the terminology replacement in a later audit.
