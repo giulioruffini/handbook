@@ -3735,3 +3735,11 @@ patching and BCI references, including his B2B chapter, and supplied a neuropros
 review. Practice: name demonstrated circuit restoration or augmentation first, then
 describe larger-scale extensions at their actual evidential status. Check K’s relevant
 work before adding a broad qualification.
+
+### 2026-11-10 — Test ordinary TeXShop typesetting as well as the scripted build
+
+WP0215’s scripted build passed because it added a compatibility-package folder to
+`TEXINPUTS`; K’s direct TeXShop build could not find that package and failed.
+Practice: place required compatibility files where both workflows find them, and
+test direct XeLaTeX with custom search-path variables unset before delivering.
+A successful custom build does not establish that ordinary typesetting works.
