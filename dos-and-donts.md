@@ -2691,6 +2691,15 @@ with internal recurrence live and other populations' inputs controlled; do not c
 the same gain again in the field coefficient. Check the original transfer section
 before treating bare and internally settled curves as interchangeable.
 
+In the WP0258 figure review that evening, K asked for explicit gain factors and
+gain maps versus coupling and tonic input or heterogeneity, following Klaus's
+derivation. The previous figures emphasized invariance and fitting diagnostics
+without making the desired correction factor prominent. Lead with the normalized
+population-to-reference response and label gain on the sigmoid fits; use coordinate
+and double-counting qualifications to define that factor, not to displace the
+calibration question. Keep the fitted population slope and any correction to a fixed
+reference sigmoid as two representations of the same response.
+
 On October 1, I made a proposed detector-discrimination experiment the next step after
 K's conversation with Nir Grossman. K corrected the research state: explain the candidate
 access route through fast nanostructures; determine which single-neuron demodulation
