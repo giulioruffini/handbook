@@ -67,6 +67,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Yanofsky hierarchy with a numerical example. K wanted the hierarchy retained. Keep the
   general diagram and add the concrete shared-evolution illustration separately; a request
   to improve content and appearance does not authorize dropping its conceptual role.
+  On November 10 (WP0215), K clarified that figure-order repairs must follow the discourse,
+  not merely add earlier citations to make numbering sequential. Place each diagram where
+  its objects have been introduced and its role in the argument is explained; move the
+  figure when needed, then check first mentions and actual PDF placement together.
   On November 2 (WP0215 Figure 1), K found the separate C1 panel too large and misplaced.
   Put the compact C1 case inside an enlarged Structured Experience box, so the nesting
   conveys a special case of SE rather than a separate branch or a further stage.
