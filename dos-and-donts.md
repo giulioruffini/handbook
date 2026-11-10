@@ -3718,3 +3718,12 @@ tool, with a disclaimer on every report explaining the intended common-cause rea
 that it is not a verified diagnosis, that thresholds are provisional, and that
 physiological EEG is unassessed. Preserve the numerical fixes and schema-2 export
 keys; do not repeat the terminology replacement in a later audit.
+
+### 2026-11-10 — Qualify neural prosthesis prospects at the demonstrated scale
+
+In WP0215 I called hemisphere replacement and addition “speculative extensions”
+without grounding the passage in the neural repair literature. K asked for brain
+patching and BCI references, including his B2B chapter, and supplied a neuroprosthetics
+review. Practice: name demonstrated circuit restoration or augmentation first, then
+describe larger-scale extensions at their actual evidential status. Check K’s relevant
+work before adding a broad qualification.
