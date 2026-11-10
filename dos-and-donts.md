@@ -2664,6 +2664,13 @@ equations, then show the ratio, then give the numbers; do not introduce a new sy
 physical meaning is stated; and never call a bounded change of coefficient a "penalty" or a roll-off
 a "detector property" without saying which time constant produces it.
 
+On November 10, while discussing cellular field coupling versus population response,
+K asked to restore the physical units in MPR using his NMM2 paper's Appendix O
+(version 7, pp. 48–49). Start calibration arguments with those dimensional equations:
+distinguish voltage susceptibility from equivalent current per field, retain capacitance
+and synaptic-charge units, then give the normalization. Do not let the repeated symbol
+lambda imply that a measured mV/(V/m) coefficient is an MPR current-input coefficient.
+
 On October 1, I made a proposed detector-discrimination experiment the next step after
 K's conversation with Nir Grossman. K corrected the research state: explain the candidate
 access route through fast nanostructures; determine which single-neuron demodulation
