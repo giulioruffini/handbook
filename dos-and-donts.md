@@ -2671,6 +2671,15 @@ distinguish voltage susceptibility from equivalent current per field, retain cap
 and synaptic-charge units, then give the normalization. Do not let the repeated symbol
 lambda imply that a measured mV/(V/m) coefficient is an MPR current-input coefficient.
 
+Later that day, K clarified that the JR transfer is intended to represent an internally
+recurrent population after it settles, as discussed in Rosetta Stone. Adopt that
+coarse-graining explicitly: distinguish internal population gain from the explicit
+connections between JR populations. A negative outer JR DC loop does not rule out
+positive gain already contained in each sigmoid. Calibrate that effective transfer
+with internal recurrence live and other populations' inputs controlled; do not count
+the same gain again in the field coefficient. Check the original transfer section
+before treating bare and internally settled curves as interchangeable.
+
 On October 1, I made a proposed detector-discrimination experiment the next step after
 K's conversation with Nir Grossman. K corrected the research state: explain the candidate
 access route through fast nanostructures; determine which single-neuron demodulation
