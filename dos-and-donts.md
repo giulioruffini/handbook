@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On November 10, 2026 (TN0484), K asked for a simpler, shorter set of slides after the thirteen-slide main-results deck. For this overview, use about six slides led by figures, combine the title with the scientific framing, and omit tables, derivations, and backups. Retain the detailed deck separately; keep each result’s necessary conditions beside its figure.
+
 - On November 9, 2026 (NE-product-robustness), K asked to distinguish major operational problems from lower-impact issues, noting that customers may have adapted to disconnections and crashes while asking not to bias the data. Assess loss of usable sessions and workaround burden separately from potential harm and complaint frequency. Treat habituation as a hypothesis to test; do not increase counts or downgrade known issues because users tolerate them. Preserve counterexamples and keep undocumented impact unassessed.
 
 - On November 1, 2026, K asked to suppress routine shell/build output while revising WP0215 so the conversation stays on the scientific substance. Keep command logs in files, avoid echoing them into the chat, and report wording decisions, material failures, and concise verification results.
