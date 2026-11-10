@@ -557,6 +557,13 @@ The practice is packaged as the `paper-storyline` skill
 (`~/.claude/skills/paper-storyline/`, October 3): abstract in one source file, section map in
 LaTeX, PDF under `build/storyline/`, decisions for K listed, nothing cut before approval.
 
+On November 10 (WP0258), K redirected an essay-like section plan to a JNE paper and
+supplied `Downloads/add-to-Substack-post.pdf` ("How I Write Papers"). Use the target
+journal's article structure from the outline stage: Introduction, Theory when needed,
+Methods, Results, Discussion, Conclusion. Settle the hierarchy and figure claims before
+drafting the main prose; each Results subsection has a question, evidence, and conclusion.
+Calculations and figure preparation can proceed while the outline is reviewed.
+
 On October 6, K found the TN0484 abstract unclear and defensive after a Landau cycle: it
 listed eleven results of equal weight, never said what the paper builds, and stacked caveats
 and rebuttals ("candidate" twice, "membrane attenuation enters once", control sentences framed
