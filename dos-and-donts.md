@@ -802,6 +802,12 @@ setup and binding, stopping before costly computation when necessary. Preserve
 the failed attempt and its cost; a passing component audit does not certify an
 interface it replaced with a mock.
 
+On November 9, K required the shared EEG QC extraction to include numerical
+regressions, one-channel and missing-accelerometer cases, incomplete metadata,
+non-500 Hz recordings, NEDF decoding, push-triggered CI, and exact NIC tool
+compatibility. Test the complete tool response as well as the metric function;
+array-level agreement alone does not establish reader and adapter compatibility.
+
 On October 12, K closed further TN0486 hemodynamic refinement: the operative property is
 that BOLD is a low-pass observation, and the work should advance to coupled nodes (relayed
 by Klaus). Close the accepted numerical checkpoint and retain approximate linearity within
