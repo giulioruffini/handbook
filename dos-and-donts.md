@@ -2714,6 +2714,12 @@ did not explain whether to change lambda, sigmoid steepness, ceiling, or synapti
 Show the exact input placement and compare at the same baseline. A gain applied only
 to synaptic drive bypasses an added field; a common sigmoid gain affects both. Check
 the original JR calibration rather than assuming its sigmoid absorbs omitted recurrence.
+Later, K asked for measured single-synapse potentials and said the goal of my proposed
+partial-input comparison was unclear. First compare measured somatic EPSPs with the
+normalized JR impulse response (whose peak is A/e, not A), distinguish single contacts
+from multi-contact connections, and state how a proposed comparison would constrain
+field calibration. Keep the partial-afferent comparison optional until its purpose is
+agreed; do not let it displace the common-input calculation.
 On November 11, K narrowed the argument to a homogeneous cellular perturbation,
 its QIF-to-NMM2 reduction and recurrent gain, and calibration of field coupling in
 a JR-type sigmoid. Establish that common-input field case before extending claims
