@@ -3825,3 +3825,13 @@ WP0215’s scripted build passed because it added a compatibility-package folder
 Practice: place required compatibility files where both workflows find them, and
 test direct XeLaTeX with custom search-path variables unset before delivering.
 A successful custom build does not establish that ordinary typesetting works.
+
+
+### 2026-11-11 — Test the published control, not only its output
+
+K reported that the Starlab Print button did nothing after I had verified the
+headless PDF layout. Safari's embedded artifact reproduced the failure. Practice:
+click new controls in the actual published host before claiming they work; keep
+layout/export checks separate from interaction checks. Reuse Calliope's working
+PDF-download pattern, including delayed blob cleanup for Safari, and show visible
+feedback instead of a silent print call.
