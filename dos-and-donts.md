@@ -3839,3 +3839,9 @@ PDF-download pattern, but verify that the destination host permits it: the Starl
 artifact host rejected blob downloads too. A print dialog and page count do not
 establish success; inspect the saved PDF's contents before recommending that route.
 Show visible feedback instead of a silent print call.
+
+Later that evening, K asked Klaus to redesign the Starlab PDF because he found
+the first layout ugly, and to add a P&L page. Practice: treat page-count and
+overflow checks as technical validation, not design approval. Review typography,
+chart labels and table hierarchy in the rendered PDF before delivery; retain a
+separate P&L page when the summary cannot carry the financial detail.
