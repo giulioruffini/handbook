@@ -3832,6 +3832,8 @@ A successful custom build does not establish that ordinary typesetting works.
 K reported that the Starlab Print button did nothing after I had verified the
 headless PDF layout. Safari's embedded artifact reproduced the failure. Practice:
 click new controls in the actual published host before claiming they work; keep
-layout/export checks separate from interaction checks. Reuse Calliope's working
-PDF-download pattern, including delayed blob cleanup for Safari, and show visible
-feedback instead of a silent print call.
+layout/export checks separate from interaction checks. Inspect Calliope's working
+PDF-download pattern, but verify that the destination host permits it: the Starlab
+artifact host rejected blob downloads too. A print dialog and page count do not
+establish success; inspect the saved PDF's contents before recommending that route.
+Show visible feedback instead of a silent print call.
