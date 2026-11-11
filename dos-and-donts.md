@@ -2704,6 +2704,11 @@ population-to-reference response and label gain on the sigmoid fits; use coordin
 and double-counting qualifications to define that factor, not to displace the
 calibration question. Keep the fitted population slope and any correction to a fixed
 reference sigmoid as two representations of the same response.
+On November 11, K found the abstract's validation-error passage underwhelming and
+asked to state the result as an effective increase of the neuronal coupling coefficient.
+Lead with that input-equivalent gain and then give its tested range. Keep the matched
+reference and weak-field scope at the claim; an infinitesimal gain is not a finite-field
+equivalence, and a slow two-tone result is not a kilohertz TI calibration.
 On November 11, K narrowed the argument to a homogeneous cellular perturbation,
 its QIF-to-NMM2 reduction and recurrent gain, and calibration of field coupling in
 a JR-type sigmoid. Establish that common-input field case before extending claims
