@@ -148,6 +148,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   scope into the argument once; shorten repeated result inventories instead of appending them.
   K then clarified that readability and paragraph flow take priority over a supplied word
   budget: remove repetition and disconnects; retain doubtful cuts or move them with context.
+  On November 11 (SYNERGIA CA), K asked how to word NE's conditional commercial rights
+  in the joint pipeline; I drafted a four-part clause with notice periods and a lapse
+  term. K corrected this: such terms are negotiated outside the CA. In a framework
+  agreement, state the allocation and defer the conditions to the separate agreement
+  in one sentence; offer detailed terms only as input to that later negotiation.
   On November 9 (WP0215), K found that the questions in my editorial explanation were
   clearer than Section 4's revised opening. Put the actual problem in the manuscript,
   not only in the review report. Improve paragraph connections by replacing, reordering,
