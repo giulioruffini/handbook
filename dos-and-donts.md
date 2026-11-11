@@ -2699,6 +2699,12 @@ population-to-reference response and label gain on the sigmoid fits; use coordin
 and double-counting qualifications to define that factor, not to displace the
 calibration question. Keep the fitted population slope and any correction to a fixed
 reference sigmoid as two representations of the same response.
+On November 11, K narrowed the argument to a homogeneous cellular perturbation,
+its QIF-to-NMM2 reduction and recurrent gain, and calibration of field coupling in
+a JR-type sigmoid. Establish that common-input field case before extending claims
+to anatomical afferents. Distinguish a uniform field from uniform cellular forcing;
+do not equate shared timing with equal cellular loading or assume all afferents
+fail the common-input approximation.
 
 On October 1, I made a proposed detector-discrimination experiment the next step after
 K's conversation with Nir Grossman. K corrected the research state: explain the candidate
