@@ -3348,6 +3348,10 @@ itself; a summary is a pointer, not a source.
   after repeated copy approvals interrupted manuscript review. Treat routine
   Downloads writes as standing authorization; configure narrow persistent access
   where supported, and distinguish saved settings from an active session policy.
+  On November 11, I built a zip for K to email (TN0439 review for Alex and Borja)
+  and pointed him to the session scratchpad under /private/tmp, which Gmail's file
+  picker cannot reach easily. The rule covers every file K is meant to attach or
+  upload, zips included: put it in Downloads the first time and give that path.
 
 - In funder-facing text, do not cite internal BCOM working papers or lay out the
   internals of a prototype. On October 13, 2026, the Kokoro–Norrsken proposal
