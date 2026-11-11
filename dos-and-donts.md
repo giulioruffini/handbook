@@ -3514,6 +3514,13 @@ asking for broad management interpretation and operational actions. Practice: as
 for financial interpretation—variance drivers, profitability, cash outlook, forecast
 assumptions, financial risks, and recommended financial actions—within his CFO role.
 
+On November 11, K challenged “unpulled” and asked whether cash-flow data existed.
+Practice: state the latest actual period and the forecast period separately. Say
+“we have not imported the available files” and name our missed import explicitly;
+keep that failure separate from inputs the contributor has not supplied. Avoid
+pipeline jargon in meeting briefs. September cash actuals and October projections
+do not constitute an October cash close.
+
 On October 30 (NE Wi-Fi), I gave Joan a broad benchmark, instrumentation and acceptance
 program as the next task. K corrected this: the team has limited size and skills and
 needs something simpler to do; the product should not disconnect during normal use.
