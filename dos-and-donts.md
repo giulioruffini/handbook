@@ -2709,6 +2709,11 @@ asked to state the result as an effective increase of the neuronal coupling coef
 Lead with that input-equivalent gain and then give its tested range. Keep the matched
 reference and weak-field scope at the claim; an infinitesimal gain is not a finite-field
 equivalence, and a slow two-tone result is not a kilohertz TI calibration.
+Later that day, K stopped the abstract revision because “gain in the fitted transfer”
+did not explain whether to change lambda, sigmoid steepness, ceiling, or synaptic gains.
+Show the exact input placement and compare at the same baseline. A gain applied only
+to synaptic drive bypasses an added field; a common sigmoid gain affects both. Check
+the original JR calibration rather than assuming its sigmoid absorbs omitted recurrence.
 On November 11, K narrowed the argument to a homogeneous cellular perturbation,
 its QIF-to-NMM2 reduction and recurrent gain, and calibration of field coupling in
 a JR-type sigmoid. Establish that common-input field case before extending claims
