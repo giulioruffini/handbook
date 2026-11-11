@@ -3535,6 +3535,10 @@ Practice: state the latest actual period and the forecast period separately. Say
 keep that failure separate from inputs the contributor has not supplied. Avoid
 pipeline jargon in meeting briefs. September cash actuals and October projections
 do not constitute an October cash close.
+Later that day, Klaus found Anna’s October HR sheet in Drive, created November 4;
+our desktop shortcut had shown only September, and I had incorrectly called the
+report undelivered. Verify cloud metadata or the source system before attributing
+a missing local file to its owner. A stale mount is our access/import failure.
 
 On October 30 (NE Wi-Fi), I gave Joan a broad benchmark, instrumentation and acceptance
 program as the next task. K corrected this: the team has limited size and skills and
