@@ -152,7 +152,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
   K asked for another conclusion pass to remove repetition and improve flow. Integrate new
   scope into the argument once; shorten repeated result inventories instead of appending them.
   K then clarified that readability and paragraph flow take priority over a supplied word
-  budget: remove repetition and disconnects; retain doubtful cuts or move them with context.
+  budget: remove repetition and disconnects; retain doubtful cuts or move them with context. On November 12, after the full-paper length review, K confirmed that protecting the paper takes priority and that he can argue for a longer article. Treat savings as an outcome, not a quota; propose larger scope changes separately from removal of duplication.
   On November 11 (SYNERGIA CA), K asked how to word NE's conditional commercial rights
   in the joint pipeline; I drafted a four-part clause with notice periods and a lapse
   term. K corrected this: such terms are negotiated outside the CA. In a framework
