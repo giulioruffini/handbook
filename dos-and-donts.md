@@ -188,6 +188,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   law across numerical methods, the common algorithm within its implementations (Euler as
   the example), and further shared organization within program families. The recovery
   demonstrates the shared law; it is not merely an illustration of implementation diversity.
+  On November 12, K objected that the canonical emulator-structure result was buried
+  in a passing main-text sentence and asked for its headline. Give the shared-structure
+  conclusion an explicit role in the main argument: exact emulators share a unique minimal
+  dynamical structure relative to fixed content and admitted inputs/interventions, on the
+  reachable comparison domain. Distinguish this from uniqueness of the full implementation;
+  state the result and its experiential relevance without claiming new mathematics.
   On November 7, K corrected Table 1 after I presented function agreement and the ODE
   evolution as successive levels. With the state space, inputs, and clock fixed, the ODE
   and its differentiable evolution describe the same target at the function level. Keep
