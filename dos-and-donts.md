@@ -2020,6 +2020,12 @@ symmetry papers and Anselmi--Poggio to representational convergence. State that 
 the technical limits. Distinguish learned symmetry from architectural constraints and invariance
 from equivariance; use LieGG as an extraction example, not as proof of universal convergence.
 
+On November 12, K clarified that the world-invariance argument behind “an agent is a
+semigroup with a symmetry core” comes from his earlier modeling and compression papers.
+Read and state that argument before qualifying the semigroup extension. Separate the
+prior motivation for world symmetries from the new algebraic claims about writes, local
+groups, tracking, and emulation; do not present the connection as an unrelated premise.
+
 K then found WP0231's revised abstract unsatisfactory and requested revisions to all the related
 abstracts. The synthesis had become a list of technical topics, with its experiential motivation
 at the end. Practice: read each abstract as a standalone argument, beginning with its scientific
