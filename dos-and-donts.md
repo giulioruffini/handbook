@@ -2643,6 +2643,12 @@ inventory, then check the paper's pin before calling a result missing. Compare t
 actual statement: quotient-label conservation supplies neither an effective code
 nor a physical energy law, whatever the declaration's historical name suggests.
 
+On November 12, K pointed out that WP0215's proposed coarsest-reduction theorem and its
+monotonicity corollaries were already proved for WP0004. I had searched the paper's older
+pin and added duplicate proofs. Before adding a formalization, search the companion
+papers and relevant KTAIT branches as well as the current pin. Map claims to existing
+declarations first; import compatible modules and add only missing specializations.
+
 ### 2026-09-20 — Punctuation before displayed equations
 
 After the WP0203 v32 prose pass, K said he does not like a colon before an equation and prefers a
