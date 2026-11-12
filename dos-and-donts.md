@@ -194,6 +194,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   dynamical structure relative to fixed content and admitted inputs/interventions, on the
   reachable comparison domain. Distinguish this from uniqueness of the full implementation;
   state the result and its experiential relevance without claiming new mathematics.
+  K then pointed out that the fixed three-contribution list and abstract lagged behind
+  the results. When the argument changes, update the abstract and Introduction together;
+  do not append a result while leaving the paper’s stated contribution unchanged.
   On November 7, K corrected Table 1 after I presented function agreement and the ODE
   evolution as successive levels. With the state space, inputs, and clock fixed, the ODE
   and its differentiable evolution describe the same target at the function level. Keep
