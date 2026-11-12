@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On November 12, 2026 (WP0004/WP0215), K corrected the chronology of the tracking argument: Structured Dynamics was posted as a bioRxiv preprint in December 2023 before its January 2025 journal publication. When positioning earlier work, check the original version and public posting date, retain changes in authorship and mathematical setting, and do not use the journal date as the first public date.
+
 - On November 11, 2026 (starlab-dashboard), K called the printed Finance and Delivery reviews for David and Aureli ugly and missed the P&L. The first version met every check (two A4 pages, 11 pt, numbers as text) and was still a wall of uniform text with a thumbnail chart. For a printed management page, design it as a page: headline tiles, real tables with a comparison column, a labeled chart at readable size, provenance in a small line, and the P&L as its own page. Render the PDF and look at it before calling it done; passing layout assertions is not a design review.
 
 - On November 10, 2026 (TN0484), K asked for a simpler, shorter set of slides after the thirteen-slide main-results deck. For this overview, use about six slides led by figures, combine the title with the scientific framing, and omit tables, derivations, and backups. Retain the detailed deck separately; keep each result’s necessary conditions beside its figure.
