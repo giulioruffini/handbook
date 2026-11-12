@@ -197,6 +197,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   K then pointed out that the fixed three-contribution list and abstract lagged behind
   the results. When the argument changes, update the abstract and Introduction together;
   do not append a result while leaving the paper’s stated contribution unchanged.
+  K then found “feature” ambiguous between experience and system or mathematical properties,
+  beginning in the abstract. Name an experiential feature at its first occurrence and after
+  a change of context; use property, relation, operation, or retained content for the
+  mathematical object as appropriate. Keep technical image features explicitly qualified.
+  Use “the feature” only with a clear local antecedent; mathematical preservation and its
+  proposed experiential interpretation must remain distinguishable in the prose.
   On November 7, K corrected Table 1 after I presented function agreement and the ODE
   evolution as successive levels. With the state space, inputs, and clock fixed, the ODE
   and its differentiable evolution describe the same target at the function level. Keep
