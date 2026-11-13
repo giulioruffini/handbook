@@ -279,6 +279,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   distinctions required for the specified contents and operations, omit finer irrelevant detail,
   and require corresponding coherent reductions of brain and emulator. Necessary and sufficient
   concerns that preservation task, not a unique coarsest partition or generic capacity labels.
+  On November 13, K repeated this correction after my shortened Section 2.3 proposal
+  made the candidate organization the subject and omitted its required resolution. Read
+  the whole subsection before shortening; name the candidate human-brain coarse-graining
+  and the level of detail needed to retain the agent contents, operations, and responses.
   When the reduction is substantial, report losses from the main text separately from deletions
   across both documents, and check explanatory links as well as equations and citations.
   In the subsequent notation pass, K endorsed defining each safeguard once and repeating it only
