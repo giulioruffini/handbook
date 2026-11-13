@@ -144,6 +144,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
   next to the experiential-plurality statement without explaining their connection. A
   paragraph move must include a local transition that states the inferential link; adjacency
   alone does not tell the reader why the example belongs there.
+  On November 13 (WP0215), K found the tracking-agent result in the Introduction unintelligible before the agent had been introduced. Give a brief orientation or referenced diagram before a specialized case; keep the later full definition and distinguish the restricted tracking model from the complete agent architecture.
   Later that day, K clarified that the olo color experiment illustrates the importance
   of structured receptor activation for qualia, not merely another intervention method.
   Connect the pattern of cone activation to perceptual color relations and possible learned
