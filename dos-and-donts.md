@@ -39,6 +39,14 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
+  On November 13, 2026 (WP0215), K answered a wording proposal on inputs versus interventions
+  with a placement remark ("Sect 3.4 ... that's where it should go"). I took it as approval,
+  moved the definition to another section, replaced the existing sentence, and changed two
+  dependent passages; K then pointed out that the existing definition already subsumes
+  inputs. A remark about placement is not an instruction to edit: reread the passage K
+  names, reconcile the proposal with the text already there, and wait for an explicit
+  request. In the same turn I ran latexmk with the wrong engine, which deleted the tracked
+  PDF until restored; use the project's build script (`build_author_copies.py`).
 - When K edits a manuscript directly, identify the actual edited file from saved changes,
   not from the canonical-path convention or a matching paragraph. On October 25 (WP0215),
   K was editing the generated journal `.tex` while the canonical BCOM source stayed unchanged.
