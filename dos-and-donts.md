@@ -45,7 +45,14 @@ K's current instructions take precedence; keep scientific corrections tied to th
   dependent passages; K then pointed out that the existing definition already subsumes
   inputs. A remark about placement is not an instruction to edit: reread the passage K
   names, reconcile the proposal with the text already there, and wait for an explicit
-  request. In the same turn I ran latexmk with the wrong engine, which deleted the tracked
+  request. Later that day K corrected my reading of H1: I had defended it as a one-direction
+  (sufficiency) hypothesis, following wording introduced on November 8. H1 states a
+  one-to-one correspondence between an experiential feature and its mathematical
+  organization up to isomorphism: the quale of red occurs only with a specific realized,
+  active structure, and wherever that structure is realized. Write H1 as two-directional;
+  sufficiency-only applies to a candidate organization carrying surplus relations. C1 is a
+  separate conjecture about an accessible grain for reported human experience and must not
+  be described as H1's necessity half. In the same turn I ran latexmk with the wrong engine, which deleted the tracked
   PDF until restored; use the project's build script (`build_author_copies.py`).
 - When K edits a manuscript directly, identify the actual edited file from saved changes,
   not from the canonical-path convention or a matching paragraph. On October 25 (WP0215),
