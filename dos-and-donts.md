@@ -2169,6 +2169,7 @@ compiled-code extraction and validation task. K clarified that the role is expla
 the reduction and dynamical analyses already exist. Practice: reuse and cite the established
 result, distinguish it from the paper’s existing program-recovery demonstration, and propose
 new computation only for a named unanswered question whose value justifies the work.
+On November 13, K deliberately removed “instantaneous synapses” from a list of closure conditions. I restored it because the displayed pair uses Jr, but that wording revived his objection about exact closure with second-order synapses. Separate the instantaneous two-variable example from closure of the larger rate–voltage–synapse system; do not reinstate disputed wording while K is choosing its replacement.
 K then corrected the Section 2.2 order: the spring example should introduce closed
 reductions and a failed average before NMM2 supplies the more detailed neural example.
 Preserve a useful simple example at the point of definition; add the complex example
