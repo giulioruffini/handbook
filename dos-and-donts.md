@@ -3892,3 +3892,13 @@ the first layout ugly, and to add a P&L page. Practice: treat page-count and
 overflow checks as technical validation, not design approval. Review typography,
 chart labels and table hierarchy in the rendered PDF before delivery; retain a
 separate P&L page when the summary cannot carry the financial detail.
+
+
+### 2026-11-13 — Open the named balance-sheet document
+
+K asked to open the latest balance after I had identified both a standalone
+Balance Sheet workbook and an accounting tab inside the Reporting workbook.
+I opened the accounting tab; K corrected me with “Balance sheet.” Practice:
+when a named standalone document is available, open that document unless K
+explicitly requests the supporting accounting worksheet. State its date or
+incompleteness separately rather than substituting another file.
