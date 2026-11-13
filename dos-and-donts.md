@@ -52,7 +52,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   active structure, and wherever that structure is realized. Write H1 as two-directional;
   sufficiency-only applies to a candidate organization carrying surplus relations. C1 is a
   separate conjecture about an accessible grain for reported human experience and must not
-  be described as H1's necessity half. In the same turn I ran latexmk with the wrong engine, which deleted the tracked
+  be described as H1's necessity half. The coarsest-quotient theorem is conditional on declared
+  content and all admitted input responses; it does not establish the experiential
+  assignment or supply its necessity direction. In the same turn I ran latexmk with the wrong engine, which deleted the tracked
   PDF until restored; use the project's build script (`build_author_copies.py`).
 - When K edits a manuscript directly, identify the actual edited file from saved changes,
   not from the canonical-path convention or a matching paragraph. On October 25 (WP0215),
