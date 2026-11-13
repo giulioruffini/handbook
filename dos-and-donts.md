@@ -54,7 +54,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   separate conjecture about an accessible grain for reported human experience and must not
   be described as H1's necessity half. The coarsest-quotient theorem is conditional on declared
   content and all admitted input responses; it does not establish the experiential
-  assignment or supply its necessity direction. In the same turn I ran latexmk with the wrong engine, which deleted the tracked
+  assignment or supply its necessity direction. K also emphasized that self-applied
+  experiments can probe the experiential correspondence: the investigator observes
+  experience directly while independently constraining the candidate organization.
+  Do not turn limits of report-based discrimination into a claim that this equivalence
+  cannot be tested; limit such claims to protocols with indistinguishable evidence.
+  In the same turn I ran latexmk with the wrong engine, which deleted the tracked
   PDF until restored; use the project's build script (`build_author_copies.py`).
 - When K edits a manuscript directly, identify the actual edited file from saved changes,
   not from the canonical-path convention or a matching paragraph. On October 25 (WP0215),
