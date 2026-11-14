@@ -39,6 +39,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
+  On November 14 (WP0215), after discussing one abstract passage, K asked for a final
+  revision; I returned only that passage although the active request was the full abstract.
+  Carry the broader deliverable through local wording exchanges; a local focus does not
+  replace the requested scope.
   On November 13, 2026 (WP0215), K answered a wording proposal on inputs versus interventions
   with a placement remark ("Sect 3.4 ... that's where it should go"). I took it as approval,
   moved the definition to another section, replaced the existing sentence, and changed two
