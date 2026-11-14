@@ -1012,6 +1012,20 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-14 — Read text as its first reader before it enters the paper
+
+On K's "do this" I applied Kaiti's replacement for WP0215 Section 7.4. Its paragraph
+opened "IIT's three counters…" and cited "[Fig. 8]". K: "This totally out of the
+blue!", "What three counters? C'mon", "Fig 8? In what paper? C'mon", then "Not your
+fault, Kaiti said it... but I need you sharp". The example had been discussed only in
+the session, never in the paper; with superscript numeric citations a bracketed figure
+number reads as the paper's own figure; and "the retained update action" was a term
+used nowhere else in the article. Practice: before any text enters a manuscript,
+whoever drafted it, read it as someone who has seen only the manuscript. Every
+example, name, and term must be introduced there, and a figure or section of a cited
+work is written "their Fig. N". Applying a peer's wording on K's instruction does not
+remove the duty to review it.
+
 ### 2026-11-14 — A paper's position is in its hypotheses, not in its main theorem
 
 Comparing WP0215 with IIT, I told K that "our criterion sits at" the level of the
