@@ -43,6 +43,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   revision; I returned only that passage although the active request was the full abstract.
   Carry the broader deliverable through local wording exchanges; a local focus does not
   replace the requested scope.
+  Later that day K objected when I removed his question linking H1 to C1 to fit 250
+  words, and explicitly set that limit aside. Preserve the argumentative transition;
+  in this revision, prioritize the abstract’s meaning and flow over its word count.
   On November 13, 2026 (WP0215), K answered a wording proposal on inputs versus interventions
   with a placement remark ("Sect 3.4 ... that's where it should go"). I took it as approval,
   moved the definition to another section, replaced the existing sentence, and changed two
