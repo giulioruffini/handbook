@@ -125,6 +125,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   He then fixed Figure 1b's vocabulary: Input/Output for ordinary channels, Intervention/Measurement
   for internal access (drop “direct”), and experiment for the complete setup. Keep applied protocols
   separate from readouts; selected content includes the declared outputs and measurements.
+  In the Section 7.4 revision, K found “asks whether” too weak for the earlier KT proposal
+  linking short, encompassing models to tightly interconnected causal structures. State that
+  proposal positively and explain the reuse of structure across data streams; distinguish it
+  from a proved relation between description length and IIT's integrated information. When
+  comparing KT with IIT, describe IIT's explicit choices of causal structure, grain, and
+  exclusion rules, including its own macro descriptions, rather than reducing it to a scalar.
   On October 27 (WP0215), I interpreted a request to revise Figure 2 as replacing its general
   Yanofsky hierarchy with a numerical example. K wanted the hierarchy retained. Keep the
   general diagram and add the concrete shared-evolution illustration separately; a request
