@@ -1012,6 +1012,19 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-14 — A paper's position is in its hypotheses, not in its main theorem
+
+Comparing WP0215 with IIT, I told K that "our criterion sits at" the level of the
+retained update action of Section 4.2, and drafted a sentence for Section 7.4 on that
+reading. K: "In the paper we don't state what level is important... do we? We just
+point to shared structure... but there may be more in the implementation." The live
+text says so in H0, in the paragraphs after H1, at the end of Section 4.2, in Section
+7.4 and in the Discussion; I had characterized the paper from its theorem without
+rereading them. Practice: before stating what a paper claims in a comparison with
+another theory, reread its hypothesis statements and the sentences that scope its
+main result, and quote them; a theorem identifies a structure, the hypotheses say
+what status the paper gives it.
+
 ### 2026-10-28 — Send proposals to Kaiti when drafted; do not ask K for a go-ahead
 
 While reviewing WP0215's finite-packing section I drafted two propositions and a
