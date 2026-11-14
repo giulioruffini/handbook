@@ -95,6 +95,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   provides a central example of mathematical structure. Preserve that framing when polishing;
   keep the main text explanatory and concise, and place technical conditions and proof details
   in the supplement with an explicit pointer. Distinguish Lean-checked claims from cited theorems.
+  K then emphasized that the agent’s monoid and symmetry core are a central result of WP0215.
+  Lead with that manifest mathematical organization. Connect its irreversible overwrites to
+  the logical-erasure and reconstruction accounts in GART and Pattern, Persist!; physical
+  dissipation and Landauer are secondary links, not the subject of this passage.
   On October 27 (WP0215), I interpreted a request to revise Figure 2 as replacing its general
   Yanofsky hierarchy with a numerical example. K wanted the hierarchy retained. Keep the
   general diagram and add the concrete shared-evolution illustration separately; a request
