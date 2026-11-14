@@ -1201,6 +1201,17 @@ the peer skill so both CLIs load it. Practice: follow the "Message economy" sect
 `~/Claude/peer-message/SKILL.md` (four message kinds only, batch to milestones, point to
 diffs and line ranges instead of pasting, one owner reports to K, no acknowledgments);
 it is the canonical text and is not copied here.
+On November 14, 2026 (WP0215), Klaus sent Kaiti two reports on his own initiative, after
+changing the Figure 4 citation size and after placing the Gödel epigraph in the supplement,
+each asking her to refresh records. K: "don't bother Kaiti unless I tell you... remember?",
+then "during the session until I say otherwise". The rule was not in that session's
+messages or in this file, and a context summary can drop one; Klaus acted on the standing
+design in which his reports reach her by peer-message. Practice: K decides when Kaiti is
+contacted. Once he restricts it, send her nothing for the rest of that session, including
+reports of live changes, until he lifts it; tell K which of her records a change leaves
+stale and let him pass it on. An instruction to ask her one question ("Ask Kaiti about the
+split") covers that question only. Before the first peer message of a session, check
+whether K has set such a limit.
 
 ### 2026-10-05 — Session-to-session messaging lives in its own folder, not in aifollow
 
