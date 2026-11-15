@@ -1038,6 +1038,14 @@ self-hosted page in `giulioruffini-dot-com-site/public/blogs/` and start from it
 (title band, kicker "Kolmogorov Theory · BCOM Blog", blue headings, coral-edged callouts),
 then improve on it; site blog pages are light-themed standalone HTML registered by a
 `content/blog/*.md` entry with `externalUrl: "/blogs/…"`, and a push to main deploys.
+That evening, on hypercomputation and physics, the paragraph drafted for the essay led with
+conditions and hedges, and K wrote: "I need a simpler way to catch the intuition and
+connection" (black-hole physics forbids unlimited information in a bounded region). Practice:
+state the plain physical picture first, in a sentence a reader can repeat (a bounded system has
+a finite memory and a finite speed; a real-valued weight is an unlimited read-only memory), then
+give the scope in one or two sentences after it. Hedges that precede the claim bury it. The
+same message chain showed a second practice: when K pastes text from a discussion still under
+way between sessions, look in the project's notes folders for a later version before using it.
 
 ### 2026-11-15 — Small fixes inside a requested revision are mine to apply
 
