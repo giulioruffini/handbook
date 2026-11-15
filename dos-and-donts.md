@@ -679,6 +679,7 @@ the intended physical claim before polishing the abstract. Distinguish a stored
 noncomputable parameter from completion of an infinite computable process; an infinite
 history need not have unbounded conditional algorithmic complexity. Lead the abstract
 with the physical question and the result, leaving the proof machinery to the paper.
+On November 15 (WP0215), K found the phrase about bounded information in finitely encoded local states opaque and asked what hypercomputation physically requires. Explain a finite alphabet per cell separately from an unbounded Turing tape; contrast computable infinite digit expansions with an accessible noncomputable digit source; and distinguish that source from completion of infinitely many effective steps. Use concrete examples before the local-state formalism. Unbounded local capacity alone does not prove that an infinite tape is stored in a bounded region.
 After approving the five-section plan, K asked for a memorable statement of the central
 result, rather than an abstract that only organizes the subject. State the strongest
 supported conclusion in one plain sentence. Keep the proposed identification with
