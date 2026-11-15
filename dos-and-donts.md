@@ -1283,6 +1283,10 @@ reports of live changes, until he lifts it; tell K which of her records a change
 stale and let him pass it on. An instruction to ask her one question ("Ask Kaiti about the
 split") covers that question only. Before the first peer message of a session, check
 whether K has set such a limit.
+On November 15, 2026, in the same session, Klaus drafted a figure for WP0215 Section 7 and
+offered "give you the insertion lines or pass the draft to Kaiti". K: "Create the figure and
+let me see it, Klaus. Don't bother Kaiti unless I tell you.. she's low on tokens". Practice:
+while the limit holds, do the work or hand K the exact lines; do not list Kaiti as an option.
 
 ### 2026-10-05 — Session-to-session messaging lives in its own folder, not in aifollow
 
