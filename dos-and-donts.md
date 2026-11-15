@@ -1012,6 +1012,17 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-15 — Small fixes inside a requested revision are mine to apply
+
+K asked whether the monoid preview at the end of WP0215 Section 4.1 could be moved or
+condensed "making sure that 4.2 is great". I applied three insertions and then listed
+three further touches (the name "update monoid", two paragraph breaks, an ambiguous
+"its") as his to decide. K: "ok, fix yourself". Practice (my reading of a short reply):
+when K has asked for a passage to be made good, apply wording, naming, paragraphing,
+and pronoun fixes in the same pass, under the TeXShop check, in a commit separate from
+his saved edits, and report them. Hand back only choices of content or scope. A fix
+that reverses an edit K made minutes earlier is still reported as such.
+
 ### 2026-11-14 — Read text as its first reader before it enters the paper
 
 On K's "do this" I applied Kaiti's replacement for WP0215 Section 7.4. Its paragraph
