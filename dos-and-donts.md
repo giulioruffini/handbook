@@ -1013,6 +1013,22 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-15 — WP0215 essay: the general-reader version dropped parts of the paper's position
+
+Drafting the essay "What a Brain Simulation Must Keep" from WP0215, I wrote "My candidate is
+the algorithmic agent", gave H0's plurality one clause, compressed the agent's links to
+experience into one sentence, and left out ANPSY. K: the candidate is the algorithmic agent
+"with internal reports"; "every admissible coarse grain for a system comes with its own
+structured experience"; "the experience link in the agent: structure of world self, valence
+and arousal"; "and the ANPSY program at BCOM (the one Francesca is leading)". Practice: when
+condensing a paper for general readers, check the draft against the abstract sentence by
+sentence. Keep each qualifier of the candidate, state H0's consequence for coarse-grainings
+in K's terms, give the model, valence, and arousal links their own paragraph, and name the
+BCOM program that applies the work, with its lead. In the same session K asked for figures
+in the right column (the wide card strip set in two rows), the byline "Giulio Ruffini with
+Klaus", the monoid named ("update monoid"), and the paper's own title, "Experiential dark
+matter", for the last section.
+
 ### 2026-11-15 — Small fixes inside a requested revision are mine to apply
 
 K asked whether the monoid preview at the end of WP0215 Section 4.1 could be moved or
