@@ -1028,6 +1028,15 @@ BCOM program that applies the work, with its lead. In the same session K asked f
 in the right column (the wide card strip set in two rows), the byline "Giulio Ruffini with
 Klaus", the monoid named ("update monoid"), and the paper's own title, "Experiential dark
 matter", for the last section.
+Later that day K approved the text and returned the layout: "Take a look at
+[The Agent Is Bigger Than the LLM on giulioruffini.com] for layout... we need something
+prettier", then publish on the site. The first two versions were a paper-toned page with
+hairline rules; the house blog page opens on a full-width deep-blue band with a coral glow
+and a large white headline. Practice: before designing a blog page, open the latest
+self-hosted page in `giulioruffini-dot-com-site/public/blogs/` and start from its layout
+(title band, kicker "Kolmogorov Theory · BCOM Blog", blue headings, coral-edged callouts),
+then improve on it; site blog pages are light-themed standalone HTML registered by a
+`content/blog/*.md` entry with `externalUrl: "/blogs/…"`, and a push to main deploys.
 
 ### 2026-11-15 — Small fixes inside a requested revision are mine to apply
 
