@@ -97,6 +97,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
   methodological references such as Chalmers do not replace the specific antecedent.
 - Preserve figures, explanations, and structure that K values. Add a complementary diagram as
   another figure. Present a proposed replacement separately unless K has requested the replacement.
+  On November 15 (WP0215), K asked that the tracking figure show composition, name the symmetry core, and distinguish update maps from record values. Use main-text terminology and define any supplementary notation brought into a figure. An exact observation update does not require the prior record to agree with the incoming observation; show the admitted prior values explicitly.
   On November 14 (WP0215), K rejected a rewrite of the symmetry-core subsection because
   it remained too long and technical and removed his opening point: the algorithmic agent
   provides a central example of mathematical structure. Preserve that framing when polishing;
