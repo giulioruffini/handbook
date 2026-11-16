@@ -3516,6 +3516,13 @@ caught both against the published PDFs. Practice: before a factual claim about a
 a manuscript or an outgoing email, read the relevant figure, table, or statistics in the PDF
 itself; a summary is a pointer, not a source.
 
+- A text extraction that returns nothing for a page or slide is a gap, not an empty page. On
+  November 16, 2026 (NE 2027 goals), I read HR's goals deck through the Drive connector, which
+  returned no text for slides 5 to 7, and reported what the deck expects. Those slides were
+  images holding the CEO's 2026 recap and 2027 objectives, the content K had asked for; K had
+  to ask "did you see this?". Practice: when extraction leaves pages or slides blank, download
+  the file and look at them before summarizing, and say which pages were not read.
+
 - Describe a project from its current code and status docs, not from its README's opening
   paragraph or a memory line. On October 13, 2026, I called KOKORO a fixed-protocol recorder
   ("records the answers and exits") from the README header; K corrected me. The shipped app
