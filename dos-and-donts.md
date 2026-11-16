@@ -4059,3 +4059,13 @@ proves it. The same day K asked for that section as an intuitive physical pictur
 dropped them, said "I don't want to lose the black hole limit or QMs". Practice:
 simplify the prose, and keep the physical content K has asked for by name until he
 drops it himself.
+
+### 2026-11-16 — WP0215: I said the paper does not discuss the unfolding argument after searching one file
+
+Writing the cover-letter paragraph on the special issue's call, I told K the article does not
+discuss the unfolding argument. I had searched only the main `.tex`. K: "why don't we touch on the
+unfolding argment? I did in a paper and I think we mention it." Supplementary Section S3.3 proves
+the finite-unfolding proposition and discusses the argument with Doerig et al. (2019) and K's 2022
+response; the main text carried those sentences until the October 31 consolidation moved them.
+Practice: before saying a paper does not treat a topic, search the article, the supplement, the
+bibliography, and `git log -S` for the term. Report where the topic is, or name the files searched.
