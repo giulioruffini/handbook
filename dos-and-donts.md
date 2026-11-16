@@ -4043,3 +4043,19 @@ I opened the accounting tab; K corrected me with “Balance sheet.” Practice:
 when a named standalone document is available, open that document unless K
 explicitly requests the supporting accounting worksheet. State its date or
 incompleteness separately rather than substituting another file.
+
+
+### 2026-11-16 — WP0215 Section 7.4: state a result as subject, conditions, conclusion
+
+After a sentence describing ordinary computation I wrote "Under the assumptions of
+Supplementary Section S6, a mechanism of this kind is computable." K: "Ordinary
+computation is ... of course computable? I don't understand this statement", then
+"I would just say that 'A device that does a, b... cannot exceed Turing computation'."
+The sentence hid a converse result behind a pronoun, left "mechanism" undefined, and
+called a device computable. Practice: state a theorem in one sentence that names its
+subject and lists its conditions with the conclusion, and point to the subsection that
+proves it. The same day K asked for that section as an intuitive physical picture
+(the objection first, then each option with its physical price) and, when two rewrites
+dropped them, said "I don't want to lose the black hole limit or QMs". Practice:
+simplify the prose, and keep the physical content K has asked for by name until he
+drops it himself.
