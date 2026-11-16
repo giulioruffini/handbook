@@ -4069,3 +4069,11 @@ the finite-unfolding proposition and discusses the argument with Doerig et al. (
 response; the main text carried those sentences until the October 31 consolidation moved them.
 Practice: before saying a paper does not treat a topic, search the article, the supplement, the
 bibliography, and `git log -S` for the term. Report where the topic is, or name the files searched.
+
+### 2026-11-16 — NE 2027 goals: input requested for after the meeting it was meant to serve
+
+Preparing K's BM and IT goals for the alignment meeting of 17 November, I staged Gmail drafts
+to Jordi and Ricardo asking for corrections "by Thursday 19 November", reasoning from the later
+closing session. K: "all good but the meeting is tomorrow not Th". Practice: when a note asks
+colleagues for input on material K will present, set the reply deadline before that
+presentation, and name only that date; a later formal deadline does not move it.
