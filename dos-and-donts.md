@@ -1463,7 +1463,10 @@ ask for content removal. Also, what is the 'technical record'??" A shortened ver
 removes content does not comply with the request. Report each removal as a defect to be
 restored, not as a menu for approval. Count relocation only into the submitted document
 itself or a destination K has chosen. Name any new document or file that nobody requested
-first, before the detail.
+first, before the detail. In the same review, K asked which of two valid final sentences
+for a proof was easier to understand. I recommended the longer, explicit one; K chose the
+shorter ("Applying the factorization in both directions proves uniqueness up to
+isomorphism"). When two proof sentences are both valid, offer the shorter as the default.
 
 K then corrected my interpretation of Francesca's abstract annotations. Her
 unclear "Under fixed..." sentence needs a better connection from conservation
