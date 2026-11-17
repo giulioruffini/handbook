@@ -4084,3 +4084,13 @@ to Jordi and Ricardo asking for corrections "by Thursday 19 November", reasoning
 closing session. K: "all good but the meeting is tomorrow not Th". Practice: when a note asks
 colleagues for input on material K will present, set the reply deadline before that
 presentation, and name only that date; a later formal deadline does not move it.
+
+### 2026-11-17 — NE 2027 goals: guessed owners and a dropped 2026 line
+
+The draft BM goals sent to Ricardo carried an "Owner (proposed)" column that I had filled by
+guess: Borja for the protocol inputs Ricardo already leads, Ricardo for papers owned by Borja,
+K and himself. It also dropped the 2026 line "carry out ops as required", so the ongoing
+Stimweaver requests and the Brad Manor R01 service were missing. K: "looks like we had some
+bugs". Practice: when carrying a year's goals forward, account for every prior line as carried,
+replaced, or dropped with a reason; where the record does not say who does the work, write
+"to assign" and ask, since a named guess reads as an assignment.
