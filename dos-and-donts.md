@@ -1455,7 +1455,15 @@ clear paper, but content takes precedence: cuts must be content-preserving
 example, qualification, or result needs K's agreement for that specific removal.
 The accepted PLR proposal's 14,000–16,000-word promise is a target, not a license
 to cut; where content does not fit, report the conflict rather than resolve it by
-cutting.
+cutting. On November 17, Kaiti's shortened WP0215 supplement (74 to 60 pages) removed
+content, including 37 references, the closure catalogue K had requested, Figure S4 and
+the κ definition, and moved other material into a new eight-page "technical record"
+nobody had asked for. I reported the removals as items for K's yes or no. K: "I didn't
+ask for content removal. Also, what is the 'technical record'??" A shortened version that
+removes content does not comply with the request. Report each removal as a defect to be
+restored, not as a menu for approval. Count relocation only into the submitted document
+itself or a destination K has chosen. Name any new document or file that nobody requested
+first, before the detail.
 
 K then corrected my interpretation of Francesca's abstract annotations. Her
 unclear "Under fixed..." sentence needs a better connection from conservation
