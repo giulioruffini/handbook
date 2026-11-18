@@ -2111,6 +2111,7 @@ from execution structure, state the unresolved experiential correspondence, and 
 and approximate closure through models and residuals. Retain memory, agency, symmetries, and
 attractors as concrete candidates rather than implying that no language for structure exists.
 On November 16, K found WP0215's computability discussion too picky and verbose for Neuroscience of Consciousness, then cautioned against shortening too much. Use ordinary terms such as “continuous ODEs,” preserve the explanatory steps and examples, and place detailed domain and representation conditions in the supplement. Cut repetition rather than targeting a large word reduction. Preserve the scope at the claim without restating every technical assumption or replacing it with a stronger claim.
+On November 18, I added a purpose paragraph before WP0215 Section 3's existing definitions. K rewrote the opening and asked that it remain consistent as a unit. Revise the whole opening passage: introduce the objects before previewing the comparison, connect the aim to the existing argument, and remove repetition or dangling references created by an added blurb. Keep the author's revised opening as the reference for adjacent edits.
 K also supplied Özkural's 2014 paper with the proposed brain-simulation question as its title.
 Read and acknowledge substantive antecedents, not only title collisions.
 
