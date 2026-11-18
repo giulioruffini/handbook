@@ -4105,3 +4105,14 @@ Stimweaver requests and the Brad Manor R01 service were missing. K: "looks like 
 bugs". Practice: when carrying a year's goals forward, account for every prior line as carried,
 replaced, or dropped with a reason; where the record does not say who does the work, write
 "to assign" and ask, since a named guess reads as an assignment.
+
+### 2026-11-18 — WP0215: I endorsed a position label that uses the call's term for the rejected view
+
+Reporting the special issue's call, I quoted its definition of implementationism (dependence on
+"how computations are physically realized") and in the same reply said that the paper's label
+"computationalist about substrate and implementation-sensitive about structure" answers the
+call's question. K: "I NEVER claim that substrate matters", "So implementionalism is out", "Seems
+to muddle the terminology." The label dates from the October 2 journal edition and stands in the
+abstract, Introduction, Section 9, and cover letter. Practice: when a venue defines the terms of a
+debate, check each label the paper gives its own position against those definitions at first
+reading, and flag any label that uses a term the venue reserves for a view the paper rejects.
