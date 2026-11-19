@@ -3919,6 +3919,8 @@ characterizing KT philosophically, read WP0005 or ask Calliope; write "idealism 
 form" or "two-aspect monism", never "panpsychism"; when a reader is likely to misread the
 premise, recommend naming the stance and saying what it is not, rather than softening it.
 
+On November 19, while drafting WP0215's philosophy paragraph on matter, I framed physical substrates only as models of regularities. K clarified that the claim is ontological: in KT, matter is realized mathematical organization, within the two-aspect account of experience and mathematics. He directed me to KT-ESP. State this identity explicitly and distinguish the organization from our fallible models of it; do not reduce the position to the epistemic claim that physics uses mathematics.
+
 ### 2026-10-25 — WP0215 comments: two technical claims written without checking
 
 In the paragraph comments on the WP0215 journal copy I wrote that the generator extractor
