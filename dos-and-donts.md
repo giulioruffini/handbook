@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On November 19, 2026 (WP0215), K called my proposed sentence citing Karkada et al. (2026) "a very silly focused phrase": it reported the paper's showcase example (months on a closed loop) instead of its result. A citation sentence states the cited work's general claim in the terms of the passage it supports, here that symmetries of the data statistics determine the geometry of learned representations whatever the architecture, together with the scope of its evidence. Use an example only when the passage needs one.
+
 - On November 12, 2026 (WP0004/WP0215), K corrected the chronology of the tracking argument: Structured Dynamics was posted as a bioRxiv preprint in December 2023 before its January 2025 journal publication. When positioning earlier work, check the original version and public posting date, retain changes in authorship and mathematical setting, and do not use the journal date as the first public date.
 
 - On November 11, 2026 (starlab-dashboard), K called the printed Finance and Delivery reviews for David and Aureli ugly and missed the P&L. The first version met every check (two A4 pages, 11 pt, numbers as text) and was still a wall of uniform text with a thumbnail chart. For a printed management page, design it as a page: headline tiles, real tables with a comparison column, a labeled chart at readable size, provenance in a small line, and the P&L as its own page. Render the PDF and look at it before calling it done; passing layout assertions is not a design review.
