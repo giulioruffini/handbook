@@ -246,6 +246,17 @@ K's current instructions take precedence; keep scientific corrections tied to th
   transitions; edit his abstract locally rather than replacing its voice. Equations, labels,
   citations, and word counts do not establish semantic preservation: audit each changed claim,
   scope condition, and explanatory link against the author copy before reporting preservation.
+  On November 19, I replaced the explanation that the reporting grain must be fine enough
+  to retain what the system reports with a sentence about reports' constitutive and evidential
+  roles. K corrected the change of meaning: the passage explains why C1 seeks the right
+  coarse-graining. Preserve that explanatory focus and the required level of detail; resolving
+  a pronoun or removing passive voice must not replace the question the paragraph answers.
+  In the same review, I changed the claim that admitted transformations determine algorithm
+  classes into a request to decide which changes preserve an already identified algorithm.
+  K reiterated: improve the writing, not the content, and review every change. For a prose-only
+  pass, preserve the direction of explanation, quantifiers, modality, examples, and emphasis.
+  Treat suspected mathematical corrections as separate proposals; unchanged equations and
+  citations are insufficient evidence that the surrounding argument has been preserved.
   In the abstract’s recovery example, K then restored the missing function–algorithm–program
   connection: a shared function does not uniquely determine an algorithm or program. Explain
   the recovered limiting law as shared structure across that hierarchy, not merely as evidence
