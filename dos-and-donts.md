@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On November 19, 2026 (WP0215), I redrew K's "good clock simplifies equations" slide for the supplement. After a review I relabeled the irregular-clock panel "x(n) not linear in tick count" and added the caption caveat that an irregular clock can still have a short rule. K: "C'mon, the simplest rule is a straight line, that's the point to make... don't get lost in caveats!" An illustrative figure and its caption state the point the figure makes. A reviewer's correct but marginal qualification belongs in the text, if the argument needs it there, not in the label or caption.
+
 - On November 19, 2026 (WP0215), K called my proposed sentence citing Karkada et al. (2026) "a very silly focused phrase": it reported the paper's showcase example (months on a closed loop) instead of its result. A citation sentence states the cited work's general claim in the terms of the passage it supports, here that symmetries of the data statistics determine the geometry of learned representations whatever the architecture, together with the scope of its evidence. Use an example only when the passage needs one.
 
 - On November 12, 2026 (WP0004/WP0215), K corrected the chronology of the tracking argument: Structured Dynamics was posted as a bioRxiv preprint in December 2023 before its January 2025 journal publication. When positioning earlier work, check the original version and public posting date, retain changes in authorship and mathematical setting, and do not use the journal date as the first public date.
