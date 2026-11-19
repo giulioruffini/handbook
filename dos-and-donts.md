@@ -3919,7 +3919,7 @@ characterizing KT philosophically, read WP0005 or ask Calliope; write "idealism 
 form" or "two-aspect monism", never "panpsychism"; when a reader is likely to misread the
 premise, recommend naming the stance and saying what it is not, rather than softening it.
 
-On November 19, while drafting WP0215's philosophy paragraph on matter, I framed physical substrates only as models of regularities. K clarified that the claim is ontological: in KT, matter is realized mathematical organization, within the two-aspect account of experience and mathematics. He directed me to KT-ESP. State this identity explicitly and distinguish the organization from our fallible models of it; do not reduce the position to the epistemic claim that physics uses mathematics.
+On November 19, while drafting WP0215's philosophy paragraph on matter, I first described physical substrates only as models, then asserted that matter is realized mathematical organization. K asked for the ontological status to be explicit and then clarified it: matter is not taken as fundamental; its nature beyond the structural account remains open. Practice: state experience's primacy and mathematics as its structural aspect, distinguish physical models from the nature of matter, and preserve this agnosticism rather than asserting an exhaustive identity. Consult KT-ESP, and scope any symmetry-group-core example to the exact tracking model rather than to every physical structure.
 
 ### 2026-10-25 — WP0215 comments: two technical claims written without checking
 
