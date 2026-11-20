@@ -106,6 +106,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   In the same paper's opening, K requested Deco rather than Breakspear when choosing
   a WBM citation and retained the oscillator-network review after I omitted it from
   a shortened draft. Preserve those citation choices when condensing this passage.
+  On November 20, K clarified that the oscillator example concerns a possible change
+  of computational architecture for both LLMs and WBMs, not just a move from digital
+  to analog hardware. An oscillator-based architecture can itself be simulated on
+  a conventional computer or realized in dedicated hardware. Keep these choices
+  distinct and include the requested Rietman reference in the proposed passage.
   On November 5, K specified Section 5 of *Algorithmic structure of experience and
   the unfolding argument* as the source for his first-person experimental proposal.
   Cite that passage for self-application and comparisons across participants; broader
