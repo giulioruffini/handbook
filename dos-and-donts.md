@@ -4076,6 +4076,9 @@ sorry, just to review it." Practice: when a numbered reference and a descriptive
 different sections, the number is what K has in front of him; review the numbered section and
 note the mismatch in one line, or ask one line before starting, never choose the other section
 on my own reading. Same family as the September 12 rule on answering the question asked.
+On November 20 I cited the WP0215 update-monoid definition as Section 5.2 from memory; it is
+in Section 4.2. Practice: compute section numbers from the source or the aux file before citing
+them to K or to Kaiti.
 
 ### 2026-11-09 — EEG QC: retain interpretive labels with a report disclaimer
 
@@ -4186,3 +4189,15 @@ to muddle the terminology." The label dates from the October 2 journal edition a
 abstract, Introduction, Section 9, and cover letter. Practice: when a venue defines the terms of a
 debate, check each label the paper gives its own position against those definitions at first
 reading, and flag any label that uses a term the venue reserves for a view the paper rejects.
+
+### 2026-11-20 — A paragraph to reword gets the paragraph back, not the skill's whole workflow
+
+K asked me to redo one paragraph for WP0215 "using the proseai skill. I like the content but not
+the form." I opened the full prosai workflow (diagnosis table, scratch files, an independent
+reviewer to be spawned, a report) for sixty-seven words of my own draft. K: "I just need to see
+the revised prose, I think the skill does much more... can you reduce the scope of the skill?"
+Practice: size the procedure to the request. For a pasted paragraph, reword it, run the one
+mechanical check, and reply with the revised text and at most two lines of notes. A skill's full
+workflow is for the file-sized job it was written for; when a skill has no light path and K needs
+one, say so and propose it. The prosai skill now has a quick pass (branch quick-pass of
+bcom-foundation/bcom-prosai, commit 3e037c9).
