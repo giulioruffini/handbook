@@ -285,6 +285,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   reporting grain before defining reports. C1 conjectures that retaining the relevant contents
   and their production, updating, and use at the required detail preserves the targeted human
   features; do not reduce this argument to report matching or to reports as evidence alone.
+  K further emphasized the temporal role: the current model holds compressed representations
+  of earlier models, and their internal use is proposed to support experienced passage and
+  continuity. Make this constitutive motivation for preservation explicit before C1 and in
+  the temporal-self discussion. Keep the idealized absence of all past-directed records
+  distinct from clinical amnesia, which may spare such information.
   In the same review, I changed the claim that admitted transformations determine algorithm
   classes into a request to decide which changes preserve an already identified algorithm.
   K reiterated: improve the writing, not the content, and review every change. For a prose-only
