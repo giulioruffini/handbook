@@ -279,6 +279,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   roles. K corrected the change of meaning: the passage explains why C1 seeks the right
   coarse-graining. Preserve that explanatory focus and the required level of detail; resolving
   a pronoun or removing passive voice must not replace the question the paragraph answers.
+  On November 20, K clarified the missing transition from H0/H1 to C1: reports connect
+  the experience accessible to ourselves and to other communicating agents, while experience
+  beyond that access remains experiential dark matter. Explain why this motivates the human
+  reporting grain before defining reports. C1 conjectures that retaining the relevant contents
+  and their production, updating, and use at the required detail preserves the targeted human
+  features; do not reduce this argument to report matching or to reports as evidence alone.
   In the same review, I changed the claim that admitted transformations determine algorithm
   classes into a request to decide which changes preserve an already identified algorithm.
   K reiterated: improve the writing, not the content, and review every change. For a prose-only

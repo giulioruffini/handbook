@@ -1,5 +1,6 @@
 # TODO — giulio-personal-handbook
 
+- [x] Record K’s reporting-grain argument: connect H0/H1 to humanly accessible experience before defining reports — 2026-11-20
 - [x] record K's Kokoro correction: verify the intended PDF edition and comment visibility when opening the latest draft — 2026-11-09
 - [x] record K's dynamical software/hardware definition, report-definition placement, and objection to privileging the outer simulation host — 2026-10-29
 - [x] Record K's referee-report tone preference and requirement to archive the complete record under Paper Reviews — 2026-10-29
