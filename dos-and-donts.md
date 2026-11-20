@@ -42,6 +42,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   intended edition and comment visibility; a matching version and commit do
   not establish that the requested copy is open. When K names a different
   version or a new figure, resolve that document identity before reconfirming.
+  On November 20 (TN0484/WP0185), K showed the TI Overleaf cover after I had
+  answered his archive-status question for WP0258, the calibration paper from
+  the same thread. Match the title and paper identifier before comparing
+  versions; distinguish manuscript labels from Calliope/Zenodo archive counters.
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
