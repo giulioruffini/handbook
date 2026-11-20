@@ -2066,6 +2066,16 @@ program differences matter for experience. State this conditional premise explic
 keep stipulated dynamical agreement separate from the hypothesis of experiential
 preservation, and do not make the setup sound like an empirical comparison performed.
 
+On November 20, K stopped at “We identify the structure of the algorithmic agent's
+world-tracking role” in the WP0215 Introduction: “this comes out of the blue?” The phrase
+“world-tracking role” appeared nowhere else in the article, and the sentence was what
+remained when “Our main mathematical result” was deleted on November 14 at my proposal.
+That phrase graded the result, but it was also the paragraph's only statement of its place
+in the argument. Practice: when deleting a self-grading phrase, replace the link it
+carried (which earlier notion the paragraph works out, and for which case), then reread the
+paragraph opening as a first-time reader. A fidelity review of a prose pass covers changed
+text only; it does not show that the unchanged sentences read well.
+
 K's October 24 COSFUN notes distinguish general dynamical computation from the
 additional Turing-computability assumption; my preceding proposed definition had
 built effectiveness into computation itself. Preserve that distinction and put
