@@ -117,6 +117,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   computation is a broader computational architecture. Lead with these relationships,
   rather than current hardware prevalence. After rejecting the applied wording, K
   requested a proposal in chat before any further manuscript edit.
+  K then emphasized that Chen et al. (2025) demonstrates ALBERT, not a WBM.
+  Attach that citation only to the language-model example; keep the proposed analog
+  realization of oscillatory WBMs separate from the reported hardware demonstration.
   On November 5, K specified Section 5 of *Algorithmic structure of experience and
   the unfolding argument* as the source for his first-person experimental proposal.
   Cite that passage for self-application and comparisons across participants; broader
