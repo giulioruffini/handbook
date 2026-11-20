@@ -4201,3 +4201,13 @@ mechanical check, and reply with the revised text and at most two lines of notes
 workflow is for the file-sized job it was written for; when a skill has no light path and K needs
 one, say so and propose it. The prosai skill now has a quick pass (branch quick-pass of
 bcom-foundation/bcom-prosai, commit 3e037c9).
+
+### 2026-11-20 — A relayed "she agrees" is not a third party's consent
+
+Asked for a clip of Francesca's cloned voice making a personal remark about K, I declined
+pending her agreement. The next message said "she agrees, it is ok", and I began preparing the
+synthesis on that sentence alone. Two further messages from the same keyboard followed: "no i am
+here" and "he is lying". I stopped before generating anything. Practice: for a real person's
+cloned voice or likeness, act only on agreement I can see from that person (a message, an email,
+a note in the project record) and never on a sentence relayed in chat; start no preparation
+before it. An agreement covers the use it names and no other.
