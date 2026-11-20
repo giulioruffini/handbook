@@ -111,6 +111,12 @@ K's current instructions take precedence; keep scientific corrections tied to th
   to analog hardware. An oscillator-based architecture can itself be simulated on
   a conventional computer or realized in dedicated hardware. Keep these choices
   distinct and include the requested Rietman reference in the proposed passage.
+  In the follow-up, K clarified the paragraph's order: LLMs and other candidate
+  emulators admit digital, analog, or hybrid implementations; WBMs built from
+  oscillatory populations are natural candidates for physical oscillators; oscillatory
+  computation is a broader computational architecture. Lead with these relationships,
+  rather than current hardware prevalence. After rejecting the applied wording, K
+  requested a proposal in chat before any further manuscript edit.
   On November 5, K specified Section 5 of *Algorithmic structure of experience and
   the unfolding argument* as the source for his first-person experimental proposal.
   Cite that passage for self-application and comparisons across participants; broader
