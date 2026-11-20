@@ -290,6 +290,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
   continuity. Make this constitutive motivation for preservation explicit before C1 and in
   the temporal-self discussion. Keep the idealized absence of all past-directed records
   distinct from clinical amnesia, which may spare such information.
+  K removed “self” from “temporal self-experience”: use “temporal experience” for this
+  hypothesis and its reminders; do not imply that an explicit self-model is required.
   In the same review, I changed the claim that admitted transformations determine algorithm
   classes into a request to decide which changes preserve an already identified algorithm.
   K reiterated: improve the writing, not the content, and review every change. For a prose-only
