@@ -46,6 +46,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   answered his archive-status question for WP0258, the calibration paper from
   the same thread. Match the title and paper identifier before comparing
   versions; distinguish manuscript labels from Calliope/Zenodo archive counters.
+  K also confirmed that Overleaf is synced locally through Dropbox. The TI
+  project is readable at `/Users/giulio/Neuroelectrics Team Dropbox/Giulio Ruffini/Apps/Overleaf/TN0484 - Temporal Interference (TI) NMM demodulation`.
+  Read that synced copy when checking collaborators' current file edits; a
+  manual GitHub sync is not required. Compare before integrating, and use
+  Overleaf itself when review comments or edit attribution are needed.
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
