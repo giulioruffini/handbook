@@ -248,7 +248,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
   scope into the argument once; shorten repeated result inventories instead of appending them.
   K then clarified that readability and paragraph flow take priority over a supplied word
   budget: remove repetition and disconnects; retain doubtful cuts or move them with context. On November 12, after the full-paper length review, K confirmed that protecting the paper takes priority and that he can argue for a longer article. Treat savings as an outcome, not a quota; propose larger scope changes separately from removal of duplication.
-  On November 21 (WP0215), I condensed K’s explanation of the update monoid in ODEs and programs to offset the words in a new proposition. K wanted the explanation kept for neuroscience readers. Shorten the addition itself and preserve the surrounding author text.
+  On November 21 (WP0215), I condensed K’s explanation of the update monoid in ODEs and programs to offset the words in a new proposition. K wanted the explanation kept for neuroscience readers. Shorten the addition itself and preserve the surrounding author text. Later that day he asked for a short definition of the monoid in Section 2.1 so a first-time reader could understand it there. Give the local definition in ordinary language and keep the mathematical conditions when shortening the new passages.
   On November 11 (SYNERGIA CA), K asked how to word NE's conditional commercial rights
   in the joint pipeline; I drafted a four-part clause with notice periods and a lapse
   term. K corrected this: such terms are negotiated outside the CA. In a framework
