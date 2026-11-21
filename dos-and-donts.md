@@ -4270,6 +4270,17 @@ the texts he has read and approved go in. When explaining mathematics to him in 
 what is proved with its conditions, and send a new conceptual claim through Kaiti's check before
 presenting it to him as settled.
 
+That evening I brought him fifteen proposed repairs from a first-time-reader check of WP0215,
+each a sentence or two, some with the method and numbers of a cited study. K: "I don't like many
+of the proposed changes, but some are good. How can I easily tell you (there are 15)", and, on the
+ones he accepted: "keep short if possible, especially dteails on experiements ... too much detail".
+He took thirteen of sixteen from a tick list and dropped three.
+
+Practice: when there are more than a few proposals, give him a tick list (one line each, numbered
+as in the redline) so that he can accept or drop each without writing. Describe a cited
+experiment in one clause that states its result; method, sample sizes and stimulus details stay
+in the source or the supplement.
+
 ### 2026-11-21 — Before a Calliope upload, check the paper for pending work: abstract, Introduction, conclusions
 
 At K's "ok, implement, push commit and Callipe... after Kaiti comments" I installed the reviewed
