@@ -2467,6 +2467,10 @@ after I tried the portal to repair a generated summary. Use MCP for Calliope;
 when a needed operation is missing from my tools, coordinate with Klaus before
 attempting a browser fallback. Separate successful source synchronization from
 remaining generated-summary defects.
+On November 21 (WP0215), I asked K to find an unpublished Zenodo draft after
+Calliope reported a deposit error. K clarified that Calliope handles Zenodo.
+For a Calliope release, report the version and the sync status from Calliope.
+Leave deposit recovery with Calliope and keep it off K’s task list.
 
 ### 2026-09-15 — LIQUID-I framing omitted the Lamarckian regime
 
