@@ -4265,3 +4265,23 @@ Practice: a remark K makes while thinking aloud is not an instruction to put it 
 the texts he has read and approved go in. When explaining mathematics to him in conversation, state
 what is proved with its conditions, and send a new conceptual claim through Kaiti's check before
 presenting it to him as settled.
+
+### 2026-11-21 — Before a Calliope upload, check the paper for pending work: abstract, Introduction, conclusions
+
+At K's "ok, implement, push commit and Callipe... after Kaiti comments" I installed the reviewed
+WP0215 revision, cut Calliope v1.3.0 and uploaded it. The day's main new result, Proposition 2
+(approximately matched content can determine exact transitions), was in Section 3.7, Section 4.2
+and the Discussion, but neither the abstract nor the Introduction stated it: the abstract still
+spoke only of "an exact finite-state emulator". I had listed the Introduction sentence as an open
+decision and released without it, and I never compared the abstract with the new results. K, the
+same afternoon: "is the abstract up to date? Before we do uploads to Calliope you should always
+check if there is pending work on the paper from latest work, including abstract, intro and
+conclucions".
+
+Practice: before any cut or upload to Calliope, (1) check for unsaved TeXShop edits, uncommitted
+changes and commits later than the build; (2) list what changed since the last public version and
+read the abstract, the contribution paragraphs of the Introduction, and the Discussion and
+conclusions against that list; (3) check the derived texts the same way (Calliope summary, readme,
+`abstract.txt`); (4) tell K what is missing, with exact proposed wording, and get his word before
+cutting. An open decision that touches those sections holds the release until he says to go
+without it.
