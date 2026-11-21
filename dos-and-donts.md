@@ -4270,6 +4270,11 @@ the texts he has read and approved go in. When explaining mathematics to him in 
 what is proved with its conditions, and send a new conceptual claim through Kaiti's check before
 presenting it to him as settled.
 
+In the WP0215 reviewer list I read K’s “or othrs” in a reply about Birbaumer and two alternatives
+as withdrawing his earlier nomination of David Chalmers. K clarified, “Chalmers as ref is good.”
+Read a relayed decision against the options in the message it answered. Preserve earlier
+independent choices unless K revises them.
+
 That evening I brought him fifteen proposed repairs from a first-time-reader check of WP0215,
 each a sentence or two, some with the method and numbers of a cited study. K: "I don't like many
 of the proposed changes, but some are good. How can I easily tell you (there are 15)", and, on the
