@@ -4240,3 +4240,17 @@ Practice: a new result enters the article as a few short insertions that state t
 statement, proof and commentary go in the supplement. Never reword or condense K's existing text
 to pay for an addition; if the length does not fit, say so and let him choose. Show him the exact
 insertions and a redline against the text he last read before anything is installed.
+
+Later the same day, in the discussion of law, initial conditions and monoids, K remarked: "In the
+brain the program comes from inputs from the world acting on the current synaptic state ... So it
+behaves like a computer that when running a program is internally softly rewired." I wrote two
+sentences from it into Section 4.1 together with the pieces he had approved. His next message:
+"it is ok to leave aside for now, the def of software and hw in the brain is tricky". I removed
+them. In the same stretch I made four statements to him that Kaiti's check against the proofs
+found too strong (the coarser monoid "inside" the finer one; "any computable dynamics"; "same
+function" as the hypothesis of Proposition 1; a unique coarsest grain from C1).
+
+Practice: a remark K makes while thinking aloud is not an instruction to put it in the paper; only
+the texts he has read and approved go in. When explaining mathematics to him in conversation, state
+what is proved with its conditions, and send a new conceptual claim through Kaiti's check before
+presenting it to him as settled.
