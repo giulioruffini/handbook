@@ -2120,6 +2120,13 @@ The manuscript already gives the class-wide consistency argument. Lead with the
 shared infinitesimal generator of consistent one-step implementations; identify
 the compiled-code examples separately. Distinguish the general mathematical limit,
 the implemented extractor's grammar, and the precision required for numerical recovery.
+
+On November 21 (WP0215), K questioned my proposal to define timing by the clock
+chosen for comparison. Define event order and intervals first. Under H0 the
+experiential timing belongs to the organization at the chosen boundary, and H1
+requires an emulator to preserve the relations that constitute the feature.
+A laboratory clock can schedule inputs. Its ticks can change the agent’s records
+or rhythms when the agent receives them.
 Later that day, K could not find the generalization: I had placed it in Methods while his comment remained beside the Results example. When a requested change belongs elsewhere, add a short pointer beside the original comment and give the active file, line, and PDF page in the reply.
 K then pointed out that I had not used the exact replacement sentence I offered:
 I substituted a two-sentence formulation while reconciling Klaus's review.
