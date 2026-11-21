@@ -4281,6 +4281,11 @@ as in the redline) so that he can accept or drop each without writing. Describe 
 experiment in one clause that states its result; method, sample sizes and stimulus details stay
 in the source or the supplement.
 
+The same evening I tagged the cuts in an abridgment redline with the number of the group each
+belonged to, so one number appeared at several places and twice in a row. K: "your numbering of
+the cuts is weird, thre is something wrong inthe pdf". Practice: in a review redline every
+marked change gets its own number, in reading order; groupings belong in a separate summary.
+
 ### 2026-11-21 — Before a Calliope upload, check the paper for pending work: abstract, Introduction, conclusions
 
 At K's "ok, implement, push commit and Callipe... after Kaiti comments" I installed the reviewed
