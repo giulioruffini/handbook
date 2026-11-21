@@ -4291,6 +4291,14 @@ belonged to, so one number appeared at several places and twice in a row. K: "yo
 the cuts is weird, thre is something wrong inthe pdf". Practice: in a review redline every
 marked change gets its own number, in reading order; groupings belong in a separate summary.
 
+I had also told K of those 34 cuts that "no content is lost", on the strength of three reviewer
+agents that quoted a second place for each. K: "ok, don't like the cuts." Kaiti then checked all
+34 against the source and recommended 259 of the 938 words: most of the others carried a
+condition, a scope or a step that the "duplicate" did not (what one failed fit establishes, the
+scope of H2 in the conclusion, how a report supports a represented past). Practice: a subagent's
+"said elsewhere" is a candidate, not a finding. Before telling K that a cut loses nothing, read
+both passages myself or have Kaiti check them, and say which of the two I did.
+
 ### 2026-11-21 — Before a Calliope upload, check the paper for pending work: abstract, Introduction, conclusions
 
 At K's "ok, implement, push commit and Callipe... after Kaiti comments" I installed the reviewed
