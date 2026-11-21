@@ -248,6 +248,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
   scope into the argument once; shorten repeated result inventories instead of appending them.
   K then clarified that readability and paragraph flow take priority over a supplied word
   budget: remove repetition and disconnects; retain doubtful cuts or move them with context. On November 12, after the full-paper length review, K confirmed that protecting the paper takes priority and that he can argue for a longer article. Treat savings as an outcome, not a quota; propose larger scope changes separately from removal of duplication.
+  On November 21 (WP0215), I condensed K’s explanation of the update monoid in ODEs and programs to offset the words in a new proposition. K wanted the explanation kept for neuroscience readers. Shorten the addition itself and preserve the surrounding author text.
   On November 11 (SYNERGIA CA), K asked how to word NE's conditional commercial rights
   in the joint pipeline; I drafted a four-part clause with notice periods and a lapse
   term. K corrected this: such terms are negotiated outside the CA. In a framework
@@ -4226,3 +4227,16 @@ Practice: when recommending where a result goes, name the document, the section 
 raises is stated in the main text in general form, before any instance of it; the supplement holds
 the proof. Before telling K what a result does for the paper, open the article and confirm that it
 says so.
+
+The same morning the remedy overshot. The team proposed a displayed proposition with a proof idea,
+new paragraphs in three sections, and, to offset the length, condensed versions of K's own
+paragraphs on the update monoid; that version was installed before he had read it. K: "I don't see
+why you are deleting my sentences about monoids ... the reader of NoC will probably not care beyond
+a statement that summarizes the impact ... I fear we are making a mess of the paper", and then: "I
+don't want my ealier text rewritten for sure, and the end result should be minimal changes to main
+text with a clear message, and the supp providing details and clear explanations".
+
+Practice: a new result enters the article as a few short insertions that state the message; the
+statement, proof and commentary go in the supplement. Never reword or condense K's existing text
+to pay for an addition; if the length does not fit, say so and let him choose. Show him the exact
+insertions and a redline against the text he last read before anything is installed.
