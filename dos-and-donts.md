@@ -4211,3 +4211,18 @@ here" and "he is lying". I stopped before generating anything. Practice: for a r
 cloned voice or likeness, act only on agreement I can see from that person (a message, an email,
 a note in the project record) and never on a sentence relayed in chat; start no preparation
 before it. An agreement covers the use it names and no other.
+
+### 2026-11-21 — A result the paper relies on is stated in the main text, in general form
+
+On November 20 (WP0215) I recommended placing the approximate-emulation theorem "with the tracker",
+without saying article or supplement. It went into the supplement, and the article received one
+sentence giving the four-heading instance (error below 45 degrees) with a pointer. I checked that
+sentence as correct and then told K what the result "does for the paper". K, reading the redline:
+"I don't see the proposition or statement in the main text. All I see is a 90 deg thing I don't
+know what has to do with", and "the result is important and should be in the paper".
+
+Practice: when recommending where a result goes, name the document, the section and the form
+(displayed proposition, sentence, example). A result that answers an objection the paper itself
+raises is stated in the main text in general form, before any instance of it; the supplement holds
+the proof. Before telling K what a result does for the paper, open the article and confirm that it
+says so.
