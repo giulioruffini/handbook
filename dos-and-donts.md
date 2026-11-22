@@ -4318,3 +4318,22 @@ conclusions against that list; (3) check the derived texts the same way (Calliop
 `abstract.txt`); (4) tell K what is missing, with exact proposed wording, and get his word before
 cutting. An open decision that touches those sections holds the release until he says to go
 without it.
+
+### 2026-11-22 — In K's example, keep the role he assigned; repair only the grammar
+
+In a prose check of WP0215 Section 3.5, K's new sentence read "Adversarial images ... provide an
+example of a mismatch of the emulator." I proposed "a mismatch between a model and human report",
+arguing that the classifier in the example is not the brain emulator of the rest of the section.
+K: "2 you are wrong. It is a mistmatch in the bheavior of the emulator and human. They produce
+different reports, you see?" The classifier is the emulator in his example, and the mismatch is
+behavioral. My substitution removed the link to the section's requirement that the emulator
+reproduce the brain's responses.
+
+Practice: when an example in K's text names one of the paper's roles (emulator, brain, agent),
+the role is part of the claim. Work out what the two sides of the relation are from the
+surrounding sentences, keep his term, and propose only what the sentence lacks (here, the second
+side of the mismatch). If the role looks wrong to me, ask before replacing it.
+
+Same morning, twice: I wrote a clock time I had not read (a peer-message heading and a commit
+message quoting K "10:05 CET"). The rule stands as written in the earlier entries: read the time
+or leave it out.
