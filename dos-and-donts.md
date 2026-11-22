@@ -4361,3 +4361,18 @@ follows from and form the contrapositive; quote the cited section's own statemen
 and keep its scope words. When K marks something as a guess, say what holds and what does not
 before drafting, and prefer his original sentence plus a link over a stronger rewrite. A
 sentence headed for a public deposit gets this check before the install.
+
+Same day, later: with Kaiti's review I then changed K's Section 7.4 heading, its definition
+of hypercomputation, the Section 9.2 sentence and the Figure 8 reply to "noncomputable
+dynamics", on the ground that the word should be reserved for usable computation, and went
+through three more formulations. K: "I think we are knit-picking with hypercomutation",
+then "H2 assumes Turing. If H2 does not hold, it means brain dynamics involve
+hypercimputation. Why are you changing the heading of 7.4?" His text was right in the
+ordinary meaning, and his own next sentence ("Obtaining usable noncomputable answers is a
+further claim") already carried the distinction we were adding. I restored his wording.
+
+Practice: before changing an author's term, heading or figure on a reviewer's refinement,
+state the author's logic in one line and check whether his text already makes the
+distinction; if it does, the answer to the reviewer is that sentence, not an edit. Do not
+turn a fine point into repeated rewrites of text that is public and that K considers settled;
+bring him one question, once.
