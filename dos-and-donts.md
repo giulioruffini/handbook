@@ -4342,3 +4342,22 @@ Same day, 12:48: a commit of K's saved edits was labeled "saved 12:46:31" and co
 12:48:10 save, with a hunk I had not reviewed; I had read the save time in an earlier command.
 Practice: when committing K's saves, read the file's save time with `stat` in the same command
 as the commit and put that value in the message, then diff the commit against what was reviewed.
+
+### 2026-11-22 — An implication built on K's guess gets its premises checked against the cited section before I vouch for it
+
+K asked for a better link in WP0215 Section 9.2 between "A biological substrate is then no
+additional requirement" and the non-Turing sentence, adding "biological substrate need implies
+hypercomputation I guess". I wrote "Under H1 and experiential stability, needing one would
+imply hypercomputation (Section 7.4)", told him the guess "holds inside the framework",
+installed it at his word, and it went into the public v1.4.0. K, an hour later: "not sure your
+change is sound ... maybe double check yoursefl the logic with the Section 7.4". Checked
+against the text, the sentence overstates: it drops the realization condition that Sections 9.2
+and 2.4 state (an emulator can approximate the dynamics and still not share the organization),
+it drops "in principle" (Sections 7.4 and 2.4), and it names biology where under H1 only a
+non-Turing capacity could be needed.
+
+Practice: before vouching for an implication, write its premises beside the sentence it
+follows from and form the contrapositive; quote the cited section's own statement of the claim
+and keep its scope words. When K marks something as a guess, say what holds and what does not
+before drafting, and prefer his original sentence plus a link over a stronger rewrite. A
+sentence headed for a public deposit gets this check before the install.
