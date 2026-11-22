@@ -4337,3 +4337,8 @@ side of the mismatch). If the role looks wrong to me, ask before replacing it.
 Same morning, twice: I wrote a clock time I had not read (a peer-message heading and a commit
 message quoting K "10:05 CET"). The rule stands as written in the earlier entries: read the time
 or leave it out.
+
+Same day, 12:48: a commit of K's saved edits was labeled "saved 12:46:31" and contained his
+12:48:10 save, with a hunk I had not reviewed; I had read the save time in an earlier command.
+Practice: when committing K's saves, read the file's save time with `stat` in the same command
+as the commit and put that value in the message, then diff the commit against what was reviewed.
