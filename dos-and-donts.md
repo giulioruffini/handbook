@@ -1024,6 +1024,9 @@ asked for the conservation principle and three-term split before the gate.
 State the general balance before its instance, define its terms locally,
 and distinguish the exact algebraic identity from conservation up to coding
 overhead.
+On November 23, K asked me to state the point of WP0215’s register swap before
+describing it. Put the claim in plain terms in the manuscript itself, even
+when the editorial note already explains why the example belongs there.
 
 In WP0218 draft 9, K found “Reversibility is unnecessary” confusing because
 the APB was meant to express information conservation. Present complete-state
