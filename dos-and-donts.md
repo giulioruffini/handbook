@@ -4422,3 +4422,23 @@ result the paper relies on is stated in the main text; context for it is not. Wh
 text, move it verbatim, change only what the new surroundings force (here "its" to "a
 system's"), and show a pointer to the Supplement before installing one.
 
+### 2026-11-23 — WP0215 Section 4.1: keep the noun K's point rests on, and test a general sentence
+
+K described "a hierarchy of programs reaching at some point the level of how bits are
+manipulated" and asked for a statement of it. My sentence read "an algorithm is carried out by
+a program, the program by machine instructions ... and the instructions by circuits", which
+dropped the word "program" at the lowest level. K: "you are not clarifying that 'machine
+language' is still a program!", then "machine language and assembly language are programming
+languages ... am I wrong?" He was right; the text now says "a hierarchy of programs ... The
+machine-language program is still a program". Practice: when K states a concept in his own
+terms, the term that carries the point stays in every clause where the point applies; do not
+vary the noun for style.
+
+The same afternoon two sentences I wrote for this passage claimed more than is true, and Kaiti
+caught both: a pair of values the first machine "never passes through" (false for equal
+starting values; I had traced one case), and every level "closed at its own steps" (program
+translation does not establish closure in the paper's sense). Practice: a general sentence
+drawn from one traced example is tested on the degenerate case and against the paper's
+definition of each technical word before K sees it, and it goes to Kaiti for a fault check
+before it is installed when she is on the paper.
+
