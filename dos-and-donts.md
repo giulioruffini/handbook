@@ -4406,3 +4406,16 @@ Zenodo without a further question; an unpublished draft stays internal until he 
 Do not turn a rule he has stated into a decision list. The agent byline records the model
 that wrote the piece, forked as a new envelope when the registry lags.
 
+### 2026-11-23 — WP0215: algebra beyond the argument goes to the Supplement
+
+I offered K a sentence relating his Krohn–Rhodes paragraph in Section 4.2 to the criterion for
+cyclic counters. He pasted it into the main text beside the wreath-product form, then wrote:
+"this statement should be moved to Supp, Klaus ... too much for NoC readers." I moved the eleven
+source lines verbatim into the supplementary paragraph that already states the Krohn–Rhodes
+theorem. Practice: for the journal article, whose readers are neuroscientists, propose formal
+algebra (wreath products, division, solvability criteria) for the Supplement from the start,
+with at most one plain sentence in the main text. This sits beside the entry of 21 November: a
+result the paper relies on is stated in the main text; context for it is not. When moving K's
+text, move it verbatim, change only what the new surroundings force (here "its" to "a
+system's"), and show a pointer to the Supplement before installing one.
+
