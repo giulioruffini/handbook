@@ -1104,6 +1104,13 @@ self-hosted page in `giulioruffini-dot-com-site/public/blogs/` and start from it
 (title band, kicker "Kolmogorov Theory · BCOM Blog", blue headings, coral-edged callouts),
 then improve on it; site blog pages are light-themed standalone HTML registered by a
 `content/blog/*.md` entry with `externalUrl: "/blogs/…"`, and a push to main deploys.
+On November 23, K asked of the essays just registered as blog WPs: "the blogs we just did should
+cross reference.... simulation, monoid, hypercomputation, pattern persist... etc. Do they?" They
+did not; each had been published on its own. Practice: a new essay carries a Related essays block
+linking the BCOM Blog essays it relates to, and those essays link back to it; translations link
+same-language editions where they exist. Put the links in the page's own idiom (colophon row,
+companion-essay card beside the passage, footer line) and change no sentence. Record of the
+November 23 network: WP0215 `notes/2026-11-23_klaus/cross_references/`.
 That evening, on hypercomputation and physics, the paragraph drafted for the essay led with
 conditions and hedges, and K wrote: "I need a simpler way to catch the intuition and
 connection" (black-hole physics forbids unlimited information in a bounded region). Practice:
