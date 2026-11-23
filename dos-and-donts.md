@@ -4396,3 +4396,13 @@ November the three essays became WP0261 (English), WP0262 (Spanish) and WP0263. 
 translation its own number is my reading of "the two blogs ... one in english the other in
 spanish"; K has not said so in those words. Before starting any new kind of artifact, list
 `working_drafts` for an existing one of the same kind and follow its form.
+
+The same morning I registered the three essays as internal records and listed "public or
+internal" among the decisions for K. He answered twice: "blogs can go to Zenoto too yes, of
+course, they are already public in my web. Applies to older blogs too", then "as I said, the
+blogs should be PUBLIC (in general)". He also asked for the agents on the blog bylines "with
+latest models". Practice: a blog that is on his website is public in Calliope and deposited on
+Zenodo without a further question; an unpublished draft stays internal until he releases it.
+Do not turn a rule he has stated into a decision list. The agent byline records the model
+that wrote the piece, forked as a new envelope when the registry lags.
+
