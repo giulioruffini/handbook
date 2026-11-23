@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On November 23, 2026 (WP0215), K rejected a tweet that made the color-perception example sound like the subject of the paper. For a public post, lead with the question that motivates the whole paper and give a concrete reason to read it.
+
 - On November 19, 2026 (WP0215, Preprints.org), I advised against posting because the paper would appear twice on Google Scholar, alongside its Zenodo record. K: "I don't think google scholar sees zenodo." Zenodo's own FAQ confirms that Google Scholar does not index Zenodo, so the argument was wrong and the recommendation reversed. Check indexing, coverage, and policy claims before building a recommendation on them; a plausible general fact recalled from memory is not evidence.
 
 - On November 19, 2026 (WP0215), I redrew K's "good clock simplifies equations" slide for the supplement. After a review I relabeled the irregular-clock panel "x(n) not linear in tick count" and added the caption caveat that an irregular clock can still have a short rule. K: "C'mon, the simplest rule is a straight line, that's the point to make... don't get lost in caveats!" An illustrative figure and its caption state the point the figure makes. A reviewer's correct but marginal qualification belongs in the text, if the argument needs it there, not in the label or caption.
