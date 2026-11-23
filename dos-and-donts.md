@@ -4442,3 +4442,12 @@ drawn from one traced example is tested on the degenerate case and against the p
 definition of each technical word before K sees it, and it goes to Kaiti for a fault check
 before it is installed when she is on the paper.
 
+Later the same afternoon I offered, unasked, to name assembly language as well, and on K's "ok
+implement" installed "Assembly language can express the same machine instructions with symbolic
+names." between the sentence on the high-level program and the one on machine language. K:
+"not good... the transition from high level to compiled machine language is enough I think...
+you don't explain assembly then jump to machine language... read what you wrote". He deleted
+the sentence himself before I could. Practice: do not offer an extra item for a passage K has
+just accepted; after any insertion, read the whole paragraph aloud in order and ask of each
+term whether the reader has met it; a term that is named and then dropped goes out.
+
