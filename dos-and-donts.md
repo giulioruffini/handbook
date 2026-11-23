@@ -4463,4 +4463,7 @@ brains and emulators, a statement drawn from computers is scoped to computers; a
 brain can share (nested programs) is stated as a possibility with "can"; a term that exists only
 for built machines (machine language, instruction set, processor) carries "in digital
 computers".
+K then asked to remove the two-line machine-language label beneath Figure 6 because the
+caption already gave that qualification. Keep labels that identify parts of the diagram
+and give this kind of qualification once in the caption.
 
