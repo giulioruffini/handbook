@@ -4451,3 +4451,16 @@ the sentence himself before I could. Practice: do not offer an extra item for a 
 just accepted; after any insertion, read the whole paragraph aloud in order and ask of each
 term whether the reader has met it; a term that is named and then dropped goes out.
 
+At 15:51 I installed, on K's "ok", the sentence "Programs are themselves nested: each is
+implemented by lower-level programs, down to machine language, which differ in the same ways",
+with the same wording in the caption and in Figure 6. K: "each 'can' be nested... and machine
+language applies to physical computers", "not brains, for example", "brain can also operate
+with such a nesting of programs... but 'machine language' is something else, no?" He then
+added "in digital computers" to his own first paragraph. Fixed (8e116d91): "Programs can
+themselves be nested: each can be implemented by lower-level programs, in digital computers
+down to machine language, and these can differ in the same ways." Practice: in a paper about
+brains and emulators, a statement drawn from computers is scoped to computers; a structure the
+brain can share (nested programs) is stated as a possibility with "can"; a term that exists only
+for built machines (machine language, instruction set, processor) carries "in digital
+computers".
+
