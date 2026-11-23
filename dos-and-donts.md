@@ -4376,3 +4376,23 @@ state the author's logic in one line and check whether his text already makes th
 distinction; if it does, the answer to the reviewer is that sentence, not an edit. Do not
 turn a fine point into repeated rewrites of text that is public and that K considers settled;
 bring him one question, once.
+
+### 2026-11-23 — blogs are working papers
+
+Three essays had been written as files inside the notes folders of their source papers, with no
+WP number: the WP0215 essay "What a Brain Simulation Must Keep" (English and Spanish, both
+already on the website) and "The Monoid Inside Every Program" (then a private draft). K: "BTW,
+the blogs we do should be WPs. This applies to the two blogs we did a couple of days ago on 215,
+one in english the other in spanish, and also this one. WPs can be blogs, remember?" and "the
+one we are doing now should be pushed to my website as usual too." The precedent was in the
+folder all along (WP0223, WP0224 and WP0226 are `WPxxxx-BLOG_<Title>` folders, and Calliope has
+a `blog` kind); I had not looked.
+
+Practice: an essay or blog is a working paper from its first draft. Reserve a number in Calliope
+and set kind `blog`; give it a folder `working_drafts/WPxxxx-BLOG_<Title>/` with `main.md` as
+Calliope's pinned source, a README and a todo; show the number on the page; publish it on
+giulioruffini.com as the usual last step once K has given the word for that essay. On 23
+November the three essays became WP0261 (English), WP0262 (Spanish) and WP0263. Giving the
+translation its own number is my reading of "the two blogs ... one in english the other in
+spanish"; K has not said so in those words. Before starting any new kind of artifact, list
+`working_drafts` for an existing one of the same kind and follow its form.
