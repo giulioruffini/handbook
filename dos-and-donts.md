@@ -3141,6 +3141,13 @@ section with the result it establishes, move numerical diagnostics to Methods, a
 end literature comparisons with their consequence for the paper. Read the actual
 annotated PDF for placement, and distinguish a generated DC drive from its
 downstream physiological response when stating the focality restriction.
+On November 24, I objected to “detection of the envelope” as though quadratic
+TI detection were a different mechanism from envelope detection. K pointed out
+that the mechanism detects the power envelope. Distinguish amplitude-envelope
+following from power-envelope detection; quadratic detection is an envelope
+detector. For weak static detection the generated source is proportional to the
+squared polarization envelope, with both steady and beat components. Do not
+reject the generic term when the text specifies the detector law separately.
 On October 20, K found TN0484 draft20’s opening damaged by accumulated review
 edits: forward pointers interrupted the argument, model definitions arrived
 before their purpose, and audit qualifications read as detached corrections.
