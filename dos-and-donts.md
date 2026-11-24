@@ -1082,6 +1082,14 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-24 — Plain symbols; subscripts only to disambiguate
+
+On November 24, 2026 (TN0484), K: "do we need u_{PSP} ... why not simply u? Revise notation
+for such overcomplications". Practice: use the plain symbol when it is unambiguous in its
+context; add a subscript only when it separates two quantities the reader could confuse
+(e.g. Y_DC vs Y_Omega, sigma_cond vs the sigmoid sigma). Check the notation table for
+collisions before simplifying.
+
 ### 2026-11-24 — No colon before a displayed equation
 
 On November 24, 2026 (TN0484, JNE preparation), K: "I don't like preceding equations with
