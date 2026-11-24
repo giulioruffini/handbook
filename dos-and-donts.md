@@ -4555,3 +4555,18 @@ K then asked to remove the two-line machine-language label beneath Figure 6 beca
 caption already gave that qualification. Keep labels that identify parts of the diagram
 and give this kind of qualification once in the caption.
 
+
+### 2026-11-24 — TN0486: the objective must be declared in the abstract and the Introduction
+
+On reading TN0486 (WP0184) v0.4.2-draft1, K asked for a prose review and said: "I don't like
+already how the objective is declared (or rather, undeclared)". The JNE abstract's
+"Objective." slot held a background sentence ("FC is measured from slow BOLD fluctuations, but
+their origin and its consequences for FC remain unresolved"), and the Introduction's last
+paragraph opened "We test that distinction", so no sentence said what the study set out to
+determine. Kaiti and I had carried that structure through eight drafts. Practice: the
+Objective slot of a structured abstract states the aim (TN0484's "To determine how ..." is the
+house precedent), and the Introduction states it in one sentence where the gap is closed,
+naming the system studied so that a model study does not read as a claim about the brain.
+Check that the conclusion answers that sentence. Before circulating any draft, read the
+abstract's Objective and the Introduction's closing paragraph and ask whether a reader can say
+what the paper set out to find.
