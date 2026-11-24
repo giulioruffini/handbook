@@ -1088,7 +1088,9 @@ On November 24, 2026 (TN0484), K: "do we need u_{PSP} ... why not simply u? Revi
 for such overcomplications". Practice: use the plain symbol when it is unambiguous in its
 context; add a subscript only when it separates two quantities the reader could confuse
 (e.g. Y_DC vs Y_Omega, sigma_cond vs the sigmoid sigma). Check the notation table for
-collisions before simplifying.
+collisions before simplifying. K then asked to drop "(t)" where not needed: write the
+argument only where t appears explicitly on the other side (e.g. s(t)=eps cos(omega t)) or
+where it distinguishes a function from a value; drop it in prose and in ODEs.
 
 ### 2026-11-24 — No colon before a displayed equation
 
