@@ -1152,6 +1152,16 @@ and pronoun fixes in the same pass, under the TeXShop check, in a commit separat
 his saved edits, and report them. Hand back only choices of content or scope. A fix
 that reverses an edit K made minutes earlier is still reported as such.
 
+Extended 2026-11-24 (Filo director form). After building the Google Form in K's Chrome,
+I listed the remaining steps (email collection to Verified, Publish, sending the link) as
+his. K: "I think it is working, what do i do? Or WHY DONT you do it yourself??" The
+Publish dialog accepted scripted clicks and the Gmail connector drafts mail, so both were
+mine to do. Practice: when the session's tools reach a step, do it and report it; hand
+back only what needs K (an OAuth consent, the final send of a message to colleagues, a
+control that ignores scripted input) and say for each why. Do not reach such a control
+with OS-level clicks or keystrokes while K is at the machine: a Space keystroke meant for
+Chrome went to his terminal.
+
 ### 2026-11-14 — Read text as its first reader before it enters the paper
 
 On K's "do this" I applied Kaiti's replacement for WP0215 Section 7.4. Its paragraph
