@@ -5,6 +5,8 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On November 24, 2026 (TN0486), K asked whether he had already emailed the coauthors. The project status still described an unsent draft, but Sent mail confirmed circulation to all three coauthors on October 24 with both PDFs attached. Verify communication status in mail before relying on project notes; distinguish a prepared draft, a sent message, and received feedback, and correct stale status records.
+
 - On November 23, 2026 (WP0215), K rejected a tweet that made the color-perception example sound like the subject of the paper. For a public post, lead with the question that motivates the whole paper and give a concrete reason to read it.
 
 - On November 23, 2026 (WP0215, NoC submission), the significance statement and letter described shared organization and then listed the tracker's operations. K wanted the connection stated explicitly. Say that exact emulators share an update monoid at the coarsest grain retaining the chosen content. For the tracker driven only by symmetries and overwriting observations, identify its reversible symmetry group and irreversible writes.
