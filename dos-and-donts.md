@@ -1082,6 +1082,15 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-24 — No colon before a displayed equation
+
+On November 24, 2026 (TN0484, JNE preparation), K: "I don't like preceding equations with
+a ':'! Revise and fix". Four displays in TN0484 were introduced by a colon (synaptic
+filter, coupling equation, even-power transduction, PEIX definition). Practice: a
+displayed equation continues the sentence that introduces it. End the lead-in with a
+comma, or with no punctuation when the equation completes the clause, never with a
+colon. Applies to papers, notes and drafts I write, and to proposals sent to Kaiti.
+
 ### 2026-11-15 — WP0215 essay: the general-reader version dropped parts of the paper's position
 
 Drafting the essay "What a Brain Simulation Must Keep" from WP0215, I wrote "My candidate is
