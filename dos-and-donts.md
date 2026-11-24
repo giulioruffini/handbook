@@ -3148,6 +3148,10 @@ following from power-envelope detection; quadratic detection is an envelope
 detector. For weak static detection the generated source is proportional to the
 squared polarization envelope, with both steady and beat components. Do not
 reject the generic term when the text specifies the detector law separately.
+Later that day, K asked that the proposed abstract preserve content and begin with
+an Objective statement. State the scientific aim under Objective and the model under
+Approach. When replacing opaque budget language, retain both the estimated input
+budget and its assumed coupling and response times; fluent wording must preserve scope.
 On October 20, K found TN0484 draft20’s opening damaged by accumulated review
 edits: forward pointers interrupted the argument, model definitions arrived
 before their purpose, and audit qualifications read as detached corrections.
