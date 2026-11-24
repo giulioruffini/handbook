@@ -3115,8 +3115,11 @@ same filter. Show the conversion when explaining the synapse. K then
 reiterated: "r is rate, not synaptic potential." Keep r for firing rate and u
 for synaptic potential; whenever u is gain-normalized, state the conversion
 and resulting units explicitly instead of treating rate and voltage as the same quantity.
-For the submission, K approved normalized \(u\) in B6 with a note giving its
-physical voltage. Use \(u_E,u_I\) for the corresponding PING potentials.
+K accepted normalized \(u\) in B6 with a note giving its physical voltage.
+I treated the notation discussion as permission to edit and commit the whole
+paper (9f2b3c1). K clarified that he wanted me to read it and tell him what I
+found. For this submission review, report findings to K and leave the shared
+manuscript, figures, and PDFs alone unless he explicitly asks for an edit.
 
 On October 3, I continued to foreground whether QIF reproduces specific channel
 kinetics. K clarified that the paper concerns weak-field TI, where cellular
