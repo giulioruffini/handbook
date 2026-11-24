@@ -1091,6 +1091,11 @@ context; add a subscript only when it separates two quantities the reader could 
 collisions before simplifying. K then asked to drop "(t)" where not needed: write the
 argument only where t appears explicitly on the other side (e.g. s(t)=eps cos(omega t)) or
 where it distinguishes a function from a value; drop it in prose and in ODEs.
+Later the same day K asked "what is mathcal I? Make sure each symbol is defined before
+using, and remind if it was a while ago when it was used sparsely": the mean-square map I was
+used in Sec 2.3 before the table that defined it, and reused in Sec 2.5 bare. Practice: define
+every symbol in words at or before its first use (a float or the notation table does not
+count), and when a symbol returns after a long gap, recall it in a few words.
 
 ### 2026-11-24 — No colon before a displayed equation
 
