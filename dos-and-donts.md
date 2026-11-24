@@ -3092,6 +3092,12 @@ conceptual obstacle. Distinguish being fast relative to synapses from being fast
 enough to track the carrier, and distinguish surviving synaptic network resonance
 from the membrane-dependent modes eliminated by the reduction.
 
+On November 24 (TN0484, B6), I described the filtered rate when K was asking
+where the postsynaptic potential \(u\) had gone. For this normalization, show
+the conversion explicitly: Clusella et al. define \(s=u/(C\gamma)\), so the
+simulation's rate-valued synaptic state and the physical PSP describe the
+same filter. Use the dimensional equation when explaining the synapse.
+
 On October 3, I continued to foreground whether QIF reproduces specific channel
 kinetics. K clarified that the paper concerns weak-field TI, where cellular
 nonlinearities should be represented by an effective quadratic mixing response;
