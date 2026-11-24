@@ -2564,6 +2564,8 @@ free of confusing copies: retain editable LaTeX, required bibliography/images, a
 notes; keep generated PDFs, redlines, and auxiliary research notes in the canonical working-paper
 folder. Check retained copies before removing mirror duplicates.
 
+For TN0484 on November 24, K found the separate supplement root confusing in Overleaf and asked to remove it. This project keeps the supplement PDF for reading while the article remains the compiled main document. Do not restore the wrapper or its article AUX during later syncs; keep the supplement PDF and the supplement AUX used by article references current. This supersedes the earlier two-root workflow for TN0484.
+
 K found the infographic’s identical agent societies A and B confusing. The drawing left unclear
 whether the second population was a neighbor, a successor, or the same society later, and did not
 show what learning or transmission changed. In diagrams of acquired-to-inherited transmission,
