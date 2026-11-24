@@ -3106,7 +3106,10 @@ On November 24 (TN0484, B6), I described the filtered rate when K was asking
 where the postsynaptic potential \(u\) had gone. For this normalization, show
 the conversion explicitly: Clusella et al. define \(s=u/(C\gamma)\), so the
 simulation's rate-valued synaptic state and the physical PSP describe the
-same filter. Use the dimensional equation when explaining the synapse.
+same filter. Use the dimensional equation when explaining the synapse. K then
+reiterated: "r is rate, not synaptic potential." Keep r for firing rate and u
+for synaptic potential; whenever u is gain-normalized, state the conversion
+and resulting units explicitly instead of treating rate and voltage as the same quantity.
 
 On October 3, I continued to foreground whether QIF reproduces specific channel
 kinetics. K clarified that the paper concerns weak-field TI, where cellular
