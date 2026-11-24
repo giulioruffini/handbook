@@ -3127,6 +3127,11 @@ table in the article's first appendix, verify its presence in the actual reading
 PDF, and distinguish article references from supplement references. A source-level
 notation pass is incomplete until equations, figure labels, units, and that table
 agree in both rendered editions.
+On November 24, K found the distinction between f_c and f_1 unclear after my
+Introduction equation revision. Define the center frequency directly in hertz,
+f_c=(f_1+f_2)/2=f_1+Delta f/2, at first use; do not leave that distinction implicit
+in angular-frequency notation. Keep the applied tone frequencies separate from
+the midpoint used in the amplitude–phase representation.
 For the subsequent whole-paper pass, K specified shortening by de-duplication and
 relocation, with any proposed removal of an explanation, example, qualification,
 or result listed for approval and retained meanwhile. Report per-section word
