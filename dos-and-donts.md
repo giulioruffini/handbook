@@ -3679,6 +3679,8 @@ K then clarified that Joan's message was in Google Chat. Establish the communica
 before creating an external draft; a request for a message does not by itself mean email.
 For a Chat reply, prepare text for that channel unless K asks for an email.
 
+On November 24 (TN0484), I handed the coauthor email send to Klaus after a release note said it should be sent after integration. A later-arriving clarification specified that K sends it. I corrected the handoff before any send was reported. Practice: preserve the named sender when delegating release steps; preparing or synchronizing the package does not transfer a send reserved for K.
+
 ## Sharing tools: ask the recipients' platform first
 
 On October 7, 2026, K asked how to share the peer-message skill with Ricardo and Borja. I
