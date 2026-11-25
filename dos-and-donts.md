@@ -1084,6 +1084,19 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-24 — An office's format request does not choose the format; K does
+
+On November 24, 2026 (WP0215, NCONSC-2026-460), the NoC office unsubmitted the manuscript
+asking for "an editable word document file" instead of the PDF main document. K said "fix
+it" and I converted the LaTeX into a Word file, replaced the PDF with it in ScholarOne and
+committed it. K: "No, I did not ask for a Word file. The latex zip is what I want ... remove
+the word file from submission, attach the zip latex package." He then pasted the journal's
+own instructions: any common format, "A single PDF file is usually reliable." Practice: when
+an office asks for a format change, check the journal's published instructions and the files
+already prepared (here the LaTeX ZIP in Kaiti's packet), and propose the format to K before
+producing a new edition or replacing a submitted file. A conversion is a new edition of the
+paper and needs his choice.
+
 ### 2026-11-24 — Plain symbols; subscripts only to disambiguate
 
 On November 24, 2026 (TN0484), K: "do we need u_{PSP} ... why not simply u? Revise notation
