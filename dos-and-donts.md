@@ -5,6 +5,7 @@ K's current instructions take precedence; keep scientific corrections tied to th
 
 ## Working rules
 
+- On November 25, 2026 (NE-legal, bridge consent), I drafted K's reply to Ana in Spanish because their recent emails were in Spanish. K: "write in english". Draft messages for K in English unless he asks for another language, even when the thread or recipient uses Spanish.
 - On November 24, 2026 (TN0486), K asked whether he had already emailed the coauthors. The project status still described an unsent draft, but Sent mail confirmed circulation to all three coauthors on October 24 with both PDFs attached. Verify communication status in mail before relying on project notes; distinguish a prepared draft, a sent message, and received feedback, and correct stale status records.
 
 - On November 23, 2026 (WP0215), K rejected a tweet that made the color-perception example sound like the subject of the paper. For a public post, lead with the question that motivates the whole paper and give a concrete reason to read it.
