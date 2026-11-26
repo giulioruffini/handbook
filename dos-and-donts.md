@@ -3559,6 +3559,12 @@ additional observable truncation; a derived quadratic map is not an arbitrary sq
 addition. Keep that mathematical distinction separate from the chosen experimental arms,
 and transform coupling and forcing to their declared order as well.
 
+On November 26, 2026, I cited Rosetta Stone Appendix H.5 in a weak-field tDCS
+discussion and omitted its finite-bias result. K pointed out that a large DC
+bias can extinguish the SL limit cycle. When explaining tonic forcing, include
+the stable equilibrium reached at sufficient bias when the model shows it, and
+keep the threshold in model units until the field-to-mode gain is calibrated.
+
 ### 2026-10-08 — TN0486: external drive is synaptic input
 
 Adapting NE's synaptic BOLD drive to PING, I proposed leaving the common drive eta and the noise out
