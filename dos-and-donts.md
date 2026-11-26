@@ -60,6 +60,13 @@ K's current instructions take precedence; keep scientific corrections tied to th
   Read that synced copy when checking collaborators' current file edits; a
   manual GitHub sync is not required. Compare before integrating, and use
   Overleaf itself when review comments or edit attribution are needed.
+  On November 26 (TN0484), once co-authors were editing in Overleaf, K asked
+  me to remove Nir Grossman and I began merging their edits into the repo to
+  push a new version. K: "We just watch the Overleaf and take note of the
+  changes there... I will paste the new abstract myself", "and remove Nir from
+  Overleaf myself too". While co-authors comment in Overleaf, Overleaf is the
+  live copy: watch and log its changes, propose edits as text for K to paste,
+  and push nothing to the Overleaf repo until K says the comment round is over.
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
