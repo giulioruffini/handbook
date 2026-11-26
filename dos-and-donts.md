@@ -64,9 +64,11 @@ K's current instructions take precedence; keep scientific corrections tied to th
   me to remove Nir Grossman and I began merging their edits into the repo to
   push a new version. K: "We just watch the Overleaf and take note of the
   changes there... I will paste the new abstract myself", "and remove Nir from
-  Overleaf myself too". While co-authors comment in Overleaf, Overleaf is the
-  live copy: watch and log its changes, propose edits as text for K to paste,
-  and push nothing to the Overleaf repo until K says the comment round is over.
+  Overleaf myself too", then "push is fine, just don't touch Overleaf!" and "We
+  use overleaf to collect edits from collaborators ... we just watch it, but we
+  update our copy and repo". During a co-author round: never write to Overleaf
+  (no Dropbox writes, no push to the Overleaf mirror's main); read its changes
+  into our repo, commit and push there; K pastes text into Overleaf himself.
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
