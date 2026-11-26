@@ -3564,6 +3564,11 @@ discussion and omitted its finite-bias result. K pointed out that a large DC
 bias can extinguish the SL limit cycle. When explaining tonic forcing, include
 the stable equilibrium reached at sufficient bias when the model shows it, and
 keep the threshold in model units until the field-to-mode gain is calibrated.
+Later that day K clarified that Jakub's Hopf oscillator represents slow BOLD
+fluctuations. I had used the 40 Hz PING node to illustrate field coupling.
+For Jakub's model, use human BOLD-band measurements to constrain the response.
+Keep changes in mean oxygenation or perfusion distinct from changes in the
+amplitude or frequency of resting fluctuations.
 
 ### 2026-10-08 — TN0486: external drive is synaptic input
 
