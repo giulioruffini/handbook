@@ -69,6 +69,10 @@ K's current instructions take precedence; keep scientific corrections tied to th
   update our copy and repo". During a co-author round: never write to Overleaf
   (no Dropbox writes, no push to the Overleaf mirror's main); read its changes
   into our repo, commit and push there; K pastes text into Overleaf himself.
+  Later on November 26, K required a separate private repository for every TN
+  and WP. Keep working branches and their upstream/push remotes in that private
+  repository; a public release repository is a separate destination, not the
+  working branch's default. TN0484 uses remote `private`, not public `origin`.
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
