@@ -1929,6 +1929,16 @@ a technical restriction prevents beside the restriction. A clean build and a reg
 not substitute for reading the argument. WP0007 v0.31.10 applies this correction with redlines and
 a fidelity review preserving the scientific distinctions, examples, proofs, and valued figures.
 
+On November 27, 2026 (gemma-discussions, Rosen and Lawvere deck for K and Francesca), I opened
+the Lawvere section with category-theory vocabulary: objects, points, H(A, B), evaluation,
+currying, Cartesian closed categories. K: "I think you assume we are familiar with category
+theory or something, this makes zero sense to me." Category theory, logic and recursion theory
+are outside K's working vocabulary, though physics and analysis are not. When K asks to
+understand a field, build the explanation on one concrete running example in plain words (here a
+table of 0s and 1s whose rows and columns carry the same labels), introduce a formal term only
+after the concrete thing it names, and confine vocabulary needed only to read the sources to a
+translation slide or one labeled line.
+
 On September 26, K requested a full redlined candidate after the revision guide and asked what
 the examples and concept table contribute. Keep new insertions economical; state each example's
 purpose before its bit accounting. Organize the table by the questions behind weak emergence,
