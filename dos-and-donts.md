@@ -3574,6 +3574,11 @@ K asked to compare both TN0486 regimes using the same signed voltage shift
 inside the neural sigmoid. Treat direct forcing and noise modulation in a Hopf
 model fitted to BOLD as effective hypotheses until a reduction or data identify
 the coupling. Distinguish converting noise amplitude to variance from assuming polarity symmetry.
+K also pointed out that a heading about quenching omitted the rising side of the
+amplitude curve. Give the starting tonic bias and distinguish the cycle mean,
+upper peak, and half peak-to-peak amplitude. In this example a positive increment
+from negative bias raises the mean and amplitude up to zero total bias. Beyond
+zero the mean keeps rising over the plotted range while the amplitude falls to zero.
 Later on November 27, K asked that polarization values produce meaningful detuning
 and that the target's native ISO role be checked before intervention. Calibrate
 candidate offsets against the actual parcel's carrier separations and Hopf proximity;
