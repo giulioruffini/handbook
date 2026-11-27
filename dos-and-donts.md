@@ -76,6 +76,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
 - Treat requests for an opinion or scientific discussion as discussion. Edit the manuscript when
   K requests edits. Handbook and TODO maintenance remain authorized during discussion and do not
   require separate permission.
+  On November 27 (WP0203), I suggested a section for a citation offered by a correspondent.
+  K reminded me that GART was already published in *Entropy* and asked how to reply. When a
+  colleague sends related work after publication, frame the reply around the scientific connection.
   On November 14 (WP0215), after discussing one abstract passage, K asked for a final
   revision; I returned only that passage although the active request was the full abstract.
   Carry the broader deliverable through local wording exchanges; a local focus does not
