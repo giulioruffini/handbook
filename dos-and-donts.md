@@ -4331,6 +4331,16 @@ bugs". Practice: when carrying a year's goals forward, account for every prior l
 replaced, or dropped with a reason; where the record does not say who does the work, write
 "to assign" and ask, since a named guess reads as an assignment.
 
+### 2026-11-27 — NE 2027 goals: key results too fine-grained, and some not measurable
+
+By v0.10 the BM and IT sheets carried 49 key results, while HR's template has 17 key-result rows
+for five goals; several (Wi-Fi "stable", requests "served", a kit "kept current", papers
+"scoped") had no test. K: "Can we simplify the xls goals a bit... too micro? And they should be
+measurable." Practice: size a goal sheet to the template it will be pasted into (three or four
+key results per goal), move the detail into the MITs rather than deleting it, and give each key
+result a check (the record that shows it was met) and, where it is a quantity, a target or the
+date the target will be set.
+
 ### 2026-11-18 — WP0215: I endorsed a position label that uses the call's term for the rejected view
 
 Reporting the special issue's call, I quoted its definition of implementationism (dependence on
