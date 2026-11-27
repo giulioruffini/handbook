@@ -3574,6 +3574,12 @@ K asked to compare both TN0486 regimes using the same signed voltage shift
 inside the neural sigmoid. Treat direct forcing and noise modulation in a Hopf
 model fitted to BOLD as effective hypotheses until a reduction or data identify
 the coupling. Distinguish converting noise amplitude to variance from assuming polarity symmetry.
+Later on November 27, K asked that polarization values produce meaningful detuning
+and that the target's native ISO role be checked before intervention. Calibrate
+candidate offsets against the actual parcel's carrier separations and Hopf proximity;
+an isolated-node slope is a guide until the coupled response is measured. A high-pass
+on the target's output tests its ISO export while retaining gamma-mediated generation
+in receivers; do not describe it as removal of the target's ISO generator.
 
 ### 2026-10-08 — TN0486: external drive is synaptic input
 
