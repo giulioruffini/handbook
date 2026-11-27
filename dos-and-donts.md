@@ -4347,6 +4347,13 @@ key results per goal), move the detail into the MITs rather than deleting it, an
 result a check (the record that shows it was met) and, where it is a quantity, a target or the
 date the target will be set.
 
+### 2026-11-27 — "Open the folder and I will drop it in" meant the destination folder
+
+When the upload to HR's Drive file failed, K wrote "open the finder folder for me and I will
+simply drop it in". I revealed the local file in Finder; K: "I meant open the Drive folder!".
+Practice: when K offers to drag a file himself, open the place it goes (here the Drive folder in
+the browser, with the right account), and have the source ready beside it.
+
 ### 2026-11-18 — WP0215: I endorsed a position label that uses the call's term for the rejected view
 
 Reporting the special issue's call, I quoted its definition of implementationism (dependence on
