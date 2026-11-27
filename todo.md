@@ -37,5 +37,5 @@
 - [x] add handbook CLAUDE.md and AGENTS.md instructions to read and maintain the preference record
 - [x] install the personal-handbook pointer in the global Claude and Codex instructions
 - [x] record K's distinction between usable regularities and an already short model
-- [x] record the scope of scientific discussion and handbook maintenance, including replies about published papers — updated 2026-11-27
+- [x] record the scope of scientific discussion and handbook maintenance, including how to explain an example before using it in a reply — updated 2026-11-27
 - [x] record K's correction on premature jargon and repeated conceptual updates

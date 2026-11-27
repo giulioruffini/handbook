@@ -79,6 +79,9 @@ K's current instructions take precedence; keep scientific corrections tied to th
   On November 27 (WP0203), I suggested a section for a citation offered by a correspondent.
   K reminded me that GART was already published in *Entropy* and asked how to reply. When a
   colleague sends related work after publication, frame the reply around the scientific connection.
+  I then put the alternating tape in a proposed reply before explaining the apparatus. K said he
+  did not follow the example. Explain the physical setup, what changes in one step, and where the
+  work comes from before using the example to compare the papers or putting it in K's voice.
   On November 14 (WP0215), after discussing one abstract passage, K asked for a final
   revision; I returned only that passage although the active request was the full abstract.
   Carry the broader deliverable through local wording exchanges; a local focus does not
