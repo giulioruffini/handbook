@@ -2494,7 +2494,7 @@ said "it works": I could not see the jargon from inside, and I graded my own wor
 paragraph under review is one I wrote, say so in the comment and read it as K would, asking what
 the reader can now predict or compute, not whether the terms are used correctly.
 On November 27 (WP0277), K found the conversion from noise amplitude to variance too abstract and asked whether it contained any physics. Show what a change in the model does to one random input, then identify the physical assumption about how the input responds to field reversal.
-K also flagged the use of neuronal voltage notation in the slow BOLD model. Write a proposed BOLD drive directly as a gain times the signed electric field. Name the term being changed (drift or noise amplitude) before explaining how it behaves under field reversal.
+K also flagged the use of neuronal voltage notation in the slow BOLD model. Express the coupling using the signed electric field and name the term being changed. For his two noise models, show the same fixed mean and compare their standard deviations at zero and opposite fields. Keep the Gaussian variance convention explicit.
 
 K sharpened the proposal using Euler and RK4: different programs can solve the same coarse-grained ODE, whose dynamical law is the proposed core program. Address uniqueness of the shared generative model before discussing uniqueness of code; do not repeatedly separate programs from dynamics in a way that obscures this correspondence. Keep the chosen reduction and numerical accuracy explicit, and distinguish this use of core from WP0007's shortest-description functional core.
 
