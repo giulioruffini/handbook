@@ -3569,6 +3569,11 @@ fluctuations. I had used the 40 Hz PING node to illustrate field coupling.
 For Jakub's model, use human BOLD-band measurements to constrain the response.
 Keep changes in mean oxygenation or perfusion distinct from changes in the
 amplitude or frequency of resting fluctuations.
+On November 27 I proposed a field comparison only in the noise-free network.
+K asked to compare both TN0486 regimes using the same signed voltage shift
+inside the neural sigmoid. Treat direct forcing and noise modulation in a Hopf
+model fitted to BOLD as effective hypotheses until a reduction or data identify
+the coupling. Distinguish converting noise amplitude to variance from assuming polarity symmetry.
 
 ### 2026-10-08 — TN0486: external drive is synaptic input
 
