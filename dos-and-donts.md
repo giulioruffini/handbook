@@ -1146,6 +1146,11 @@ K clarified the execution split: fast mechanism mapping first, replicated long r
 the realistic depression montage second. Treat field-to-polarization coupling as a
 common gain to scan across meaningful model polarizations; keep it fixed across tonic
 states rather than recalibrating away the state dependence.
+Later that day K asked whether the plan covered the cycle's closing edge; it had only
+called the upper Hopf an optional control. When the question spans the bifurcation
+diagram, state explicitly which regimes are tested locally and in the coupled network.
+Include the requested closing regime in the plan, distinguishing a high tonic operating
+point from a large stimulation dose and an autonomous cycle from a forced response.
 
 ### 2026-11-24 — An office's format request does not choose the format; K does
 
