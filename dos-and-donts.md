@@ -1124,6 +1124,14 @@ low-pass neural readout. Use “BOLD fluctuation power in 0.01–0.1 Hz”; rese
 chiefly for neural activity. State that the analysis removes each window mean and
 selects that band; hemodynamic low-pass filtering alone does not define its limits.
 
+K then asked for the study logic before further expansion: what changes physically,
+why each comparison is needed, what is measured, which plot shows it, and what outcome
+is expected. The two-initial-condition plan was insufficient for a final FC claim.
+Keep it exploratory; specify fresh independent initializations (noise paths separately
+when present), longer continuous scoring, and uncertainty/convergence checks for FC.
+Lead with operating point, gamma interactions, ISO, BOLD and covariance; keep launcher
+and archive requirements in the technical protocol.
+
 ### 2026-11-24 — An office's format request does not choose the format; K does
 
 On November 24, 2026 (WP0215, NCONSC-2026-460), the NoC office unsubmitted the manuscript
