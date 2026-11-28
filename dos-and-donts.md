@@ -1119,6 +1119,11 @@ and abbreviations coined in the campaign are spelled out (initial condition, not
 result as the physical chain he asks about, quantity by quantity with its number, before any
 audit vocabulary.
 
+Later on November 28, K objected to “BOLD ISO power” because BOLD is already a
+low-pass neural readout. Use “BOLD fluctuation power in 0.01–0.1 Hz”; reserve ISO
+chiefly for neural activity. State that the analysis removes each window mean and
+selects that band; hemodynamic low-pass filtering alone does not define its limits.
+
 ### 2026-11-24 — An office's format request does not choose the format; K does
 
 On November 24, 2026 (WP0215, NCONSC-2026-460), the NoC office unsubmitted the manuscript
