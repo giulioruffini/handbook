@@ -1142,6 +1142,10 @@ Keep it exploratory; specify fresh independent initializations (noise paths sepa
 when present), longer continuous scoring, and uncertainty/convergence checks for FC.
 Lead with operating point, gamma interactions, ISO, BOLD and covariance; keep launcher
 and archive requirements in the technical protocol.
+K clarified the execution split: fast mechanism mapping first, replicated long runs and
+the realistic depression montage second. Treat field-to-polarization coupling as a
+common gain to scan across meaningful model polarizations; keep it fixed across tonic
+states rather than recalibrating away the state dependence.
 
 ### 2026-11-24 — An office's format request does not choose the format; K does
 
