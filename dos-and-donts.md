@@ -4662,3 +4662,18 @@ naming the system studied so that a model study does not read as a claim about t
 Check that the conclusion answers that sentence. Before circulating any draft, read the
 abstract's Objective and the Introduction's closing paragraph and ask whether a reader can say
 what the paper set out to find.
+
+
+### 2026-11-28 — Branded design work starts from the brand guideline
+
+Asked on 2026-11-27 to explore a dark or grey mode for the Calliope portal, I proposed three
+palettes (Soft grey, Slate, Midnight) built from greys and blues of my own, without looking for
+a BCOM brand document. K, the next day: "check downloads for the brand guidelines, tell me how
+we can implement it to respect that but also to for usability". The guideline (Brand Guidelines
+v1.0, in Downloads) already held what the task needed: a sand neutral, an ink ramp, and the rule
+for the logo on dark grounds, which answered a question I had put to K. Practice: before
+proposing colors, type or a logo treatment for anything that carries an organization's brand,
+look for its guideline (Downloads, Drive, the brand's site) and build from its values. Say which
+values are printed in it, which are measured from its pages, and which are my own derivation,
+and name each place where the guideline and legibility conflict. The BCOM tokens and file
+locations are in the memory note `bcom-brand-guidelines`.
