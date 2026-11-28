@@ -1106,6 +1106,19 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-28 — TN0486: a figure handed to K carries its caption on the same page
+
+On November 27 I pointed K to the dose-response figure of the PING+ polarization block as a
+bare PDF. Its caption lived in a separate `caption.md`, and the notes around it used campaign
+labels such as IC, native normalization and equal-IC mean. K, the next morning: "I don't
+understand the plots, and all the symbols... there is no legend. Can you interpret the results
+clearly? Mechanistically, what is the E-field doing to mean firing, rate, frequency detuning,
+gamma power, ISO, variance..." Practice: when a figure goes to K, its caption (his "legend") is
+on the same page as the figure; every marker, line and band is explained there in plain words;
+and abbreviations coined in the campaign are spelled out (initial condition, not IC). Report a
+result as the physical chain he asks about, quantity by quantity with its number, before any
+audit vocabulary.
+
 ### 2026-11-24 — An office's format request does not choose the format; K does
 
 On November 24, 2026 (WP0215, NCONSC-2026-460), the NoC office unsubmitted the manuscript
