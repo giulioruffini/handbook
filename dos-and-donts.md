@@ -1106,6 +1106,17 @@ journal typography and a separate supplement; historical editions remain preserv
 
 ## Recorded incidents
 
+### 2026-11-28 — TN0486: the field-to-polarization coupling λ is a model parameter
+
+Asked whether a realistic tDCS E-field was worth requesting for the PING whole-brain model, I
+argued that it would give only a few percent of effect, because a montage polarizes cortex by
+0.1 mV or less at the single-cell coupling. K: "it all depends on the lambda we use... this is a
+model parameter we can tweak to achieve the polarizations of interest." Practice: in a
+neural-mass model the coupling λ from field (V/m) to population polarization (mV) is an effective
+parameter. Take the spatial pattern and signs from the montage, scan λ so that the peak
+polarization covers the range of interest, and report results against peak polarization; do not
+judge a montage study by the single-cell value of λ.
+
 ### 2026-11-28 — TN0486: a figure handed to K carries its caption on the same page
 
 On November 27 I pointed K to the dose-response figure of the PING+ polarization block as a
